@@ -1,0 +1,36 @@
+{
+  "status": "PUBLISHED",
+  "record_id": 22907237,
+  "doi": "10.5281/zenodo.22907237",
+  "record_url": "https://zenodo.org/records/22907237",
+  "doi_url": "https://doi.org/10.5281/zenodo.22907237",
+  "version": "1.0.0",
+  "title": "Environmental recurrence changes the transmission advantage of private memory in a finite-budget population model",
+  "publication_date": "2026-09-22",
+  "verified_at_utc": "2026-09-23T00:56:49.070705+00:00",
+  "github_release": "https://github.com/jackchenx3/private-memory-recurrence/releases/tag/v1.0.0",
+  "github_release_commit": "b47197c3b38278129197d4536bb6636bd49e145d",
+  "files": [
+    {
+      "name": "MANUSCRIPT.pdf",
+      "bytes": 1117589,
+      "sha256": "f85ef728c806c81e62c81b138d308c192a6ff8ac6ad093f13614d4c7d26fcbc0",
+      "md5": "2a570fa8390709ef150cfcdc74be4366"
+    },
+    {
+      "name": "SUPPLEMENT.pdf",
+      "bytes": 57505,
+      "sha256": "1a548563e10f5a20492cd3ae5ce60a5a1bcb50e86638838a128d8e3bb761b522",
+      "md5": "aba1df20d5abe04ae1e3229e7488d2f7"
+    },
+    {
+      "name": "private-memory-recurrence-v1.0.0.zip",
+      "bytes": 6101903,
+      "sha256": "9aba73f058bbd580c8f14f1c50cb1894d275ba0f3fb7d4ba1e1f6b7725a7b635",
+      "md5": "01d9dbd27bca555ce63dcc70996967be"
+    }
+  ],
+  "public_record_api_verified": true,
+  "zenodo_checksums_match_github_assets": true,
+  "note": "GitHub main gains DOI citation metadata after publication. The v1.0.0 tag, scientific files and release downloads remain unchanged."
+}

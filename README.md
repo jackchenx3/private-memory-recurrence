@@ -3,6 +3,8 @@
 **Environmental recurrence changes the transmission advantage of private memory in a finite-budget population model**  
 Jack Chen · Research preprint v1.0 · 22 September 2026
 
+**Archived publication:** [DOI 10.5281/zenodo.22907237](https://doi.org/10.5281/zenodo.22907237)
+
 [Read the manuscript](paper/MANUSCRIPT.md) · [Download the manuscript PDF](paper/MANUSCRIPT.pdf) · [Supporting information](paper/SUPPLEMENT.md) · [Study and data index](provenance/STUDIES.json)
 
 Historical information can help a strategy gain representation without guaranteeing survival or better terminal population performance. This repository reports that distinction in an abstract model of 32 binary states, inherited strategy labels, private one-record caches and equal objective-evaluation budgets.
@@ -42,6 +44,6 @@ This is a **compact evidence release**. It supports saved-table verification, fi
 
 ## Citation and reuse
 
-Use [CITATION.cff](CITATION.cff) for machine-readable citation metadata. Cite the versioned release; a Zenodo DOI will be added only after a real record is published. The earlier developmental-network manuscript is a separate work: [regulatory-mutation-options](https://github.com/jackchenx3/regulatory-mutation-options).
+Use [CITATION.cff](CITATION.cff) for machine-readable citation metadata. Cite the archived version: [DOI 10.5281/zenodo.22907237](https://doi.org/10.5281/zenodo.22907237). The DOI archives the exact v1.0.0 release downloads. Later changes on `main` add citation metadata; the tagged scientific package remains unchanged. The earlier developmental-network manuscript is a separate work: [regulatory-mutation-options](https://github.com/jackchenx3/regulatory-mutation-options).
 
 Manuscript, figures and original data: **CC BY 4.0**. Original code: **MIT**. Dependencies and cited works retain their own licenses. See [LICENSE](LICENSE), [LICENSE-CODE](LICENSE-CODE) and [LICENSE-CONTENT.md](LICENSE-CONTENT.md).

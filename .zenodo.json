@@ -8,7 +8,7 @@
       "affiliation": "Frederick Sequencing and Genomics Core; Advanced Biomedical Computational Science (ABCS); Frederick National Lab for Cancer Research; National Institutes of Health"
     }
   ],
-  "description": "A computational preprint separating the transmission advantage of historical memory use from absolute lineage increase and population accuracy in an abstract finite-budget population model. Includes studies 045\u2013055, complete block-level outcome grids, scientific source and reproducibility scripts. Not externally peer reviewed. The compact release excludes raw candidate-by-candidate trajectories and random tapes. Content/data are CC BY 4.0; original code is MIT.",
+  "description": "<p>Using stored information may help a strategy spread without improving every population-performance endpoint. We distinguish these outcomes in an abstract population model with private one-record memory, inherited strategy labels and an equal objective-evaluation budget. A historical probe and a fresh random probe occupy the same candidate slot. In separate introductions, their carrier-frequency ranking reverses between alternating recurrent and independent targets; an independent cohort reproduces both directions and their interaction. Intermittent recurrence preserves a historical transmission advantage under deterministic and one fixed probabilistic survival rule, but a deterministic-survival comparison shows lower terminal population accuracy. An independently prepared cohort reproduces a historical advantage in direct competition, and fixed-density common-competitor controls retain it. In fully retrieving populations, rare historical users increase on average under recurrence, although most introductions still disappear. The final experiment prepares residents under their own policy and compares a single policy substitution with the same unchanged founder. Under partial recurrence, historical use raises terminal founder frequency by 21.18 percentage points relative to remaining fresh (approximate pointwise 95% block-bootstrap interval, 16.36 to 26.35); the reciprocal substitution lowers it by 2.79 points (&minus;4.75 to &minus;1.03). Both terminal population-accuracy comparisons remain unresolved. Independent targets permit an opposite substitution advantage, and fixed-cost introductions against non-retrieving residents often decline. Exact local calculations show why candidate-pair geometry does not determine global selection. These findings characterize conditional transmission of an available memory-use policy. They do not establish memory&rsquo;s spontaneous origin, equilibrium invasion, a general costly advantage, or measured biological effects.</p>\n<p>Research preprint, version 1.0.0; not externally peer reviewed. Includes studies 045&ndash;055, complete block-level outcome grids, scientific source and reproducibility scripts. The compact release excludes raw candidate-by-candidate trajectories and random tapes. Manuscript and data are licensed CC BY 4.0; original code is licensed MIT. AI assistance is disclosed in the manuscript and release.</p>\n<p>Versioned GitHub release: https://github.com/jackchenx3/private-memory-recurrence/releases/tag/v1.0.0</p>",
   "license": "cc-by-4.0",
   "version": "1.0.0",
   "keywords": [
@@ -22,9 +22,12 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "https://github.com/jackchenx3/private-memory-recurrence",
-      "relation": "isSupplementTo",
+      "identifier": "https://github.com/jackchenx3/private-memory-recurrence/releases/tag/v1.0.0",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-preprint",
       "scheme": "url"
     }
-  ]
+  ],
+  "doi": "10.5281/zenodo.22907237",
+  "publication_date": "2026-09-22"
 }

@@ -6,6 +6,7 @@ authors:
   - family-names: Chen
     given-names: Jack
 version: 1.0.0
+doi: "10.5281/zenodo.22907237"
 date-released: '2026-09-22'
 repository-code: "https://github.com/jackchenx3/private-memory-recurrence"
 license: MIT
@@ -16,6 +17,7 @@ preferred-citation:
     - family-names: Chen
       given-names: Jack
   year: 2026
+  doi: "10.5281/zenodo.22907237"
   version: 1.0
-  url: "https://github.com/jackchenx3/private-memory-recurrence/blob/main/paper/MANUSCRIPT.md"
+  url: "https://doi.org/10.5281/zenodo.22907237"
   notes: "Research preprint; not externally peer reviewed. Manuscript and data are CC BY 4.0."
