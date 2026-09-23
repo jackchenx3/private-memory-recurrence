@@ -1,0 +1,47 @@
+{
+  "primary_key": "RESIDENT40|RECUR|ACTIVE_C0-NOVEL_C0|D40",
+  "primary": {
+    "mean": 0.3400065104166667,
+    "ci95": [
+      0.2945963541666667,
+      0.3898315429687499
+    ],
+    "zero_classification": "positive",
+    "interpretation": "carrier frequency change; first minus second arm"
+  },
+  "historical_advantage_supported": true,
+  "opposite_ranking_supported": false,
+  "mean_spread_supported": true,
+  "retrieval_attributed_spread_supported": true,
+  "absolute_spread": {
+    "mean": 0.3087565104166667,
+    "ci95": [
+      0.2633463541666667,
+      0.3585815429687499
+    ],
+    "zero_classification": "positive",
+    "interpretation": "carrier frequency change; absolute"
+  },
+  "sham_contrast": {
+    "mean": 0.3116861979166667,
+    "ci95": [
+      0.2696940104166667,
+      0.35727132161458325
+    ],
+    "zero_classification": "positive",
+    "interpretation": "carrier frequency change; first minus second arm"
+  },
+  "initial_state_moderation": {
+    "mean": 0.19938151041666666,
+    "ci95": [
+      0.13310139973958335,
+      0.2685546875
+    ],
+    "zero_classification": "positive",
+    "interpretation": "carrier frequency change; prepared-minus-naive total effect"
+  },
+  "moderation_scope": "Total strategy contrast after prepared minus naive start; not a per-carrier coefficient or unique mediator",
+  "equilibrium_claim": false,
+  "coverage": "All including primary approximate pointwise, not simultaneous",
+  "pooling": false
+}

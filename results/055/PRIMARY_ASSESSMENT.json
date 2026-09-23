@@ -1,0 +1,58 @@
+{
+  "primary_key": "HALF|C0|F_BG_EFFECT|D40",
+  "primary": {
+    "mean": 0.21175130208333334,
+    "ci95": [
+      0.16357421875,
+      0.26352335611979155
+    ],
+    "zero_classification": "positive"
+  },
+  "primary_supported": true,
+  "companion_key": "HALF|C0|H_BG_EFFECT|D40",
+  "companion": {
+    "mean": -0.027913411458333332,
+    "ci95": [
+      -0.047530110677083334,
+      -0.01025390625
+    ],
+    "zero_classification": "negative"
+  },
+  "companion_supported": true,
+  "resident_background_policy_advantage_supported": true,
+  "absolute_H_introduction_key": "HALF|C0|F_BG_SWITCH|D40",
+  "absolute_H_introduction": {
+    "mean": 0.20548502604166666,
+    "ci95": [
+      0.158184814453125,
+      0.25651448567708335
+    ],
+    "zero_classification": "positive"
+  },
+  "absolute_H_introduction_supported": true,
+  "absolute_F_introduction_key": "HALF|C0|H_BG_SWITCH|D40",
+  "absolute_F_introduction": {
+    "mean": -0.028645833333333332,
+    "ci95": [
+      -0.03125,
+      -0.0234375
+    ],
+    "zero_classification": "negative"
+  },
+  "absolute_F_introduction_supported": true,
+  "regime_comparison_key": "HALF_MINUS_ZERO|C0|F_BG_EFFECT|D40",
+  "regime_comparison": {
+    "mean": 0.219482421875,
+    "ci95": [
+      0.16910400390625,
+      0.27141113281249996
+    ],
+    "zero_classification": "positive"
+  },
+  "regime_comparison_supported": true,
+  "regime_changes_both_preparation_and_continuation": true,
+  "interval_scope": "approximate pointwise",
+  "independent_cohort": false,
+  "equilibrium_invasion": false,
+  "storage_origin_test": false
+}

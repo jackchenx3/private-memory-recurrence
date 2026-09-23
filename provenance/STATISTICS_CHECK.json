@@ -1,0 +1,66 @@
+{
+  "status": "PASS",
+  "studies": [
+    {
+      "study": "045",
+      "intervals": 780,
+      "maximum_error": 0.0
+    },
+    {
+      "study": "046",
+      "intervals": 780,
+      "maximum_error": 0.0
+    },
+    {
+      "study": "047",
+      "intervals": 1716,
+      "maximum_error": 0.0
+    },
+    {
+      "study": "048",
+      "intervals": 1664,
+      "maximum_error": 0.0
+    },
+    {
+      "study": "049",
+      "intervals": 1248,
+      "maximum_error": 0.0
+    },
+    {
+      "study": "050",
+      "intervals": 2808,
+      "maximum_error": 0.0
+    },
+    {
+      "study": "051",
+      "intervals": 1482,
+      "maximum_error": 0.0
+    },
+    {
+      "study": "052",
+      "intervals": 1482,
+      "maximum_error": 0.0
+    },
+    {
+      "study": "053",
+      "intervals": 1716,
+      "maximum_error": 0.0
+    },
+    {
+      "study": "054",
+      "intervals": 429,
+      "maximum_error": 0.0
+    },
+    {
+      "study": "055",
+      "intervals": 624,
+      "maximum_error": 0.0
+    }
+  ],
+  "total_intervals": 14729,
+  "maximum_error": 0.0,
+  "statistic_records": 145,
+  "new_population_paths": 0,
+  "new_random_draws": 0,
+  "scope": "Recomputation from published block aggregates and frozen bootstrap rows. This does not reconstruct raw trajectories or constitute independent scientific replication."
+}

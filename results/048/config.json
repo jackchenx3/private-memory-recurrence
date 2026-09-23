@@ -1,0 +1,47 @@
+{
+  "task_id": "ORG-DIRECTION-048",
+  "revision": 1,
+  "population": 32,
+  "bits": 32,
+  "horizon": 40,
+  "blocks": 24,
+  "continuations": 8,
+  "starts": [
+    "NAIVE",
+    "RESIDENT40"
+  ],
+  "policies": [
+    "ACTIVE_C0",
+    "ACTIVE_C1",
+    "NOVEL_C0",
+    "NOVEL_C1",
+    "SHAM_C0",
+    "SHAM_C1",
+    "RADIUS_C0",
+    "RADIUS_C1"
+  ],
+  "laws": [
+    "IID",
+    "RECUR"
+  ],
+  "initial_carriers": 1,
+  "carrier_position": "reused047 labels[0]",
+  "cache_initialization": "own current genotype,0,position",
+  "new_paths": 1536,
+  "source_states": 384,
+  "source_paths_rerun": 0,
+  "new_seeds": 192,
+  "seed_namespace": "ORG-DIRECTION-048-r1|probe_direction|{block}|{replicate}",
+  "primary": "RESIDENT40|RECUR|ACTIVE_C0-RADIUS_C0|D40",
+  "moderation": "RESIDENT40_MINUS_NAIVE|RECUR|ACTIVE_C0-RADIUS_C0|D40",
+  "intervals": 1664,
+  "structural_zeros": 112,
+  "bootstrap_rows": 2000,
+  "resource": {
+    "cpus": 1,
+    "memory_GiB": 4,
+    "minutes": 10
+  },
+  "reused_paths": 4608,
+  "logical_permutation_shuffles": 245760
+}

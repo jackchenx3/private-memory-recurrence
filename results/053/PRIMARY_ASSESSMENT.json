@@ -1,0 +1,35 @@
+{
+  "primary_key": "HALF|C0|R_H|D40",
+  "primary": {
+    "mean": 0.11507161458333333,
+    "ci95": [
+      0.082843017578125,
+      0.14730224609374998
+    ],
+    "zero_classification": "positive"
+  },
+  "primary_supported": true,
+  "companion_key": "HALF|C0|R_F|D40",
+  "companion": {
+    "mean": 0.13395182291666666,
+    "ci95": [
+      0.09716389973958334,
+      0.17228800455729162
+    ],
+    "zero_classification": "positive"
+  },
+  "companion_supported": true,
+  "common_competitor_pattern_supported": true,
+  "interaction": {
+    "mean": -0.018880208333333332,
+    "ci95": [
+      -0.038250732421874996,
+      -0.0006510416666666666
+    ],
+    "zero_classification": "negative"
+  },
+  "interaction_prescribed_sign": null,
+  "interval_scope": "approximate pointwise",
+  "independent_cohort": false,
+  "fixed_initial_carrier_density": true
+}

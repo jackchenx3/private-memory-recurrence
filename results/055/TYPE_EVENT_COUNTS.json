@@ -1,0 +1,486 @@
+{
+  "ZERO|C0|F_STAY|p0": {
+    "endpoint_extinct": 183,
+    "endpoint_survives": 9,
+    "endpoint_above_initial": 9,
+    "extinction_observed": 183,
+    "fixation_missing": 190,
+    "endpoint_polymorphic": 7,
+    "extinction_missing": 9,
+    "endpoint_fixed": 2,
+    "fixation_observed": 2
+  },
+  "ZERO|C0|F_STAY|p1": {
+    "endpoint_extinct": 180,
+    "endpoint_survives": 12,
+    "endpoint_above_initial": 12,
+    "extinction_observed": 180,
+    "fixation_missing": 190,
+    "endpoint_polymorphic": 10,
+    "extinction_missing": 12,
+    "endpoint_fixed": 2,
+    "fixation_observed": 2
+  },
+  "ZERO|C0|F_SWITCH0|H": {
+    "endpoint_extinct": 185,
+    "endpoint_survives": 7,
+    "endpoint_above_initial": 6,
+    "extinction_observed": 185,
+    "fixation_missing": 191,
+    "endpoint_polymorphic": 6,
+    "extinction_missing": 7,
+    "endpoint_fixed": 1,
+    "fixation_observed": 1
+  },
+  "ZERO|C0|F_SWITCH0|F": {
+    "endpoint_fixed": 185,
+    "endpoint_survives": 191,
+    "endpoint_above_initial": 185,
+    "extinction_missing": 191,
+    "fixation_observed": 185,
+    "endpoint_polymorphic": 6,
+    "fixation_missing": 7,
+    "endpoint_extinct": 1,
+    "extinction_observed": 1
+  },
+  "ZERO|C0|F_SWITCH0|RARE": {
+    "endpoint_extinct": 185,
+    "endpoint_survives": 7,
+    "endpoint_above_initial": 6,
+    "extinction_observed": 185,
+    "fixation_missing": 191,
+    "endpoint_polymorphic": 6,
+    "extinction_missing": 7,
+    "endpoint_fixed": 1,
+    "fixation_observed": 1
+  },
+  "ZERO|C0|F_SWITCH1|H": {
+    "endpoint_extinct": 180,
+    "endpoint_survives": 12,
+    "endpoint_above_initial": 12,
+    "extinction_observed": 180,
+    "fixation_missing": 189,
+    "endpoint_fixed": 3,
+    "extinction_missing": 12,
+    "fixation_observed": 3,
+    "endpoint_polymorphic": 9
+  },
+  "ZERO|C0|F_SWITCH1|F": {
+    "endpoint_fixed": 180,
+    "endpoint_survives": 189,
+    "endpoint_above_initial": 180,
+    "extinction_missing": 189,
+    "fixation_observed": 180,
+    "endpoint_extinct": 3,
+    "extinction_observed": 3,
+    "fixation_missing": 12,
+    "endpoint_polymorphic": 9
+  },
+  "ZERO|C0|F_SWITCH1|RARE": {
+    "endpoint_extinct": 180,
+    "endpoint_survives": 12,
+    "endpoint_above_initial": 12,
+    "extinction_observed": 180,
+    "fixation_missing": 189,
+    "endpoint_fixed": 3,
+    "extinction_missing": 12,
+    "fixation_observed": 3,
+    "endpoint_polymorphic": 9
+  },
+  "ZERO|C0|H_STAY|p0": {
+    "endpoint_extinct": 187,
+    "endpoint_survives": 5,
+    "endpoint_above_initial": 5,
+    "extinction_observed": 187,
+    "fixation_missing": 191,
+    "endpoint_polymorphic": 4,
+    "extinction_missing": 5,
+    "endpoint_fixed": 1,
+    "fixation_observed": 1
+  },
+  "ZERO|C0|H_STAY|p1": {
+    "endpoint_extinct": 186,
+    "endpoint_survives": 6,
+    "endpoint_above_initial": 6,
+    "extinction_observed": 186,
+    "fixation_missing": 190,
+    "endpoint_polymorphic": 4,
+    "extinction_missing": 6,
+    "endpoint_fixed": 2,
+    "fixation_observed": 2
+  },
+  "ZERO|C0|H_SWITCH0|H": {
+    "endpoint_extinct": 9,
+    "endpoint_survives": 183,
+    "endpoint_above_initial": 179,
+    "extinction_observed": 9,
+    "fixation_missing": 13,
+    "endpoint_fixed": 179,
+    "extinction_missing": 183,
+    "fixation_observed": 179,
+    "endpoint_polymorphic": 4
+  },
+  "ZERO|C0|H_SWITCH0|F": {
+    "endpoint_fixed": 9,
+    "endpoint_survives": 13,
+    "endpoint_above_initial": 12,
+    "extinction_missing": 13,
+    "fixation_observed": 9,
+    "endpoint_extinct": 179,
+    "extinction_observed": 179,
+    "fixation_missing": 183,
+    "endpoint_polymorphic": 4
+  },
+  "ZERO|C0|H_SWITCH0|RARE": {
+    "endpoint_fixed": 9,
+    "endpoint_survives": 13,
+    "endpoint_above_initial": 12,
+    "extinction_missing": 13,
+    "fixation_observed": 9,
+    "endpoint_extinct": 179,
+    "extinction_observed": 179,
+    "fixation_missing": 183,
+    "endpoint_polymorphic": 4
+  },
+  "ZERO|C0|H_SWITCH1|H": {
+    "endpoint_fixed": 170,
+    "endpoint_survives": 182,
+    "endpoint_above_initial": 170,
+    "extinction_missing": 182,
+    "fixation_observed": 170,
+    "endpoint_extinct": 10,
+    "extinction_observed": 10,
+    "fixation_missing": 22,
+    "endpoint_polymorphic": 12
+  },
+  "ZERO|C0|H_SWITCH1|F": {
+    "endpoint_extinct": 170,
+    "endpoint_survives": 22,
+    "endpoint_above_initial": 22,
+    "extinction_observed": 170,
+    "fixation_missing": 182,
+    "endpoint_fixed": 10,
+    "extinction_missing": 22,
+    "fixation_observed": 10,
+    "endpoint_polymorphic": 12
+  },
+  "ZERO|C0|H_SWITCH1|RARE": {
+    "endpoint_extinct": 170,
+    "endpoint_survives": 22,
+    "endpoint_above_initial": 22,
+    "extinction_observed": 170,
+    "fixation_missing": 182,
+    "endpoint_fixed": 10,
+    "extinction_missing": 22,
+    "fixation_observed": 10,
+    "endpoint_polymorphic": 12
+  },
+  "HALF|C0|F_STAY|p0": {
+    "endpoint_extinct": 186,
+    "endpoint_survives": 6,
+    "endpoint_above_initial": 6,
+    "extinction_observed": 186,
+    "fixation_missing": 190,
+    "endpoint_polymorphic": 4,
+    "extinction_missing": 6,
+    "endpoint_fixed": 2,
+    "fixation_observed": 2
+  },
+  "HALF|C0|F_STAY|p1": {
+    "endpoint_extinct": 180,
+    "endpoint_survives": 12,
+    "endpoint_above_initial": 12,
+    "extinction_observed": 180,
+    "fixation_missing": 189,
+    "endpoint_polymorphic": 9,
+    "extinction_missing": 12,
+    "endpoint_fixed": 3,
+    "fixation_observed": 3
+  },
+  "HALF|C0|F_SWITCH0|H": {
+    "endpoint_extinct": 145,
+    "endpoint_survives": 47,
+    "endpoint_above_initial": 47,
+    "extinction_observed": 145,
+    "fixation_missing": 147,
+    "endpoint_fixed": 45,
+    "extinction_missing": 47,
+    "fixation_observed": 45,
+    "endpoint_polymorphic": 2
+  },
+  "HALF|C0|F_SWITCH0|F": {
+    "endpoint_fixed": 145,
+    "endpoint_survives": 147,
+    "endpoint_above_initial": 145,
+    "extinction_missing": 147,
+    "fixation_observed": 145,
+    "endpoint_extinct": 45,
+    "extinction_observed": 45,
+    "fixation_missing": 47,
+    "endpoint_polymorphic": 2
+  },
+  "HALF|C0|F_SWITCH0|RARE": {
+    "endpoint_extinct": 145,
+    "endpoint_survives": 47,
+    "endpoint_above_initial": 47,
+    "extinction_observed": 145,
+    "fixation_missing": 147,
+    "endpoint_fixed": 45,
+    "extinction_missing": 47,
+    "fixation_observed": 45,
+    "endpoint_polymorphic": 2
+  },
+  "HALF|C0|F_SWITCH1|H": {
+    "endpoint_extinct": 147,
+    "endpoint_survives": 45,
+    "endpoint_above_initial": 45,
+    "extinction_observed": 147,
+    "fixation_missing": 148,
+    "endpoint_fixed": 44,
+    "extinction_missing": 45,
+    "fixation_observed": 44,
+    "endpoint_polymorphic": 1
+  },
+  "HALF|C0|F_SWITCH1|F": {
+    "endpoint_fixed": 147,
+    "endpoint_survives": 148,
+    "endpoint_above_initial": 147,
+    "extinction_missing": 148,
+    "fixation_observed": 147,
+    "endpoint_extinct": 44,
+    "extinction_observed": 44,
+    "fixation_missing": 45,
+    "endpoint_polymorphic": 1
+  },
+  "HALF|C0|F_SWITCH1|RARE": {
+    "endpoint_extinct": 147,
+    "endpoint_survives": 45,
+    "endpoint_above_initial": 45,
+    "extinction_observed": 147,
+    "fixation_missing": 148,
+    "endpoint_fixed": 44,
+    "extinction_missing": 45,
+    "fixation_observed": 44,
+    "endpoint_polymorphic": 1
+  },
+  "HALF|C0|H_STAY|p0": {
+    "endpoint_extinct": 187,
+    "endpoint_survives": 5,
+    "endpoint_above_initial": 5,
+    "extinction_observed": 187,
+    "fixation_missing": 190,
+    "endpoint_polymorphic": 3,
+    "extinction_missing": 5,
+    "endpoint_fixed": 2,
+    "fixation_observed": 2
+  },
+  "HALF|C0|H_STAY|p1": {
+    "endpoint_extinct": 183,
+    "endpoint_survives": 9,
+    "endpoint_above_initial": 9,
+    "extinction_observed": 183,
+    "fixation_missing": 184,
+    "endpoint_fixed": 8,
+    "extinction_missing": 9,
+    "fixation_observed": 8,
+    "endpoint_polymorphic": 1
+  },
+  "HALF|C0|H_SWITCH0|H": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "HALF|C0|H_SWITCH0|F": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "HALF|C0|H_SWITCH0|RARE": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "HALF|C0|H_SWITCH1|H": {
+    "endpoint_fixed": 191,
+    "endpoint_survives": 191,
+    "endpoint_above_initial": 191,
+    "extinction_missing": 191,
+    "fixation_observed": 191,
+    "endpoint_extinct": 1,
+    "extinction_observed": 1,
+    "fixation_missing": 1
+  },
+  "HALF|C0|H_SWITCH1|F": {
+    "endpoint_extinct": 191,
+    "endpoint_survives": 1,
+    "endpoint_above_initial": 1,
+    "extinction_observed": 191,
+    "fixation_missing": 191,
+    "endpoint_fixed": 1,
+    "extinction_missing": 1,
+    "fixation_observed": 1
+  },
+  "HALF|C0|H_SWITCH1|RARE": {
+    "endpoint_extinct": 191,
+    "endpoint_survives": 1,
+    "endpoint_above_initial": 1,
+    "extinction_observed": 191,
+    "fixation_missing": 191,
+    "endpoint_fixed": 1,
+    "extinction_missing": 1,
+    "fixation_observed": 1
+  },
+  "FULL|C0|F_STAY|p0": {
+    "endpoint_extinct": 185,
+    "endpoint_survives": 7,
+    "endpoint_above_initial": 7,
+    "extinction_observed": 185,
+    "fixation_missing": 192,
+    "endpoint_polymorphic": 7,
+    "extinction_missing": 7
+  },
+  "FULL|C0|F_STAY|p1": {
+    "endpoint_extinct": 182,
+    "endpoint_survives": 10,
+    "endpoint_above_initial": 10,
+    "extinction_observed": 182,
+    "fixation_missing": 191,
+    "endpoint_polymorphic": 9,
+    "extinction_missing": 10,
+    "endpoint_fixed": 1,
+    "fixation_observed": 1
+  },
+  "FULL|C0|F_SWITCH0|H": {
+    "endpoint_fixed": 138,
+    "endpoint_survives": 139,
+    "endpoint_above_initial": 139,
+    "extinction_missing": 139,
+    "fixation_observed": 138,
+    "endpoint_extinct": 53,
+    "extinction_observed": 53,
+    "fixation_missing": 54,
+    "endpoint_polymorphic": 1
+  },
+  "FULL|C0|F_SWITCH0|F": {
+    "endpoint_extinct": 138,
+    "endpoint_survives": 54,
+    "endpoint_above_initial": 53,
+    "extinction_observed": 138,
+    "fixation_missing": 139,
+    "endpoint_fixed": 53,
+    "extinction_missing": 54,
+    "fixation_observed": 53,
+    "endpoint_polymorphic": 1
+  },
+  "FULL|C0|F_SWITCH0|RARE": {
+    "endpoint_fixed": 138,
+    "endpoint_survives": 139,
+    "endpoint_above_initial": 139,
+    "extinction_missing": 139,
+    "fixation_observed": 138,
+    "endpoint_extinct": 53,
+    "extinction_observed": 53,
+    "fixation_missing": 54,
+    "endpoint_polymorphic": 1
+  },
+  "FULL|C0|F_SWITCH1|H": {
+    "endpoint_fixed": 137,
+    "endpoint_survives": 137,
+    "endpoint_above_initial": 137,
+    "extinction_missing": 137,
+    "fixation_observed": 137,
+    "endpoint_extinct": 55,
+    "extinction_observed": 55,
+    "fixation_missing": 55
+  },
+  "FULL|C0|F_SWITCH1|F": {
+    "endpoint_extinct": 137,
+    "endpoint_survives": 55,
+    "endpoint_above_initial": 55,
+    "extinction_observed": 137,
+    "fixation_missing": 137,
+    "endpoint_fixed": 55,
+    "extinction_missing": 55,
+    "fixation_observed": 55
+  },
+  "FULL|C0|F_SWITCH1|RARE": {
+    "endpoint_fixed": 137,
+    "endpoint_survives": 137,
+    "endpoint_above_initial": 137,
+    "extinction_missing": 137,
+    "fixation_observed": 137,
+    "endpoint_extinct": 55,
+    "extinction_observed": 55,
+    "fixation_missing": 55
+  },
+  "FULL|C0|H_STAY|p0": {
+    "endpoint_extinct": 185,
+    "endpoint_survives": 7,
+    "endpoint_above_initial": 7,
+    "extinction_observed": 185,
+    "fixation_missing": 189,
+    "endpoint_fixed": 3,
+    "extinction_missing": 7,
+    "fixation_observed": 3,
+    "endpoint_polymorphic": 4
+  },
+  "FULL|C0|H_STAY|p1": {
+    "endpoint_extinct": 182,
+    "endpoint_survives": 10,
+    "endpoint_above_initial": 10,
+    "extinction_observed": 182,
+    "fixation_missing": 186,
+    "endpoint_fixed": 6,
+    "extinction_missing": 10,
+    "fixation_observed": 6,
+    "endpoint_polymorphic": 4
+  },
+  "FULL|C0|H_SWITCH0|H": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "FULL|C0|H_SWITCH0|F": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C0|H_SWITCH0|RARE": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C0|H_SWITCH1|H": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "FULL|C0|H_SWITCH1|F": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C0|H_SWITCH1|RARE": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  }
+}

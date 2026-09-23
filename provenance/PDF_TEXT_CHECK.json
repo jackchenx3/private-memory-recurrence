@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "documents": [
+    "MANUSCRIPT.pdf",
+    "SUPPLEMENT.pdf"
+  ],
+  "all_pages_contain_text": true,
+  "visual_review": "PASS",
+  "manuscript_pages": 19,
+  "supplement_pages": 5,
+  "visual_scope": "All24pages inspected as rendered overviews; corrected reference-list layout and re-inspected final page at higher resolution. No clipped labels, overlapping text, missing glyphs or blank trailing page."
+}

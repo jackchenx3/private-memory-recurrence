@@ -1,0 +1,105 @@
+{
+  "ZERO|C0|MIX0": {
+    "both_absent": 157,
+    "both_absent_with_residents": 157,
+    "H_full_fixation": 11,
+    "F_full_fixation": 11,
+    "Fonly": 18,
+    "Fonly_with_residents": 7,
+    "Honly": 17,
+    "Honly_without_residents": 11,
+    "Honly_with_residents": 6,
+    "Fonly_without_residents": 11
+  },
+  "ZERO|C0|MIX1": {
+    "both_absent": 158,
+    "both_absent_with_residents": 158,
+    "H_full_fixation": 3,
+    "F_full_fixation": 16,
+    "Fonly": 21,
+    "Fonly_with_residents": 5,
+    "Honly": 13,
+    "Honly_without_residents": 3,
+    "Fonly_without_residents": 16,
+    "Honly_with_residents": 10
+  },
+  "ZERO|C1|MIX0": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "H_full_fixation": 0,
+    "F_full_fixation": 0
+  },
+  "ZERO|C1|MIX1": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "H_full_fixation": 0,
+    "F_full_fixation": 0
+  },
+  "HALF|C0|MIX0": {
+    "Honly": 27,
+    "Honly_with_residents": 4,
+    "H_full_fixation": 23,
+    "F_full_fixation": 0,
+    "both_absent": 164,
+    "both_absent_with_residents": 164,
+    "Honly_without_residents": 23,
+    "Fonly": 1,
+    "Fonly_with_residents": 1
+  },
+  "HALF|C0|MIX1": {
+    "Honly": 22,
+    "Honly_without_residents": 19,
+    "H_full_fixation": 19,
+    "F_full_fixation": 1,
+    "both_absent": 168,
+    "both_absent_with_residents": 168,
+    "Honly_with_residents": 3,
+    "Fonly": 2,
+    "Fonly_without_residents": 1,
+    "Fonly_with_residents": 1
+  },
+  "HALF|C1|MIX0": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "H_full_fixation": 0,
+    "F_full_fixation": 0
+  },
+  "HALF|C1|MIX1": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "H_full_fixation": 0,
+    "F_full_fixation": 0
+  },
+  "FULL|C0|MIX0": {
+    "Honly": 43,
+    "Honly_with_residents": 7,
+    "H_full_fixation": 36,
+    "F_full_fixation": 0,
+    "both_absent": 149,
+    "both_absent_with_residents": 149,
+    "Honly_without_residents": 36
+  },
+  "FULL|C0|MIX1": {
+    "both_absent": 144,
+    "both_absent_with_residents": 144,
+    "H_full_fixation": 43,
+    "F_full_fixation": 0,
+    "Honly": 48,
+    "Honly_without_residents": 43,
+    "Honly_with_residents": 5
+  },
+  "FULL|C1|MIX0": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "H_full_fixation": 0,
+    "F_full_fixation": 0
+  },
+  "FULL|C1|MIX1": {
+    "both_absent": 191,
+    "both_absent_with_residents": 191,
+    "H_full_fixation": 1,
+    "F_full_fixation": 0,
+    "Honly": 1,
+    "Honly_without_residents": 1
+  }
+}

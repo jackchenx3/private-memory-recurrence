@@ -1,0 +1,58 @@
+{
+  "task_id": "ORG-FREQBOUND-054",
+  "revision": 1,
+  "N": 32,
+  "bits": 32,
+  "horizon": 40,
+  "blocks": 24,
+  "continuations": 8,
+  "configurations": [
+    "LOW0",
+    "LOW1",
+    "HIGH0",
+    "HIGH1"
+  ],
+  "laws": [
+    "ZERO",
+    "HALF",
+    "FULL"
+  ],
+  "costs": [
+    0
+  ],
+  "new_paths": 2304,
+  "old_paths_used": 0,
+  "old_paths_rerun": 0,
+  "new_seeds": 0,
+  "new_random_draws": 0,
+  "new_preparation_calls": 0,
+  "new_objective_calls": 11870208,
+  "extra_diagnostic_calls": 0,
+  "initial_H_LOW": 0.03125,
+  "initial_H_HIGH": 0.96875,
+  "initial_frequency_difference": -0.9375,
+  "initial_carriers": 32,
+  "initial_nonretrieving_residents": 0,
+  "primary": "HALF|C0|LOW_H|D40",
+  "primary_sign": "positive",
+  "companion": "HALF|C0|HIGH_F|D40",
+  "companion_sign": "negative",
+  "attribution": "HALF_MINUS_ZERO|C0|LOW_H|D40",
+  "attribution_sign": "positive",
+  "difference_sign": "none prescribed",
+  "intervals": 429,
+  "structural_zeros": 21,
+  "bootstrap_rows": 2000,
+  "interval_scope": "approximate pointwise",
+  "prefix_pairs": 1536,
+  "fate_groups": 36,
+  "joint_groups": 12,
+  "crossing_series": 33,
+  "reused_prepared_states": 192,
+  "independent_cohort": false,
+  "resource": {
+    "cpus": 1,
+    "memory_GiB": 4,
+    "minutes": 12
+  }
+}

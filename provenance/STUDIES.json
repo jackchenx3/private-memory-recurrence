@@ -1,0 +1,112 @@
+[
+  {
+    "study": "045",
+    "source_package": "single_carrier_fresh_probe_v1",
+    "summary": "results/045/summary.json",
+    "block_summaries": "results/045/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/045/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "e55bc145b46551f27a6293757c7595b95bbed4913995b70f925c6cebb4a58ae6",
+    "delivery_manifest_sha256": "a4b603be3784d82dd4b1129c37e5641acbd6e2de5be5778723e44f3cbcdeee5e",
+    "independent_review": "provenance/045_AUDIT.json"
+  },
+  {
+    "study": "046",
+    "source_package": "independent_rare_memory_novelty_v1",
+    "summary": "results/046/summary.json",
+    "block_summaries": "results/046/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/046/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "d76e47ebd9729457fef83352e7a1d37cc666624e241fc69af55d5670604ed5dc",
+    "delivery_manifest_sha256": "e8155604b00725abb51d4afd830cc7c6ce110c13ca5aafbdcd3e24f622bb644c",
+    "independent_review": "provenance/046_AUDIT.json"
+  },
+  {
+    "study": "047",
+    "source_package": "prepared_resident_introduction_v1",
+    "summary": "results/047/summary.json",
+    "block_summaries": "results/047/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/047/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "082270aabf37afbd9359082560396150777949d289f5a6fb68da433895e03f4a",
+    "delivery_manifest_sha256": "4f39e0df66ba8b61fe62ee82fc34a49f004df97e46b460ed1e846e8d68a23153",
+    "independent_review": "provenance/047_AUDIT.json"
+  },
+  {
+    "study": "048",
+    "source_package": "distance_matched_private_probe_v1",
+    "summary": "results/048/summary.json",
+    "block_summaries": "results/048/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/048/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "ffbdd089e23507af0fbe41765e34622513c590b28e34c8074e0beb72424cef6a",
+    "delivery_manifest_sha256": "78697f66cb4f6d1d83acf4f7cc6a4b77eeca6720f5a9637b2cb7506e50c99960",
+    "independent_review": "provenance/048_AUDIT.json"
+  },
+  {
+    "study": "049",
+    "source_package": "intermittent_private_memory_v1",
+    "summary": "results/049/summary.json",
+    "block_summaries": "results/049/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/049/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "dde6f62f05064f6f6d949958d9049223cff75fb62c580fc43e3369370fe6b3d6",
+    "delivery_manifest_sha256": "43c4a213f05f98d8b8743df1c38ed62a2fccaec1e116f199b1465e0d63321e8b",
+    "independent_review": "provenance/049_AUDIT.json"
+  },
+  {
+    "study": "050",
+    "source_package": "probabilistic_private_memory_v1",
+    "summary": "results/050/summary.json",
+    "block_summaries": "results/050/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/050/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "15e6fef12727c7f4115ebf194d5f73833a3c3456ef8970641854a36b5fbcc948",
+    "delivery_manifest_sha256": "01064177e4fe57bf2bcaa7d52ac7485ca84f77709dd1d2de383672df00b813bc",
+    "independent_review": "provenance/050_AUDIT.json"
+  },
+  {
+    "study": "051",
+    "source_package": "direct_private_memory_competition_v1",
+    "summary": "results/051/summary.json",
+    "block_summaries": "results/051/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/051/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "bb496aee8202ff4145945d6cfbd141f14ff59b28d6346397a515c267a28593b7",
+    "delivery_manifest_sha256": "bfc105057e14d6750ac7d5aedc1bc3f4abb770bd072b114787471c2af2e1b155",
+    "independent_review": "provenance/051_AUDIT.json"
+  },
+  {
+    "study": "052",
+    "source_package": "independent_prepared_competition_v1",
+    "summary": "results/052/summary.json",
+    "block_summaries": "results/052/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/052/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "128195eee29a633ff9981ed4cc19426ced39d33b8c8dd1c58ff2e281f764ac52",
+    "delivery_manifest_sha256": "fb86735764c1001b2516be9a1737c16b990bbfbcb7271a7a5f474fcbb70064b2",
+    "independent_review": "provenance/052_AUDIT.json"
+  },
+  {
+    "study": "053",
+    "source_package": "matched_competitor_policy_v1",
+    "summary": "results/053/summary.json",
+    "block_summaries": "results/053/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/053/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "19ea115edc602f409e02814e1f253327f6e991230775b6ca3d8a76ead1ad0f03",
+    "delivery_manifest_sha256": "e8b0f1e9956acf391ad52ad15f0e69d34cf65ea4abfc3ae6eda11e4de0b663a1",
+    "independent_review": "provenance/053_AUDIT.json"
+  },
+  {
+    "study": "054",
+    "source_package": "full_density_frequency_boundary_v1",
+    "summary": "results/054/summary.json",
+    "block_summaries": "results/054/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/054/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "ef3dfe6741d645a082afe5adc79e61ab987ef815f6622f19bd2347636991020e",
+    "delivery_manifest_sha256": "9f029685ae7bc30a50728743cb545568f1aa420cb632534368b06bba2f63abc7",
+    "independent_review": "provenance/054_AUDIT.json"
+  },
+  {
+    "study": "055",
+    "source_package": "majority_policy_preparation_v1",
+    "summary": "results/055/summary.json",
+    "block_summaries": "results/055/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/055/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "89a04d8d1cec81895ccc972bfcdef2eadd0b4fdc147c8ab8c45c93ff62779726",
+    "delivery_manifest_sha256": "c10c5877221c6c8b2f950ba0bc9a93a3ea1ba1dfa48bd5d4f01dceef45d68377",
+    "independent_review": "provenance/055_AUDIT.json"
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "task_id": "ORG-MATCHCOMP-053",
+  "revision": 1,
+  "population": 32,
+  "bits": 32,
+  "horizon": 40,
+  "blocks": 24,
+  "continuations": 8,
+  "costs": [
+    0,
+    1
+  ],
+  "laws": [
+    "ZERO",
+    "HALF",
+    "FULL"
+  ],
+  "new_configs": [
+    "HH",
+    "FF"
+  ],
+  "stored_configs": [
+    "MIX0",
+    "MIX1"
+  ],
+  "new_paths": 2304,
+  "stored_paths": 2304,
+  "old_reruns": 0,
+  "new_preparation_calls": 0,
+  "new_seeds": 0,
+  "new_random_draws": 0,
+  "initial_founder_frequency": 0.03125,
+  "initial_carrier_frequency": 0.0625,
+  "primary": "HALF|C0|R_H|D40",
+  "companion": "HALF|C0|R_F|D40",
+  "prescribed_signs": "both separately positive",
+  "interaction": "no prescribed sign",
+  "interval_records": 1716,
+  "structural_zeros": 90,
+  "reused_interval_records": 312,
+  "new_prefix_pairs": 1536,
+  "stored_prefix_pairs": 1536,
+  "bootstrap_rows": 2000,
+  "interval_scope": "approximate pointwise",
+  "focal_placements": "paired within continuation; one homotypic path supplies both founders",
+  "resource": {
+    "cpus": 1,
+    "memory_GiB": 4,
+    "minutes": 12
+  },
+  "new_loss_computations": 11870208,
+  "extra_diagnostic_loss_calls": 0
+}

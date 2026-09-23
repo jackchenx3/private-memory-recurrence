@@ -1,0 +1,109 @@
+{
+  "RARE|IID|ACTIVE_C0": {
+    "endpoint_extinct": 177,
+    "endpoint_survives": 15,
+    "endpoint_above_initial": 15,
+    "extinction_observed": 177,
+    "fixation_missing": 177,
+    "endpoint_fixed": 15,
+    "extinction_missing": 15,
+    "fixation_observed": 15
+  },
+  "RARE|IID|SHAM_C0": {
+    "endpoint_extinct": 187,
+    "endpoint_survives": 5,
+    "endpoint_above_initial": 5,
+    "extinction_observed": 187,
+    "fixation_missing": 187,
+    "endpoint_fixed": 5,
+    "extinction_missing": 5,
+    "fixation_observed": 5
+  },
+  "RARE|IID|ACTIVE_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RARE|IID|SHAM_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RARE|RECUR|ACTIVE_C0": {
+    "endpoint_extinct": 175,
+    "endpoint_survives": 17,
+    "endpoint_above_initial": 17,
+    "extinction_observed": 175,
+    "fixation_missing": 175,
+    "endpoint_fixed": 17,
+    "extinction_missing": 17,
+    "fixation_observed": 17
+  },
+  "RARE|RECUR|SHAM_C0": {
+    "endpoint_extinct": 185,
+    "endpoint_survives": 7,
+    "endpoint_above_initial": 7,
+    "extinction_observed": 185,
+    "fixation_missing": 187,
+    "endpoint_polymorphic": 2,
+    "extinction_missing": 7,
+    "endpoint_fixed": 5,
+    "fixation_observed": 5
+  },
+  "RARE|RECUR|ACTIVE_C1": {
+    "endpoint_extinct": 190,
+    "endpoint_survives": 2,
+    "endpoint_above_initial": 2,
+    "extinction_observed": 190,
+    "fixation_missing": 190,
+    "endpoint_fixed": 2,
+    "extinction_missing": 2,
+    "fixation_observed": 2
+  },
+  "RARE|RECUR|SHAM_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RARE|IID|NOVEL_C0": {
+    "endpoint_extinct": 151,
+    "endpoint_survives": 41,
+    "endpoint_above_initial": 41,
+    "extinction_observed": 151,
+    "fixation_missing": 154,
+    "endpoint_fixed": 38,
+    "extinction_missing": 41,
+    "fixation_observed": 38,
+    "endpoint_polymorphic": 3
+  },
+  "RARE|IID|NOVEL_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RARE|RECUR|NOVEL_C0": {
+    "endpoint_extinct": 189,
+    "endpoint_survives": 3,
+    "endpoint_above_initial": 3,
+    "extinction_observed": 189,
+    "fixation_missing": 189,
+    "endpoint_fixed": 3,
+    "extinction_missing": 3,
+    "fixation_observed": 3
+  },
+  "RARE|RECUR|NOVEL_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  }
+}

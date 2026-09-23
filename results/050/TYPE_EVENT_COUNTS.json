@@ -1,0 +1,314 @@
+{
+  "BEST32|FULL|ACTIVE_C0": {
+    "endpoint_extinct": 126,
+    "endpoint_survives": 66,
+    "endpoint_above_initial": 66,
+    "extinction_observed": 126,
+    "fixation_missing": 127,
+    "endpoint_fixed": 65,
+    "extinction_missing": 66,
+    "fixation_observed": 65,
+    "endpoint_polymorphic": 1
+  },
+  "BEST32|FULL|ACTIVE_C1": {
+    "endpoint_extinct": 191,
+    "endpoint_survives": 1,
+    "endpoint_above_initial": 1,
+    "extinction_observed": 191,
+    "fixation_missing": 191,
+    "endpoint_fixed": 1,
+    "extinction_missing": 1,
+    "fixation_observed": 1
+  },
+  "BEST32|FULL|NOVEL_C0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "BEST32|FULL|NOVEL_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "BEST32|FULL|SHAM_C0": {
+    "endpoint_extinct": 177,
+    "endpoint_survives": 15,
+    "endpoint_above_initial": 14,
+    "extinction_observed": 177,
+    "fixation_missing": 192,
+    "endpoint_polymorphic": 15,
+    "extinction_missing": 15
+  },
+  "BEST32|FULL|SHAM_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "BEST32|ZERO|ACTIVE_C0": {
+    "endpoint_extinct": 173,
+    "endpoint_survives": 19,
+    "endpoint_above_initial": 19,
+    "extinction_observed": 173,
+    "fixation_missing": 175,
+    "endpoint_polymorphic": 2,
+    "extinction_missing": 19,
+    "endpoint_fixed": 17,
+    "fixation_observed": 17
+  },
+  "BEST32|ZERO|ACTIVE_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "BEST32|ZERO|NOVEL_C0": {
+    "endpoint_extinct": 174,
+    "endpoint_survives": 18,
+    "endpoint_above_initial": 18,
+    "extinction_observed": 174,
+    "fixation_missing": 174,
+    "endpoint_fixed": 18,
+    "extinction_missing": 18,
+    "fixation_observed": 18
+  },
+  "BEST32|ZERO|NOVEL_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "BEST32|ZERO|SHAM_C0": {
+    "endpoint_extinct": 182,
+    "endpoint_survives": 10,
+    "endpoint_above_initial": 10,
+    "extinction_observed": 182,
+    "fixation_missing": 182,
+    "endpoint_fixed": 10,
+    "extinction_missing": 10,
+    "fixation_observed": 10
+  },
+  "BEST32|ZERO|SHAM_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "BEST32|HALF|ACTIVE_C0": {
+    "endpoint_extinct": 168,
+    "endpoint_survives": 24,
+    "endpoint_above_initial": 24,
+    "extinction_observed": 168,
+    "fixation_missing": 169,
+    "endpoint_fixed": 23,
+    "extinction_missing": 24,
+    "fixation_observed": 23,
+    "endpoint_polymorphic": 1
+  },
+  "BEST32|HALF|ACTIVE_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "BEST32|HALF|NOVEL_C0": {
+    "endpoint_extinct": 188,
+    "endpoint_survives": 4,
+    "endpoint_above_initial": 4,
+    "extinction_observed": 188,
+    "fixation_missing": 188,
+    "endpoint_fixed": 4,
+    "extinction_missing": 4,
+    "fixation_observed": 4
+  },
+  "BEST32|HALF|NOVEL_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "BEST32|HALF|SHAM_C0": {
+    "endpoint_extinct": 187,
+    "endpoint_survives": 5,
+    "endpoint_above_initial": 5,
+    "extinction_observed": 187,
+    "fixation_missing": 187,
+    "endpoint_fixed": 5,
+    "extinction_missing": 5,
+    "fixation_observed": 5
+  },
+  "BEST32|HALF|SHAM_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RACE32|ZERO|ACTIVE_C0": {
+    "endpoint_extinct": 171,
+    "endpoint_survives": 21,
+    "endpoint_above_initial": 21,
+    "extinction_observed": 171,
+    "fixation_missing": 176,
+    "endpoint_fixed": 16,
+    "extinction_missing": 21,
+    "fixation_observed": 16,
+    "endpoint_polymorphic": 5
+  },
+  "RACE32|ZERO|ACTIVE_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RACE32|ZERO|NOVEL_C0": {
+    "endpoint_extinct": 172,
+    "endpoint_survives": 20,
+    "endpoint_above_initial": 20,
+    "extinction_observed": 172,
+    "fixation_missing": 177,
+    "endpoint_polymorphic": 5,
+    "extinction_missing": 20,
+    "endpoint_fixed": 15,
+    "fixation_observed": 15
+  },
+  "RACE32|ZERO|NOVEL_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RACE32|ZERO|SHAM_C0": {
+    "endpoint_extinct": 184,
+    "endpoint_survives": 8,
+    "endpoint_above_initial": 8,
+    "extinction_observed": 184,
+    "fixation_missing": 189,
+    "endpoint_polymorphic": 5,
+    "extinction_missing": 8,
+    "endpoint_fixed": 3,
+    "fixation_observed": 3
+  },
+  "RACE32|ZERO|SHAM_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RACE32|HALF|ACTIVE_C0": {
+    "endpoint_polymorphic": 4,
+    "endpoint_survives": 30,
+    "endpoint_above_initial": 30,
+    "extinction_missing": 30,
+    "fixation_missing": 166,
+    "endpoint_extinct": 162,
+    "extinction_observed": 162,
+    "endpoint_fixed": 26,
+    "fixation_observed": 26
+  },
+  "RACE32|HALF|ACTIVE_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RACE32|HALF|NOVEL_C0": {
+    "endpoint_extinct": 189,
+    "endpoint_survives": 3,
+    "endpoint_above_initial": 3,
+    "extinction_observed": 189,
+    "fixation_missing": 191,
+    "endpoint_fixed": 1,
+    "extinction_missing": 3,
+    "fixation_observed": 1,
+    "endpoint_polymorphic": 2
+  },
+  "RACE32|HALF|NOVEL_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RACE32|HALF|SHAM_C0": {
+    "endpoint_extinct": 188,
+    "endpoint_survives": 4,
+    "endpoint_above_initial": 4,
+    "extinction_observed": 188,
+    "fixation_missing": 188,
+    "endpoint_fixed": 4,
+    "extinction_missing": 4,
+    "fixation_observed": 4
+  },
+  "RACE32|HALF|SHAM_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RACE32|FULL|ACTIVE_C0": {
+    "endpoint_polymorphic": 6,
+    "endpoint_survives": 46,
+    "endpoint_above_initial": 46,
+    "extinction_missing": 46,
+    "fixation_missing": 152,
+    "endpoint_extinct": 146,
+    "extinction_observed": 146,
+    "endpoint_fixed": 40,
+    "fixation_observed": 40
+  },
+  "RACE32|FULL|ACTIVE_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RACE32|FULL|NOVEL_C0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RACE32|FULL|NOVEL_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RACE32|FULL|SHAM_C0": {
+    "endpoint_extinct": 179,
+    "endpoint_survives": 13,
+    "endpoint_above_initial": 13,
+    "extinction_observed": 179,
+    "fixation_missing": 188,
+    "endpoint_polymorphic": 9,
+    "extinction_missing": 13,
+    "endpoint_fixed": 4,
+    "fixation_observed": 4
+  },
+  "RACE32|FULL|SHAM_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  }
+}

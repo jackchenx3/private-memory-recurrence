@@ -1,0 +1,26 @@
+{
+  "new_sequences": 6912,
+  "new_updates": 276480,
+  "candidate_queries": 35389440,
+  "initial_queries": 221184,
+  "underlying_loss_computations": 35610624,
+  "state_measurements": 283392,
+  "nonparent_candidates": 26542080,
+  "nonparent_sources": {
+    "probe": 8847360,
+    "scout": 8847360,
+    "local_child": 8847360
+  },
+  "old_paths_used": 0,
+  "old_paths_rerun": 0,
+  "source_resident_states": 192,
+  "new_preparation_calls": 989184,
+  "total_scientific_paths": 7104,
+  "total_updates": 284160,
+  "total_loss_computations": 36599808,
+  "total_states": 291264,
+  "extra_diagnostic_loss_calls": 0,
+  "new_seeds": 1993,
+  "new_random_draws": "INPUT_GENERATION.json exact API counts",
+  "fixture_work": "FIXTURE_WORK.json separate"
+}

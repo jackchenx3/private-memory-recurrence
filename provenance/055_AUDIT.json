@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "completed_at_utc": "2026-09-22T22:39:53.996607+00:00",
+  "elapsed_seconds": 791.3973963260651,
+  "checks": 10879696,
+  "maximum_discrepancy": 0.0,
+  "new_preparation_paths_reconstructed": 1152,
+  "new_transfer_paths_reconstructed": 3456,
+  "new_updates_reconstructed": 184320,
+  "objective_values_reconstructed": 23740416,
+  "clock_stats": {
+    "preparation": {
+      "nonidentical": 4092,
+      "max_ulp": 1,
+      "values": 5898240
+    },
+    "transfer": {
+      "nonidentical": 12708,
+      "max_ulp": 1,
+      "values": 17694720
+    }
+  },
+  "intervals": 624,
+  "structural_zero_records": 24,
+  "preparation_block_summaries": 144,
+  "transfer_fate_groups": 48,
+  "joint_fate_groups": 18,
+  "crossing_series": 48,
+  "negative_records": 16115,
+  "endpoint_disagreements": 22807,
+  "decline_records": 65495,
+  "outcome_classifications": {
+    "positive": 417,
+    "negative": 89,
+    "structural_zero": 24,
+    "unresolved": 87,
+    "observed_exact_zero": 7
+  },
+  "manifest_files": {
+    "SOURCE_SHA256SUMS": 38,
+    "INPUT_SHA256SUMS": 27,
+    "RESIDENT_SHA256SUMS": 30,
+    "RESULT_SHA256SUMS": 104
+  },
+  "source_manifest_sha256": "89a04d8d1cec81895ccc972bfcdef2eadd0b4fdc147c8ab8c45c93ff62779726",
+  "result_manifest_sha256": "3caa76b7970219688f3c3d6625bedd43cc5fc495472a15a1774d3388f32582c2",
+  "producer_modules_imported": false,
+  "scientific_paths_run": 0,
+  "new_random_values_generated": 0
+}

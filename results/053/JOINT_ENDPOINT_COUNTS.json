@@ -1,0 +1,238 @@
+{
+  "ZERO|C0|MIX0": {
+    "p1only": 12,
+    "p1only_without_residents": 11,
+    "p0_full_fixation": 12,
+    "p1_full_fixation": 11,
+    "carrier_fixation_with_both_lineages": 0,
+    "both_absent": 158,
+    "both_absent_with_residents": 158,
+    "p1only_with_residents": 1,
+    "p0only": 22,
+    "p0only_with_residents": 10,
+    "p0only_without_residents": 12
+  },
+  "ZERO|C0|MIX1": {
+    "both_absent": 156,
+    "both_absent_with_residents": 156,
+    "p0_full_fixation": 13,
+    "p1_full_fixation": 11,
+    "carrier_fixation_with_both_lineages": 0,
+    "p1only": 16,
+    "p1only_with_residents": 5,
+    "p1only_without_residents": 11,
+    "p0only": 20,
+    "p0only_without_residents": 13,
+    "p0only_with_residents": 7
+  },
+  "ZERO|C1|MIX0": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0
+  },
+  "ZERO|C1|MIX1": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0
+  },
+  "HALF|C0|MIX0": {
+    "both_absent": 160,
+    "both_absent_with_residents": 160,
+    "p0_full_fixation": 26,
+    "p1_full_fixation": 1,
+    "carrier_fixation_with_both_lineages": 0,
+    "p0only": 31,
+    "p0only_without_residents": 26,
+    "p1only": 1,
+    "p1only_without_residents": 1,
+    "p0only_with_residents": 5
+  },
+  "HALF|C0|MIX1": {
+    "both_absent": 166,
+    "both_absent_with_residents": 166,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 24,
+    "carrier_fixation_with_both_lineages": 0,
+    "p1only": 25,
+    "p1only_without_residents": 24,
+    "p0only": 1,
+    "p0only_with_residents": 1,
+    "p1only_with_residents": 1
+  },
+  "HALF|C1|MIX0": {
+    "both_absent": 191,
+    "both_absent_with_residents": 191,
+    "p0_full_fixation": 1,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0,
+    "p0only": 1,
+    "p0only_without_residents": 1
+  },
+  "HALF|C1|MIX1": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0
+  },
+  "FULL|C0|MIX0": {
+    "both_absent": 135,
+    "both_absent_with_residents": 135,
+    "p0_full_fixation": 43,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0,
+    "p0only": 57,
+    "p0only_without_residents": 43,
+    "p0only_with_residents": 14
+  },
+  "FULL|C0|MIX1": {
+    "p1only": 49,
+    "p1only_without_residents": 39,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 39,
+    "carrier_fixation_with_both_lineages": 0,
+    "both_absent": 143,
+    "both_absent_with_residents": 143,
+    "p1only_with_residents": 10
+  },
+  "FULL|C1|MIX0": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0
+  },
+  "FULL|C1|MIX1": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0
+  },
+  "ZERO|C0|HH": {
+    "both_absent": 159,
+    "both_absent_with_residents": 159,
+    "p0_full_fixation": 10,
+    "p1_full_fixation": 9,
+    "carrier_fixation_with_both_lineages": 1,
+    "p1only": 14,
+    "p1only_with_residents": 5,
+    "p1only_without_residents": 9,
+    "p0only": 18,
+    "p0only_without_residents": 10,
+    "p0only_with_residents": 8,
+    "both_present": 1,
+    "both_present_without_residents": 1
+  },
+  "ZERO|C0|FF": {
+    "p1only": 12,
+    "p1only_without_residents": 10,
+    "p0_full_fixation": 11,
+    "p1_full_fixation": 10,
+    "carrier_fixation_with_both_lineages": 1,
+    "both_absent": 163,
+    "both_absent_with_residents": 163,
+    "p0only": 16,
+    "p0only_without_residents": 11,
+    "p1only_with_residents": 2,
+    "p0only_with_residents": 5,
+    "both_present": 1,
+    "both_present_without_residents": 1
+  },
+  "ZERO|C1|HH": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0
+  },
+  "ZERO|C1|FF": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0
+  },
+  "HALF|C0|HH": {
+    "both_absent": 144,
+    "both_absent_with_residents": 144,
+    "p0_full_fixation": 22,
+    "p1_full_fixation": 21,
+    "carrier_fixation_with_both_lineages": 0,
+    "p1only": 22,
+    "p1only_without_residents": 21,
+    "p0only": 26,
+    "p0only_with_residents": 4,
+    "p1only_with_residents": 1,
+    "p0only_without_residents": 22
+  },
+  "HALF|C0|FF": {
+    "both_absent": 188,
+    "both_absent_with_residents": 188,
+    "p0_full_fixation": 1,
+    "p1_full_fixation": 1,
+    "carrier_fixation_with_both_lineages": 0,
+    "p1only": 2,
+    "p1only_with_residents": 1,
+    "p1only_without_residents": 1,
+    "p0only": 2,
+    "p0only_with_residents": 1,
+    "p0only_without_residents": 1
+  },
+  "HALF|C1|HH": {
+    "both_absent": 191,
+    "both_absent_with_residents": 191,
+    "p0_full_fixation": 1,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0,
+    "p0only": 1,
+    "p0only_without_residents": 1
+  },
+  "HALF|C1|FF": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0
+  },
+  "FULL|C0|HH": {
+    "p1only": 39,
+    "p1only_without_residents": 31,
+    "p0_full_fixation": 36,
+    "p1_full_fixation": 31,
+    "carrier_fixation_with_both_lineages": 1,
+    "p0only": 44,
+    "p0only_without_residents": 36,
+    "both_absent": 108,
+    "both_absent_with_residents": 108,
+    "p1only_with_residents": 8,
+    "p0only_with_residents": 8,
+    "both_present": 1,
+    "both_present_without_residents": 1
+  },
+  "FULL|C0|FF": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0
+  },
+  "FULL|C1|HH": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0
+  },
+  "FULL|C1|FF": {
+    "both_absent": 192,
+    "both_absent_with_residents": 192,
+    "p0_full_fixation": 0,
+    "p1_full_fixation": 0,
+    "carrier_fixation_with_both_lineages": 0
+  }
+}

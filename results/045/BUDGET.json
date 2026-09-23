@@ -1,0 +1,21 @@
+{
+  "new_sequences": 768,
+  "new_updates": 30720,
+  "candidate_queries": 3932160,
+  "initial_queries": 24576,
+  "underlying_loss_computations": 3956736,
+  "state_measurements": 31488,
+  "nonparent_candidates": 2949120,
+  "nonparent_sources": {
+    "probe": 983040,
+    "scout": 983040,
+    "local_child": 983040
+  },
+  "old_paths_used": 1536,
+  "extra_diagnostic_loss_calls": 0,
+  "new_seeds": 192,
+  "new_draws": 245760,
+  "reference_optimization": 0,
+  "pretraining": 0,
+  "fixture_work": "FIXTURE_WORK.json separate"
+}

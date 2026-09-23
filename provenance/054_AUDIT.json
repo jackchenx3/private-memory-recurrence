@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "completed_at_utc": "2026-09-22T21:35:33.754369+00:00",
+  "elapsed_seconds": 255.9924738407135,
+  "checks": 6038285,
+  "maximum_discrepancy": 0.0,
+  "new_paths_reconstructed": 2304,
+  "old_paths_authenticated": 0,
+  "new_updates_reconstructed": 92160,
+  "new_objective_values_reconstructed": 11870208,
+  "clock_values_reconstructed": 11796480,
+  "clock_nonidentical": 8184,
+  "maximum_clock_ULPs": 1,
+  "intervals": 429,
+  "structural_zero_records": 21,
+  "exact_old_intervals": 0,
+  "prefix_pairs": 1536,
+  "outcome_classifications": {
+    "positive": 292,
+    "negative": 88,
+    "structural_zero": 21,
+    "observed_exact_zero": 14,
+    "unresolved": 14
+  },
+  "negative_records": 12951,
+  "endpoint_disagreements": 11748,
+  "decline_records": 44960,
+  "role_fate_groups": 36,
+  "joint_fate_groups": 12,
+  "manifest_files": {
+    "full_density_frequency_boundary_v1/SOURCE_SHA256SUMS": 33,
+    "full_density_frequency_boundary_v1/INPUT_SHA256SUMS": 17,
+    "full_density_frequency_boundary_v1/RESULT_SHA256SUMS": 58,
+    "independent_prepared_competition_v1/DELIVERY_SHA256SUMS": 209,
+    "matched_competitor_policy_v1/DELIVERY_SHA256SUMS": 187
+  },
+  "source_manifest_sha256": "ef3dfe6741d645a082afe5adc79e61ab987ef815f6622f19bd2347636991020e",
+  "result_manifest_sha256": "aaa98059091ff141572991b96929cd633ddfd84c9c27bd2dc572fb5a504f3789",
+  "scientific_paths_run": 0,
+  "new_random_values_generated": 0,
+  "producer_modules_imported": false
+}

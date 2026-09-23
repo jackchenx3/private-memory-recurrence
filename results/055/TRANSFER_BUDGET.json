@@ -1,0 +1,14 @@
+{
+  "paths": 3456,
+  "updates": 138240,
+  "candidate_queries": 17694720,
+  "initial_queries": 110592,
+  "underlying_loss_computations": 17805312,
+  "state_measurements": 141696,
+  "nonparent_sources": {
+    "probe": 4423680,
+    "scout": 4423680,
+    "local_child": 4423680
+  },
+  "extra_diagnostic_loss_calls": 0
+}

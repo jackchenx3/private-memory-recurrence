@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "completed_at_utc": "2026-09-22T15:49:25.792176+00:00",
+  "elapsed_seconds": 158.94168710708618,
+  "checks": 6437180,
+  "maximum_discrepancy": 0.0,
+  "paths": 2304,
+  "new_paths_reconstructed": 2304,
+  "old_paths_authenticated": 0,
+  "new_updates_reconstructed": 92160,
+  "new_objective_values_reconstructed": 11870208,
+  "exact_old_intervals": 0,
+  "intervals": 780,
+  "structural_zero_records": 52,
+  "outcome_classifications": {
+    "positive": 388,
+    "observed_exact_zero": 59,
+    "negative": 90,
+    "unresolved": 191,
+    "structural_zero": 52
+  },
+  "negative_records": 13871,
+  "endpoint_disagreements": 19276,
+  "decline_records": 41726,
+  "prefix_checks": {
+    "neutral_founder_generations": 15744,
+    "active_sham_first_update": 768,
+    "same_mode_full_two_update": 1152
+  },
+  "manifest_files": {
+    "independent_rare_memory_novelty_v1/SOURCE_SHA256SUMS": 27,
+    "independent_rare_memory_novelty_v1/INPUT_SHA256SUMS": 10,
+    "independent_rare_memory_novelty_v1/RESULT_SHA256SUMS": 52,
+    "single_carrier_fresh_probe_v1/DELIVERY_SHA256SUMS": 150,
+    "private_memory_competition_v1/DELIVERY_SHA256SUMS": 128
+  },
+  "source_manifest_sha256": "d76e47ebd9729457fef83352e7a1d37cc666624e241fc69af55d5670604ed5dc",
+  "result_manifest_sha256": "1a968c9d665e48352ba5fdd020d58ead20f0f89b3c807866423ea37cd82d5b2c",
+  "scientific_paths_run": 0,
+  "new_random_values_generated": 0,
+  "producer_modules_imported": false,
+  "scope": "All 2304 new paths independently reconstructed from the new frozen inputs, including private/fresh/unread probes, candidate values, recipient inheritance, selection and accounting. All 780 intervals, full event/adverse/crossing indexes, rare block bounds, neutral-founder records and frozen three-part assessment verified. No old paths pooled, producer imports or new random draws."
+}

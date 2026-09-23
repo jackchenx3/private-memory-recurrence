@@ -1,0 +1,50 @@
+{
+  "ZERO|C0|F_STAY": {
+    "neither": 171,
+    "p0_fixed": 2,
+    "p1_fixed": 2,
+    "other_founders_present": 188,
+    "p1only": 12,
+    "p0only": 9
+  },
+  "ZERO|C0|H_STAY": {
+    "neither": 181,
+    "p0_fixed": 1,
+    "p1_fixed": 2,
+    "other_founders_present": 189,
+    "p0only": 5,
+    "p1only": 6
+  },
+  "HALF|C0|F_STAY": {
+    "neither": 174,
+    "p0_fixed": 2,
+    "p1_fixed": 3,
+    "other_founders_present": 187,
+    "p0only": 6,
+    "p1only": 12
+  },
+  "HALF|C0|H_STAY": {
+    "neither": 178,
+    "p0_fixed": 2,
+    "p1_fixed": 8,
+    "other_founders_present": 182,
+    "p1only": 9,
+    "p0only": 5
+  },
+  "FULL|C0|F_STAY": {
+    "neither": 175,
+    "p0_fixed": 0,
+    "p1_fixed": 1,
+    "other_founders_present": 191,
+    "p1only": 10,
+    "p0only": 7
+  },
+  "FULL|C0|H_STAY": {
+    "neither": 175,
+    "p0_fixed": 3,
+    "p1_fixed": 6,
+    "other_founders_present": 183,
+    "p1only": 10,
+    "p0only": 7
+  }
+}

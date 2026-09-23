@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "completed_at_utc": "2026-09-22T17:29:31.255604+00:00",
+  "elapsed_seconds": 397.2957329750061,
+  "checks": 6985660,
+  "maximum_discrepancy": 0.0,
+  "paths": 3456,
+  "new_paths_reconstructed": 2304,
+  "old_paths_authenticated": 1152,
+  "new_updates_reconstructed": 92160,
+  "new_objective_values_reconstructed": 11870208,
+  "exact_old_intervals": 312,
+  "intervals": 1248,
+  "structural_zero_records": 96,
+  "outcome_classifications": {
+    "positive": 568,
+    "unresolved": 381,
+    "negative": 39,
+    "observed_exact_zero": 164,
+    "structural_zero": 96
+  },
+  "negative_records": 11939,
+  "endpoint_disagreements": 18966,
+  "decline_records": 64719,
+  "prefix_checks": {
+    "reused_full_exact_records": 1152,
+    "new_full_two_update_pairs": 2304,
+    "active_sham_first_update": 768
+  },
+  "manifest_files": {
+    "intermittent_private_memory_v1/SOURCE_SHA256SUMS": 26,
+    "intermittent_private_memory_v1/INPUT_SHA256SUMS": 13,
+    "intermittent_private_memory_v1/RESULT_SHA256SUMS": 53,
+    "prepared_resident_introduction_v1/DELIVERY_SHA256SUMS": 153,
+    "private_memory_competition_v1/DELIVERY_SHA256SUMS": 128
+  },
+  "source_manifest_sha256": "dde6f62f05064f6f6d949958d9049223cff75fb62c580fc43e3369370fe6b3d6",
+  "result_manifest_sha256": "7e1e0c0d80fedd8a827451e25988b05307cb9e1cf01a6c1224ae4035a2a148ce",
+  "scientific_paths_run": 0,
+  "new_random_values_generated": 0,
+  "producer_modules_imported": false,
+  "scope": "All 2304 new intermittent/zero recurrence paths independently reconstructed and 1152 exact old full recurrence paths authenticated. Every new target law, copied input, initialization, candidate, selection, cache, interval, event/adverse index and separate primary/attribution/spread assessment checked. No producer imports or new random draws."
+}

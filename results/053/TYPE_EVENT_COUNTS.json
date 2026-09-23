@@ -1,0 +1,857 @@
+{
+  "ZERO|C0|MIX0|p0": {
+    "endpoint_extinct": 170,
+    "endpoint_survives": 22,
+    "endpoint_above_initial": 22,
+    "extinction_observed": 170,
+    "fixation_missing": 180,
+    "endpoint_polymorphic": 10,
+    "extinction_missing": 22,
+    "endpoint_fixed": 12,
+    "fixation_observed": 12
+  },
+  "ZERO|C0|MIX0|p1": {
+    "endpoint_fixed": 11,
+    "endpoint_survives": 12,
+    "endpoint_above_initial": 12,
+    "extinction_missing": 12,
+    "fixation_observed": 11,
+    "endpoint_extinct": 180,
+    "extinction_observed": 180,
+    "fixation_missing": 181,
+    "endpoint_polymorphic": 1
+  },
+  "ZERO|C0|MIX0|CARR": {
+    "endpoint_fixed": 23,
+    "endpoint_survives": 34,
+    "endpoint_above_initial": 34,
+    "extinction_missing": 34,
+    "fixation_observed": 23,
+    "endpoint_extinct": 158,
+    "extinction_observed": 158,
+    "fixation_missing": 169,
+    "endpoint_polymorphic": 11
+  },
+  "ZERO|C0|MIX0|R": {
+    "endpoint_extinct": 23,
+    "endpoint_survives": 169,
+    "endpoint_above_initial": 158,
+    "extinction_observed": 23,
+    "fixation_missing": 34,
+    "endpoint_fixed": 158,
+    "extinction_missing": 169,
+    "fixation_observed": 158,
+    "endpoint_polymorphic": 11
+  },
+  "ZERO|C0|MIX1|p0": {
+    "endpoint_extinct": 172,
+    "endpoint_survives": 20,
+    "endpoint_above_initial": 20,
+    "extinction_observed": 172,
+    "fixation_missing": 179,
+    "endpoint_fixed": 13,
+    "extinction_missing": 20,
+    "fixation_observed": 13,
+    "endpoint_polymorphic": 7
+  },
+  "ZERO|C0|MIX1|p1": {
+    "endpoint_extinct": 176,
+    "endpoint_survives": 16,
+    "endpoint_above_initial": 16,
+    "extinction_observed": 176,
+    "fixation_missing": 181,
+    "endpoint_polymorphic": 5,
+    "extinction_missing": 16,
+    "endpoint_fixed": 11,
+    "fixation_observed": 11
+  },
+  "ZERO|C0|MIX1|CARR": {
+    "endpoint_extinct": 156,
+    "endpoint_survives": 36,
+    "endpoint_above_initial": 35,
+    "extinction_observed": 156,
+    "fixation_missing": 168,
+    "endpoint_polymorphic": 12,
+    "extinction_missing": 36,
+    "endpoint_fixed": 24,
+    "fixation_observed": 24
+  },
+  "ZERO|C0|MIX1|R": {
+    "endpoint_fixed": 156,
+    "endpoint_survives": 168,
+    "endpoint_above_initial": 156,
+    "extinction_missing": 168,
+    "fixation_observed": 156,
+    "endpoint_polymorphic": 12,
+    "fixation_missing": 36,
+    "endpoint_extinct": 24,
+    "extinction_observed": 24
+  },
+  "ZERO|C1|MIX0|p0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "ZERO|C1|MIX0|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "ZERO|C1|MIX0|CARR": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "ZERO|C1|MIX0|R": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "ZERO|C1|MIX1|p0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "ZERO|C1|MIX1|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "ZERO|C1|MIX1|CARR": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "ZERO|C1|MIX1|R": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "HALF|C0|MIX0|p0": {
+    "endpoint_extinct": 161,
+    "endpoint_survives": 31,
+    "endpoint_above_initial": 31,
+    "extinction_observed": 161,
+    "fixation_missing": 166,
+    "endpoint_fixed": 26,
+    "extinction_missing": 31,
+    "fixation_observed": 26,
+    "endpoint_polymorphic": 5
+  },
+  "HALF|C0|MIX0|p1": {
+    "endpoint_extinct": 191,
+    "endpoint_survives": 1,
+    "endpoint_above_initial": 1,
+    "extinction_observed": 191,
+    "fixation_missing": 191,
+    "endpoint_fixed": 1,
+    "extinction_missing": 1,
+    "fixation_observed": 1
+  },
+  "HALF|C0|MIX0|CARR": {
+    "endpoint_extinct": 160,
+    "endpoint_survives": 32,
+    "endpoint_above_initial": 32,
+    "extinction_observed": 160,
+    "fixation_missing": 165,
+    "endpoint_fixed": 27,
+    "extinction_missing": 32,
+    "fixation_observed": 27,
+    "endpoint_polymorphic": 5
+  },
+  "HALF|C0|MIX0|R": {
+    "endpoint_fixed": 160,
+    "endpoint_survives": 165,
+    "endpoint_above_initial": 160,
+    "extinction_missing": 165,
+    "fixation_observed": 160,
+    "endpoint_extinct": 27,
+    "extinction_observed": 27,
+    "fixation_missing": 32,
+    "endpoint_polymorphic": 5
+  },
+  "HALF|C0|MIX1|p0": {
+    "endpoint_extinct": 191,
+    "endpoint_survives": 1,
+    "endpoint_above_initial": 1,
+    "extinction_observed": 191,
+    "fixation_missing": 192,
+    "endpoint_polymorphic": 1,
+    "extinction_missing": 1
+  },
+  "HALF|C0|MIX1|p1": {
+    "endpoint_extinct": 167,
+    "endpoint_survives": 25,
+    "endpoint_above_initial": 25,
+    "extinction_observed": 167,
+    "fixation_missing": 168,
+    "endpoint_fixed": 24,
+    "extinction_missing": 25,
+    "fixation_observed": 24,
+    "endpoint_polymorphic": 1
+  },
+  "HALF|C0|MIX1|CARR": {
+    "endpoint_extinct": 166,
+    "endpoint_survives": 26,
+    "endpoint_above_initial": 26,
+    "extinction_observed": 166,
+    "fixation_missing": 168,
+    "endpoint_fixed": 24,
+    "extinction_missing": 26,
+    "fixation_observed": 24,
+    "endpoint_polymorphic": 2
+  },
+  "HALF|C0|MIX1|R": {
+    "endpoint_fixed": 166,
+    "endpoint_survives": 168,
+    "endpoint_above_initial": 166,
+    "extinction_missing": 168,
+    "fixation_observed": 166,
+    "endpoint_extinct": 24,
+    "extinction_observed": 24,
+    "fixation_missing": 26,
+    "endpoint_polymorphic": 2
+  },
+  "HALF|C1|MIX0|p0": {
+    "endpoint_extinct": 191,
+    "endpoint_survives": 1,
+    "endpoint_above_initial": 1,
+    "extinction_observed": 191,
+    "fixation_missing": 191,
+    "endpoint_fixed": 1,
+    "extinction_missing": 1,
+    "fixation_observed": 1
+  },
+  "HALF|C1|MIX0|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "HALF|C1|MIX0|CARR": {
+    "endpoint_extinct": 191,
+    "endpoint_survives": 1,
+    "endpoint_above_initial": 1,
+    "extinction_observed": 191,
+    "fixation_missing": 191,
+    "endpoint_fixed": 1,
+    "extinction_missing": 1,
+    "fixation_observed": 1
+  },
+  "HALF|C1|MIX0|R": {
+    "endpoint_fixed": 191,
+    "endpoint_survives": 191,
+    "endpoint_above_initial": 191,
+    "extinction_missing": 191,
+    "fixation_observed": 191,
+    "endpoint_extinct": 1,
+    "extinction_observed": 1,
+    "fixation_missing": 1
+  },
+  "HALF|C1|MIX1|p0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "HALF|C1|MIX1|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "HALF|C1|MIX1|CARR": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "HALF|C1|MIX1|R": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "FULL|C0|MIX0|p0": {
+    "endpoint_extinct": 135,
+    "endpoint_survives": 57,
+    "endpoint_above_initial": 56,
+    "extinction_observed": 135,
+    "fixation_missing": 149,
+    "endpoint_fixed": 43,
+    "extinction_missing": 57,
+    "fixation_observed": 43,
+    "endpoint_polymorphic": 14
+  },
+  "FULL|C0|MIX0|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C0|MIX0|CARR": {
+    "endpoint_extinct": 135,
+    "endpoint_survives": 57,
+    "endpoint_above_initial": 56,
+    "extinction_observed": 135,
+    "fixation_missing": 149,
+    "endpoint_fixed": 43,
+    "extinction_missing": 57,
+    "fixation_observed": 43,
+    "endpoint_polymorphic": 14
+  },
+  "FULL|C0|MIX0|R": {
+    "endpoint_fixed": 135,
+    "endpoint_survives": 149,
+    "endpoint_above_initial": 136,
+    "extinction_missing": 149,
+    "fixation_observed": 135,
+    "endpoint_extinct": 43,
+    "extinction_observed": 43,
+    "fixation_missing": 57,
+    "endpoint_polymorphic": 14
+  },
+  "FULL|C0|MIX1|p0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C0|MIX1|p1": {
+    "endpoint_fixed": 39,
+    "endpoint_survives": 49,
+    "endpoint_above_initial": 49,
+    "extinction_missing": 49,
+    "fixation_observed": 39,
+    "endpoint_extinct": 143,
+    "extinction_observed": 143,
+    "fixation_missing": 153,
+    "endpoint_polymorphic": 10
+  },
+  "FULL|C0|MIX1|CARR": {
+    "endpoint_fixed": 39,
+    "endpoint_survives": 49,
+    "endpoint_above_initial": 49,
+    "extinction_missing": 49,
+    "fixation_observed": 39,
+    "endpoint_extinct": 143,
+    "extinction_observed": 143,
+    "fixation_missing": 153,
+    "endpoint_polymorphic": 10
+  },
+  "FULL|C0|MIX1|R": {
+    "endpoint_extinct": 39,
+    "endpoint_survives": 153,
+    "endpoint_above_initial": 143,
+    "extinction_observed": 39,
+    "fixation_missing": 49,
+    "endpoint_fixed": 143,
+    "extinction_missing": 153,
+    "fixation_observed": 143,
+    "endpoint_polymorphic": 10
+  },
+  "FULL|C1|MIX0|p0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C1|MIX0|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C1|MIX0|CARR": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C1|MIX0|R": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "FULL|C1|MIX1|p0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C1|MIX1|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C1|MIX1|CARR": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C1|MIX1|R": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "ZERO|C0|HH|p0": {
+    "endpoint_extinct": 173,
+    "endpoint_survives": 19,
+    "endpoint_above_initial": 19,
+    "extinction_observed": 173,
+    "fixation_missing": 182,
+    "endpoint_fixed": 10,
+    "extinction_missing": 19,
+    "fixation_observed": 10,
+    "endpoint_polymorphic": 9
+  },
+  "ZERO|C0|HH|p1": {
+    "endpoint_extinct": 177,
+    "endpoint_survives": 15,
+    "endpoint_above_initial": 15,
+    "extinction_observed": 177,
+    "fixation_missing": 183,
+    "endpoint_polymorphic": 6,
+    "extinction_missing": 15,
+    "endpoint_fixed": 9,
+    "fixation_observed": 9
+  },
+  "ZERO|C0|HH|CARR": {
+    "endpoint_extinct": 159,
+    "endpoint_survives": 33,
+    "endpoint_above_initial": 33,
+    "extinction_observed": 159,
+    "fixation_missing": 172,
+    "endpoint_polymorphic": 13,
+    "extinction_missing": 33,
+    "endpoint_fixed": 20,
+    "fixation_observed": 20
+  },
+  "ZERO|C0|HH|R": {
+    "endpoint_fixed": 159,
+    "endpoint_survives": 172,
+    "endpoint_above_initial": 159,
+    "extinction_missing": 172,
+    "fixation_observed": 159,
+    "endpoint_polymorphic": 13,
+    "fixation_missing": 33,
+    "endpoint_extinct": 20,
+    "extinction_observed": 20
+  },
+  "ZERO|C0|FF|p0": {
+    "endpoint_extinct": 175,
+    "endpoint_survives": 17,
+    "endpoint_above_initial": 17,
+    "extinction_observed": 175,
+    "fixation_missing": 181,
+    "endpoint_fixed": 11,
+    "extinction_missing": 17,
+    "fixation_observed": 11,
+    "endpoint_polymorphic": 6
+  },
+  "ZERO|C0|FF|p1": {
+    "endpoint_fixed": 10,
+    "endpoint_survives": 13,
+    "endpoint_above_initial": 13,
+    "extinction_missing": 13,
+    "fixation_observed": 10,
+    "endpoint_extinct": 179,
+    "extinction_observed": 179,
+    "fixation_missing": 182,
+    "endpoint_polymorphic": 3
+  },
+  "ZERO|C0|FF|CARR": {
+    "endpoint_fixed": 22,
+    "endpoint_survives": 29,
+    "endpoint_above_initial": 29,
+    "extinction_missing": 29,
+    "fixation_observed": 22,
+    "endpoint_extinct": 163,
+    "extinction_observed": 163,
+    "fixation_missing": 170,
+    "endpoint_polymorphic": 7
+  },
+  "ZERO|C0|FF|R": {
+    "endpoint_extinct": 22,
+    "endpoint_survives": 170,
+    "endpoint_above_initial": 163,
+    "extinction_observed": 22,
+    "fixation_missing": 29,
+    "endpoint_fixed": 163,
+    "extinction_missing": 170,
+    "fixation_observed": 163,
+    "endpoint_polymorphic": 7
+  },
+  "ZERO|C1|HH|p0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "ZERO|C1|HH|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "ZERO|C1|HH|CARR": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "ZERO|C1|HH|R": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "ZERO|C1|FF|p0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "ZERO|C1|FF|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "ZERO|C1|FF|CARR": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "ZERO|C1|FF|R": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "HALF|C0|HH|p0": {
+    "endpoint_extinct": 166,
+    "endpoint_survives": 26,
+    "endpoint_above_initial": 25,
+    "extinction_observed": 166,
+    "fixation_missing": 170,
+    "endpoint_polymorphic": 4,
+    "extinction_missing": 26,
+    "endpoint_fixed": 22,
+    "fixation_observed": 22
+  },
+  "HALF|C0|HH|p1": {
+    "endpoint_extinct": 170,
+    "endpoint_survives": 22,
+    "endpoint_above_initial": 21,
+    "extinction_observed": 170,
+    "fixation_missing": 171,
+    "endpoint_fixed": 21,
+    "extinction_missing": 22,
+    "fixation_observed": 21,
+    "endpoint_polymorphic": 1
+  },
+  "HALF|C0|HH|CARR": {
+    "endpoint_extinct": 144,
+    "endpoint_survives": 48,
+    "endpoint_above_initial": 46,
+    "extinction_observed": 144,
+    "fixation_missing": 149,
+    "endpoint_fixed": 43,
+    "extinction_missing": 48,
+    "fixation_observed": 43,
+    "endpoint_polymorphic": 5
+  },
+  "HALF|C0|HH|R": {
+    "endpoint_fixed": 144,
+    "endpoint_survives": 149,
+    "endpoint_above_initial": 146,
+    "extinction_missing": 149,
+    "fixation_observed": 144,
+    "endpoint_extinct": 43,
+    "extinction_observed": 43,
+    "fixation_missing": 48,
+    "endpoint_polymorphic": 5
+  },
+  "HALF|C0|FF|p0": {
+    "endpoint_extinct": 190,
+    "endpoint_survives": 2,
+    "endpoint_above_initial": 2,
+    "extinction_observed": 190,
+    "fixation_missing": 191,
+    "endpoint_polymorphic": 1,
+    "extinction_missing": 2,
+    "endpoint_fixed": 1,
+    "fixation_observed": 1
+  },
+  "HALF|C0|FF|p1": {
+    "endpoint_extinct": 190,
+    "endpoint_survives": 2,
+    "endpoint_above_initial": 2,
+    "extinction_observed": 190,
+    "fixation_missing": 191,
+    "endpoint_polymorphic": 1,
+    "extinction_missing": 2,
+    "endpoint_fixed": 1,
+    "fixation_observed": 1
+  },
+  "HALF|C0|FF|CARR": {
+    "endpoint_extinct": 188,
+    "endpoint_survives": 4,
+    "endpoint_above_initial": 4,
+    "extinction_observed": 188,
+    "fixation_missing": 190,
+    "endpoint_polymorphic": 2,
+    "extinction_missing": 4,
+    "endpoint_fixed": 2,
+    "fixation_observed": 2
+  },
+  "HALF|C0|FF|R": {
+    "endpoint_fixed": 188,
+    "endpoint_survives": 190,
+    "endpoint_above_initial": 188,
+    "extinction_missing": 190,
+    "fixation_observed": 188,
+    "endpoint_polymorphic": 2,
+    "fixation_missing": 4,
+    "endpoint_extinct": 2,
+    "extinction_observed": 2
+  },
+  "HALF|C1|HH|p0": {
+    "endpoint_extinct": 191,
+    "endpoint_survives": 1,
+    "endpoint_above_initial": 1,
+    "extinction_observed": 191,
+    "fixation_missing": 191,
+    "endpoint_fixed": 1,
+    "extinction_missing": 1,
+    "fixation_observed": 1
+  },
+  "HALF|C1|HH|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "HALF|C1|HH|CARR": {
+    "endpoint_extinct": 191,
+    "endpoint_survives": 1,
+    "endpoint_above_initial": 1,
+    "extinction_observed": 191,
+    "fixation_missing": 191,
+    "endpoint_fixed": 1,
+    "extinction_missing": 1,
+    "fixation_observed": 1
+  },
+  "HALF|C1|HH|R": {
+    "endpoint_fixed": 191,
+    "endpoint_survives": 191,
+    "endpoint_above_initial": 191,
+    "extinction_missing": 191,
+    "fixation_observed": 191,
+    "endpoint_extinct": 1,
+    "extinction_observed": 1,
+    "fixation_missing": 1
+  },
+  "HALF|C1|FF|p0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "HALF|C1|FF|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "HALF|C1|FF|CARR": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "HALF|C1|FF|R": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "FULL|C0|HH|p0": {
+    "endpoint_extinct": 147,
+    "endpoint_survives": 45,
+    "endpoint_above_initial": 44,
+    "extinction_observed": 147,
+    "fixation_missing": 156,
+    "endpoint_fixed": 36,
+    "extinction_missing": 45,
+    "fixation_observed": 36,
+    "endpoint_polymorphic": 9
+  },
+  "FULL|C0|HH|p1": {
+    "endpoint_fixed": 31,
+    "endpoint_survives": 40,
+    "endpoint_above_initial": 40,
+    "extinction_missing": 40,
+    "fixation_observed": 31,
+    "endpoint_extinct": 152,
+    "extinction_observed": 152,
+    "fixation_missing": 161,
+    "endpoint_polymorphic": 9
+  },
+  "FULL|C0|HH|CARR": {
+    "endpoint_fixed": 68,
+    "endpoint_survives": 84,
+    "endpoint_above_initial": 83,
+    "extinction_missing": 84,
+    "fixation_observed": 68,
+    "endpoint_extinct": 108,
+    "extinction_observed": 108,
+    "fixation_missing": 124,
+    "endpoint_polymorphic": 16
+  },
+  "FULL|C0|HH|R": {
+    "endpoint_extinct": 68,
+    "endpoint_survives": 124,
+    "endpoint_above_initial": 109,
+    "extinction_observed": 68,
+    "fixation_missing": 84,
+    "endpoint_fixed": 108,
+    "extinction_missing": 124,
+    "fixation_observed": 108,
+    "endpoint_polymorphic": 16
+  },
+  "FULL|C0|FF|p0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C0|FF|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C0|FF|CARR": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C0|FF|R": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "FULL|C1|HH|p0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C1|HH|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C1|HH|CARR": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C1|HH|R": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  },
+  "FULL|C1|FF|p0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C1|FF|p1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C1|FF|CARR": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "FULL|C1|FF|R": {
+    "endpoint_fixed": 192,
+    "endpoint_survives": 192,
+    "endpoint_above_initial": 192,
+    "extinction_missing": 192,
+    "fixation_observed": 192
+  }
+}

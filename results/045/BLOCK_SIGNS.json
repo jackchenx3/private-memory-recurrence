@@ -1,0 +1,2990 @@
+{
+  "RARE|IID|ACTIVE_C0|U0": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|U1": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|U": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|U40": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|E1": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|E2": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|E3": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|E4": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|E5": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|E6": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|E7": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|E8": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|MLOSS": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|F0": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|F1": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|F": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|F40": {
+    "positive": 14,
+    "zero": 10
+  },
+  "RARE|IID|ACTIVE_C0|FE1": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C0|FE2": {
+    "positive": 20,
+    "zero": 4
+  },
+  "RARE|IID|ACTIVE_C0|FE3": {
+    "positive": 17,
+    "zero": 7
+  },
+  "RARE|IID|ACTIVE_C0|FE4": {
+    "positive": 17,
+    "zero": 7
+  },
+  "RARE|IID|ACTIVE_C0|FE5": {
+    "positive": 15,
+    "zero": 9
+  },
+  "RARE|IID|ACTIVE_C0|FE6": {
+    "positive": 14,
+    "zero": 10
+  },
+  "RARE|IID|ACTIVE_C0|FE7": {
+    "positive": 14,
+    "zero": 10
+  },
+  "RARE|IID|ACTIVE_C0|FE8": {
+    "positive": 14,
+    "zero": 10
+  },
+  "RARE|IID|ACTIVE_C0|D40": {
+    "positive": 14,
+    "negative": 10
+  },
+  "RARE|IID|ACTIVE_C1|U0": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|U1": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|U": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|U40": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|E1": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|E2": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|E3": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|E4": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|E5": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|E6": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|E7": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|E8": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|MLOSS": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|F0": {
+    "positive": 24
+  },
+  "RARE|IID|ACTIVE_C1|F1": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C1|F": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C1|F40": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1|FE1": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C1|FE2": {
+    "zero": 19,
+    "positive": 5
+  },
+  "RARE|IID|ACTIVE_C1|FE3": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|IID|ACTIVE_C1|FE4": {
+    "zero": 23,
+    "positive": 1
+  },
+  "RARE|IID|ACTIVE_C1|FE5": {
+    "zero": 23,
+    "positive": 1
+  },
+  "RARE|IID|ACTIVE_C1|FE6": {
+    "zero": 23,
+    "positive": 1
+  },
+  "RARE|IID|ACTIVE_C1|FE7": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1|FE8": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1|D40": {
+    "negative": 24
+  },
+  "RARE|IID|NOVEL_C0|U0": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|U1": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|U": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|U40": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|E1": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|E2": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|E3": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|E4": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|E5": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|E6": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|E7": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|E8": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|MLOSS": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|F0": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|F1": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|F": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|F40": {
+    "positive": 17,
+    "zero": 7
+  },
+  "RARE|IID|NOVEL_C0|FE1": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C0|FE2": {
+    "positive": 21,
+    "zero": 3
+  },
+  "RARE|IID|NOVEL_C0|FE3": {
+    "positive": 20,
+    "zero": 4
+  },
+  "RARE|IID|NOVEL_C0|FE4": {
+    "positive": 20,
+    "zero": 4
+  },
+  "RARE|IID|NOVEL_C0|FE5": {
+    "positive": 18,
+    "zero": 6
+  },
+  "RARE|IID|NOVEL_C0|FE6": {
+    "positive": 18,
+    "zero": 6
+  },
+  "RARE|IID|NOVEL_C0|FE7": {
+    "positive": 18,
+    "zero": 6
+  },
+  "RARE|IID|NOVEL_C0|FE8": {
+    "positive": 17,
+    "zero": 7
+  },
+  "RARE|IID|NOVEL_C0|D40": {
+    "positive": 17,
+    "negative": 7
+  },
+  "RARE|IID|NOVEL_C1|U0": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|U1": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|U": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|U40": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|E1": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|E2": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|E3": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|E4": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|E5": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|E6": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|E7": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|E8": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|MLOSS": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|F0": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|F1": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|F": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|F40": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1|FE1": {
+    "positive": 24
+  },
+  "RARE|IID|NOVEL_C1|FE2": {
+    "positive": 6,
+    "zero": 18
+  },
+  "RARE|IID|NOVEL_C1|FE3": {
+    "zero": 23,
+    "positive": 1
+  },
+  "RARE|IID|NOVEL_C1|FE4": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1|FE5": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1|FE6": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1|FE7": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1|FE8": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1|D40": {
+    "negative": 24
+  },
+  "RARE|IID|SHAM_C0|U0": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|U1": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|U": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|U40": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|E1": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|E2": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|E3": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|E4": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|E5": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|E6": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|E7": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|E8": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|MLOSS": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|F0": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|F1": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|F": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|F40": {
+    "zero": 19,
+    "positive": 5
+  },
+  "RARE|IID|SHAM_C0|FE1": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C0|FE2": {
+    "positive": 14,
+    "zero": 10
+  },
+  "RARE|IID|SHAM_C0|FE3": {
+    "zero": 13,
+    "positive": 11
+  },
+  "RARE|IID|SHAM_C0|FE4": {
+    "zero": 15,
+    "positive": 9
+  },
+  "RARE|IID|SHAM_C0|FE5": {
+    "zero": 17,
+    "positive": 7
+  },
+  "RARE|IID|SHAM_C0|FE6": {
+    "zero": 19,
+    "positive": 5
+  },
+  "RARE|IID|SHAM_C0|FE7": {
+    "zero": 19,
+    "positive": 5
+  },
+  "RARE|IID|SHAM_C0|FE8": {
+    "zero": 19,
+    "positive": 5
+  },
+  "RARE|IID|SHAM_C0|D40": {
+    "negative": 19,
+    "positive": 5
+  },
+  "RARE|IID|SHAM_C1|U0": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|U1": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|U": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|U40": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|E1": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|E2": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|E3": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|E4": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|E5": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|E6": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|E7": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|E8": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|MLOSS": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|F0": {
+    "positive": 24
+  },
+  "RARE|IID|SHAM_C1|F1": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|IID|SHAM_C1|F": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|IID|SHAM_C1|F40": {
+    "zero": 24
+  },
+  "RARE|IID|SHAM_C1|FE1": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|IID|SHAM_C1|FE2": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|IID|SHAM_C1|FE3": {
+    "zero": 24
+  },
+  "RARE|IID|SHAM_C1|FE4": {
+    "zero": 24
+  },
+  "RARE|IID|SHAM_C1|FE5": {
+    "zero": 24
+  },
+  "RARE|IID|SHAM_C1|FE6": {
+    "zero": 24
+  },
+  "RARE|IID|SHAM_C1|FE7": {
+    "zero": 24
+  },
+  "RARE|IID|SHAM_C1|FE8": {
+    "zero": 24
+  },
+  "RARE|IID|SHAM_C1|D40": {
+    "negative": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|U0": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|U1": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|U": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|U40": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|E1": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|E2": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|E3": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|E4": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|E5": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|E6": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|E7": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|E8": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|MLOSS": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|F0": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|F1": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|F": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|F40": {
+    "zero": 14,
+    "positive": 10
+  },
+  "RARE|RECUR|ACTIVE_C0|FE1": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C0|FE2": {
+    "positive": 18,
+    "zero": 6
+  },
+  "RARE|RECUR|ACTIVE_C0|FE3": {
+    "zero": 10,
+    "positive": 14
+  },
+  "RARE|RECUR|ACTIVE_C0|FE4": {
+    "zero": 12,
+    "positive": 12
+  },
+  "RARE|RECUR|ACTIVE_C0|FE5": {
+    "zero": 13,
+    "positive": 11
+  },
+  "RARE|RECUR|ACTIVE_C0|FE6": {
+    "zero": 14,
+    "positive": 10
+  },
+  "RARE|RECUR|ACTIVE_C0|FE7": {
+    "zero": 14,
+    "positive": 10
+  },
+  "RARE|RECUR|ACTIVE_C0|FE8": {
+    "zero": 14,
+    "positive": 10
+  },
+  "RARE|RECUR|ACTIVE_C0|D40": {
+    "negative": 14,
+    "positive": 10
+  },
+  "RARE|RECUR|ACTIVE_C1|U0": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|U1": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|U": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|U40": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|E1": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|E2": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|E3": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|E4": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|E5": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|E6": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|E7": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|E8": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|MLOSS": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|F0": {
+    "positive": 24
+  },
+  "RARE|RECUR|ACTIVE_C1|F1": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C1|F": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C1|F40": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1|FE1": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C1|FE2": {
+    "zero": 20,
+    "positive": 4
+  },
+  "RARE|RECUR|ACTIVE_C1|FE3": {
+    "zero": 21,
+    "positive": 3
+  },
+  "RARE|RECUR|ACTIVE_C1|FE4": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1|FE5": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1|FE6": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1|FE7": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1|FE8": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1|D40": {
+    "negative": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|NOVEL_C0|U0": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|U1": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|U": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|U40": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|E1": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|E2": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|E3": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|E4": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|E5": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|E6": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|E7": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|E8": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|MLOSS": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|F0": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|F1": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|F": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|F40": {
+    "positive": 3,
+    "zero": 21
+  },
+  "RARE|RECUR|NOVEL_C0|FE1": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C0|FE2": {
+    "positive": 15,
+    "zero": 9
+  },
+  "RARE|RECUR|NOVEL_C0|FE3": {
+    "positive": 7,
+    "zero": 17
+  },
+  "RARE|RECUR|NOVEL_C0|FE4": {
+    "positive": 5,
+    "zero": 19
+  },
+  "RARE|RECUR|NOVEL_C0|FE5": {
+    "positive": 3,
+    "zero": 21
+  },
+  "RARE|RECUR|NOVEL_C0|FE6": {
+    "positive": 3,
+    "zero": 21
+  },
+  "RARE|RECUR|NOVEL_C0|FE7": {
+    "positive": 3,
+    "zero": 21
+  },
+  "RARE|RECUR|NOVEL_C0|FE8": {
+    "positive": 3,
+    "zero": 21
+  },
+  "RARE|RECUR|NOVEL_C0|D40": {
+    "positive": 3,
+    "negative": 21
+  },
+  "RARE|RECUR|NOVEL_C1|U0": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|U1": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|U": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|U40": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|E1": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|E2": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|E3": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|E4": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|E5": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|E6": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|E7": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|E8": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|MLOSS": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|F0": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|F1": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|F": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|F40": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1|FE1": {
+    "positive": 24
+  },
+  "RARE|RECUR|NOVEL_C1|FE2": {
+    "positive": 2,
+    "zero": 22
+  },
+  "RARE|RECUR|NOVEL_C1|FE3": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1|FE4": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1|FE5": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1|FE6": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1|FE7": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1|FE8": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1|D40": {
+    "negative": 24
+  },
+  "RARE|RECUR|SHAM_C0|U0": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|U1": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|U": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|U40": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|E1": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|E2": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|E3": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|E4": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|E5": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|E6": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|E7": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|E8": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|MLOSS": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|F0": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|F1": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|F": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|F40": {
+    "zero": 17,
+    "positive": 7
+  },
+  "RARE|RECUR|SHAM_C0|FE1": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C0|FE2": {
+    "zero": 11,
+    "positive": 13
+  },
+  "RARE|RECUR|SHAM_C0|FE3": {
+    "zero": 13,
+    "positive": 11
+  },
+  "RARE|RECUR|SHAM_C0|FE4": {
+    "zero": 17,
+    "positive": 7
+  },
+  "RARE|RECUR|SHAM_C0|FE5": {
+    "zero": 17,
+    "positive": 7
+  },
+  "RARE|RECUR|SHAM_C0|FE6": {
+    "zero": 17,
+    "positive": 7
+  },
+  "RARE|RECUR|SHAM_C0|FE7": {
+    "zero": 17,
+    "positive": 7
+  },
+  "RARE|RECUR|SHAM_C0|FE8": {
+    "zero": 17,
+    "positive": 7
+  },
+  "RARE|RECUR|SHAM_C0|D40": {
+    "negative": 17,
+    "positive": 7
+  },
+  "RARE|RECUR|SHAM_C1|U0": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|U1": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|U": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|U40": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|E1": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|E2": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|E3": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|E4": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|E5": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|E6": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|E7": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|E8": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|MLOSS": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|F0": {
+    "positive": 24
+  },
+  "RARE|RECUR|SHAM_C1|F1": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|RECUR|SHAM_C1|F": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|RECUR|SHAM_C1|F40": {
+    "zero": 24
+  },
+  "RARE|RECUR|SHAM_C1|FE1": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|RECUR|SHAM_C1|FE2": {
+    "zero": 23,
+    "positive": 1
+  },
+  "RARE|RECUR|SHAM_C1|FE3": {
+    "zero": 24
+  },
+  "RARE|RECUR|SHAM_C1|FE4": {
+    "zero": 24
+  },
+  "RARE|RECUR|SHAM_C1|FE5": {
+    "zero": 24
+  },
+  "RARE|RECUR|SHAM_C1|FE6": {
+    "zero": 24
+  },
+  "RARE|RECUR|SHAM_C1|FE7": {
+    "zero": 24
+  },
+  "RARE|RECUR|SHAM_C1|FE8": {
+    "zero": 24
+  },
+  "RARE|RECUR|SHAM_C1|D40": {
+    "negative": 24
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|U0": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|U1": {
+    "negative": 19,
+    "zero": 5
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|U": {
+    "negative": 17,
+    "positive": 7
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|U40": {
+    "negative": 12,
+    "positive": 12
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|E1": {
+    "negative": 18,
+    "positive": 6
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|E2": {
+    "negative": 14,
+    "positive": 10
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|E3": {
+    "negative": 17,
+    "positive": 6,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|E4": {
+    "negative": 15,
+    "positive": 9
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|E5": {
+    "negative": 17,
+    "positive": 7
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|E6": {
+    "negative": 16,
+    "positive": 8
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|E7": {
+    "negative": 20,
+    "positive": 4
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|E8": {
+    "negative": 12,
+    "positive": 12
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|MLOSS": {
+    "positive": 17,
+    "negative": 7
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|F0": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|F1": {
+    "negative": 16,
+    "zero": 3,
+    "positive": 5
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|F": {
+    "negative": 17,
+    "positive": 7
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|F40": {
+    "negative": 14,
+    "zero": 6,
+    "positive": 4
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|FE1": {
+    "negative": 16,
+    "positive": 8
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|FE2": {
+    "negative": 17,
+    "positive": 7
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|FE3": {
+    "negative": 15,
+    "zero": 1,
+    "positive": 8
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|FE4": {
+    "negative": 16,
+    "zero": 1,
+    "positive": 7
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|FE5": {
+    "negative": 14,
+    "zero": 4,
+    "positive": 6
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|FE6": {
+    "negative": 14,
+    "zero": 5,
+    "positive": 5
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|FE7": {
+    "negative": 14,
+    "zero": 5,
+    "positive": 5
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|FE8": {
+    "negative": 14,
+    "zero": 6,
+    "positive": 4
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|D40": {
+    "negative": 14,
+    "zero": 6,
+    "positive": 4
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|U0": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|U1": {
+    "negative": 19,
+    "zero": 5
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|U": {
+    "negative": 9,
+    "positive": 13,
+    "zero": 2
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|U40": {
+    "positive": 10,
+    "negative": 13,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|E1": {
+    "negative": 8,
+    "positive": 15,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|E2": {
+    "negative": 14,
+    "positive": 9,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|E3": {
+    "negative": 15,
+    "positive": 8,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|E4": {
+    "positive": 12,
+    "negative": 11,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|E5": {
+    "positive": 12,
+    "negative": 11,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|E6": {
+    "positive": 16,
+    "negative": 7,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|E7": {
+    "positive": 17,
+    "zero": 2,
+    "negative": 5
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|E8": {
+    "negative": 12,
+    "positive": 10,
+    "zero": 2
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|MLOSS": {
+    "positive": 9,
+    "negative": 13,
+    "zero": 2
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|F0": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|F1": {
+    "negative": 19,
+    "zero": 5
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|F": {
+    "negative": 19,
+    "zero": 2,
+    "positive": 3
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|F40": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|FE1": {
+    "negative": 21,
+    "zero": 2,
+    "positive": 1
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|FE2": {
+    "negative": 3,
+    "zero": 16,
+    "positive": 5
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|FE3": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|FE4": {
+    "zero": 23,
+    "positive": 1
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|FE5": {
+    "zero": 23,
+    "positive": 1
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|FE6": {
+    "zero": 23,
+    "positive": 1
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|FE7": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|FE8": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|D40": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|U0": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|U1": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|U": {
+    "positive": 16,
+    "negative": 7,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|U40": {
+    "positive": 11,
+    "zero": 1,
+    "negative": 12
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|E1": {
+    "positive": 10,
+    "negative": 12,
+    "zero": 2
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|E2": {
+    "positive": 15,
+    "negative": 8,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|E3": {
+    "positive": 12,
+    "negative": 11,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|E4": {
+    "negative": 11,
+    "positive": 12,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|E5": {
+    "negative": 13,
+    "zero": 1,
+    "positive": 10
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|E6": {
+    "positive": 12,
+    "negative": 11,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|E7": {
+    "negative": 14,
+    "zero": 1,
+    "positive": 9
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|E8": {
+    "positive": 15,
+    "zero": 1,
+    "negative": 8
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|MLOSS": {
+    "negative": 16,
+    "positive": 7,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|F0": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|F1": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|F": {
+    "positive": 17,
+    "negative": 6,
+    "zero": 1
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|F40": {
+    "positive": 9,
+    "zero": 15
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|FE1": {
+    "positive": 16,
+    "negative": 6,
+    "zero": 2
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|FE2": {
+    "positive": 16,
+    "zero": 4,
+    "negative": 4
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|FE3": {
+    "positive": 14,
+    "zero": 7,
+    "negative": 3
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|FE4": {
+    "positive": 12,
+    "zero": 9,
+    "negative": 3
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|FE5": {
+    "positive": 11,
+    "zero": 11,
+    "negative": 2
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|FE6": {
+    "positive": 10,
+    "zero": 12,
+    "negative": 2
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|FE7": {
+    "positive": 11,
+    "zero": 13
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|FE8": {
+    "positive": 11,
+    "zero": 13
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|D40": {
+    "positive": 9,
+    "zero": 15
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|U0": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|U1": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|U": {
+    "zero": 15,
+    "positive": 7,
+    "negative": 2
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|U40": {
+    "zero": 15,
+    "negative": 6,
+    "positive": 3
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|E1": {
+    "zero": 15,
+    "positive": 8,
+    "negative": 1
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|E2": {
+    "zero": 15,
+    "negative": 7,
+    "positive": 2
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|E3": {
+    "zero": 15,
+    "positive": 5,
+    "negative": 4
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|E4": {
+    "zero": 15,
+    "negative": 7,
+    "positive": 2
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|E5": {
+    "zero": 15,
+    "positive": 7,
+    "negative": 2
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|E6": {
+    "zero": 15,
+    "negative": 8,
+    "positive": 1
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|E7": {
+    "zero": 15,
+    "positive": 7,
+    "negative": 2
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|E8": {
+    "zero": 15,
+    "positive": 6,
+    "negative": 3
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|MLOSS": {
+    "zero": 15,
+    "negative": 7,
+    "positive": 2
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|F0": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|F1": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|F": {
+    "zero": 16,
+    "positive": 8
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|F40": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|FE1": {
+    "zero": 16,
+    "positive": 6,
+    "negative": 2
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|FE2": {
+    "zero": 20,
+    "positive": 4
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|FE3": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|FE4": {
+    "zero": 23,
+    "positive": 1
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|FE5": {
+    "zero": 23,
+    "positive": 1
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|FE6": {
+    "zero": 23,
+    "positive": 1
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|FE7": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|FE8": {
+    "zero": 24
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|D40": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|U0": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|U1": {
+    "positive": 19,
+    "zero": 5
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|U": {
+    "positive": 21,
+    "negative": 3
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|U40": {
+    "positive": 11,
+    "negative": 13
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|E1": {
+    "positive": 17,
+    "negative": 7
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|E2": {
+    "positive": 15,
+    "negative": 9
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|E3": {
+    "positive": 16,
+    "negative": 8
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|E4": {
+    "positive": 14,
+    "negative": 10
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|E5": {
+    "positive": 17,
+    "negative": 7
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|E6": {
+    "positive": 18,
+    "negative": 6
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|E7": {
+    "positive": 19,
+    "negative": 5
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|E8": {
+    "positive": 17,
+    "negative": 7
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|MLOSS": {
+    "negative": 21,
+    "positive": 3
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|F0": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|F1": {
+    "positive": 16,
+    "zero": 3,
+    "negative": 5
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|F": {
+    "positive": 20,
+    "negative": 4
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|F40": {
+    "positive": 16,
+    "zero": 6,
+    "negative": 2
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|FE1": {
+    "positive": 21,
+    "negative": 3
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|FE2": {
+    "positive": 19,
+    "negative": 4,
+    "zero": 1
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|FE3": {
+    "positive": 18,
+    "zero": 2,
+    "negative": 4
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|FE4": {
+    "positive": 18,
+    "zero": 3,
+    "negative": 3
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|FE5": {
+    "positive": 16,
+    "zero": 6,
+    "negative": 2
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|FE6": {
+    "positive": 16,
+    "zero": 6,
+    "negative": 2
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|FE7": {
+    "positive": 16,
+    "zero": 6,
+    "negative": 2
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|FE8": {
+    "positive": 16,
+    "zero": 6,
+    "negative": 2
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|D40": {
+    "positive": 16,
+    "zero": 6,
+    "negative": 2
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|U0": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|U1": {
+    "positive": 19,
+    "zero": 5
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|U": {
+    "positive": 9,
+    "negative": 13,
+    "zero": 2
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|U40": {
+    "negative": 11,
+    "positive": 12,
+    "zero": 1
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|E1": {
+    "positive": 10,
+    "negative": 13,
+    "zero": 1
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|E2": {
+    "positive": 11,
+    "negative": 12,
+    "zero": 1
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|E3": {
+    "positive": 16,
+    "negative": 7,
+    "zero": 1
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|E4": {
+    "negative": 13,
+    "positive": 10,
+    "zero": 1
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|E5": {
+    "negative": 10,
+    "positive": 13,
+    "zero": 1
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|E6": {
+    "negative": 16,
+    "positive": 7,
+    "zero": 1
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|E7": {
+    "negative": 15,
+    "zero": 2,
+    "positive": 7
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|E8": {
+    "positive": 14,
+    "negative": 8,
+    "zero": 2
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|MLOSS": {
+    "negative": 9,
+    "positive": 13,
+    "zero": 2
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|F0": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|F1": {
+    "positive": 19,
+    "zero": 5
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|F": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|F40": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|FE1": {
+    "positive": 23,
+    "zero": 1
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|FE2": {
+    "positive": 6,
+    "zero": 17,
+    "negative": 1
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|FE3": {
+    "zero": 23,
+    "positive": 1
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|FE4": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|FE5": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|FE6": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|FE7": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|FE8": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|D40": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|U0": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|U1": {
+    "negative": 18,
+    "zero": 6
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|U": {
+    "negative": 21,
+    "positive": 3
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|U40": {
+    "negative": 14,
+    "positive": 10
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|E1": {
+    "positive": 7,
+    "negative": 17
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|E2": {
+    "positive": 11,
+    "negative": 13
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|E3": {
+    "positive": 7,
+    "negative": 17
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|E4": {
+    "negative": 17,
+    "positive": 7
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|E5": {
+    "negative": 16,
+    "positive": 8
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|E6": {
+    "negative": 17,
+    "positive": 7
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|E7": {
+    "negative": 18,
+    "positive": 6
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|E8": {
+    "negative": 15,
+    "positive": 9
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|MLOSS": {
+    "positive": 21,
+    "negative": 3
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|F0": {
+    "zero": 24
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|F1": {
+    "negative": 23,
+    "zero": 1
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|F": {
+    "negative": 24
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|F40": {
+    "negative": 17,
+    "zero": 7
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|FE1": {
+    "negative": 24
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|FE2": {
+    "negative": 21,
+    "zero": 3
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|FE3": {
+    "negative": 20,
+    "zero": 4
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|FE4": {
+    "negative": 20,
+    "zero": 4
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|FE5": {
+    "negative": 18,
+    "zero": 6
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|FE6": {
+    "negative": 18,
+    "zero": 6
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|FE7": {
+    "negative": 18,
+    "zero": 6
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|FE8": {
+    "negative": 17,
+    "zero": 7
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|D40": {
+    "negative": 17,
+    "zero": 7
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|U0": {
+    "zero": 24
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|U1": {
+    "negative": 19,
+    "zero": 5
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|U": {
+    "negative": 7,
+    "positive": 17
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|U40": {
+    "positive": 16,
+    "negative": 8
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|E1": {
+    "negative": 14,
+    "positive": 10
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|E2": {
+    "negative": 14,
+    "positive": 10
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|E3": {
+    "negative": 8,
+    "positive": 16
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|E4": {
+    "positive": 13,
+    "zero": 1,
+    "negative": 10
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|E5": {
+    "negative": 7,
+    "positive": 17
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|E6": {
+    "positive": 18,
+    "negative": 6
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|E7": {
+    "negative": 8,
+    "positive": 16
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|E8": {
+    "positive": 18,
+    "negative": 6
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|MLOSS": {
+    "positive": 7,
+    "negative": 17
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|F0": {
+    "zero": 24
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|F1": {
+    "negative": 16,
+    "zero": 3,
+    "positive": 5
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|F": {
+    "negative": 7,
+    "positive": 17
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|F40": {
+    "negative": 1,
+    "positive": 10,
+    "zero": 13
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|FE1": {
+    "negative": 13,
+    "positive": 11
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|FE2": {
+    "negative": 5,
+    "positive": 15,
+    "zero": 4
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|FE3": {
+    "negative": 3,
+    "positive": 13,
+    "zero": 8
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|FE4": {
+    "negative": 2,
+    "positive": 12,
+    "zero": 10
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|FE5": {
+    "negative": 1,
+    "positive": 11,
+    "zero": 12
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|FE6": {
+    "negative": 1,
+    "positive": 10,
+    "zero": 13
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|FE7": {
+    "negative": 1,
+    "positive": 10,
+    "zero": 13
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|FE8": {
+    "negative": 1,
+    "positive": 10,
+    "zero": 13
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|D40": {
+    "negative": 1,
+    "positive": 10,
+    "zero": 13
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|U0": {
+    "zero": 24
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|U1": {
+    "negative": 19,
+    "zero": 5
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|U": {
+    "positive": 14,
+    "negative": 9,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|U40": {
+    "positive": 11,
+    "negative": 11,
+    "zero": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|E1": {
+    "positive": 12,
+    "negative": 11,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|E2": {
+    "positive": 14,
+    "negative": 9,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|E3": {
+    "positive": 13,
+    "negative": 10,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|E4": {
+    "positive": 11,
+    "negative": 12,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|E5": {
+    "negative": 7,
+    "positive": 16,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|E6": {
+    "positive": 12,
+    "negative": 11,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|E7": {
+    "negative": 9,
+    "positive": 12,
+    "zero": 3
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|E8": {
+    "positive": 12,
+    "negative": 10,
+    "zero": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|MLOSS": {
+    "negative": 14,
+    "positive": 9,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|F0": {
+    "zero": 24
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|F1": {
+    "negative": 19,
+    "zero": 5
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|F": {
+    "negative": 19,
+    "zero": 1,
+    "positive": 4
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|F40": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|FE1": {
+    "negative": 19,
+    "zero": 1,
+    "positive": 4
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|FE2": {
+    "negative": 1,
+    "zero": 19,
+    "positive": 4
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|FE3": {
+    "zero": 21,
+    "positive": 3
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|FE4": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|FE5": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|FE6": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|FE7": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|FE8": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|D40": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|U0": {
+    "zero": 24
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|U1": {
+    "zero": 24
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|U": {
+    "negative": 7,
+    "positive": 16,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|U40": {
+    "positive": 15,
+    "negative": 7,
+    "zero": 2
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|E1": {
+    "positive": 10,
+    "negative": 11,
+    "zero": 3
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|E2": {
+    "negative": 10,
+    "zero": 1,
+    "positive": 13
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|E3": {
+    "negative": 7,
+    "zero": 2,
+    "positive": 15
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|E4": {
+    "negative": 10,
+    "zero": 1,
+    "positive": 13
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|E5": {
+    "negative": 6,
+    "positive": 16,
+    "zero": 2
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|E6": {
+    "positive": 17,
+    "negative": 5,
+    "zero": 2
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|E7": {
+    "negative": 5,
+    "positive": 17,
+    "zero": 2
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|E8": {
+    "positive": 15,
+    "negative": 6,
+    "zero": 3
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|MLOSS": {
+    "positive": 7,
+    "negative": 16,
+    "zero": 1
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|F0": {
+    "zero": 24
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|F1": {
+    "zero": 24
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|F": {
+    "positive": 18,
+    "zero": 1,
+    "negative": 5
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|F40": {
+    "zero": 11,
+    "positive": 10,
+    "negative": 3
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|FE1": {
+    "positive": 12,
+    "negative": 10,
+    "zero": 2
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|FE2": {
+    "positive": 15,
+    "zero": 6,
+    "negative": 3
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|FE3": {
+    "zero": 8,
+    "positive": 13,
+    "negative": 3
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|FE4": {
+    "zero": 10,
+    "positive": 11,
+    "negative": 3
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|FE5": {
+    "zero": 10,
+    "positive": 11,
+    "negative": 3
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|FE6": {
+    "zero": 11,
+    "positive": 10,
+    "negative": 3
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|FE7": {
+    "zero": 11,
+    "positive": 10,
+    "negative": 3
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|FE8": {
+    "zero": 11,
+    "positive": 10,
+    "negative": 3
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|D40": {
+    "zero": 11,
+    "positive": 10,
+    "negative": 3
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|U0": {
+    "zero": 24
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|U1": {
+    "zero": 24
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|U": {
+    "positive": 6,
+    "zero": 14,
+    "negative": 4
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|U40": {
+    "positive": 7,
+    "negative": 3,
+    "zero": 14
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|E1": {
+    "positive": 6,
+    "zero": 14,
+    "negative": 4
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|E2": {
+    "negative": 5,
+    "positive": 5,
+    "zero": 14
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|E3": {
+    "negative": 5,
+    "positive": 5,
+    "zero": 14
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|E4": {
+    "positive": 8,
+    "zero": 14,
+    "negative": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|E5": {
+    "negative": 3,
+    "positive": 6,
+    "zero": 15
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|E6": {
+    "positive": 6,
+    "negative": 4,
+    "zero": 14
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|E7": {
+    "negative": 7,
+    "positive": 3,
+    "zero": 14
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|E8": {
+    "positive": 6,
+    "negative": 4,
+    "zero": 14
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|MLOSS": {
+    "negative": 6,
+    "zero": 14,
+    "positive": 4
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|F0": {
+    "zero": 24
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|F1": {
+    "zero": 24
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|F": {
+    "positive": 8,
+    "zero": 14,
+    "negative": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|F40": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|FE1": {
+    "positive": 8,
+    "zero": 14,
+    "negative": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|FE2": {
+    "zero": 20,
+    "positive": 4
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|FE3": {
+    "zero": 21,
+    "positive": 3
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|FE4": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|FE5": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|FE6": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|FE7": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|FE8": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|D40": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|U0": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|U1": {
+    "positive": 19,
+    "zero": 5
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|U": {
+    "positive": 15,
+    "negative": 9
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|U40": {
+    "negative": 13,
+    "positive": 11
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|E1": {
+    "positive": 16,
+    "negative": 7,
+    "zero": 1
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|E2": {
+    "positive": 13,
+    "negative": 11
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|E3": {
+    "positive": 14,
+    "negative": 10
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|E4": {
+    "negative": 10,
+    "positive": 14
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|E5": {
+    "positive": 14,
+    "negative": 10
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|E6": {
+    "negative": 11,
+    "positive": 13
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|E7": {
+    "positive": 14,
+    "negative": 10
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|E8": {
+    "negative": 12,
+    "positive": 12
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|MLOSS": {
+    "negative": 15,
+    "positive": 9
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|F0": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|F1": {
+    "positive": 16,
+    "zero": 3,
+    "negative": 5
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|F": {
+    "positive": 12,
+    "negative": 11,
+    "zero": 1
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|F40": {
+    "positive": 1,
+    "zero": 18,
+    "negative": 5
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|FE1": {
+    "positive": 14,
+    "negative": 10
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|FE2": {
+    "positive": 7,
+    "negative": 11,
+    "zero": 6
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|FE3": {
+    "positive": 4,
+    "negative": 10,
+    "zero": 10
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|FE4": {
+    "positive": 2,
+    "zero": 16,
+    "negative": 6
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|FE5": {
+    "positive": 1,
+    "zero": 18,
+    "negative": 5
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|FE6": {
+    "positive": 1,
+    "zero": 18,
+    "negative": 5
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|FE7": {
+    "positive": 1,
+    "zero": 18,
+    "negative": 5
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|FE8": {
+    "positive": 1,
+    "zero": 18,
+    "negative": 5
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|D40": {
+    "positive": 1,
+    "zero": 18,
+    "negative": 5
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|U0": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|U1": {
+    "positive": 19,
+    "zero": 5
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|U": {
+    "negative": 14,
+    "positive": 9,
+    "zero": 1
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|U40": {
+    "negative": 10,
+    "positive": 13,
+    "zero": 1
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|E1": {
+    "negative": 8,
+    "positive": 14,
+    "zero": 2
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|E2": {
+    "negative": 13,
+    "positive": 10,
+    "zero": 1
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|E3": {
+    "negative": 10,
+    "positive": 13,
+    "zero": 1
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|E4": {
+    "positive": 12,
+    "negative": 11,
+    "zero": 1
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|E5": {
+    "positive": 8,
+    "negative": 15,
+    "zero": 1
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|E6": {
+    "negative": 9,
+    "positive": 13,
+    "zero": 2
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|E7": {
+    "positive": 11,
+    "negative": 11,
+    "zero": 2
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|E8": {
+    "negative": 12,
+    "positive": 11,
+    "zero": 1
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|MLOSS": {
+    "positive": 14,
+    "negative": 9,
+    "zero": 1
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|F0": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|F1": {
+    "positive": 19,
+    "zero": 5
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|F": {
+    "positive": 21,
+    "zero": 1,
+    "negative": 2
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|F40": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|FE1": {
+    "positive": 21,
+    "zero": 1,
+    "negative": 2
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|FE2": {
+    "positive": 1,
+    "zero": 22,
+    "negative": 1
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|FE3": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|FE4": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|FE5": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|FE6": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|FE7": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|FE8": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|D40": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|U0": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|U1": {
+    "negative": 18,
+    "zero": 6
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|U": {
+    "negative": 13,
+    "positive": 11
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|U40": {
+    "negative": 18,
+    "positive": 6
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|E1": {
+    "negative": 15,
+    "positive": 9
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|E2": {
+    "negative": 10,
+    "positive": 14
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|E3": {
+    "negative": 9,
+    "positive": 15
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|E4": {
+    "positive": 16,
+    "negative": 8
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|E5": {
+    "positive": 14,
+    "negative": 10
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|E6": {
+    "negative": 17,
+    "positive": 7
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|E7": {
+    "positive": 16,
+    "negative": 8
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|E8": {
+    "negative": 16,
+    "positive": 7,
+    "zero": 1
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|MLOSS": {
+    "positive": 13,
+    "negative": 11
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|F0": {
+    "zero": 24
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|F1": {
+    "negative": 23,
+    "zero": 1
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|F": {
+    "negative": 24
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|F40": {
+    "negative": 3,
+    "zero": 21
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|FE1": {
+    "negative": 24
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|FE2": {
+    "negative": 15,
+    "zero": 8,
+    "positive": 1
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|FE3": {
+    "negative": 7,
+    "zero": 17
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|FE4": {
+    "negative": 5,
+    "zero": 19
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|FE5": {
+    "negative": 3,
+    "zero": 21
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|FE6": {
+    "negative": 3,
+    "zero": 21
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|FE7": {
+    "negative": 3,
+    "zero": 21
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|FE8": {
+    "negative": 3,
+    "zero": 21
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|D40": {
+    "negative": 3,
+    "zero": 21
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|U0": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|U1": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|U": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|U40": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|E1": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|E2": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|E3": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|E4": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|E5": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|E6": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|E7": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|E8": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|MLOSS": {
+    "negative": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|F0": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|F1": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|F": {
+    "negative": 19,
+    "zero": 2,
+    "positive": 3
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|F40": {
+    "negative": 16,
+    "zero": 7,
+    "positive": 1
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|FE1": {
+    "negative": 17,
+    "positive": 5,
+    "zero": 2
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|FE2": {
+    "negative": 17,
+    "zero": 3,
+    "positive": 4
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|FE3": {
+    "positive": 3,
+    "zero": 4,
+    "negative": 17
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|FE4": {
+    "negative": 18,
+    "zero": 4,
+    "positive": 2
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|FE5": {
+    "negative": 16,
+    "zero": 7,
+    "positive": 1
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|FE6": {
+    "negative": 16,
+    "zero": 7,
+    "positive": 1
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|FE7": {
+    "negative": 16,
+    "zero": 7,
+    "positive": 1
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|FE8": {
+    "negative": 16,
+    "zero": 7,
+    "positive": 1
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|D40": {
+    "negative": 16,
+    "zero": 7,
+    "positive": 1
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|U0": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|U1": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|U": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|U40": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|E1": {
+    "positive": 23,
+    "negative": 1
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|E2": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|E3": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|E4": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|E5": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|E6": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|E7": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|E8": {
+    "positive": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|MLOSS": {
+    "negative": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|F0": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|F1": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|F": {
+    "positive": 4,
+    "zero": 6,
+    "negative": 14
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|F40": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|FE1": {
+    "positive": 4,
+    "zero": 7,
+    "negative": 13
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|FE2": {
+    "negative": 6,
+    "zero": 17,
+    "positive": 1
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|FE3": {
+    "zero": 23,
+    "negative": 1
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|FE4": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|FE5": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|FE6": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|FE7": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|FE8": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|D40": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|U0": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|U1": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|U": {
+    "positive": 19,
+    "negative": 5
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|U40": {
+    "positive": 14,
+    "negative": 10
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|E1": {
+    "negative": 13,
+    "positive": 11
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|E2": {
+    "negative": 11,
+    "positive": 13
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|E3": {
+    "negative": 8,
+    "positive": 16
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|E4": {
+    "positive": 17,
+    "negative": 7
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|E5": {
+    "positive": 20,
+    "negative": 4
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|E6": {
+    "positive": 17,
+    "negative": 7
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|E7": {
+    "positive": 22,
+    "negative": 2
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|E8": {
+    "positive": 18,
+    "negative": 6
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|MLOSS": {
+    "negative": 19,
+    "positive": 5
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|F0": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|F1": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|F": {
+    "negative": 7,
+    "positive": 17
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|F40": {
+    "negative": 3,
+    "positive": 15,
+    "zero": 6
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|FE1": {
+    "negative": 7,
+    "positive": 17
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|FE2": {
+    "negative": 7,
+    "positive": 17
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|FE3": {
+    "negative": 7,
+    "positive": 17
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|FE4": {
+    "negative": 7,
+    "positive": 17
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|FE5": {
+    "negative": 6,
+    "positive": 16,
+    "zero": 2
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|FE6": {
+    "negative": 4,
+    "positive": 16,
+    "zero": 4
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|FE7": {
+    "negative": 4,
+    "positive": 16,
+    "zero": 4
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|FE8": {
+    "negative": 3,
+    "positive": 15,
+    "zero": 6
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|D40": {
+    "negative": 3,
+    "positive": 15,
+    "zero": 6
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|U0": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|U1": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|U": {
+    "positive": 11,
+    "negative": 12,
+    "zero": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|U40": {
+    "positive": 14,
+    "negative": 9,
+    "zero": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|E1": {
+    "positive": 7,
+    "negative": 16,
+    "zero": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|E2": {
+    "positive": 12,
+    "negative": 11,
+    "zero": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|E3": {
+    "positive": 13,
+    "negative": 10,
+    "zero": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|E4": {
+    "positive": 13,
+    "negative": 10,
+    "zero": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|E5": {
+    "negative": 8,
+    "positive": 15,
+    "zero": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|E6": {
+    "negative": 17,
+    "zero": 1,
+    "positive": 6
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|E7": {
+    "negative": 15,
+    "positive": 8,
+    "zero": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|E8": {
+    "positive": 13,
+    "negative": 9,
+    "zero": 2
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|MLOSS": {
+    "negative": 11,
+    "positive": 12,
+    "zero": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|F0": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|F1": {
+    "zero": 24
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|F": {
+    "negative": 9,
+    "zero": 6,
+    "positive": 9
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|F40": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|FE1": {
+    "negative": 7,
+    "zero": 6,
+    "positive": 11
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|FE2": {
+    "positive": 5,
+    "zero": 15,
+    "negative": 4
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|FE3": {
+    "zero": 20,
+    "positive": 3,
+    "negative": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|FE4": {
+    "zero": 21,
+    "positive": 2,
+    "negative": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|FE5": {
+    "zero": 21,
+    "positive": 2,
+    "negative": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|FE6": {
+    "zero": 21,
+    "positive": 2,
+    "negative": 1
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|FE7": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|FE8": {
+    "zero": 22,
+    "positive": 2
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|D40": {
+    "zero": 22,
+    "positive": 2
+  }
+}

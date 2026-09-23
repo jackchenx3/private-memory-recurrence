@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "completed_at_utc": "2026-09-22T18:23:20.318208+00:00",
+  "elapsed_seconds": 708.7140491008759,
+  "checks": 13083841,
+  "maximum_discrepancy": 0.0,
+  "maximum_clock_relative_error": 2.2123092360983214e-16,
+  "clock_values_reconstructed": 17694720,
+  "saved_survival_integers_verified": 983040,
+  "paths": 6912,
+  "new_paths_reconstructed": 3456,
+  "old_paths_authenticated": 3456,
+  "new_updates_reconstructed": 138240,
+  "new_objective_values_reconstructed": 17805312,
+  "exact_old_intervals": 1248,
+  "intervals": 2808,
+  "structural_zero_records": 228,
+  "outcome_classifications": {
+    "positive": 1150,
+    "unresolved": 951,
+    "negative": 149,
+    "observed_exact_zero": 330,
+    "structural_zero": 228
+  },
+  "negative_records": 38336,
+  "endpoint_disagreements": 54745,
+  "decline_records": 131603,
+  "prefix_checks": {
+    "reused_best32_exact_records": 3456,
+    "active_sham_first_update": 1152,
+    "within_race_two_update_pairs": 2304
+  },
+  "manifest_files": {
+    "probabilistic_private_memory_v1/SOURCE_SHA256SUMS": 29,
+    "probabilistic_private_memory_v1/INPUT_SHA256SUMS": 14,
+    "probabilistic_private_memory_v1/RESULT_SHA256SUMS": 54,
+    "intermittent_private_memory_v1/DELIVERY_SHA256SUMS": 157,
+    "private_memory_competition_v1/DELIVERY_SHA256SUMS": 128
+  },
+  "source_manifest_sha256": "15e6fef12727c7f4115ebf194d5f73833a3c3456ef8970641854a36b5fbcc948",
+  "result_manifest_sha256": "0fbb8121f24bd3e45cb1ccecf8010342db2869be747e20365975b3926549b163",
+  "scientific_paths_run": 0,
+  "new_random_values_generated": 0,
+  "producer_modules_imported": false,
+  "scope": "All3456newRACE32paths independently reconstructed,3456oldBEST32records authenticated; every candidate, positive survival clock and ordered selection, cache/inheritance/accounting record,2808intervals,event/adverseindex and primary/attribution/spread/rule assessment checked. Negative selection improvement retained. No producer imports,newrandom draws or newpopulation experiment."
+}

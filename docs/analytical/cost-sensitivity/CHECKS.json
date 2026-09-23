@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "exact_checks": 12457,
+  "categories": {
+    "bernoulli_derivative_bound": 1001,
+    "one_draw_normalization": 1680,
+    "one_draw_derivative_mass": 1680,
+    "one_draw_total_variation_derivative": 1680,
+    "group_mixture_total_variation_identity": 5040,
+    "ordered_sampling_normalization": 448,
+    "ordered_sampling_derivative_mass": 448,
+    "ordered_sampling_derivative_bound": 448,
+    "finite_grid_discontinuity_example": 32
+  },
+  "sampling_probability_vectors": "four abstract weighted entries, all tag patterns",
+  "random_draws": 0,
+  "objective_calls": 0,
+  "propagated_population_paths": 0,
+  "K": 32,
+  "T": 40,
+  "ideal_lipschitz_constant": 221.8070977791825,
+  "scope": "Rational algebra checks support the explicit proof; not a population result or finite-grid approximation bound."
+}

@@ -1,0 +1,24 @@
+{
+  "new_sequences": 1536,
+  "new_updates": 61440,
+  "candidate_queries": 7864320,
+  "initial_queries": 49152,
+  "underlying_loss_computations": 7913472,
+  "state_measurements": 62976,
+  "nonparent_candidates": 5898240,
+  "nonparent_sources": {
+    "probe": 1966080,
+    "scout": 1966080,
+    "local_child": 1966080
+  },
+  "old_paths_used": 4608,
+  "old_paths_rerun": 0,
+  "source_resident_states": 384,
+  "preparation_previously_incurred_calls": 1978368,
+  "extra_diagnostic_loss_calls": 0,
+  "new_seeds": 192,
+  "logical_permutation_shuffles": 245760,
+  "reference_optimization": 0,
+  "pretraining": 0,
+  "fixture_work": "FIXTURE_WORK.json separate"
+}

@@ -1,0 +1,22 @@
+{
+  "new_preparation_paths": 1152,
+  "new_transfer_paths": 3456,
+  "total_paths": 4608,
+  "new_updates": 184320,
+  "candidate_queries": 23592960,
+  "initial_queries": 147456,
+  "underlying_loss_computations": 23740416,
+  "state_measurements": 188928,
+  "nonparent_candidates": 17694720,
+  "nonparent_sources": {
+    "probe": 5898240,
+    "scout": 5898240,
+    "local_child": 5898240
+  },
+  "old_paths_used": 0,
+  "old_paths_rerun": 0,
+  "source_genotype_arrays": 192,
+  "new_seed_records": 1200,
+  "extra_diagnostic_loss_calls": 0,
+  "fixture_work": "FIXTURE_WORK.json separate"
+}

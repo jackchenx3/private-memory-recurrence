@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "completed_at_utc": "2026-09-22T19:28:42.376606+00:00",
+  "elapsed_seconds": 974.5886499881744,
+  "checks": 14723351,
+  "maximum_discrepancy": 5.551115123125783e-17,
+  "new_paths_reconstructed": 4608,
+  "old_paths_authenticated": 2304,
+  "new_updates_reconstructed": 184320,
+  "new_objective_values_reconstructed": 23740416,
+  "clock_values_reconstructed": 35389440,
+  "clock_nonidentical": 23832,
+  "maximum_clock_ULPs": 1,
+  "intervals": 1482,
+  "structural_zero_records": 84,
+  "exact_old_intervals": 468,
+  "prefix_pairs": 3072,
+  "outcome_classifications": {
+    "unresolved": 483,
+    "positive": 699,
+    "observed_exact_zero": 171,
+    "structural_zero": 84,
+    "negative": 45
+  },
+  "negative_records": 25120,
+  "endpoint_disagreements": 41920,
+  "decline_records": 133815,
+  "role_fate_groups": 84,
+  "joint_fate_groups": 12,
+  "manifest_files": {
+    "direct_private_memory_competition_v1/SOURCE_SHA256SUMS": 28,
+    "direct_private_memory_competition_v1/INPUT_SHA256SUMS": 16,
+    "direct_private_memory_competition_v1/RESULT_SHA256SUMS": 57,
+    "probabilistic_private_memory_v1/DELIVERY_SHA256SUMS": 182
+  },
+  "source_manifest_sha256": "bb496aee8202ff4145945d6cfbd141f14ff59b28d6346397a515c267a28593b7",
+  "result_manifest_sha256": "555ded311908e7f419f86880cd62227b17aae552c7c37500ae18b62538fcf387",
+  "scientific_paths_run": 0,
+  "new_random_values_generated": 0,
+  "producer_modules_imported": false
+}

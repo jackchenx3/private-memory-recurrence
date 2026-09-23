@@ -1,0 +1,2092 @@
+{
+  "RESIDENT40|ZERO|ACTIVE_C0|U": {
+    "window_means": [
+      0.6532521565755208,
+      0.6150034586588542,
+      0.6161265055338542,
+      0.615576171875,
+      0.6162231445312499,
+      0.6170094807942709,
+      0.6167144775390625,
+      0.6152191162109375
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|ACTIVE_C0|F": {
+    "window_means": [
+      0.03697916666666667,
+      0.05566406249999999,
+      0.07643229166666667,
+      0.08707682291666667,
+      0.09296875,
+      0.09186197916666666,
+      0.09134114583333335,
+      0.09205729166666665
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|ACTIVE_C1|U": {
+    "window_means": [
+      0.6532063802083333,
+      0.6141794840494792,
+      0.6146586100260416,
+      0.6137969970703124,
+      0.6164703369140626,
+      0.6158548990885416,
+      0.6140838623046875,
+      0.6146341959635417
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|ACTIVE_C1|F": {
+    "window_means": [
+      0.00042317708333333335,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|NOVEL_C0|U": {
+    "window_means": [
+      0.6529856363932293,
+      0.6145914713541667,
+      0.6154388427734375,
+      0.6133961995442708,
+      0.615899658203125,
+      0.616326904296875,
+      0.61650390625,
+      0.6155904134114584
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|NOVEL_C0|F": {
+    "window_means": [
+      0.017968750000000002,
+      0.03557942708333334,
+      0.05442708333333333,
+      0.06956380208333333,
+      0.08092447916666666,
+      0.08642578125,
+      0.08912760416666665,
+      0.09316406249999999
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|NOVEL_C1|U": {
+    "window_means": [
+      0.6530283610026041,
+      0.6142079671223958,
+      0.6147552490234375,
+      0.6138275146484374,
+      0.6164133707682292,
+      0.6157002766927083,
+      0.6140329996744791,
+      0.61456298828125
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|NOVEL_C1|F": {
+    "window_means": [
+      0.00022786458333333336,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|SHAM_C0|U": {
+    "window_means": [
+      0.6528076171874999,
+      0.6145507812500001,
+      0.6149800618489584,
+      0.6147623697916667,
+      0.61541748046875,
+      0.6155120849609376,
+      0.6147349039713541,
+      0.6147969563802084
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|SHAM_C0|F": {
+    "window_means": [
+      0.03125,
+      0.03382161458333333,
+      0.03850911458333334,
+      0.045247395833333336,
+      0.04918619791666667,
+      0.04928385416666667,
+      0.05091145833333333,
+      0.05166015625
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      1
+    ]
+  },
+  "RESIDENT40|ZERO|SHAM_C1|U": {
+    "window_means": [
+      0.6530507405598959,
+      0.6142232259114583,
+      0.6146809895833333,
+      0.6137227376302083,
+      0.6164276123046876,
+      0.6157440185546875,
+      0.6141021728515624,
+      0.614630126953125
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|SHAM_C1|F": {
+    "window_means": [
+      0.00026041666666666666,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|ACTIVE_C0|U": {
+    "window_means": [
+      0.6901733398437501,
+      0.6352325439453125,
+      0.6424397786458333,
+      0.6393920898437501,
+      0.6385925292968749,
+      0.6368123372395833,
+      0.63629150390625,
+      0.6437143961588542
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|ACTIVE_C0|F": {
+    "window_means": [
+      0.03857421875,
+      0.07086588541666668,
+      0.09498697916666665,
+      0.10100911458333332,
+      0.11077473958333334,
+      0.12119140624999998,
+      0.12298177083333334,
+      0.12265625000000001
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|ACTIVE_C1|U": {
+    "window_means": [
+      0.6898335774739582,
+      0.6352996826171875,
+      0.6405751546223958,
+      0.6377695719401042,
+      0.6368560791015625,
+      0.6337320963541667,
+      0.6311208089192708,
+      0.6424947102864583
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|ACTIVE_C1|F": {
+    "window_means": [
+      0.0008463541666666667,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|NOVEL_C0|U": {
+    "window_means": [
+      0.6896850585937498,
+      0.6344512939453125,
+      0.6401723225911459,
+      0.6381500244140625,
+      0.6377980550130208,
+      0.6325154622395833,
+      0.6331807454427083,
+      0.6438446044921875
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|NOVEL_C0|F": {
+    "window_means": [
+      0.013639322916666669,
+      0.014225260416666668,
+      0.022526041666666666,
+      0.024967447916666666,
+      0.023111979166666668,
+      0.023665364583333334,
+      0.023795572916666664,
+      0.021158854166666668
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|NOVEL_C1|U": {
+    "window_means": [
+      0.6898223876953123,
+      0.6352823893229167,
+      0.6405598958333333,
+      0.6376363118489584,
+      0.6370340983072916,
+      0.6336547851562501,
+      0.6312052408854166,
+      0.6425201416015626
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|NOVEL_C1|F": {
+    "window_means": [
+      0.00022786458333333336,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|SHAM_C0|U": {
+    "window_means": [
+      0.6898874918619793,
+      0.6346862792968749,
+      0.6408487955729166,
+      0.6368672688802083,
+      0.6380615234375,
+      0.6333099365234375,
+      0.6320546468098959,
+      0.6424428304036459
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|SHAM_C0|F": {
+    "window_means": [
+      0.03056640625,
+      0.025716145833333332,
+      0.021354166666666664,
+      0.019466145833333334,
+      0.020605468749999998,
+      0.02275390625,
+      0.025716145833333332,
+      0.026041666666666668
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|SHAM_C1|U": {
+    "window_means": [
+      0.6898101806640624,
+      0.6352732340494791,
+      0.6406046549479166,
+      0.6376393636067709,
+      0.6369303385416667,
+      0.6337432861328125,
+      0.6310953776041667,
+      0.6425628662109375
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|SHAM_C1|F": {
+    "window_means": [
+      0.00026041666666666666,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|ACTIVE_C0|U": {
+    "window_means": [
+      0.7302266438802084,
+      0.7307617187500001,
+      0.7385101318359375,
+      0.74566650390625,
+      0.7547719319661459,
+      0.7615936279296873,
+      0.7704203287760416,
+      0.7754801432291666
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|ACTIVE_C0|F": {
+    "window_means": [
+      0.03997395833333334,
+      0.10374348958333335,
+      0.2225911458333333,
+      0.28850911458333334,
+      0.31162109374999997,
+      0.33134765625,
+      0.3387369791666666,
+      0.3398763020833333
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|ACTIVE_C1|U": {
+    "window_means": [
+      0.7300974527994791,
+      0.7288391113281251,
+      0.7305419921874999,
+      0.7292999267578125,
+      0.7308685302734373,
+      0.7294057210286459,
+      0.7311381022135417,
+      0.7296254475911459
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|ACTIVE_C1|F": {
+    "window_means": [
+      0.0008463541666666667,
+      0.0032877604166666667,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|NOVEL_C0|U": {
+    "window_means": [
+      0.7300567626953125,
+      0.7286305745442707,
+      0.7300771077473959,
+      0.7287556966145834,
+      0.73018798828125,
+      0.7285502115885417,
+      0.7301208496093748,
+      0.7285502115885416
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|NOVEL_C0|F": {
+    "window_means": [
+      0.009342447916666666,
+      0.0007812499999999999,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|NOVEL_C1|U": {
+    "window_means": [
+      0.730072021484375,
+      0.7286122639973959,
+      0.7300842285156249,
+      0.7287160237630209,
+      0.73013916015625,
+      0.7285186767578123,
+      0.730133056640625,
+      0.7285359700520834
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|NOVEL_C1|F": {
+    "window_means": [
+      0.00022786458333333336,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|SHAM_C0|U": {
+    "window_means": [
+      0.73004150390625,
+      0.7285868326822916,
+      0.7300669352213541,
+      0.7287261962890624,
+      0.7302347819010416,
+      0.7285237630208332,
+      0.7301371256510416,
+      0.7285664876302084
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|SHAM_C0|F": {
+    "window_means": [
+      0.029199218749999995,
+      0.03056640625,
+      0.03362630208333334,
+      0.03528645833333333,
+      0.03046875,
+      0.03030598958333333,
+      0.029427083333333336,
+      0.026985677083333336
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|SHAM_C1|U": {
+    "window_means": [
+      0.7300740559895834,
+      0.7286112467447916,
+      0.7300842285156249,
+      0.7287150065104168,
+      0.73013916015625,
+      0.7285166422526043,
+      0.730132039388021,
+      0.7285329182942708
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|SHAM_C1|F": {
+    "window_means": [
+      0.00026041666666666666,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|ACTIVE_C0-NOVEL_C0|U": {
+    "window_means": [
+      0.0002665201822916556,
+      0.0004119873046875185,
+      0.000687662760416675,
+      0.0021799723307291546,
+      0.000323486328125025,
+      0.0006825764973958278,
+      0.0002105712890624889,
+      -0.0003712972005208287
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|ACTIVE_C0-NOVEL_C0|F": {
+    "window_means": [
+      0.01901041666666667,
+      0.020084635416666666,
+      0.02200520833333333,
+      0.01751302083333334,
+      0.012044270833333334,
+      0.005436197916666667,
+      0.0022135416666666636,
+      -0.0011067708333333329
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|ACTIVE_C1-NOVEL_C1|U": {
+    "window_means": [
+      0.00017801920572916666,
+      -2.8483072916668517e-05,
+      -9.663899739582871e-05,
+      -3.0517578125e-05,
+      5.6966145833332406e-05,
+      0.00015462239583333148,
+      5.086263020833796e-05,
+      7.120768229166204e-05
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|ACTIVE_C1-NOVEL_C1|F": {
+    "window_means": [
+      0.00019531249999999998,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RESIDENT40|ZERO|ACTIVE_C0-SHAM_C0|U": {
+    "window_means": [
+      0.00044453938802084075,
+      0.00045267740885418517,
+      0.0011464436848958454,
+      0.0008138020833333287,
+      0.0008056640625000028,
+      0.0014973958333333408,
+      0.0019795735677083557,
+      0.0004221598307291713
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|ACTIVE_C0-SHAM_C0|F": {
+    "window_means": [
+      0.005729166666666666,
+      0.021842447916666664,
+      0.03792317708333333,
+      0.041829427083333336,
+      0.043782552083333336,
+      0.042578125,
+      0.0404296875,
+      0.04039713541666667
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|ACTIVE_C1-SHAM_C1|U": {
+    "window_means": [
+      0.00015563964843749722,
+      -4.374186197916852e-05,
+      -2.2379557291664815e-05,
+      7.425944010416852e-05,
+      4.272460937499815e-05,
+      0.00011088053385416297,
+      -1.8310546874997224e-05,
+      4.069010416662966e-06
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|ACTIVE_C1-SHAM_C1|F": {
+    "window_means": [
+      0.00016276041666666666,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RESIDENT40|ZERO|NOVEL_C0-SHAM_C0|U": {
+    "window_means": [
+      0.00017801920572918517,
+      4.0690104166666664e-05,
+      0.00045878092447917035,
+      -0.001366170247395826,
+      0.0004821777343749778,
+      0.000814819335937513,
+      0.0017690022786458666,
+      0.00079345703125
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|NOVEL_C0-SHAM_C0|F": {
+    "window_means": [
+      -0.013281250000000001,
+      0.001757812500000003,
+      0.015917968749999997,
+      0.024316406250000002,
+      0.03173828125,
+      0.03714192708333333,
+      0.03821614583333333,
+      0.04150390625
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|NOVEL_C1-SHAM_C1|U": {
+    "window_means": [
+      -2.2379557291669443e-05,
+      -1.52587890625e-05,
+      7.42594401041639e-05,
+      0.00010477701822916852,
+      -1.4241536458334259e-05,
+      -4.374186197916852e-05,
+      -6.917317708333519e-05,
+      -6.713867187499907e-05
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|ZERO|NOVEL_C1-SHAM_C1|F": {
+    "window_means": [
+      -3.255208333333333e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RESIDENT40|HALF|ACTIVE_C0-NOVEL_C0|U": {
+    "window_means": [
+      0.0004882812500000092,
+      0.000781249999999988,
+      0.0022674560546875194,
+      0.0012420654296875177,
+      0.0007944742838541796,
+      0.004296874999999996,
+      0.0031107584635416594,
+      -0.00013020833333333057
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|ACTIVE_C0-NOVEL_C0|F": {
+    "window_means": [
+      0.02493489583333333,
+      0.056640625,
+      0.0724609375,
+      0.07604166666666667,
+      0.08766276041666667,
+      0.09752604166666666,
+      0.09918619791666668,
+      0.10149739583333334
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|ACTIVE_C1-NOVEL_C1|U": {
+    "window_means": [
+      1.118977864584166e-05,
+      1.7293294270831483e-05,
+      1.52587890625e-05,
+      0.00013326009114583703,
+      -0.00017801920572916666,
+      7.731119791666574e-05,
+      -8.443196614583055e-05,
+      -2.5431315104166668e-05
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|ACTIVE_C1-NOVEL_C1|F": {
+    "window_means": [
+      0.0006184895833333334,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RESIDENT40|HALF|ACTIVE_C0-SHAM_C0|U": {
+    "window_means": [
+      0.0002858479817708324,
+      0.0005462646484375074,
+      0.001590983072916663,
+      0.002524820963541679,
+      0.0005310058593750305,
+      0.00350240071614584,
+      0.004236857096354171,
+      0.001271565755208338
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|ACTIVE_C0-SHAM_C0|F": {
+    "window_means": [
+      0.008007812500000001,
+      0.04514973958333333,
+      0.0736328125,
+      0.08154296875,
+      0.09016927083333333,
+      0.0984375,
+      0.09726562500000001,
+      0.09661458333333334
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|ACTIVE_C1-SHAM_C1|U": {
+    "window_means": [
+      2.339680989583981e-05,
+      2.644856770833241e-05,
+      -2.950032552083426e-05,
+      0.00013020833333333517,
+      -7.42594401041639e-05,
+      -1.1189778645837034e-05,
+      2.5431315104166668e-05,
+      -6.815592447916945e-05
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|ACTIVE_C1-SHAM_C1|F": {
+    "window_means": [
+      0.0005859375,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RESIDENT40|HALF|NOVEL_C0-SHAM_C0|U": {
+    "window_means": [
+      -0.00020243326822917684,
+      -0.00023498535156248057,
+      -0.0006764729817708565,
+      0.0012827555338541612,
+      -0.0002634684244791491,
+      -0.0007944742838541565,
+      0.001126098632812512,
+      0.0014017740885416685
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|NOVEL_C0-SHAM_C0|F": {
+    "window_means": [
+      -0.016927083333333332,
+      -0.011490885416666666,
+      0.0011718750000000002,
+      0.005501302083333334,
+      0.0025065104166666677,
+      0.0009114583333333324,
+      -0.0019205729166666661,
+      -0.0048828125
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|NOVEL_C1-SHAM_C1|U": {
+    "window_means": [
+      1.2207031249998149e-05,
+      9.155273437500925e-06,
+      -4.475911458333426e-05,
+      -3.0517578125018505e-06,
+      0.00010375976562500278,
+      -8.850097656250278e-05,
+      0.00010986328124999722,
+      -4.2724609375002776e-05
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF|NOVEL_C1-SHAM_C1|F": {
+    "window_means": [
+      -3.255208333333333e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RESIDENT40|FULL|ACTIVE_C0-NOVEL_C0|U": {
+    "window_means": [
+      0.0001698811848958546,
+      0.0021311442057291713,
+      0.008433024088541694,
+      0.016910807291666677,
+      0.024583943684895828,
+      0.033043416341145826,
+      0.04029947916666668,
+      0.04692993164062498
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|ACTIVE_C0-NOVEL_C0|F": {
+    "window_means": [
+      0.03063151041666667,
+      0.10296223958333332,
+      0.2225911458333333,
+      0.28850911458333334,
+      0.31162109374999997,
+      0.33134765625,
+      0.3387369791666666,
+      0.3398763020833333
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|ACTIVE_C1-NOVEL_C1|U": {
+    "window_means": [
+      2.5431315104171293e-05,
+      0.00022684733072916852,
+      0.000457763671875,
+      0.0005839029947916676,
+      0.0007293701171875028,
+      0.0008870442708333315,
+      0.0010050455729166685,
+      0.001089477539062499
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|ACTIVE_C1-NOVEL_C1|F": {
+    "window_means": [
+      0.0006184895833333334,
+      0.0032877604166666667,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|ACTIVE_C0-SHAM_C0|U": {
+    "window_means": [
+      0.00018513997395835,
+      0.00217488606770834,
+      0.008443196614583343,
+      0.016940307617187483,
+      0.024537150065104155,
+      0.03306986490885415,
+      0.040283203125000014,
+      0.046913655598958326
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|ACTIVE_C0-SHAM_C0|F": {
+    "window_means": [
+      0.010774739583333333,
+      0.07317708333333334,
+      0.18896484375,
+      0.25322265625,
+      0.28115234375000003,
+      0.30104166666666665,
+      0.30930989583333335,
+      0.31289062500000003
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|ACTIVE_C1-SHAM_C1|U": {
+    "window_means": [
+      2.339680989583981e-05,
+      0.00022786458333333426,
+      0.000457763671875,
+      0.0005849202473958334,
+      0.0007293701171875028,
+      0.000889078776041663,
+      0.0010060628255208343,
+      0.001092529296875001
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|ACTIVE_C1-SHAM_C1|F": {
+    "window_means": [
+      0.0005859375,
+      0.0032877604166666667,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|NOVEL_C0-SHAM_C0|U": {
+    "window_means": [
+      1.5258789062495374e-05,
+      4.374186197916852e-05,
+      1.0172526041648164e-05,
+      2.9500325520806503e-05,
+      -4.679361979167037e-05,
+      2.6448567708323156e-05,
+      -1.627604166666574e-05,
+      -1.627604166665649e-05
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|NOVEL_C0-SHAM_C0|F": {
+    "window_means": [
+      -0.019856770833333332,
+      -0.02978515625,
+      -0.03362630208333334,
+      -0.03528645833333333,
+      -0.03046875,
+      -0.03030598958333333,
+      -0.029427083333333336,
+      -0.026985677083333336
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL|NOVEL_C1-SHAM_C1|U": {
+    "window_means": [
+      -2.034505208331483e-06,
+      1.0172526041657415e-06,
+      0.0,
+      1.0172526041657415e-06,
+      0.0,
+      2.034505208331483e-06,
+      1.0172526041657415e-06,
+      3.0517578125018505e-06
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      3,
+      5
+    ]
+  },
+  "RESIDENT40|FULL|NOVEL_C1-SHAM_C1|F": {
+    "window_means": [
+      -3.255208333333333e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RESIDENT40|HALF_MINUS_ZERO|ACTIVE_C0-NOVEL_C0|U": {
+    "window_means": [
+      0.0002217610677083537,
+      0.00036926269531246947,
+      0.0015797932942708444,
+      -0.0009379069010416371,
+      0.00047098795572915464,
+      0.0036142985026041685,
+      0.0029001871744791705,
+      0.00024108886718749814
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF_MINUS_ZERO|ACTIVE_C0-NOVEL_C0|F": {
+    "window_means": [
+      0.005924479166666666,
+      0.03655598958333334,
+      0.050455729166666664,
+      0.05852864583333334,
+      0.07561848958333334,
+      0.09208984375,
+      0.09697265625,
+      0.10260416666666666
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF_MINUS_ZERO|ACTIVE_C1-NOVEL_C1|U": {
+    "window_means": [
+      -0.00016682942708332502,
+      4.57763671875e-05,
+      0.00011189778645832871,
+      0.00016377766927083703,
+      -0.00023498535156249908,
+      -7.731119791666574e-05,
+      -0.00013529459635416852,
+      -9.663899739582871e-05
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF_MINUS_ZERO|ACTIVE_C1-NOVEL_C1|F": {
+    "window_means": [
+      0.0004231770833333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RESIDENT40|HALF_MINUS_ZERO|ACTIVE_C0-SHAM_C0|U": {
+    "window_means": [
+      -0.00015869140625000833,
+      9.358723958332223e-05,
+      0.0004445393880208176,
+      0.00171101888020835,
+      -0.00027465820312497224,
+      0.0020050048828124992,
+      0.0022572835286458156,
+      0.0008494059244791666
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF_MINUS_ZERO|ACTIVE_C0-SHAM_C0|F": {
+    "window_means": [
+      0.0022786458333333343,
+      0.023307291666666664,
+      0.03570963541666667,
+      0.039713541666666664,
+      0.04638671875,
+      0.055859374999999996,
+      0.056835937499999996,
+      0.05621744791666666
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF_MINUS_ZERO|ACTIVE_C1-SHAM_C1|U": {
+    "window_means": [
+      -0.00013224283854165741,
+      7.019042968750093e-05,
+      -7.1207682291694425e-06,
+      5.5948893229166664e-05,
+      -0.00011698404947916204,
+      -0.0001220703125,
+      4.374186197916389e-05,
+      -7.222493489583241e-05
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|HALF_MINUS_ZERO|ACTIVE_C1-SHAM_C1|F": {
+    "window_means": [
+      0.0004231770833333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RESIDENT40|FULL_MINUS_HALF|ACTIVE_C0-NOVEL_C0|U": {
+    "window_means": [
+      -0.00031840006510415464,
+      0.0013498942057291834,
+      0.006165568033854175,
+      0.015668741861979158,
+      0.02378946940104165,
+      0.02874654134114583,
+      0.03718872070312502,
+      0.04706013997395831
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL_MINUS_HALF|ACTIVE_C0-NOVEL_C0|F": {
+    "window_means": [
+      0.005696614583333335,
+      0.04632161458333334,
+      0.15013020833333332,
+      0.2124674479166667,
+      0.22395833333333334,
+      0.23382161458333336,
+      0.23955078124999998,
+      0.23837890625
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL_MINUS_HALF|ACTIVE_C1-NOVEL_C1|U": {
+    "window_means": [
+      1.4241536458329632e-05,
+      0.00020955403645833703,
+      0.0004425048828125,
+      0.00045064290364583054,
+      0.0009073893229166694,
+      0.0008097330729166657,
+      0.001089477539062499,
+      0.0011149088541666657
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL_MINUS_HALF|ACTIVE_C1-NOVEL_C1|F": {
+    "window_means": [
+      0.0,
+      0.0032877604166666667,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      1
+    ]
+  },
+  "RESIDENT40|FULL_MINUS_HALF|ACTIVE_C0-SHAM_C0|U": {
+    "window_means": [
+      -0.00010070800781248242,
+      0.0016286214192708325,
+      0.00685221354166668,
+      0.014415486653645804,
+      0.024006144205729125,
+      0.02956746419270831,
+      0.03604634602864584,
+      0.04564208984374999
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL_MINUS_HALF|ACTIVE_C0-SHAM_C0|F": {
+    "window_means": [
+      0.002766927083333334,
+      0.02802734375,
+      0.11533203124999998,
+      0.17167968749999998,
+      0.1909830729166667,
+      0.20260416666666667,
+      0.21204427083333335,
+      0.2162760416666667
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL_MINUS_HALF|ACTIVE_C1-SHAM_C1|U": {
+    "window_means": [
+      0.0,
+      0.00020141601562500186,
+      0.00048726399739583426,
+      0.00045471191406249817,
+      0.0008036295572916666,
+      0.0009002685546875,
+      0.0009806315104166675,
+      0.0011606852213541703
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      1
+    ]
+  },
+  "RESIDENT40|FULL_MINUS_HALF|ACTIVE_C1-SHAM_C1|F": {
+    "window_means": [
+      0.0,
+      0.0032877604166666667,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      1
+    ]
+  },
+  "RESIDENT40|FULL_MINUS_ZERO|ACTIVE_C0-NOVEL_C0|U": {
+    "window_means": [
+      -9.663899739580095e-05,
+      0.0017191569010416529,
+      0.007745361328125019,
+      0.014730834960937522,
+      0.024260457356770803,
+      0.032360839843749996,
+      0.04008890787760419,
+      0.04730122884114581
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL_MINUS_ZERO|ACTIVE_C0-NOVEL_C0|F": {
+    "window_means": [
+      0.01162109375,
+      0.08287760416666667,
+      0.2005859375,
+      0.27099609375,
+      0.2995768229166667,
+      0.32591145833333335,
+      0.33652343749999997,
+      0.3409830729166667
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL_MINUS_ZERO|ACTIVE_C1-NOVEL_C1|U": {
+    "window_means": [
+      -0.00015258789062499537,
+      0.00025533040364583703,
+      0.0005544026692708287,
+      0.0006144205729166676,
+      0.0006724039713541704,
+      0.000732421875,
+      0.0009541829427083306,
+      0.001018269856770837
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL_MINUS_ZERO|ACTIVE_C1-NOVEL_C1|F": {
+    "window_means": [
+      0.0004231770833333333,
+      0.0032877604166666667,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL_MINUS_ZERO|ACTIVE_C0-SHAM_C0|U": {
+    "window_means": [
+      -0.00025939941406249073,
+      0.0017222086588541546,
+      0.007296752929687497,
+      0.016126505533854155,
+      0.023731486002604153,
+      0.03157246907552081,
+      0.038303629557291656,
+      0.04649149576822916
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL_MINUS_ZERO|ACTIVE_C0-SHAM_C0|F": {
+    "window_means": [
+      0.005045572916666668,
+      0.05133463541666666,
+      0.15104166666666666,
+      0.21139322916666667,
+      0.2373697916666667,
+      0.2584635416666667,
+      0.2688802083333333,
+      0.27249348958333336
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL_MINUS_ZERO|ACTIVE_C1-SHAM_C1|U": {
+    "window_means": [
+      -0.00013224283854165741,
+      0.0002716064453125028,
+      0.0004801432291666648,
+      0.0005106608072916649,
+      0.0006866455078125047,
+      0.0007781982421875,
+      0.0010243733723958315,
+      0.001088460286458338
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RESIDENT40|FULL_MINUS_ZERO|ACTIVE_C1-SHAM_C1|F": {
+    "window_means": [
+      0.0004231770833333333,
+      0.0032877604166666667,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  }
+}

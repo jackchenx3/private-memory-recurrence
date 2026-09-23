@@ -1,0 +1,9 @@
+{
+  "paths": 192,
+  "updates": 7680,
+  "candidate_queries": 983040,
+  "initial_queries": 6144,
+  "underlying_loss_computations": 989184,
+  "state_measurements": 7872,
+  "extra_diagnostic_loss_calls": 0
+}

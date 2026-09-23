@@ -1,0 +1,50 @@
+{
+  "primary_key": "HALF|C0|MIX_H_MINUS_F|D40",
+  "primary": {
+    "mean": 0.11368815104166667,
+    "ci95": [
+      0.08389689127604168,
+      0.14143880208333334
+    ],
+    "zero_classification": "positive"
+  },
+  "prospective_expectation": "positive",
+  "expectation_supported": true,
+  "historical_absolute": {
+    "mean": 0.08797200520833333,
+    "ci95": [
+      0.05737101236979167,
+      0.1181640625
+    ],
+    "zero_classification": "positive"
+  },
+  "historical_mean_increase": true,
+  "fresh_absolute": {
+    "mean": -0.025716145833333332,
+    "ci95": [
+      -0.03125,
+      -0.01806640625
+    ],
+    "zero_classification": "negative"
+  },
+  "composition_moderation": {
+    "mean": -0.0244140625,
+    "ci95": [
+      -0.05762125651041666,
+      0.008630371093749978
+    ],
+    "zero_classification": "unresolved"
+  },
+  "incremental_recurrence": {
+    "mean": 0.14461263020833334,
+    "ci95": [
+      0.099200439453125,
+      0.18562825520833334
+    ],
+    "zero_classification": "positive"
+  },
+  "incremental_recurrence_supported": true,
+  "interval_scope": "approximate pointwise",
+  "total_composition_intervention": true,
+  "independent_replication": false
+}

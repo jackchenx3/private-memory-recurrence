@@ -1,0 +1,72 @@
+{
+  "task_id": "ORG-PREPREP-052",
+  "revision": 1,
+  "population": 32,
+  "bits": 32,
+  "horizon": 40,
+  "blocks": 24,
+  "continuations": 8,
+  "orientations": "paired intervention average, not extra continuations",
+  "laws": [
+    "ZERO",
+    "HALF",
+    "FULL"
+  ],
+  "costs": [
+    0,
+    1
+  ],
+  "configs": [
+    "MIX0",
+    "MIX1",
+    "H0",
+    "H1",
+    "F0",
+    "F1"
+  ],
+  "new_configs": [
+    "MIX0",
+    "MIX1",
+    "H0",
+    "H1",
+    "F0",
+    "F1"
+  ],
+  "new_paths": 6912,
+  "stored_controls": 0,
+  "new_seeds": 1993,
+  "new_random_draws": "see INPUT_GENERATION.json exact API counts",
+  "initial_mixed_frequencies": {
+    "H": 0.03125,
+    "F": 0.03125,
+    "R": 0.9375
+  },
+  "cost_definition": "cost*int(type!=resident)",
+  "position_rule": "p0=labels[0];p1=labels[1];actual positions preserved",
+  "primary": "HALF|C0|MIX_H_MINUS_F|D40",
+  "prospective_expectation": "positive",
+  "moderation": "HALF|C0|MIX_MINUS_ISO_RANK|D40",
+  "incremental": "HALF_MINUS_ZERO|C0|MIX_H_MINUS_F|D40",
+  "interval_records": 1482,
+  "design_zeros": 84,
+  "old_interval_records_authenticated": 0,
+  "old_event_groups_authenticated": 0,
+  "bootstrap_rows": 2000,
+  "interval_scope": "approximate pointwise",
+  "survival_weight": "2**(-raw-cost*int(type!=0))",
+  "survivor_order": "ascending(clock,old_tie,index)",
+  "resource": {
+    "cpus": 1,
+    "memory_GiB": 4,
+    "minutes": 25
+  },
+  "negative_S_pen_valid": true,
+  "preparation_paths": 192,
+  "total_scientific_paths": 7104,
+  "companions": [
+    "HALF|C0|MIX_H|D40",
+    "HALF_MINUS_ZERO|C0|MIX_H_MINUS_F|D40"
+  ],
+  "full_reproduction": "primary and both companions strictly positive pointwise intervals",
+  "cohorts_pooled": false
+}

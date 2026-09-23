@@ -1,0 +1,47 @@
+{
+  "task_id": "ORG-INTERMIT-049",
+  "revision": 1,
+  "population": 32,
+  "bits": 32,
+  "horizon": 40,
+  "blocks": 24,
+  "continuations": 8,
+  "starts": [
+    "RESIDENT40"
+  ],
+  "policies": [
+    "ACTIVE_C0",
+    "ACTIVE_C1",
+    "NOVEL_C0",
+    "NOVEL_C1",
+    "SHAM_C0",
+    "SHAM_C1"
+  ],
+  "laws": [
+    "ZERO",
+    "HALF",
+    "FULL"
+  ],
+  "initial_carriers": 1,
+  "carrier_position": "reused047 labels[0]",
+  "cache_initialization": "own current genotype,0,position",
+  "new_paths": 2304,
+  "source_states": 192,
+  "source_paths_rerun": 0,
+  "new_seeds": 48,
+  "seed_namespace": "ORG-INTERMIT-049-r1|{family}|{block}",
+  "primary": "RESIDENT40|HALF|ACTIVE_C0-NOVEL_C0|D40",
+  "intervals": 1248,
+  "structural_zeros": 96,
+  "bootstrap_rows": 2000,
+  "resource": {
+    "cpus": 1,
+    "memory_GiB": 4,
+    "minutes": 10
+  },
+  "reused_paths": 1152,
+  "incremental_attribution": "RESIDENT40|HALF_MINUS_ZERO|ACTIVE_C0-NOVEL_C0|D40",
+  "copy_probability": 0.5,
+  "innovations": 912,
+  "copy_bits": 912
+}

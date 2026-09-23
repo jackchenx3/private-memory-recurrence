@@ -1,0 +1,540 @@
+{
+  "ZERO|C0|LOW_H|F": {
+    "window_means": [
+      0.054036458333333336,
+      0.048046874999999996,
+      0.046793619791666664,
+      0.043375651041666664,
+      0.0419921875,
+      0.03733723958333333,
+      0.036116536458333334,
+      0.033203125
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|LOW_F|F": {
+    "window_means": [
+      0.9459635416666666,
+      0.9519531250000001,
+      0.9532063802083334,
+      0.9566243489583334,
+      0.9580078125,
+      0.9626627604166668,
+      0.9638834635416668,
+      0.966796875
+    ],
+    "reference": 0.96875,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|LOW_POP|U": {
+    "window_means": [
+      0.665868631998698,
+      0.6067479451497396,
+      0.6068715413411458,
+      0.607898457845052,
+      0.6068018595377604,
+      0.6080215454101562,
+      0.6063802083333333,
+      0.6065709431966146
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|HIGH_H|F": {
+    "window_means": [
+      0.981689453125,
+      0.9761230468750001,
+      0.9798502604166668,
+      0.9787272135416667,
+      0.9786783854166666,
+      0.9792805989583334,
+      0.9809082031249999,
+      0.9815266927083334
+    ],
+    "reference": 0.96875,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|HIGH_F|F": {
+    "window_means": [
+      0.018310546875,
+      0.023876953125,
+      0.020149739583333333,
+      0.02127278645833333,
+      0.021321614583333332,
+      0.020719401041666665,
+      0.019091796875,
+      0.018473307291666668
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|HIGH_POP|U": {
+    "window_means": [
+      0.656988525390625,
+      0.6036026000976563,
+      0.6026835123697917,
+      0.6059885660807293,
+      0.6033126831054688,
+      0.6037429809570312,
+      0.6031366984049479,
+      0.6029800415039063
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|LOW_H|F": {
+    "window_means": [
+      0.08981119791666668,
+      0.204931640625,
+      0.2685221354166667,
+      0.3277506510416666,
+      0.358837890625,
+      0.38136393229166665,
+      0.3902180989583333,
+      0.39482421875
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|LOW_F|F": {
+    "window_means": [
+      0.9101888020833333,
+      0.795068359375,
+      0.7314778645833334,
+      0.6722493489583333,
+      0.6411621093750001,
+      0.6186360677083332,
+      0.6097819010416666,
+      0.6051757812499999
+    ],
+    "reference": 0.96875,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|LOW_POP|U": {
+    "window_means": [
+      0.7068608601888021,
+      0.6319224039713541,
+      0.6210322062174479,
+      0.6269068400065104,
+      0.6263763427734376,
+      0.6224761962890625,
+      0.6214650472005209,
+      0.6229390462239585
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HIGH_H|F": {
+    "window_means": [
+      0.9859700520833333,
+      0.9945475260416666,
+      0.9969401041666667,
+      0.9976725260416668,
+      0.9974772135416666,
+      0.9991861979166666,
+      1.0,
+      1.0
+    ],
+    "reference": 0.96875,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HIGH_F|F": {
+    "window_means": [
+      0.014029947916666665,
+      0.005452473958333333,
+      0.0030598958333333333,
+      0.0023274739583333333,
+      0.0025227864583333335,
+      0.0008138020833333334,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HIGH_POP|U": {
+    "window_means": [
+      0.7090810139973959,
+      0.6418767293294271,
+      0.6285776774088542,
+      0.6358113606770833,
+      0.6325531005859376,
+      0.6299265543619791,
+      0.6304407755533855,
+      0.6288345336914062
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|LOW_H|F": {
+    "window_means": [
+      0.13053385416666666,
+      0.5074544270833333,
+      0.733544921875,
+      0.7700358072916668,
+      0.77529296875,
+      0.7759765625,
+      0.7760416666666666,
+      0.7760416666666666
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|LOW_F|F": {
+    "window_means": [
+      0.8694661458333334,
+      0.49254557291666673,
+      0.26645507812499997,
+      0.22996419270833335,
+      0.22470703125,
+      0.2240234375,
+      0.22395833333333334,
+      0.22395833333333334
+    ],
+    "reference": 0.96875,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|LOW_POP|U": {
+    "window_means": [
+      0.7575352986653646,
+      0.7597229003906248,
+      0.7676055908203124,
+      0.7733851114908855,
+      0.7842981974283854,
+      0.7936854044596354,
+      0.8063817342122395,
+      0.8159144083658855
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HIGH_H|F": {
+    "window_means": [
+      0.989404296875,
+      0.9994628906249999,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "reference": 0.96875,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HIGH_F|F": {
+    "window_means": [
+      0.010595703125,
+      0.0005371093749999999,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HIGH_POP|U": {
+    "window_means": [
+      0.7640157063802082,
+      0.7673507690429687,
+      0.7766769409179689,
+      0.7874318440755209,
+      0.8025792439778646,
+      0.816229248046875,
+      0.8296824137369793,
+      0.8428014119466146
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|LOW_MINUS_HIGH_H|F": {
+    "window_means": [
+      -0.9276529947916666,
+      -0.928076171875,
+      -0.9330566406249999,
+      -0.9353515625000001,
+      -0.9366861979166666,
+      -0.9419433593750001,
+      -0.9447916666666668,
+      -0.9483235677083334
+    ],
+    "reference": -0.9375,
+    "observed_crossings": [
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|LOW_MINUS_HIGH_POP|U": {
+    "window_means": [
+      0.008880106608072919,
+      0.003145345052083364,
+      0.004188028971354184,
+      0.0019098917643229258,
+      0.003489176432291676,
+      0.004278564453125036,
+      0.0032435099283854157,
+      0.0035909016927083612
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|LOW_MINUS_HIGH_H|F": {
+    "window_means": [
+      -0.8961588541666666,
+      -0.7896158854166666,
+      -0.72841796875,
+      -0.669921875,
+      -0.6386393229166667,
+      -0.6178222656250001,
+      -0.6097819010416666,
+      -0.6051757812499999
+    ],
+    "reference": -0.9375,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|LOW_MINUS_HIGH_POP|U": {
+    "window_means": [
+      -0.0022201538085937548,
+      -0.009954325358072913,
+      -0.007545471191406236,
+      -0.008904520670572921,
+      -0.006176757812499989,
+      -0.007450358072916653,
+      -0.008975728352864596,
+      -0.005895487467447923
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|LOW_MINUS_HIGH_H|F": {
+    "window_means": [
+      -0.8588704427083332,
+      -0.4920084635416666,
+      -0.26645507812499997,
+      -0.22996419270833335,
+      -0.22470703125,
+      -0.2240234375,
+      -0.22395833333333334,
+      -0.22395833333333334
+    ],
+    "reference": -0.9375,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|LOW_MINUS_HIGH_POP|U": {
+    "window_means": [
+      -0.006480407714843793,
+      -0.007627868652343758,
+      -0.009071350097656245,
+      -0.014046732584635443,
+      -0.018281046549479155,
+      -0.02254384358723958,
+      -0.02330067952473959,
+      -0.026887003580729128
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF_MINUS_ZERO|C0|LOW_H|F": {
+    "window_means": [
+      0.03577473958333333,
+      0.156884765625,
+      0.22172851562500004,
+      0.284375,
+      0.316845703125,
+      0.3440266927083333,
+      0.35410156249999997,
+      0.36162109375
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF_MINUS_ZERO|C0|HIGH_F|F": {
+    "window_means": [
+      -0.004280598958333333,
+      -0.018424479166666664,
+      -0.01708984375,
+      -0.018945312500000002,
+      -0.018798828125,
+      -0.01990559895833333,
+      -0.019091796875,
+      -0.018473307291666668
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF_MINUS_ZERO|C0|LOW_MINUS_HIGH_H|F": {
+    "window_means": [
+      0.03149414062499999,
+      0.13846028645833333,
+      0.20463867187500004,
+      0.2654296875,
+      0.298046875,
+      0.32412109375,
+      0.335009765625,
+      0.3431477864583334
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_HALF|C0|LOW_H|F": {
+    "window_means": [
+      0.040722656249999996,
+      0.30252278645833336,
+      0.46502278645833334,
+      0.44228515625000003,
+      0.416455078125,
+      0.3946126302083333,
+      0.3858235677083333,
+      0.3812174479166666
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_HALF|C0|HIGH_F|F": {
+    "window_means": [
+      -0.003434244791666666,
+      -0.004915364583333334,
+      -0.0030598958333333333,
+      -0.0023274739583333333,
+      -0.0025227864583333335,
+      -0.0008138020833333334,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      7,
+      8
+    ]
+  },
+  "FULL_MINUS_HALF|C0|LOW_MINUS_HIGH_H|F": {
+    "window_means": [
+      0.03728841145833333,
+      0.297607421875,
+      0.461962890625,
+      0.43995768229166665,
+      0.4139322916666666,
+      0.393798828125,
+      0.3858235677083333,
+      0.3812174479166666
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_ZERO|C0|LOW_H|F": {
+    "window_means": [
+      0.07649739583333334,
+      0.4594075520833334,
+      0.6867513020833332,
+      0.72666015625,
+      0.73330078125,
+      0.7386393229166667,
+      0.7399251302083334,
+      0.7428385416666666
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_ZERO|C0|HIGH_F|F": {
+    "window_means": [
+      -0.007714843749999999,
+      -0.023339843749999995,
+      -0.020149739583333333,
+      -0.02127278645833333,
+      -0.021321614583333332,
+      -0.020719401041666665,
+      -0.019091796875,
+      -0.018473307291666668
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_ZERO|C0|LOW_MINUS_HIGH_H|F": {
+    "window_means": [
+      0.06878255208333332,
+      0.4360677083333333,
+      0.6666015625,
+      0.7053873697916666,
+      0.7119791666666666,
+      0.717919921875,
+      0.7208333333333333,
+      0.724365234375
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "completed_at_utc": "2026-09-22T16:19:27.393256+00:00",
+  "elapsed_seconds": 383.7240228652954,
+  "checks": 12848333,
+  "maximum_discrepancy": 0.0,
+  "paths": 4608,
+  "new_paths_reconstructed": 4608,
+  "old_paths_authenticated": 0,
+  "new_updates_reconstructed": 184320,
+  "new_objective_values_reconstructed": 23740416,
+  "exact_old_intervals": 0,
+  "intervals": 1716,
+  "structural_zero_records": 98,
+  "outcome_classifications": {
+    "positive": 836,
+    "observed_exact_zero": 142,
+    "negative": 190,
+    "unresolved": 450,
+    "structural_zero": 98
+  },
+  "negative_records": 33460,
+  "endpoint_disagreements": 42004,
+  "decline_records": 84761,
+  "prefix_checks": {
+    "neutral_founder_generations": 31488,
+    "active_sham_first_update": 1536
+  },
+  "manifest_files": {
+    "prepared_resident_introduction_v1/SOURCE_SHA256SUMS": 26,
+    "prepared_resident_introduction_v1/INPUT_SHA256SUMS": 12,
+    "prepared_resident_introduction_v1/RESULT_SHA256SUMS": 54,
+    "independent_rare_memory_novelty_v1/DELIVERY_SHA256SUMS": 149,
+    "private_memory_competition_v1/DELIVERY_SHA256SUMS": 128
+  },
+  "source_manifest_sha256": "082270aabf37afbd9359082560396150777949d289f5a6fb68da433895e03f4a",
+  "result_manifest_sha256": "a52071af8a39b2a9b84d31c3953f452f9fe2ad02e86c0ecde16df3e8b7f43068",
+  "scientific_paths_run": 0,
+  "new_random_values_generated": 0,
+  "producer_modules_imported": false,
+  "scope": "All 4608 new naive/prepared-resident paths independently reconstructed, including all 384 unfiltered source states, new founder/cache initialization, future targets, candidate values, inheritance, selection and accounting. All 1716 intervals, event/adverse/crossing indexes, rare block bounds, neutral-founder records and separate primary/spread/moderation assessment verified. No producer imports, new random draws or new scientific experiment."
+}

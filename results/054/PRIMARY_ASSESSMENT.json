@@ -1,0 +1,53 @@
+{
+  "primary_key": "HALF|C0|LOW_H|D40",
+  "primary": {
+    "mean": 0.3661295572916667,
+    "ci95": [
+      0.27538859049479164,
+      0.4583353678385416
+    ],
+    "zero_classification": "positive"
+  },
+  "primary_supported": true,
+  "companion_key": "HALF|C0|HIGH_F|D40",
+  "companion": {
+    "mean": -0.03125,
+    "ci95": [
+      -0.03125,
+      -0.03125
+    ],
+    "zero_classification": "negative"
+  },
+  "companion_supported": true,
+  "two_boundary_H_advantage_supported": true,
+  "incremental_recurrence_key": "HALF_MINUS_ZERO|C0|LOW_H|D40",
+  "incremental_recurrence": {
+    "mean": 0.36572265625,
+    "ci95": [
+      0.268304443359375,
+      0.46493530273437494
+    ],
+    "zero_classification": "positive"
+  },
+  "incremental_recurrence_supported": true,
+  "initial_frequency_difference": {
+    "mean": -0.9375,
+    "ci95": [
+      -0.9375,
+      -0.9375
+    ],
+    "zero_classification": "negative"
+  },
+  "difference_in_changes": {
+    "mean": 0.3348795572916667,
+    "ci95": [
+      0.24413859049479167,
+      0.4270853678385416
+    ],
+    "zero_classification": "positive"
+  },
+  "difference_prescribed_sign": null,
+  "interval_scope": "approximate pointwise",
+  "independent_cohort": false,
+  "equilibrium_invasion": false
+}

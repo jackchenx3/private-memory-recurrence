@@ -1,0 +1,43 @@
+{
+  "primary_key": "RARE|RECUR|ACTIVE_C0-NOVEL_C0|D40",
+  "primary": {
+    "mean": 0.07291666666666667,
+    "ci95": [
+      0.03125,
+      0.11979166666666667
+    ],
+    "zero_classification": "positive",
+    "interpretation": "carrier frequency change; first minus second arm"
+  },
+  "conclusion": "Historical probes confer additional mean carrier representation over fresh probes in this fixed comparison.",
+  "individual_signs": {
+    "zero": 174,
+    "negative": 2,
+    "positive": 16
+  },
+  "block_signs": {
+    "negative": 1,
+    "positive": 10,
+    "zero": 13
+  },
+  "historical_absolute": {
+    "mean": 0.057291666666666664,
+    "ci95": [
+      0.010416666666666666,
+      0.109375
+    ],
+    "zero_classification": "positive",
+    "interpretation": "carrier frequency change; absolute"
+  },
+  "fresh_absolute": {
+    "mean": -0.015625,
+    "ci95": [
+      -0.03125,
+      0.0
+    ],
+    "zero_classification": "unresolved",
+    "interpretation": "carrier frequency change; absolute"
+  },
+  "all_intervals": "approximate pointwise including primary",
+  "scope": "Known041 cohort; fresh probes differ from memory from first update; no covariance/diversity preserving claim"
+}

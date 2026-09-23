@@ -1,0 +1,87 @@
+{
+  "ZERO|C0|LOW0": {
+    "F_only": 181,
+    "majority_policy_fixed_multiple_founders": 119,
+    "majority_policy_fixed_single_founder": 62,
+    "rare_founder_fixed": 2,
+    "both_present": 9,
+    "H_only": 2
+  },
+  "ZERO|C0|LOW1": {
+    "F_only": 182,
+    "majority_policy_fixed_multiple_founders": 124,
+    "majority_policy_fixed_single_founder": 58,
+    "rare_founder_fixed": 4,
+    "H_only": 4,
+    "both_present": 6
+  },
+  "ZERO|C0|HIGH0": {
+    "H_only": 184,
+    "majority_policy_fixed_multiple_founders": 76,
+    "majority_policy_fixed_single_founder": 108,
+    "rare_founder_fixed": 1,
+    "both_present": 7,
+    "F_only": 1
+  },
+  "ZERO|C0|HIGH1": {
+    "H_only": 187,
+    "majority_policy_fixed_multiple_founders": 73,
+    "majority_policy_fixed_single_founder": 114,
+    "rare_founder_fixed": 0,
+    "both_present": 5
+  },
+  "HALF|C0|LOW0": {
+    "F_only": 119,
+    "majority_policy_fixed_multiple_founders": 57,
+    "majority_policy_fixed_single_founder": 62,
+    "rare_founder_fixed": 70,
+    "H_only": 70,
+    "both_present": 3
+  },
+  "HALF|C0|LOW1": {
+    "F_only": 110,
+    "majority_policy_fixed_multiple_founders": 50,
+    "majority_policy_fixed_single_founder": 60,
+    "rare_founder_fixed": 77,
+    "H_only": 77,
+    "both_present": 5
+  },
+  "HALF|C0|HIGH0": {
+    "H_only": 192,
+    "majority_policy_fixed_multiple_founders": 48,
+    "majority_policy_fixed_single_founder": 144,
+    "rare_founder_fixed": 0
+  },
+  "HALF|C0|HIGH1": {
+    "H_only": 192,
+    "majority_policy_fixed_multiple_founders": 41,
+    "majority_policy_fixed_single_founder": 151,
+    "rare_founder_fixed": 0
+  },
+  "FULL|C0|LOW0": {
+    "F_only": 41,
+    "majority_policy_fixed_multiple_founders": 33,
+    "majority_policy_fixed_single_founder": 8,
+    "rare_founder_fixed": 151,
+    "H_only": 151
+  },
+  "FULL|C0|LOW1": {
+    "H_only": 147,
+    "majority_policy_fixed_multiple_founders": 39,
+    "majority_policy_fixed_single_founder": 6,
+    "rare_founder_fixed": 147,
+    "F_only": 45
+  },
+  "FULL|C0|HIGH0": {
+    "H_only": 192,
+    "majority_policy_fixed_multiple_founders": 62,
+    "majority_policy_fixed_single_founder": 130,
+    "rare_founder_fixed": 0
+  },
+  "FULL|C0|HIGH1": {
+    "H_only": 192,
+    "majority_policy_fixed_multiple_founders": 56,
+    "majority_policy_fixed_single_founder": 136,
+    "rare_founder_fixed": 0
+  }
+}

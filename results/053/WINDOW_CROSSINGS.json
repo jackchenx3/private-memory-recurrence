@@ -1,0 +1,2721 @@
+{
+  "ZERO|C0|HH_AVG|F": {
+    "window_means": [
+      0.03294270833333333,
+      0.04025065104166667,
+      0.05097656250000001,
+      0.055013020833333336,
+      0.059000651041666664,
+      0.06479492187500001,
+      0.07109375,
+      0.07273763020833333
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|FF_AVG|F": {
+    "window_means": [
+      0.018603515625,
+      0.02805989583333333,
+      0.038248697916666664,
+      0.04708658854166667,
+      0.05351562499999999,
+      0.06036783854166666,
+      0.06599934895833333,
+      0.069775390625
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|HF_H|F": {
+    "window_means": [
+      0.03411458333333333,
+      0.04235026041666667,
+      0.051188151041666664,
+      0.051708984374999996,
+      0.059912109375,
+      0.06534830729166667,
+      0.07755533854166667,
+      0.08068033854166667
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|HF_F|F": {
+    "window_means": [
+      0.018570963541666666,
+      0.028759765625,
+      0.04034830729166667,
+      0.05203450520833334,
+      0.05877278645833334,
+      0.066357421875,
+      0.07130533854166667,
+      0.07413736979166667
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|HH_POP|U": {
+    "window_means": [
+      0.6570414225260416,
+      0.5969197591145833,
+      0.5971577962239584,
+      0.5990458170572918,
+      0.5968271891276041,
+      0.5996124267578126,
+      0.5976094563802082,
+      0.5971516927083332
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|FF_POP|U": {
+    "window_means": [
+      0.6573577880859376,
+      0.5971608479817708,
+      0.5974151611328126,
+      0.5995493570963543,
+      0.5961151123046875,
+      0.5995829264322917,
+      0.5960296630859375,
+      0.5978444417317709
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|HF_POP|U": {
+    "window_means": [
+      0.6572021484375,
+      0.5965728759765625,
+      0.5965464274088542,
+      0.5994491577148438,
+      0.5964141845703125,
+      0.5989267985026042,
+      0.5963795979817709,
+      0.59771728515625
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|HH_AVG|F": {
+    "window_means": [
+      0.009440104166666668,
+      0.0015462239583333333,
+      0.0005696614583333334,
+      9.765624999999999e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|FF_AVG|F": {
+    "window_means": [
+      0.005826822916666666,
+      0.0008138020833333334,
+      4.8828124999999996e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|HF_H|F": {
+    "window_means": [
+      0.009342447916666668,
+      0.0013183593749999999,
+      0.00047200520833333334,
+      9.765624999999999e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|HF_F|F": {
+    "window_means": [
+      0.006087239583333333,
+      0.0018554687499999997,
+      0.00043945312499999996,
+      0.00017903645833333335,
+      0.00047200520833333334,
+      4.8828124999999996e-05,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|HH_POP|U": {
+    "window_means": [
+      0.6573679606119792,
+      0.5961029052734376,
+      0.5964426676432292,
+      0.5972137451171875,
+      0.5974863688151042,
+      0.5982472737630208,
+      0.5962046305338542,
+      0.5973470052083333
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|FF_POP|U": {
+    "window_means": [
+      0.6572499593098958,
+      0.5963694254557291,
+      0.5961273193359374,
+      0.5984639485677085,
+      0.5956034342447917,
+      0.5977925618489582,
+      0.5960795084635416,
+      0.595916748046875
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|HF_POP|U": {
+    "window_means": [
+      0.657384745279948,
+      0.5964482625325521,
+      0.5965443929036458,
+      0.5976048787434897,
+      0.5963404337565104,
+      0.5980758666992188,
+      0.5961563110351563,
+      0.5966842651367187
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HH_AVG|F": {
+    "window_means": [
+      0.035660807291666666,
+      0.06593424479166667,
+      0.08421223958333333,
+      0.10016276041666666,
+      0.11105143229166668,
+      0.11599934895833335,
+      0.11819661458333335,
+      0.11863606770833333
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|FF_AVG|F": {
+    "window_means": [
+      0.015218098958333334,
+      0.012272135416666668,
+      0.015413411458333333,
+      0.01474609375,
+      0.012483723958333333,
+      0.010286458333333333,
+      0.009733072916666667,
+      0.008528645833333333
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HF_H|F": {
+    "window_means": [
+      0.03717447916666667,
+      0.07239583333333333,
+      0.09425455729166667,
+      0.11879882812499999,
+      0.13216145833333334,
+      0.13440755208333333,
+      0.13792317708333335,
+      0.14106445312500002
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HF_F|F": {
+    "window_means": [
+      0.014892578125,
+      0.012955729166666666,
+      0.014892578125,
+      0.012434895833333334,
+      0.009798177083333333,
+      0.010546874999999999,
+      0.007307942708333334,
+      0.004866536458333333
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HH_POP|U": {
+    "window_means": [
+      0.7058481852213543,
+      0.6319386800130209,
+      0.6191497802734375,
+      0.6258219401041667,
+      0.6254547119140625,
+      0.6189442952473958,
+      0.6194814046223959,
+      0.6158304850260417
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|FF_POP|U": {
+    "window_means": [
+      0.7059499104817708,
+      0.6276896158854167,
+      0.6141998291015625,
+      0.6207000732421876,
+      0.6220804850260416,
+      0.6153910319010416,
+      0.6150604248046875,
+      0.6132720947265625
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HF_POP|U": {
+    "window_means": [
+      0.7059458414713542,
+      0.629217020670573,
+      0.6165746053059896,
+      0.6240493774414063,
+      0.625177001953125,
+      0.6171524047851563,
+      0.6170567830403645,
+      0.6156819661458334
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|HH_AVG|F": {
+    "window_means": [
+      0.008902994791666667,
+      0.0034993489583333335,
+      0.003076171875,
+      0.0026529947916666668,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|FF_AVG|F": {
+    "window_means": [
+      0.005289713541666667,
+      0.0005208333333333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|HF_H|F": {
+    "window_means": [
+      0.009147135416666667,
+      0.003401692708333333,
+      0.003076171875,
+      0.0026529947916666668,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|HF_F|F": {
+    "window_means": [
+      0.005322265625,
+      0.0005208333333333333,
+      1.6276041666666666e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|HH_POP|U": {
+    "window_means": [
+      0.7059000651041667,
+      0.6279032389322917,
+      0.6149444580078125,
+      0.6207753499348958,
+      0.6220743815104167,
+      0.6147237141927083,
+      0.6155558268229168,
+      0.613037109375
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|FF_POP|U": {
+    "window_means": [
+      0.7058827718098958,
+      0.6281473795572916,
+      0.6169158935546875,
+      0.6210428873697916,
+      0.6223002115885418,
+      0.6169331868489584,
+      0.6150705973307292,
+      0.6150889078776042
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|HF_POP|U": {
+    "window_means": [
+      0.7058425903320312,
+      0.6277755737304688,
+      0.6162343343098958,
+      0.6209259033203125,
+      0.6221242268880208,
+      0.6159744262695312,
+      0.6156382242838542,
+      0.6147074381510417
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HH_AVG|F": {
+    "window_means": [
+      0.03663736979166667,
+      0.058675130208333336,
+      0.08466796875,
+      0.11495768229166665,
+      0.14674479166666668,
+      0.17275390625,
+      0.19137369791666667,
+      0.20133463541666666
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|FF_AVG|F": {
+    "window_means": [
+      0.011588541666666667,
+      0.0009114583333333332,
+      8.138020833333333e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HF_H|F": {
+    "window_means": [
+      0.03899739583333334,
+      0.06541341145833333,
+      0.10133463541666667,
+      0.14469401041666666,
+      0.1852701822916667,
+      0.2171875,
+      0.23906250000000004,
+      0.25367838541666665
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HF_F|F": {
+    "window_means": [
+      0.011116536458333333,
+      0.0007812499999999999,
+      3.255208333333333e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HH_POP|U": {
+    "window_means": [
+      0.7621917724609375,
+      0.7619028727213543,
+      0.7650085449218751,
+      0.7667714436848958,
+      0.7726470947265626,
+      0.7771779378255209,
+      0.7842519124348959,
+      0.7890940348307293
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|FF_POP|U": {
+    "window_means": [
+      0.7618367513020834,
+      0.7615610758463541,
+      0.7632609049479168,
+      0.7624654134114582,
+      0.7631622314453125,
+      0.7628448486328127,
+      0.7635416666666667,
+      0.7629557291666668
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HF_POP|U": {
+    "window_means": [
+      0.7620854695638021,
+      0.7619761149088541,
+      0.7643920898437501,
+      0.7652389526367188,
+      0.7690546671549479,
+      0.7717203776041668,
+      0.7764297485351562,
+      0.7789708455403646
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|HH_AVG|F": {
+    "window_means": [
+      0.008219401041666666,
+      0.0003255208333333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|FF_AVG|F": {
+    "window_means": [
+      0.004199218750000001,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|HF_H|F": {
+    "window_means": [
+      0.008675130208333333,
+      0.0006998697916666667,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|HF_F|F": {
+    "window_means": [
+      0.004134114583333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|HH_POP|U": {
+    "window_means": [
+      0.762054443359375,
+      0.7617746988932291,
+      0.7632425944010416,
+      0.7625254313151042,
+      0.7635223388671873,
+      0.76265869140625,
+      0.7636271158854168,
+      0.7622955322265624
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|FF_POP|U": {
+    "window_means": [
+      0.7620707194010418,
+      0.7617685953776041,
+      0.7632853190104166,
+      0.7624084472656248,
+      0.7634714762369792,
+      0.7623443603515625,
+      0.76383056640625,
+      0.7625539143880209
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|HF_POP|U": {
+    "window_means": [
+      0.7620371500651042,
+      0.7616470336914062,
+      0.76322021484375,
+      0.7623235066731772,
+      0.7635381062825521,
+      0.7624486287434896,
+      0.7638015747070312,
+      0.762383524576823
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|HH_CARR|F": {
+    "window_means": [
+      0.06588541666666665,
+      0.08050130208333334,
+      0.10195312500000002,
+      0.11002604166666667,
+      0.11800130208333333,
+      0.12958984375000002,
+      0.1421875,
+      0.14547526041666667
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|HF_CARR|F": {
+    "window_means": [
+      0.052685546874999996,
+      0.07111002604166668,
+      0.09153645833333335,
+      0.10374348958333333,
+      0.11868489583333335,
+      0.13170572916666667,
+      0.14886067708333334,
+      0.15481770833333333
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|FF_CARR|F": {
+    "window_means": [
+      0.03720703125,
+      0.05611979166666666,
+      0.07649739583333333,
+      0.09417317708333334,
+      0.10703124999999998,
+      0.12073567708333333,
+      0.13199869791666666,
+      0.13955078125
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|R_H|F": {
+    "window_means": [
+      0.014371744791666669,
+      0.011490885416666666,
+      0.010628255208333335,
+      0.0029785156250000007,
+      0.00022786458333333656,
+      -0.0015624999999999968,
+      -0.00021158854166666852,
+      -0.0013997395833333346
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|R_F|F": {
+    "window_means": [
+      0.015511067708333333,
+      0.014290364583333335,
+      0.012939453125000002,
+      0.004622395833333335,
+      0.0063964843750000016,
+      0.0049804687500000005,
+      0.011555989583333334,
+      0.010904947916666666
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|COMP_H|F": {
+    "window_means": [
+      -0.001171874999999999,
+      -0.0020996093750000008,
+      -0.00021158854166666562,
+      0.003304036458333334,
+      -0.0009114583333333336,
+      -0.0005533854166666652,
+      -0.006461588541666667,
+      -0.007942708333333335
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|COMP_F|F": {
+    "window_means": [
+      -3.255208333333314e-05,
+      0.0006998697916666682,
+      0.0020996093750000003,
+      0.004947916666666669,
+      0.005257161458333333,
+      0.005989583333333333,
+      0.005305989583333334,
+      0.004361979166666666
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|MIX_RANK|F": {
+    "window_means": [
+      0.015543619791666666,
+      0.013590494791666664,
+      0.010839843750000001,
+      -0.0003255208333333328,
+      0.001139322916666667,
+      -0.001009114583333335,
+      0.006249999999999999,
+      0.006542968750000003
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|INTERACTION|F": {
+    "window_means": [
+      -0.0011393229166666659,
+      -0.0027994791666666693,
+      -0.002311197916666665,
+      -0.001643880208333337,
+      -0.006168619791666666,
+      -0.006542968749999997,
+      -0.011767578125000002,
+      -0.012304687500000001
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|HH_MINUS_HF_POP|U": {
+    "window_means": [
+      -0.0001607259114583398,
+      0.0003468831380208509,
+      0.0006113688151041704,
+      -0.00040334065755208426,
+      0.00041300455729166113,
+      0.0006856282552083065,
+      0.0012298583984374732,
+      -0.0005655924479166888
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|HH_MINUS_FF_POP|U": {
+    "window_means": [
+      -0.0003163655598958602,
+      -0.00024108886718748426,
+      -0.0002573649088541685,
+      -0.0005035400390624861,
+      0.0007120768229166713,
+      2.9500325520829634e-05,
+      0.0015797932942708214,
+      -0.0006927490234374991
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C0|HF_MINUS_FF_POP|U": {
+    "window_means": [
+      -0.00015563964843752035,
+      -0.0005879720052083351,
+      -0.0008687337239583389,
+      -0.00010019938151040186,
+      0.00029907226562501016,
+      -0.0006561279296874769,
+      0.00034993489583334814,
+      -0.0001271565755208102
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|HH_CARR|F": {
+    "window_means": [
+      0.018880208333333336,
+      0.0030924479166666665,
+      0.0011393229166666667,
+      0.00019531249999999998,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|HF_CARR|F": {
+    "window_means": [
+      0.015429687500000002,
+      0.003173828125,
+      0.0009114583333333332,
+      0.0002766927083333334,
+      0.00047200520833333334,
+      4.8828124999999996e-05,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|FF_CARR|F": {
+    "window_means": [
+      0.011653645833333332,
+      0.0016276041666666667,
+      9.765624999999999e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|R_H|F": {
+    "window_means": [
+      0.0033528645833333336,
+      -0.0003092447916666666,
+      0.00013020833333333339,
+      -8.138020833333336e-05,
+      -0.00047200520833333334,
+      -4.8828124999999996e-05,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      7,
+      8
+    ]
+  },
+  "ZERO|C1|R_F|F": {
+    "window_means": [
+      0.0035156249999999997,
+      0.0005045572916666666,
+      0.00042317708333333335,
+      9.765624999999999e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "ZERO|C1|COMP_H|F": {
+    "window_means": [
+      9.765624999999998e-05,
+      0.0002278645833333334,
+      9.765625000000002e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "ZERO|C1|COMP_F|F": {
+    "window_means": [
+      0.0002604166666666665,
+      0.0010416666666666667,
+      0.00039062499999999997,
+      0.00017903645833333335,
+      0.00047200520833333334,
+      4.8828124999999996e-05,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      7,
+      8
+    ]
+  },
+  "ZERO|C1|MIX_RANK|F": {
+    "window_means": [
+      0.0032552083333333335,
+      -0.0005371093749999999,
+      3.2552083333333326e-05,
+      -8.138020833333336e-05,
+      -0.00047200520833333334,
+      -4.8828124999999996e-05,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      7,
+      8
+    ]
+  },
+  "ZERO|C1|INTERACTION|F": {
+    "window_means": [
+      -0.00016276041666666655,
+      -0.000813802083333333,
+      -0.00029296874999999993,
+      -0.00017903645833333335,
+      -0.00047200520833333334,
+      -4.8828124999999996e-05,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      7,
+      8
+    ]
+  },
+  "ZERO|C1|HH_MINUS_HF_POP|U": {
+    "window_means": [
+      -1.6784667968709293e-05,
+      -0.0003453572591145769,
+      -0.00010172526041666667,
+      -0.0003911336263020722,
+      0.0011459350585937649,
+      0.0001714070638021009,
+      4.8319498697898165e-05,
+      0.0006627400716145796
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|HH_MINUS_FF_POP|U": {
+    "window_means": [
+      0.00011800130208336017,
+      -0.00026652018229167407,
+      0.000315348307291662,
+      -0.0012502034505208436,
+      0.0018829345703125222,
+      0.0004547119140625074,
+      0.0001251220703125111,
+      0.0014302571614583416
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "ZERO|C1|HF_MINUS_FF_POP|U": {
+    "window_means": [
+      0.00013478597005206946,
+      7.88370768229028e-05,
+      0.0004170735677083287,
+      -0.0008590698242187713,
+      0.0007369995117187574,
+      0.00028330485026040647,
+      7.680257161461294e-05,
+      0.000767517089843762
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HH_CARR|F": {
+    "window_means": [
+      0.07132161458333333,
+      0.13186848958333333,
+      0.16842447916666667,
+      0.20032552083333333,
+      0.22210286458333336,
+      0.2319986979166667,
+      0.2363932291666667,
+      0.23727213541666667
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HF_CARR|F": {
+    "window_means": [
+      0.05206705729166667,
+      0.08535156249999999,
+      0.10914713541666667,
+      0.13123372395833333,
+      0.14195963541666667,
+      0.1449544270833333,
+      0.14523111979166667,
+      0.1459309895833333
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|FF_CARR|F": {
+    "window_means": [
+      0.030436197916666668,
+      0.024544270833333336,
+      0.030826822916666666,
+      0.0294921875,
+      0.024967447916666666,
+      0.020572916666666666,
+      0.019466145833333334,
+      0.017057291666666665
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|R_H|F": {
+    "window_means": [
+      0.020768229166666666,
+      0.052978515625,
+      0.06931966145833333,
+      0.08772786458333333,
+      0.10125325520833332,
+      0.10545247395833333,
+      0.110888671875,
+      0.11376953125
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|R_F|F": {
+    "window_means": [
+      0.02195638020833333,
+      0.06012369791666666,
+      0.07884114583333333,
+      0.104052734375,
+      0.119677734375,
+      0.12412109375000001,
+      0.12819010416666668,
+      0.13253580729166667
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|COMP_H|F": {
+    "window_means": [
+      -0.001513671875,
+      -0.0064615885416666645,
+      -0.010042317708333338,
+      -0.018636067708333332,
+      -0.02111002604166667,
+      -0.018408203125000005,
+      -0.0197265625,
+      -0.02242838541666667
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|COMP_F|F": {
+    "window_means": [
+      -0.000325520833333333,
+      0.0006835937499999998,
+      -0.000520833333333333,
+      -0.0023111979166666663,
+      -0.002685546875,
+      0.0002604166666666666,
+      -0.002425130208333333,
+      -0.003662109375
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|MIX_RANK|F": {
+    "window_means": [
+      0.022281901041666673,
+      0.05944010416666667,
+      0.07936197916666667,
+      0.10636393229166667,
+      0.12236328125,
+      0.12386067708333333,
+      0.130615234375,
+      0.13619791666666667
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|INTERACTION|F": {
+    "window_means": [
+      -0.0011881510416666672,
+      -0.007145182291666664,
+      -0.009521484375000007,
+      -0.01632486979166667,
+      -0.01842447916666667,
+      -0.01866861979166667,
+      -0.017301432291666665,
+      -0.018766276041666665
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HH_MINUS_HF_POP|U": {
+    "window_means": [
+      -9.765624999998519e-05,
+      0.0027216593424479185,
+      0.0025751749674478943,
+      0.0017725626627604352,
+      0.0002777099609374926,
+      0.0017918904622395843,
+      0.0024246215820312397,
+      0.0001485188802083278
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HH_MINUS_FF_POP|U": {
+    "window_means": [
+      -0.00010172526041666204,
+      0.004249064127604151,
+      0.004949951171875008,
+      0.0051218668619791895,
+      0.0033742268880208267,
+      0.0035532633463541824,
+      0.004420979817708333,
+      0.0025583902994791483
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "HALF|C0|HF_MINUS_FF_POP|U": {
+    "window_means": [
+      -4.069010416676844e-06,
+      0.0015274047851562323,
+      0.002374776204427114,
+      0.0033493041992187548,
+      0.0030965169270833343,
+      0.0017613728841145981,
+      0.0019963582356770926,
+      0.0024098714192708204
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|HH_CARR|F": {
+    "window_means": [
+      0.017805989583333334,
+      0.006998697916666667,
+      0.00615234375,
+      0.0053059895833333336,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333,
+      0.005208333333333333
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|HF_CARR|F": {
+    "window_means": [
+      0.014469401041666668,
+      0.003922526041666667,
+      0.0030924479166666665,
+      0.0026529947916666668,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|FF_CARR|F": {
+    "window_means": [
+      0.010579427083333334,
+      0.0010416666666666667,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|R_H|F": {
+    "window_means": [
+      0.0035807291666666665,
+      0.0029785156250000003,
+      0.003059895833333333,
+      0.0026529947916666668,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|R_F|F": {
+    "window_means": [
+      0.0038574218750000006,
+      0.0028808593749999997,
+      0.003076171875,
+      0.0026529947916666668,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|COMP_H|F": {
+    "window_means": [
+      -0.00024414062500000016,
+      9.765625000000002e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "HALF|C1|COMP_F|F": {
+    "window_means": [
+      3.255208333333327e-05,
+      -2.2587545260114677e-20,
+      1.6276041666666666e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "HALF|C1|MIX_RANK|F": {
+    "window_means": [
+      0.0038248697916666665,
+      0.0028808593749999997,
+      0.003059895833333333,
+      0.0026529947916666668,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|INTERACTION|F": {
+    "window_means": [
+      -0.0002766927083333335,
+      9.765624999999998e-05,
+      -1.6276041666666666e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "HALF|C1|HH_MINUS_HF_POP|U": {
+    "window_means": [
+      5.7474772135417594e-05,
+      0.00012766520182292315,
+      -0.001289876302083363,
+      -0.0001505533854166824,
+      -4.9845377604162966e-05,
+      -0.0012507120768229195,
+      -8.239746093748519e-05,
+      -0.0016703287760416834
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|HH_MINUS_FF_POP|U": {
+    "window_means": [
+      1.7293294270836108e-05,
+      -0.00024414062499999076,
+      -0.001971435546875016,
+      -0.0002675374348958352,
+      -0.0002258300781250259,
+      -0.0022094726562500028,
+      0.0004852294921875444,
+      -0.002051798502604174
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "HALF|C1|HF_MINUS_FF_POP|U": {
+    "window_means": [
+      -4.018147786458148e-05,
+      -0.0003718058268229139,
+      -0.0006815592447916528,
+      -0.0001169840494791528,
+      -0.00017598470052086293,
+      -0.0009587605794270834,
+      0.0005676269531250296,
+      -0.00038146972656249073
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HH_CARR|F": {
+    "window_means": [
+      0.07327473958333335,
+      0.11735026041666667,
+      0.1693359375,
+      0.2299153645833333,
+      0.29348958333333336,
+      0.3455078125,
+      0.38274739583333334,
+      0.4026692708333333
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HF_CARR|F": {
+    "window_means": [
+      0.05011393229166666,
+      0.06619466145833333,
+      0.1013671875,
+      0.14469401041666666,
+      0.1852701822916667,
+      0.2171875,
+      0.23906250000000004,
+      0.25367838541666665
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|FF_CARR|F": {
+    "window_means": [
+      0.023177083333333334,
+      0.0018229166666666665,
+      0.00016276041666666666,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|R_H|F": {
+    "window_means": [
+      0.025520833333333336,
+      0.05789388020833334,
+      0.08463541666666667,
+      0.11495768229166665,
+      0.14674479166666668,
+      0.17275390625,
+      0.19137369791666667,
+      0.20133463541666666
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|R_F|F": {
+    "window_means": [
+      0.027408854166666663,
+      0.064501953125,
+      0.10125325520833334,
+      0.14469401041666666,
+      0.1852701822916667,
+      0.2171875,
+      0.23906250000000004,
+      0.25367838541666665
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|COMP_H|F": {
+    "window_means": [
+      -0.0023600260416666657,
+      -0.006738281249999999,
+      -0.016666666666666666,
+      -0.029736328125,
+      -0.038525390624999996,
+      -0.04443359375,
+      -0.047688802083333336,
+      -0.05234375
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|COMP_F|F": {
+    "window_means": [
+      -0.00047200520833333377,
+      -0.00013020833333333336,
+      -4.882812500000001e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "FULL|C0|MIX_RANK|F": {
+    "window_means": [
+      0.027880859375,
+      0.06463216145833334,
+      0.10130208333333333,
+      0.14469401041666666,
+      0.1852701822916667,
+      0.2171875,
+      0.23906250000000004,
+      0.25367838541666665
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|INTERACTION|F": {
+    "window_means": [
+      -0.0018880208333333312,
+      -0.006608072916666663,
+      -0.01661783854166667,
+      -0.029736328125,
+      -0.038525390624999996,
+      -0.04443359375,
+      -0.047688802083333336,
+      -0.05234375
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HH_MINUS_HF_POP|U": {
+    "window_means": [
+      0.00010630289713541945,
+      -7.32421874999889e-05,
+      0.0006164550781250083,
+      0.0015324910481770843,
+      0.003592427571614598,
+      0.005457560221354195,
+      0.007822163899739573,
+      0.010123189290364576
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HH_MINUS_FF_POP|U": {
+    "window_means": [
+      0.00035502115885416297,
+      0.0003417968750000176,
+      0.0017476399739583166,
+      0.004306030273437493,
+      0.00948486328125,
+      0.014333089192708362,
+      0.02071024576822914,
+      0.026138305664062486
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C0|HF_MINUS_FF_POP|U": {
+    "window_means": [
+      0.0002487182617187435,
+      0.0004150390625000065,
+      0.0011311848958333083,
+      0.002773539225260408,
+      0.005892435709635403,
+      0.008875528971354166,
+      0.012888081868489568,
+      0.016015116373697912
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|HH_CARR|F": {
+    "window_means": [
+      0.016438802083333332,
+      0.0006510416666666666,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|HF_CARR|F": {
+    "window_means": [
+      0.012809244791666667,
+      0.0006998697916666667,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|FF_CARR|F": {
+    "window_means": [
+      0.008398437500000001,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0625,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|R_H|F": {
+    "window_means": [
+      0.0040852864583333336,
+      0.0003255208333333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "FULL|C1|R_F|F": {
+    "window_means": [
+      0.004475911458333333,
+      0.0006998697916666667,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "FULL|C1|COMP_H|F": {
+    "window_means": [
+      -0.00045572916666666657,
+      -0.0003743489583333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "FULL|C1|COMP_F|F": {
+    "window_means": [
+      -6.510416666666672e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "FULL|C1|MIX_RANK|F": {
+    "window_means": [
+      0.004541015625,
+      0.0006998697916666667,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "FULL|C1|INTERACTION|F": {
+    "window_means": [
+      -0.0003906249999999999,
+      -0.0003743489583333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "FULL|C1|HH_MINUS_HF_POP|U": {
+    "window_means": [
+      1.7293294270836108e-05,
+      0.00012766520182292776,
+      2.2379557291664815e-05,
+      0.00020192464192709167,
+      -1.5767415364571307e-05,
+      0.00021006266276044072,
+      -0.0001744588216145935,
+      -8.799235026040834e-05
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|HH_MINUS_FF_POP|U": {
+    "window_means": [
+      -1.627604166665649e-05,
+      6.103515625008327e-06,
+      -4.2724609375007404e-05,
+      0.00011698404947919443,
+      5.086263020834721e-05,
+      0.00031433105468750094,
+      -0.00020345052083333334,
+      -0.00025838216145833426
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "FULL|C1|HF_MINUS_FF_POP|U": {
+    "window_means": [
+      -3.3569335937492596e-05,
+      -0.00012156168619791945,
+      -6.510416666667222e-05,
+      -8.494059244789724e-05,
+      6.663004557291852e-05,
+      0.00010426839192706021,
+      -2.8991699218739824e-05,
+      -0.00017038981119792593
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "HALF_MINUS_ZERO|C0|R_H|F": {
+    "window_means": [
+      0.006396484375,
+      0.041487630208333334,
+      0.058691406249999994,
+      0.08474934895833335,
+      0.101025390625,
+      0.10701497395833333,
+      0.11110026041666667,
+      0.11516927083333334
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF_MINUS_ZERO|C0|R_F|F": {
+    "window_means": [
+      0.006445312500000001,
+      0.04583333333333333,
+      0.06590169270833333,
+      0.09943033854166666,
+      0.11328125,
+      0.119140625,
+      0.11663411458333332,
+      0.12163085937500001
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF_MINUS_ZERO|C0|INTERACTION|F": {
+    "window_means": [
+      -4.882812500000149e-05,
+      -0.004345703124999996,
+      -0.00721028645833334,
+      -0.01468098958333333,
+      -0.012255859375000002,
+      -0.012125651041666676,
+      -0.005533854166666667,
+      -0.006461588541666667
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF_MINUS_ZERO|C1|R_H|F": {
+    "window_means": [
+      0.00022786458333333317,
+      0.0032877604166666667,
+      0.0029296875,
+      0.0027343750000000003,
+      0.003076171875,
+      0.0026529947916666668,
+      0.0026041666666666665,
+      0.0026041666666666665
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF_MINUS_ZERO|C1|R_F|F": {
+    "window_means": [
+      0.0003417968750000001,
+      0.002376302083333333,
+      0.0026529947916666663,
+      0.0025553385416666667,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665,
+      0.0026041666666666665
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "HALF_MINUS_ZERO|C1|INTERACTION|F": {
+    "window_means": [
+      -0.00011393229166666687,
+      0.0009114583333333332,
+      0.0002766927083333333,
+      0.00017903645833333335,
+      0.00047200520833333334,
+      4.8828124999999996e-05,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      7,
+      8
+    ]
+  },
+  "FULL_MINUS_HALF|C0|R_H|F": {
+    "window_means": [
+      0.004752604166666668,
+      0.004915364583333334,
+      0.015315755208333335,
+      0.02722981770833333,
+      0.045491536458333336,
+      0.06730143229166667,
+      0.08048502604166667,
+      0.08756510416666667
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_HALF|C0|R_F|F": {
+    "window_means": [
+      0.005452473958333332,
+      0.0043782552083333325,
+      0.022412109375,
+      0.04064127604166667,
+      0.06559244791666667,
+      0.09306640625,
+      0.11087239583333332,
+      0.121142578125
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_HALF|C0|INTERACTION|F": {
+    "window_means": [
+      -0.0006998697916666642,
+      0.0005371093750000003,
+      -0.007096354166666663,
+      -0.013411458333333329,
+      -0.02010091145833333,
+      -0.025764973958333326,
+      -0.03038736979166666,
+      -0.03357747395833333
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_HALF|C1|R_H|F": {
+    "window_means": [
+      0.0005045572916666668,
+      -0.0026529947916666668,
+      -0.003059895833333333,
+      -0.0026529947916666668,
+      -0.0026041666666666665,
+      -0.0026041666666666665,
+      -0.0026041666666666665,
+      -0.0026041666666666665
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_HALF|C1|R_F|F": {
+    "window_means": [
+      0.0006184895833333333,
+      -0.002180989583333333,
+      -0.003076171875,
+      -0.0026529947916666668,
+      -0.0026041666666666665,
+      -0.0026041666666666665,
+      -0.0026041666666666665,
+      -0.0026041666666666665
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_HALF|C1|INTERACTION|F": {
+    "window_means": [
+      -0.00011393229166666648,
+      -0.00047200520833333323,
+      1.6276041666666666e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "FULL_MINUS_ZERO|C0|R_H|F": {
+    "window_means": [
+      0.011149088541666666,
+      0.04640299479166667,
+      0.07400716145833332,
+      0.11197916666666667,
+      0.14651692708333333,
+      0.17431640625,
+      0.1915852864583333,
+      0.20273437500000002
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_ZERO|C0|R_F|F": {
+    "window_means": [
+      0.011897786458333332,
+      0.05021158854166666,
+      0.08831380208333334,
+      0.1400716145833333,
+      0.17887369791666666,
+      0.21220703125000004,
+      0.22750651041666667,
+      0.2427734375
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_ZERO|C0|INTERACTION|F": {
+    "window_means": [
+      -0.0007486979166666656,
+      -0.0038085937499999947,
+      -0.014306640625000006,
+      -0.028092447916666662,
+      -0.03235677083333333,
+      -0.037890625000000004,
+      -0.035921223958333325,
+      -0.0400390625
+    ],
+    "reference": 0.0,
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "FULL_MINUS_ZERO|C1|R_H|F": {
+    "window_means": [
+      0.000732421875,
+      0.0006347656249999999,
+      -0.00013020833333333339,
+      8.138020833333336e-05,
+      0.00047200520833333334,
+      4.8828124999999996e-05,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      7,
+      8
+    ]
+  },
+  "FULL_MINUS_ZERO|C1|R_F|F": {
+    "window_means": [
+      0.0009602864583333334,
+      0.00019531249999999988,
+      -0.00042317708333333335,
+      -9.765624999999999e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "FULL_MINUS_ZERO|C1|INTERACTION|F": {
+    "window_means": [
+      -0.00022786458333333336,
+      0.0004394531249999999,
+      0.00029296874999999993,
+      0.00017903645833333335,
+      0.00047200520833333334,
+      4.8828124999999996e-05,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      7,
+      8
+    ]
+  }
+}

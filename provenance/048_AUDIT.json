@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "completed_at_utc": "2026-09-22T16:57:44.091491+00:00",
+  "elapsed_seconds": 519.8594839572906,
+  "checks": 8898508,
+  "maximum_discrepancy": 0.0,
+  "paths": 6144,
+  "new_paths_reconstructed": 1536,
+  "old_paths_authenticated": 4608,
+  "new_updates_reconstructed": 61440,
+  "new_objective_values_reconstructed": 7913472,
+  "exact_old_intervals": 624,
+  "intervals": 1664,
+  "structural_zero_records": 112,
+  "outcome_classifications": {
+    "positive": 848,
+    "observed_exact_zero": 149,
+    "negative": 97,
+    "unresolved": 458,
+    "structural_zero": 112
+  },
+  "negative_records": 20114,
+  "endpoint_disagreements": 30645,
+  "decline_records": 113062,
+  "prefix_checks": {
+    "radius_slots_verified": 1966080,
+    "radius_active_first_update": 1536,
+    "radius_sham_first_update": 1536
+  },
+  "manifest_files": {
+    "distance_matched_private_probe_v1/SOURCE_SHA256SUMS": 25,
+    "distance_matched_private_probe_v1/INPUT_SHA256SUMS": 13,
+    "distance_matched_private_probe_v1/RESULT_SHA256SUMS": 53,
+    "prepared_resident_introduction_v1/DELIVERY_SHA256SUMS": 153,
+    "private_memory_competition_v1/DELIVERY_SHA256SUMS": 128
+  },
+  "source_manifest_sha256": "ffbdd089e23507af0fbe41765e34622513c590b28e34c8074e0beb72424cef6a",
+  "result_manifest_sha256": "0a397721c64b86f4cdab5e063cd3ce2686523800ed0b8b60a7d667560b2bcb76",
+  "scientific_paths_run": 0,
+  "new_random_values_generated": 0,
+  "producer_modules_imported": false,
+  "scope": "All 1536 new distance-matched paths independently reconstructed, including every radius/permutation, inherited cache, candidate value, query, selection and ancestry record. All 4608 stored controls authenticated row-for-row; all 1664 intervals, 112 design zeros, 624 exact old intervals, event/adverse/crossing indexes, block bounds and use distributions verified. No producer imports, new random draws or new experiment."
+}

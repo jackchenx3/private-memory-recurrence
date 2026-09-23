@@ -1,0 +1,1347 @@
+{
+  "RARE|IID|ACTIVE_C0|U": {
+    "window_means": [
+      0.6074493408203124,
+      0.6159657796223958,
+      0.6139943440755208,
+      0.6132934570312499,
+      0.6158498128255209,
+      0.6151845296223958,
+      0.6145833333333334,
+      0.6146972656249999
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|ACTIVE_C0|F": {
+    "window_means": [
+      0.038769531249999996,
+      0.05475260416666666,
+      0.06640625,
+      0.07307942708333333,
+      0.07897135416666667,
+      0.08294270833333334,
+      0.08479817708333333,
+      0.08333333333333333
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|ACTIVE_C1|U": {
+    "window_means": [
+      0.6064453125,
+      0.6154561360677083,
+      0.6133636474609375,
+      0.6126169840494792,
+      0.6155985514322917,
+      0.6137705485026043,
+      0.613372802734375,
+      0.6143157958984374
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|ACTIVE_C1|F": {
+    "window_means": [
+      0.00966796875,
+      0.0005859375,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|NOVEL_C0|U": {
+    "window_means": [
+      0.6079274495442708,
+      0.6157999674479167,
+      0.6152394612630209,
+      0.6149993896484375,
+      0.617644246419271,
+      0.6168802897135417,
+      0.6163421630859375,
+      0.6184275309244791
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|NOVEL_C0|F": {
+    "window_means": [
+      0.05852864583333334,
+      0.10162760416666668,
+      0.14433593749999998,
+      0.17106119791666666,
+      0.19150390625,
+      0.20582682291666665,
+      0.21331380208333336,
+      0.21715494791666667
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|NOVEL_C1|U": {
+    "window_means": [
+      0.6069732666015625,
+      0.6150655110677082,
+      0.6133351643880208,
+      0.6127665201822916,
+      0.615185546875,
+      0.6133056640625,
+      0.6129954020182292,
+      0.6151784261067709
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|NOVEL_C1|F": {
+    "window_means": [
+      0.016699218749999998,
+      0.003906250000000001,
+      0.0007812500000000002,
+      0.0002278645833333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|SHAM_C0|U": {
+    "window_means": [
+      0.6075286865234375,
+      0.6155812581380209,
+      0.6140055338541667,
+      0.6124796549479167,
+      0.6154551188151042,
+      0.6155059814453125,
+      0.6129730224609374,
+      0.6153249104817707
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|SHAM_C0|F": {
+    "window_means": [
+      0.03492838541666667,
+      0.02464192708333333,
+      0.020247395833333334,
+      0.018164062499999998,
+      0.02197265625,
+      0.025455729166666666,
+      0.026041666666666668,
+      0.026041666666666668
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|SHAM_C1|U": {
+    "window_means": [
+      0.6063852945963542,
+      0.6152313232421875,
+      0.6135823567708334,
+      0.6132385253906251,
+      0.6152720133463542,
+      0.6138692220052083,
+      0.6134979248046876,
+      0.6141855875651041
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|SHAM_C1|F": {
+    "window_means": [
+      0.011100260416666667,
+      0.0021158854166666665,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|ACTIVE_C0|U": {
+    "window_means": [
+      0.622259521484375,
+      0.6752909342447917,
+      0.7089742024739584,
+      0.7285288492838541,
+      0.7384918212890627,
+      0.742400105794271,
+      0.7464670817057293,
+      0.7483225504557293
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|ACTIVE_C0|F": {
+    "window_means": [
+      0.045572916666666664,
+      0.09039713541666668,
+      0.11826171875000001,
+      0.13056640625,
+      0.13483072916666666,
+      0.13541666666666666,
+      0.13541666666666666,
+      0.13541666666666666
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|ACTIVE_C1|U": {
+    "window_means": [
+      0.6210835774739584,
+      0.6729827880859376,
+      0.7041982014973959,
+      0.7209025065104168,
+      0.7289774576822916,
+      0.7297098795572916,
+      0.7314178466796873,
+      0.7304066975911457
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|ACTIVE_C1|F": {
+    "window_means": [
+      0.013020833333333334,
+      0.008463541666666666,
+      0.008528645833333334,
+      0.008561197916666667,
+      0.010416666666666666,
+      0.010416666666666666,
+      0.010416666666666666,
+      0.010416666666666666
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|NOVEL_C0|U": {
+    "window_means": [
+      0.6215840657552084,
+      0.6721272786458335,
+      0.7036163330078123,
+      0.7208526611328124,
+      0.7272318522135416,
+      0.7289499918619792,
+      0.72957763671875,
+      0.7292093912760418
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|NOVEL_C0|F": {
+    "window_means": [
+      0.04583333333333334,
+      0.01712239583333333,
+      0.014680989583333333,
+      0.01357421875,
+      0.012239583333333333,
+      0.0123046875,
+      0.010872395833333333,
+      0.010416666666666666
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|NOVEL_C1|U": {
+    "window_means": [
+      0.6213165283203125,
+      0.6724324544270833,
+      0.7038665771484375,
+      0.7207366943359376,
+      0.7281392415364584,
+      0.7287963867187499,
+      0.7298055013020832,
+      0.7288726806640625
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|NOVEL_C1|F": {
+    "window_means": [
+      0.017024739583333334,
+      0.0026367187499999997,
+      0.0042968749999999995,
+      0.0019856770833333332,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|SHAM_C0|U": {
+    "window_means": [
+      0.6218617757161459,
+      0.6725118001302084,
+      0.7044158935546875,
+      0.7202616373697915,
+      0.7279022216796874,
+      0.7279713948567709,
+      0.7302530924479166,
+      0.7285756429036457
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|SHAM_C0|F": {
+    "window_means": [
+      0.03636067708333333,
+      0.04739583333333333,
+      0.0521484375,
+      0.05221354166666667,
+      0.052734375,
+      0.053125,
+      0.05221354166666667,
+      0.05270182291666667
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|SHAM_C1|U": {
+    "window_means": [
+      0.6211212158203124,
+      0.6729268391927082,
+      0.7042561848958333,
+      0.7201944986979166,
+      0.7281280517578125,
+      0.7282318115234375,
+      0.730078125,
+      0.7285959879557291
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|SHAM_C1|F": {
+    "window_means": [
+      0.01171875,
+      0.004134114583333333,
+      0.0038411458333333336,
+      0.0030598958333333333,
+      0.00013020833333333333,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.03125,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|U": {
+    "window_means": [
+      -0.00047810872395835186,
+      0.00016581217447917315,
+      -0.0012451171874999962,
+      -0.0017059326171875073,
+      -0.0017944335937500149,
+      -0.0016957600911458547,
+      -0.0017588297526041536,
+      -0.0037302652994791927
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|ACTIVE_C0-NOVEL_C0|F": {
+    "window_means": [
+      -0.019759114583333334,
+      -0.046875,
+      -0.0779296875,
+      -0.09798177083333333,
+      -0.11253255208333335,
+      -0.12288411458333333,
+      -0.128515625,
+      -0.13382161458333333
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|U": {
+    "window_means": [
+      -0.0005279541015624963,
+      0.00039062500000002404,
+      2.8483072916682395e-05,
+      -0.00014953613281251665,
+      0.00041300455729167035,
+      0.00046488444010416946,
+      0.00037740071614583703,
+      -0.0008626302083333167
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|ACTIVE_C1-NOVEL_C1|F": {
+    "window_means": [
+      -0.00703125,
+      -0.0033203125000000003,
+      -0.0007812500000000002,
+      -0.0002278645833333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|U": {
+    "window_means": [
+      -7.93457031250111e-05,
+      0.0003845214843749926,
+      -1.1189778645837034e-05,
+      0.0008138020833333148,
+      0.00039469401041665925,
+      -0.0003214518229166889,
+      0.0016103108723958444,
+      -0.0006276448567708407
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|ACTIVE_C0-SHAM_C0|F": {
+    "window_means": [
+      0.0038411458333333323,
+      0.030110677083333332,
+      0.04615885416666667,
+      0.05491536458333333,
+      0.05699869791666667,
+      0.05748697916666667,
+      0.058756510416666664,
+      0.057291666666666664
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|U": {
+    "window_means": [
+      6.001790364583889e-05,
+      0.0002248128255208324,
+      -0.00021870930989583795,
+      -0.0006215413411458278,
+      0.00032653808593751293,
+      -9.867350260415557e-05,
+      -0.00012512207031250186,
+      0.0001302083333333398
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|ACTIVE_C1-SHAM_C1|F": {
+    "window_means": [
+      -0.001432291666666667,
+      -0.0015299479166666667,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|U": {
+    "window_means": [
+      0.00039876302083334075,
+      0.00021870930989581946,
+      0.0012339274088541592,
+      0.0025197347005208224,
+      0.002189127604166674,
+      0.0013743082682291657,
+      0.003369140624999998,
+      0.0031026204427083517
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|NOVEL_C0-SHAM_C0|F": {
+    "window_means": [
+      0.023600260416666668,
+      0.07698567708333333,
+      0.12408854166666668,
+      0.15289713541666666,
+      0.16953125,
+      0.18037109375000002,
+      0.18727213541666668,
+      0.19111328125000002
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|U": {
+    "window_means": [
+      0.0005879720052083351,
+      -0.00016581217447919164,
+      -0.00024719238281252037,
+      -0.0004720052083333111,
+      -8.646647135415741e-05,
+      -0.000563557942708325,
+      -0.0005025227864583389,
+      0.0009928385416666564
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|NOVEL_C1-SHAM_C1|F": {
+    "window_means": [
+      0.005598958333333332,
+      0.0017903645833333337,
+      0.0007812500000000002,
+      0.0002278645833333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|U": {
+    "window_means": [
+      -0.0009541829427083445,
+      -0.0007344563802083407,
+      -0.0019042968750000167,
+      -0.0022328694661458196,
+      -0.0024586995442708363,
+      -0.0035746256510416677,
+      -0.003346761067708324,
+      -0.003249104817708367
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|IID|NOVEL_C1-NOVEL_C0|F": {
+    "window_means": [
+      -0.041829427083333336,
+      -0.09772135416666666,
+      -0.1435546875,
+      -0.1708333333333333,
+      -0.19150390625,
+      -0.20582682291666665,
+      -0.21331380208333336,
+      -0.21715494791666667
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|U": {
+    "window_means": [
+      0.0006754557291666538,
+      0.0031636555989583474,
+      0.005357869466145864,
+      0.007676188151041661,
+      0.011259969075520843,
+      0.01345011393229166,
+      0.016889444986979158,
+      0.019113159179687495
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|ACTIVE_C0-NOVEL_C0|F": {
+    "window_means": [
+      -0.0002604166666666673,
+      0.07327473958333335,
+      0.10358072916666666,
+      0.1169921875,
+      0.12259114583333335,
+      0.12311197916666666,
+      0.12454427083333335,
+      0.125
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|U": {
+    "window_means": [
+      -0.00023295084635413985,
+      0.0005503336588541796,
+      0.0003316243489583555,
+      0.00016581217447916852,
+      0.0008382161458333389,
+      0.0009134928385416916,
+      0.0016123453776041667,
+      0.0015340169270833353
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|ACTIVE_C1-NOVEL_C1|F": {
+    "window_means": [
+      -0.004003906250000001,
+      0.005826822916666666,
+      0.004231770833333334,
+      0.006575520833333334,
+      0.010416666666666666,
+      0.010416666666666666,
+      0.010416666666666666,
+      0.010416666666666666
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|U": {
+    "window_means": [
+      0.00039774576822917035,
+      0.0027791341145833592,
+      0.0045583089192708275,
+      0.008267211914062498,
+      0.010589599609374986,
+      0.0144287109375,
+      0.016213989257812506,
+      0.01974690755208336
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|ACTIVE_C0-SHAM_C0|F": {
+    "window_means": [
+      0.009212239583333335,
+      0.04300130208333334,
+      0.06611328124999999,
+      0.07835286458333333,
+      0.08209635416666666,
+      0.08229166666666667,
+      0.083203125,
+      0.08271484375
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|U": {
+    "window_means": [
+      -3.763834635416019e-05,
+      5.594889322917592e-05,
+      -5.7983398437493526e-05,
+      0.0007080078124999991,
+      0.0008494059244791574,
+      0.0014780680338541685,
+      0.001339721679687489,
+      0.001810709635416662
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|ACTIVE_C1-SHAM_C1|F": {
+    "window_means": [
+      0.0013020833333333337,
+      0.004329427083333333,
+      0.0046875,
+      0.005501302083333333,
+      0.010286458333333333,
+      0.010416666666666666,
+      0.010416666666666666,
+      0.010416666666666666
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|U": {
+    "window_means": [
+      -0.00027770996093748335,
+      -0.00038452148437498795,
+      -0.0007995605468750361,
+      0.000591023763020837,
+      -0.0006703694661458574,
+      0.0009785970052083408,
+      -0.0006754557291666538,
+      0.0006337483723958629
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|NOVEL_C0-SHAM_C0|F": {
+    "window_means": [
+      0.009472656250000003,
+      -0.0302734375,
+      -0.03746744791666667,
+      -0.03863932291666666,
+      -0.04049479166666667,
+      -0.040820312500000004,
+      -0.041341145833333336,
+      -0.042285156250000004
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|U": {
+    "window_means": [
+      0.00019531249999997965,
+      -0.0004943847656250037,
+      -0.0003896077473958491,
+      0.0005421956380208306,
+      1.118977864581853e-05,
+      0.0005645751953124769,
+      -0.0002726236979166778,
+      0.0002766927083333269
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|NOVEL_C1-SHAM_C1|F": {
+    "window_means": [
+      0.005305989583333334,
+      -0.001497395833333334,
+      0.0004557291666666662,
+      -0.0010742187500000003,
+      -0.00013020833333333333,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      6,
+      7,
+      8
+    ]
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|U": {
+    "window_means": [
+      -0.0002675374348958583,
+      0.00030517578124999073,
+      0.0002502441406250176,
+      -0.00011596679687500555,
+      0.000907389322916688,
+      -0.00015360514322917498,
+      0.00022786458333333426,
+      -0.00033671061197917035
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 3,
+        "right_window": 4,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 4,
+        "right_window": 5,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 5,
+        "right_window": 6,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 6,
+        "right_window": 7,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      },
+      {
+        "left_window": 7,
+        "right_window": 8,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR|NOVEL_C1-NOVEL_C0|F": {
+    "window_means": [
+      -0.02880859375,
+      -0.014485677083333334,
+      -0.010384114583333333,
+      -0.011588541666666667,
+      -0.012239583333333333,
+      -0.0123046875,
+      -0.010872395833333333,
+      -0.010416666666666666
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|U": {
+    "window_means": [
+      0.013656616210937505,
+      0.05632731119791668,
+      0.08837687174479165,
+      0.10585327148437501,
+      0.10958760579427079,
+      0.11206970214843748,
+      0.1132354736328125,
+      0.1107818603515625
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C0|F": {
+    "window_means": [
+      -0.0126953125,
+      -0.08450520833333332,
+      -0.12965494791666668,
+      -0.15748697916666668,
+      -0.1792643229166667,
+      -0.19352213541666666,
+      -0.20244140625000004,
+      -0.20673828125000002
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|U": {
+    "window_means": [
+      0.014343261718749991,
+      0.05736694335937501,
+      0.0905314127604167,
+      0.1079701741536458,
+      0.11295369466145833,
+      0.11549072265624998,
+      0.11681009928385418,
+      0.1136942545572917
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR_MINUS_IID|NOVEL_C1|F": {
+    "window_means": [
+      0.0003255208333333341,
+      -0.0012695312500000005,
+      0.003515625,
+      0.0017578124999999998,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [
+      {
+        "left_window": 1,
+        "right_window": 2,
+        "from_sign": "positive",
+        "to_sign": "negative"
+      },
+      {
+        "left_window": 2,
+        "right_window": 3,
+        "from_sign": "negative",
+        "to_sign": "positive"
+      }
+    ],
+    "no_observed_crossing": false,
+    "exact_reference_windows": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|U": {
+    "window_means": [
+      0.0011535644531250056,
+      0.002997843424479174,
+      0.0066029866536458605,
+      0.009382120768229169,
+      0.013054402669270859,
+      0.015145874023437514,
+      0.018648274739583314,
+      0.02284342447916669
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|F": {
+    "window_means": [
+      0.019498697916666665,
+      0.12014973958333335,
+      0.18151041666666665,
+      0.21497395833333333,
+      0.23512369791666665,
+      0.24599609375,
+      0.2530598958333333,
+      0.25882161458333336
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|U": {
+    "window_means": [
+      0.00029500325520835646,
+      0.00015970865885415556,
+      0.0003031412760416731,
+      0.00031534830729168517,
+      0.0004252115885416685,
+      0.0004486083984375222,
+      0.0012349446614583297,
+      0.002396647135416652
+    ],
+    "reference": 0,
+    "reference_meaning": "zero accuracy/contrast",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  },
+  "RARE|RECUR_MINUS_IID|ACTIVE_C1-NOVEL_C1|F": {
+    "window_means": [
+      0.0030273437499999992,
+      0.009147135416666667,
+      0.005013020833333334,
+      0.006803385416666666,
+      0.010416666666666666,
+      0.010416666666666666,
+      0.010416666666666666,
+      0.010416666666666666
+    ],
+    "reference": 0.0,
+    "reference_meaning": "initial frequency or initial frequency contrast; descriptive subtraction only",
+    "observed_crossings": [],
+    "no_observed_crossing": true,
+    "exact_reference_windows": []
+  }
+}

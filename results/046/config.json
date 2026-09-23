@@ -1,0 +1,45 @@
+{
+  "task_id": "ORG-REGIMEREP-046",
+  "revision": 1,
+  "population": 32,
+  "bits": 32,
+  "horizon": 40,
+  "blocks": 24,
+  "continuations": 8,
+  "initial_carriers": 1,
+  "carrier_position": "new labels[0]",
+  "laws": [
+    "IID",
+    "RECUR"
+  ],
+  "cost_bits": [
+    0,
+    1
+  ],
+  "new_paths": 2304,
+  "stored_paths": 0,
+  "primary": "RARE|RECUR_MINUS_IID|ACTIVE_C0-NOVEL_C0|D40",
+  "new_seed_records": 985,
+  "fresh_mask_getrandbits32": 245760,
+  "seed_namespace": "ORG-REGIMEREP-046-r1|{family}|{block}|{replicate}",
+  "intervals": 780,
+  "structural_zeros": 52,
+  "exact_old_intervals": 0,
+  "bootstrap_rows": 2000,
+  "interval_scope": "All including primary approximate pointwise",
+  "resources": {
+    "cpus": 1,
+    "memory_GiB": 4,
+    "minutes": 10
+  },
+  "all_policies_new": true,
+  "old_inputs_reused": false,
+  "policies": [
+    "NOVEL_C0",
+    "NOVEL_C1",
+    "ACTIVE_C0",
+    "SHAM_C0",
+    "ACTIVE_C1",
+    "SHAM_C1"
+  ]
+}

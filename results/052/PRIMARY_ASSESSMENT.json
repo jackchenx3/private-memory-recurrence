@@ -1,0 +1,52 @@
+{
+  "primary_key": "HALF|C0|MIX_H_MINUS_F|D40",
+  "primary": {
+    "mean": 0.13834635416666666,
+    "ci95": [
+      0.10001627604166667,
+      0.17822875976562497
+    ],
+    "zero_classification": "positive"
+  },
+  "prospective_expectation": "positive",
+  "expectation_supported": true,
+  "historical_absolute": {
+    "mean": 0.11124674479166667,
+    "ci95": [
+      0.07469482421875,
+      0.1504781087239583
+    ],
+    "zero_classification": "positive"
+  },
+  "historical_mean_increase": true,
+  "fresh_absolute": {
+    "mean": -0.027099609375,
+    "ci95": [
+      -0.03125,
+      -0.020345052083333332
+    ],
+    "zero_classification": "negative"
+  },
+  "composition_moderation": {
+    "mean": 0.02587890625,
+    "ci95": [
+      -0.0014017740885416657,
+      0.053629557291666664
+    ],
+    "zero_classification": "unresolved"
+  },
+  "incremental_recurrence": {
+    "mean": 0.13175455729166666,
+    "ci95": [
+      0.08487548828125001,
+      0.18107096354166666
+    ],
+    "zero_classification": "positive"
+  },
+  "incremental_recurrence_supported": true,
+  "interval_scope": "approximate pointwise",
+  "total_composition_intervention": true,
+  "independent_replication": true,
+  "full_three_part_pattern_reproduced": true,
+  "cohorts_pooled": false
+}

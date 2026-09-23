@@ -1,0 +1,157 @@
+{
+  "RESIDENT40|FULL|ACTIVE_C0": {
+    "endpoint_extinct": 126,
+    "endpoint_survives": 66,
+    "endpoint_above_initial": 66,
+    "extinction_observed": 126,
+    "fixation_missing": 127,
+    "endpoint_fixed": 65,
+    "extinction_missing": 66,
+    "fixation_observed": 65,
+    "endpoint_polymorphic": 1
+  },
+  "RESIDENT40|FULL|ACTIVE_C1": {
+    "endpoint_extinct": 191,
+    "endpoint_survives": 1,
+    "endpoint_above_initial": 1,
+    "extinction_observed": 191,
+    "fixation_missing": 191,
+    "endpoint_fixed": 1,
+    "extinction_missing": 1,
+    "fixation_observed": 1
+  },
+  "RESIDENT40|FULL|NOVEL_C0": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RESIDENT40|FULL|NOVEL_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RESIDENT40|FULL|SHAM_C0": {
+    "endpoint_extinct": 177,
+    "endpoint_survives": 15,
+    "endpoint_above_initial": 14,
+    "extinction_observed": 177,
+    "fixation_missing": 192,
+    "endpoint_polymorphic": 15,
+    "extinction_missing": 15
+  },
+  "RESIDENT40|FULL|SHAM_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RESIDENT40|ZERO|ACTIVE_C0": {
+    "endpoint_extinct": 173,
+    "endpoint_survives": 19,
+    "endpoint_above_initial": 19,
+    "extinction_observed": 173,
+    "fixation_missing": 175,
+    "endpoint_polymorphic": 2,
+    "extinction_missing": 19,
+    "endpoint_fixed": 17,
+    "fixation_observed": 17
+  },
+  "RESIDENT40|ZERO|ACTIVE_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RESIDENT40|ZERO|NOVEL_C0": {
+    "endpoint_extinct": 174,
+    "endpoint_survives": 18,
+    "endpoint_above_initial": 18,
+    "extinction_observed": 174,
+    "fixation_missing": 174,
+    "endpoint_fixed": 18,
+    "extinction_missing": 18,
+    "fixation_observed": 18
+  },
+  "RESIDENT40|ZERO|NOVEL_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RESIDENT40|ZERO|SHAM_C0": {
+    "endpoint_extinct": 182,
+    "endpoint_survives": 10,
+    "endpoint_above_initial": 10,
+    "extinction_observed": 182,
+    "fixation_missing": 182,
+    "endpoint_fixed": 10,
+    "extinction_missing": 10,
+    "fixation_observed": 10
+  },
+  "RESIDENT40|ZERO|SHAM_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RESIDENT40|HALF|ACTIVE_C0": {
+    "endpoint_extinct": 168,
+    "endpoint_survives": 24,
+    "endpoint_above_initial": 24,
+    "extinction_observed": 168,
+    "fixation_missing": 169,
+    "endpoint_fixed": 23,
+    "extinction_missing": 24,
+    "fixation_observed": 23,
+    "endpoint_polymorphic": 1
+  },
+  "RESIDENT40|HALF|ACTIVE_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RESIDENT40|HALF|NOVEL_C0": {
+    "endpoint_extinct": 188,
+    "endpoint_survives": 4,
+    "endpoint_above_initial": 4,
+    "extinction_observed": 188,
+    "fixation_missing": 188,
+    "endpoint_fixed": 4,
+    "extinction_missing": 4,
+    "fixation_observed": 4
+  },
+  "RESIDENT40|HALF|NOVEL_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  },
+  "RESIDENT40|HALF|SHAM_C0": {
+    "endpoint_extinct": 187,
+    "endpoint_survives": 5,
+    "endpoint_above_initial": 5,
+    "extinction_observed": 187,
+    "fixation_missing": 187,
+    "endpoint_fixed": 5,
+    "extinction_missing": 5,
+    "fixation_observed": 5
+  },
+  "RESIDENT40|HALF|SHAM_C1": {
+    "endpoint_extinct": 192,
+    "endpoint_survives": 0,
+    "endpoint_above_initial": 0,
+    "extinction_observed": 192,
+    "fixation_missing": 192
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "task_id": "ORG-SURVIVAL-050",
+  "revision": 1,
+  "population": 32,
+  "bits": 32,
+  "horizon": 40,
+  "blocks": 24,
+  "continuations": 8,
+  "starts": [
+    "RESIDENT40"
+  ],
+  "policies": [
+    "ACTIVE_C0",
+    "ACTIVE_C1",
+    "NOVEL_C0",
+    "NOVEL_C1",
+    "SHAM_C0",
+    "SHAM_C1"
+  ],
+  "laws": [
+    "ZERO",
+    "HALF",
+    "FULL"
+  ],
+  "initial_carriers": 1,
+  "carrier_position": "reused047 labels[0]",
+  "cache_initialization": "own current genotype,0,position",
+  "new_paths": 3456,
+  "source_states": 192,
+  "source_paths_rerun": 0,
+  "new_seeds": 192,
+  "seed_namespace": "ORG-SURVIVAL-050-r1|survival|{block}|{replicate}",
+  "primary": "RACE32|HALF|ACTIVE_C0-NOVEL_C0|D40",
+  "intervals": 2808,
+  "structural_zeros": 228,
+  "bootstrap_rows": 2000,
+  "resource": {
+    "cpus": 1,
+    "memory_GiB": 4,
+    "minutes": 10
+  },
+  "reused_paths": 3456,
+  "incremental_attribution": "RACE32|HALF_MINUS_ZERO|ACTIVE_C0-NOVEL_C0|D40",
+  "selection_rules": [
+    "BEST32",
+    "RACE32"
+  ],
+  "selection_moderation": "RACE32_MINUS_BEST32|HALF|ACTIVE_C0-NOVEL_C0|D40",
+  "survival_weight": "2**(-score)",
+  "survival_key": "-math.log(u)*float(1<<score)",
+  "survival_uniform": "(getrandbits(52)+1)/(2**52+1)",
+  "uniform_draw_calls": 983040,
+  "survivor_order": "ascending (race_key, accepted_tie, candidate_index)",
+  "negative_penalized_selection_valid": true
+}

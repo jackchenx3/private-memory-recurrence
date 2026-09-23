@@ -1,0 +1,74 @@
+{
+  "primary_key": "RESIDENT40|RECUR|ACTIVE_C0-RADIUS_C0|D40",
+  "primary": {
+    "mean": 0.31689453125,
+    "ci95": [
+      0.26985270182291665,
+      0.3668619791666667
+    ],
+    "zero_classification": "positive",
+    "interpretation": "carrier frequency change; first minus second arm"
+  },
+  "conclusion": "Original historical placement has a positive carrier advantage over the distance-matched randomized policy in the prepared recurrent condition.",
+  "original_advantage": true,
+  "radius_advantage": false,
+  "absolute_history": {
+    "mean": 0.3087565104166667,
+    "ci95": [
+      0.2633463541666667,
+      0.3585815429687499
+    ],
+    "zero_classification": "positive",
+    "interpretation": "carrier frequency change; absolute"
+  },
+  "absolute_radius": {
+    "mean": -0.008138020833333334,
+    "ci95": [
+      -0.020182291666666668,
+      0.005208333333333333
+    ],
+    "zero_classification": "unresolved",
+    "interpretation": "carrier frequency change; absolute"
+  },
+  "radius_minus_sham": {
+    "mean": -0.005208333333333333,
+    "ci95": [
+      -0.025882975260416666,
+      0.013346354166666666
+    ],
+    "zero_classification": "unresolved",
+    "interpretation": "carrier frequency change; first minus second arm"
+  },
+  "radius_minus_fresh": {
+    "mean": 0.023111979166666668,
+    "ci95": [
+      0.011067708333333334,
+      0.036458333333333336
+    ],
+    "zero_classification": "positive",
+    "interpretation": "carrier frequency change; first minus second arm"
+  },
+  "initial_state_interaction": {
+    "mean": 0.23502604166666666,
+    "ci95": [
+      0.16275227864583333,
+      0.31087646484375
+    ],
+    "zero_classification": "positive",
+    "interpretation": "carrier frequency change; prepared-minus-naive total effect"
+  },
+  "law_interaction": {
+    "mean": 0.3780924479166667,
+    "ci95": [
+      0.30369873046875,
+      0.4563883463541666
+    ],
+    "zero_classification": "positive",
+    "interpretation": "carrier frequency change; recurrence-minus-IID difference"
+  },
+  "local_identity_is_population_null": false,
+  "unique_mediation_fraction": false,
+  "history_free_control": false,
+  "independent_replication": false,
+  "coverage": "approximate pointwise including primary"
+}

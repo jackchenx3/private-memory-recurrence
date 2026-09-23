@@ -1,0 +1,30 @@
+{
+  "title": "Environmental recurrence changes the transmission advantage of private memory in a finite-budget population model",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Chen, Jack",
+      "affiliation": "Frederick Sequencing and Genomics Core; Advanced Biomedical Computational Science (ABCS); Frederick National Lab for Cancer Research; National Institutes of Health"
+    }
+  ],
+  "description": "A computational preprint separating the transmission advantage of historical memory use from absolute lineage increase and population accuracy in an abstract finite-budget population model. Includes studies 045\u2013055, complete block-level outcome grids, scientific source and reproducibility scripts. Not externally peer reviewed. The compact release excludes raw candidate-by-candidate trajectories and random tapes. Content/data are CC BY 4.0; original code is MIT.",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "keywords": [
+    "dynamic optimization",
+    "evolutionary computation",
+    "environmental recurrence",
+    "private memory",
+    "strategy transmission",
+    "finite-budget adaptation",
+    "population models"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/jackchenx3/private-memory-recurrence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
