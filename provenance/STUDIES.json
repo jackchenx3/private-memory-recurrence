@@ -150,5 +150,20 @@
     "dependence": "New cohort; HAM/TRAP4 share indexed exogenous inputs but have objective-specific prepared populations. No old paths or cohorts pooled.",
     "new_paths": 5760,
     "reused_paths": 0
+  },
+  {
+    "study": "059",
+    "source_package": "transient_pulse_v1",
+    "summary": "results/059/summary.json",
+    "block_summaries": "results/059/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/059/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "0afb0398b2a255167678e231a248576ee9517ed4645ac867c92de302ed0d8985",
+    "delivery_manifest_sha256": "e0a0d0626aad3705b44867ba3961e6a07a12036c4680e2af09401acd23f34a0a",
+    "independent_review": "provenance/059_AUDIT.json",
+    "new_cohort": false,
+    "dependence": "All192 HALF/H prepared states reused from057; new paired transfer inputs; two physical placements averaged. No new training cohort or cohort pooling.",
+    "new_paths": 960,
+    "reused_preparations": 192,
+    "reused_paths": 0
   }
 ]

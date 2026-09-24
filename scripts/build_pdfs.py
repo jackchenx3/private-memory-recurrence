@@ -42,7 +42,7 @@ def inline(text,source):
         if not url.startswith(('https://','http://')):
             assert (source.parent/url).resolve().exists(),url
             relative=(source.parent/url).resolve().relative_to(ROOT)
-            url='https://github.com/jackchenx3/private-memory-recurrence/blob/v1.2.0/'+str(relative)
+            url='https://github.com/jackchenx3/private-memory-recurrence/blob/v1.3.0/'+str(relative)
         return '<link href="'+html.escape(url,quote=True)+'" color="#176b8c">'+label+'</link>'
     text=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',link,text)
     text=re.sub(r'\*\*(.+?)\*\*',r'<b>\1</b>',text)
@@ -52,7 +52,7 @@ def inline(text,source):
 def footer(canvas,doc):
     canvas.saveState();canvas.setStrokeColor(colors.HexColor('#d5dde3'))
     canvas.line(50,37,A4[0]-50,37);canvas.setFont('Research',7.3);canvas.setFillColor(GRAY)
-    canvas.drawString(50,25,'Private memory and recurrence | Research preprint v1.2.0')
+    canvas.drawString(50,25,'Private memory and recurrence | Research preprint v1.3.0')
     canvas.drawRightString(A4[0]-50,25,str(doc.page));canvas.restoreState()
 
 def render(source,dest):

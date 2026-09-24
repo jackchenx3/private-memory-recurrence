@@ -2660,6 +2660,132 @@
       },
       "scale": 100,
       "display": "+0.10 [-0.28, +0.49]"
+    },
+    {
+      "study": "059",
+      "key": "PULSE_MINUS_STAY|U40",
+      "value": {
+        "mean": 0.00037384033203125,
+        "ci95": [
+          -0.0024668375651041665,
+          0.0033552169799804642
+        ],
+        "zero_classification": "unresolved"
+      },
+      "scale": 100,
+      "display": "+0.037 [-0.247, +0.336]"
+    },
+    {
+      "study": "059",
+      "key": "PULSE_MINUS_STAY|U_LATE",
+      "value": {
+        "mean": 5.171034071180478e-05,
+        "ci95": [
+          -0.00048624837500417024,
+          0.0006311758970602944
+        ],
+        "zero_classification": "unresolved"
+      },
+      "scale": 100,
+      "display": "+0.005 [-0.049, +0.063]"
+    },
+    {
+      "study": "059",
+      "key": "PULSE_MINUS_STAY|U_ALL",
+      "value": {
+        "mean": 4.450480143229282e-05,
+        "ci95": [
+          -0.00048278649648030605,
+          0.0006095647811889645
+        ],
+        "zero_classification": "unresolved"
+      },
+      "scale": 100,
+      "display": "+0.004 [-0.048, +0.061]"
+    },
+    {
+      "study": "059",
+      "key": "CONT_MINUS_STAY|U40",
+      "value": {
+        "mean": 0.00099945068359375,
+        "ci95": [
+          -0.0030417760213216146,
+          0.00537115732828776
+        ],
+        "zero_classification": "unresolved"
+      },
+      "scale": 100,
+      "display": "+0.100 [-0.304, +0.537]"
+    },
+    {
+      "study": "059",
+      "key": "PULSE_MINUS_CONT|U40",
+      "value": {
+        "mean": -0.0006256103515625,
+        "ci95": [
+          -0.002581659952799479,
+          0.0012436548868815101
+        ],
+        "zero_classification": "unresolved"
+      },
+      "scale": 100,
+      "display": "-0.063 [-0.258, +0.124]"
+    },
+    {
+      "study": "059",
+      "key": "PULSE_MINUS_STAY|D1",
+      "value": {
+        "mean": -0.007242838541666667,
+        "ci95": [
+          -0.010416666666666666,
+          -0.003662109375
+        ],
+        "zero_classification": "negative"
+      },
+      "scale": 100,
+      "display": "-0.724 [-1.042, -0.366]"
+    },
+    {
+      "study": "059",
+      "key": "PULSE_MINUS_CONT|D40",
+      "value": {
+        "mean": 0.029947916666666668,
+        "ci95": [
+          0.0146484375,
+          0.04687906901041664
+        ],
+        "zero_classification": "positive"
+      },
+      "scale": 100,
+      "display": "+2.995 [+1.465, +4.688]"
+    },
+    {
+      "study": "059",
+      "key": "PULSE_MINUS_STAY|D40",
+      "value": {
+        "mean": -0.0234375,
+        "ci95": [
+          -0.04736531575520833,
+          0.0005737304687499778
+        ],
+        "zero_classification": "unresolved"
+      },
+      "scale": 100,
+      "display": "-2.344 [-4.737, +0.057]"
+    },
+    {
+      "study": "059",
+      "key": "CONT_MINUS_STAY|D40",
+      "value": {
+        "mean": -0.053385416666666664,
+        "ci95": [
+          -0.07300008138020833,
+          -0.03498738606770837
+        ],
+        "zero_classification": "negative"
+      },
+      "scale": 100,
+      "display": "-5.339 [-7.300, -3.499]"
     }
   ],
   "fate_records": [
@@ -3130,7 +3256,7 @@
       }
     }
   ],
-  "scope": "Manuscript and supporting evidence through accepted058; saved-table verification, no new simulations",
+  "scope": "Manuscript and supporting evidence through accepted059; saved-table verification only",
   "prior_manuscript_sha256": "8c00f006e27a079f13131efdf037c7d6880cd50c55701e3bea209deb9c70960a",
   "added_fate_records": [
     {
@@ -3231,5 +3357,58 @@
         "below_initial": 192
       }
     }
-  ]
+  ],
+  "pulse_fate_records": {
+    "STAY|placement0|t1": {
+      "polymorphic": 126,
+      "extinct": 66
+    },
+    "STAY|placement0|t40": {
+      "extinct": 183,
+      "polymorphic": 3,
+      "fixed": 6
+    },
+    "STAY|placement1|t1": {
+      "polymorphic": 126,
+      "extinct": 66
+    },
+    "STAY|placement1|t40": {
+      "extinct": 178,
+      "fixed": 11,
+      "polymorphic": 3
+    },
+    "PULSE0|placement0|t1": {
+      "extinct": 91,
+      "polymorphic": 101
+    },
+    "PULSE0|placement0|t40": {
+      "extinct": 185,
+      "polymorphic": 1,
+      "fixed": 6
+    },
+    "PULSE1|placement1|t1": {
+      "polymorphic": 95,
+      "extinct": 97
+    },
+    "PULSE1|placement1|t40": {
+      "extinct": 187,
+      "fixed": 5
+    },
+    "CONT0|placement0|t1": {
+      "extinct": 91,
+      "polymorphic": 101
+    },
+    "CONT0|placement0|t40": {
+      "extinct": 191,
+      "polymorphic": 1
+    },
+    "CONT1|placement1|t1": {
+      "polymorphic": 95,
+      "extinct": 97
+    },
+    "CONT1|placement1|t40": {
+      "extinct": 191,
+      "polymorphic": 1
+    }
+  }
 }

@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "raw_audit_block": 0,
+  "raw_checks": {
+    "paths": 40,
+    "recorded_scores": 206080,
+    "race_keys": 204800,
+    "updates": 1600
+  },
+  "checked_estimates": 36,
+  "maximum_absolute_discrepancy": 2.220446049250313e-16,
+  "tolerance": 2e-13,
+  "first_update_coupling_pairs": 16,
+  "structural_zero_keys": [
+    "PULSE_MINUS_CONT|U1",
+    "PULSE_MINUS_CONT|D1"
+  ],
+  "recorded_score_reconstructions": 206080,
+  "new_scientific_calls": 0,
+  "new_paths": 0,
+  "new_random_draws": 0
+}

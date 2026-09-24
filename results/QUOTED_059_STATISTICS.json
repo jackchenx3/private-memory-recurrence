@@ -1,0 +1,286 @@
+[
+  {
+    "study": "059",
+    "key": "PULSE_MINUS_STAY|U40",
+    "value": {
+      "mean": 0.00037384033203125,
+      "ci95": [
+        -0.0024668375651041665,
+        0.0033552169799804642
+      ],
+      "classification": "unresolved",
+      "mean_percentage_points": 0.037384033203125,
+      "ci95_percentage_points": [
+        -0.24668375651041666,
+        0.33552169799804643
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": 0.3828125,
+      "ci95_count_units": [
+        -2.5260416666666665,
+        3.4357421874999954
+      ],
+      "paired_signs": {
+        "negative": 66,
+        "positive": 68,
+        "zero": 58
+      },
+      "block_signs": {
+        "negative": 12,
+        "positive": 12
+      }
+    }
+  },
+  {
+    "study": "059",
+    "key": "PULSE_MINUS_STAY|U_LATE",
+    "value": {
+      "mean": 5.171034071180478e-05,
+      "ci95": [
+        -0.00048624837500417024,
+        0.0006311758970602944
+      ],
+      "classification": "unresolved",
+      "mean_percentage_points": 0.005171034071180478,
+      "ci95_percentage_points": [
+        -0.048624837500417024,
+        0.06311758970602944
+      ],
+      "count_unit": null,
+      "mean_count_units": null,
+      "ci95_count_units": null,
+      "paired_signs": {
+        "positive": 65,
+        "negative": 72,
+        "zero": 55
+      },
+      "block_signs": {
+        "positive": 13,
+        "negative": 11
+      }
+    }
+  },
+  {
+    "study": "059",
+    "key": "PULSE_MINUS_STAY|U_ALL",
+    "value": {
+      "mean": 4.450480143229282e-05,
+      "ci95": [
+        -0.00048278649648030605,
+        0.0006095647811889645
+      ],
+      "classification": "unresolved",
+      "mean_percentage_points": 0.004450480143229282,
+      "ci95_percentage_points": [
+        -0.04827864964803061,
+        0.06095647811889645
+      ],
+      "count_unit": null,
+      "mean_count_units": null,
+      "ci95_count_units": null,
+      "paired_signs": {
+        "positive": 66,
+        "negative": 72,
+        "zero": 54
+      },
+      "block_signs": {
+        "positive": 13,
+        "negative": 11
+      }
+    }
+  },
+  {
+    "study": "059",
+    "key": "CONT_MINUS_STAY|U40",
+    "value": {
+      "mean": 0.00099945068359375,
+      "ci95": [
+        -0.0030417760213216146,
+        0.00537115732828776
+      ],
+      "classification": "unresolved",
+      "mean_percentage_points": 0.099945068359375,
+      "ci95_percentage_points": [
+        -0.30417760213216144,
+        0.537115732828776
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": 1.0234375,
+      "ci95_count_units": [
+        -3.1147786458333333,
+        5.500065104166667
+      ],
+      "paired_signs": {
+        "positive": 91,
+        "negative": 75,
+        "zero": 26
+      },
+      "block_signs": {
+        "positive": 14,
+        "negative": 10
+      }
+    }
+  },
+  {
+    "study": "059",
+    "key": "PULSE_MINUS_CONT|U40",
+    "value": {
+      "mean": -0.0006256103515625,
+      "ci95": [
+        -0.002581659952799479,
+        0.0012436548868815101
+      ],
+      "classification": "unresolved",
+      "mean_percentage_points": -0.06256103515625,
+      "ci95_percentage_points": [
+        -0.25816599527994794,
+        0.12436548868815102
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": -0.640625,
+      "ci95_count_units": [
+        -2.6436197916666666,
+        1.2735026041666664
+      ],
+      "paired_signs": {
+        "negative": 67,
+        "positive": 54,
+        "zero": 71
+      },
+      "block_signs": {
+        "negative": 12,
+        "positive": 12
+      }
+    }
+  },
+  {
+    "study": "059",
+    "key": "PULSE_MINUS_STAY|D1",
+    "value": {
+      "mean": -0.007242838541666667,
+      "ci95": [
+        -0.010416666666666666,
+        -0.003662109375
+      ],
+      "classification": "negative",
+      "mean_percentage_points": -0.7242838541666667,
+      "ci95_percentage_points": [
+        -1.0416666666666665,
+        -0.3662109375
+      ],
+      "count_unit": "expected_descendants",
+      "mean_count_units": -0.23177083333333334,
+      "ci95_count_units": [
+        -0.3333333333333333,
+        -0.1171875
+      ],
+      "paired_signs": {
+        "negative": 85,
+        "zero": 81,
+        "positive": 26
+      },
+      "block_signs": {
+        "negative": 17,
+        "zero": 3,
+        "positive": 4
+      }
+    }
+  },
+  {
+    "study": "059",
+    "key": "PULSE_MINUS_CONT|D40",
+    "value": {
+      "mean": 0.029947916666666668,
+      "ci95": [
+        0.0146484375,
+        0.04687906901041664
+      ],
+      "classification": "positive",
+      "mean_percentage_points": 2.994791666666667,
+      "ci95_percentage_points": [
+        1.46484375,
+        4.687906901041664
+      ],
+      "count_unit": "expected_descendants",
+      "mean_count_units": 0.9583333333333334,
+      "ci95_count_units": [
+        0.46875,
+        1.5001302083333325
+      ],
+      "paired_signs": {
+        "zero": 179,
+        "positive": 12,
+        "negative": 1
+      },
+      "block_signs": {
+        "zero": 14,
+        "positive": 10
+      }
+    }
+  },
+  {
+    "study": "059",
+    "key": "PULSE_MINUS_STAY|D40",
+    "value": {
+      "mean": -0.0234375,
+      "ci95": [
+        -0.04736531575520833,
+        0.0005737304687499778
+      ],
+      "classification": "unresolved",
+      "mean_percentage_points": -2.34375,
+      "ci95_percentage_points": [
+        -4.736531575520833,
+        0.05737304687499778
+      ],
+      "count_unit": "expected_descendants",
+      "mean_count_units": -0.75,
+      "ci95_count_units": [
+        -1.5156901041666666,
+        0.01835937499999929
+      ],
+      "paired_signs": {
+        "zero": 171,
+        "negative": 15,
+        "positive": 6
+      },
+      "block_signs": {
+        "negative": 11,
+        "zero": 8,
+        "positive": 5
+      }
+    }
+  },
+  {
+    "study": "059",
+    "key": "CONT_MINUS_STAY|D40",
+    "value": {
+      "mean": -0.053385416666666664,
+      "ci95": [
+        -0.07300008138020833,
+        -0.03498738606770837
+      ],
+      "classification": "negative",
+      "mean_percentage_points": -5.338541666666666,
+      "ci95_percentage_points": [
+        -7.300008138020833,
+        -3.498738606770837
+      ],
+      "count_unit": "expected_descendants",
+      "mean_count_units": -1.7083333333333333,
+      "ci95_count_units": [
+        -2.3360026041666666,
+        -1.1195963541666678
+      ],
+      "paired_signs": {
+        "zero": 168,
+        "negative": 23,
+        "positive": 1
+      },
+      "block_signs": {
+        "negative": 18,
+        "zero": 6
+      }
+    }
+  }
+]

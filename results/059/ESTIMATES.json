@@ -1,0 +1,917 @@
+{
+  "STAY|U1": {
+    "mean": 0.6368611653645834,
+    "ci95": [
+      0.6231557210286459,
+      0.6515471140543619
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 63.686116536458336,
+    "ci95_percentage_points": [
+      62.31557210286459,
+      65.15471140543619
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 192
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "STAY|U_LATE": {
+    "mean": 0.6297690888755342,
+    "ci95": [
+      0.6268885098970851,
+      0.6329462067693726
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 62.97690888755342,
+    "ci95_percentage_points": [
+      62.68885098970851,
+      63.294620676937264
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 192
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "STAY|U40": {
+    "mean": 0.6378021240234375,
+    "ci95": [
+      0.6242169698079427,
+      0.6522930145263671
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 63.78021240234375,
+    "ci95_percentage_points": [
+      62.42169698079427,
+      65.22930145263672
+    ],
+    "count_unit": "expected_matching_bits",
+    "mean_count_units": 653.109375,
+    "ci95_count_units": [
+      639.1981770833333,
+      667.9480468749999
+    ],
+    "paired_signs": {
+      "positive": 192
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "STAY|U_ALL": {
+    "mean": 0.6299463907877604,
+    "ci95": [
+      0.6270992660522461,
+      0.633017857869466
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 62.99463907877604,
+    "ci95_percentage_points": [
+      62.70992660522461,
+      63.301785786946596
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 192
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "STAY|D1": {
+    "mean": 0.0010579427083333333,
+    "ci95": [
+      -0.00146484375,
+      0.003662109375
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": 0.10579427083333333,
+    "ci95_percentage_points": [
+      -0.146484375,
+      0.3662109375
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": 0.033854166666666664,
+    "ci95_count_units": [
+      -0.046875,
+      0.1171875
+    ],
+    "paired_signs": {
+      "positive": 69,
+      "zero": 51,
+      "negative": 72
+    },
+    "block_signs": {
+      "positive": 12,
+      "negative": 10,
+      "zero": 2
+    }
+  },
+  "STAY|D40": {
+    "mean": 0.022786458333333332,
+    "ci95": [
+      0.004313151041666667,
+      0.04200032552083329
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 2.278645833333333,
+    "ci95_percentage_points": [
+      0.4313151041666667,
+      4.2000325520833295
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": 0.7291666666666666,
+    "ci95_count_units": [
+      0.13802083333333334,
+      1.3440104166666653
+    ],
+    "paired_signs": {
+      "negative": 169,
+      "positive": 23
+    },
+    "block_signs": {
+      "positive": 16,
+      "negative": 8
+    }
+  },
+  "PULSE|U1": {
+    "mean": 0.6366246541341146,
+    "ci95": [
+      0.6229660669962566,
+      0.6512205123901368
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 63.66246541341146,
+    "ci95_percentage_points": [
+      62.296606699625656,
+      65.12205123901367
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 192
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "PULSE|U_LATE": {
+    "mean": 0.6298207992162459,
+    "ci95": [
+      0.6269052880442041,
+      0.6330181301149548
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 62.98207992162459,
+    "ci95_percentage_points": [
+      62.69052880442041,
+      63.301813011495476
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 192
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "PULSE|U40": {
+    "mean": 0.6381759643554688,
+    "ci95": [
+      0.6242460250854491,
+      0.6538385391235352
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 63.817596435546875,
+    "ci95_percentage_points": [
+      62.424602508544915,
+      65.38385391235352
+    ],
+    "count_unit": "expected_matching_bits",
+    "mean_count_units": 653.4921875,
+    "ci95_count_units": [
+      639.2279296874999,
+      669.5306640625
+    ],
+    "paired_signs": {
+      "positive": 192
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "PULSE|U_ALL": {
+    "mean": 0.6299908955891926,
+    "ci95": [
+      0.6271151590347288,
+      0.6331026283899942
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 62.999089558919266,
+    "ci95_percentage_points": [
+      62.71151590347288,
+      63.31026283899942
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 192
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "PULSE|D1": {
+    "mean": -0.006184895833333333,
+    "ci95": [
+      -0.009928385416666666,
+      -0.002113850911458344
+    ],
+    "classification": "negative",
+    "mean_percentage_points": -0.6184895833333333,
+    "ci95_percentage_points": [
+      -0.9928385416666666,
+      -0.21138509114583443
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": -0.19791666666666666,
+    "ci95_count_units": [
+      -0.3177083333333333,
+      -0.06764322916666701
+    ],
+    "paired_signs": {
+      "negative": 103,
+      "zero": 46,
+      "positive": 43
+    },
+    "block_signs": {
+      "negative": 15,
+      "positive": 7,
+      "zero": 2
+    }
+  },
+  "PULSE|D40": {
+    "mean": -0.0006510416666666666,
+    "ci95": [
+      -0.016276041666666668,
+      0.016927083333333332
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": -0.06510416666666666,
+    "ci95_percentage_points": [
+      -1.6276041666666667,
+      1.6927083333333333
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": -0.020833333333333332,
+    "ci95_count_units": [
+      -0.5208333333333334,
+      0.5416666666666666
+    ],
+    "paired_signs": {
+      "negative": 180,
+      "positive": 12
+    },
+    "block_signs": {
+      "negative": 14,
+      "positive": 10
+    }
+  },
+  "CONT|U1": {
+    "mean": 0.6366246541341146,
+    "ci95": [
+      0.6229660669962566,
+      0.6512205123901368
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 63.66246541341146,
+    "ci95_percentage_points": [
+      62.296606699625656,
+      65.12205123901367
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 192
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "CONT|U_LATE": {
+    "mean": 0.630008990948017,
+    "ci95": [
+      0.6271846445197735,
+      0.6332040542211289
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 63.000899094801696,
+    "ci95_percentage_points": [
+      62.718464451977354,
+      63.32040542211289
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 192
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "CONT|U40": {
+    "mean": 0.6388015747070312,
+    "ci95": [
+      0.6239726384480795,
+      0.6552321116129557
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 63.880157470703125,
+    "ci95_percentage_points": [
+      62.39726384480795,
+      65.52321116129556
+    ],
+    "count_unit": "expected_matching_bits",
+    "mean_count_units": 654.1328125,
+    "ci95_count_units": [
+      638.9479817708334,
+      670.9576822916666
+    ],
+    "paired_signs": {
+      "positive": 192
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "CONT|U_ALL": {
+    "mean": 0.6301743825276693,
+    "ci95": [
+      0.6273513555526733,
+      0.6333128452301026
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 63.01743825276694,
+    "ci95_percentage_points": [
+      62.73513555526733,
+      63.331284523010254
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 192
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "CONT|D1": {
+    "mean": -0.006184895833333333,
+    "ci95": [
+      -0.009928385416666666,
+      -0.002113850911458344
+    ],
+    "classification": "negative",
+    "mean_percentage_points": -0.6184895833333333,
+    "ci95_percentage_points": [
+      -0.9928385416666666,
+      -0.21138509114583443
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": -0.19791666666666666,
+    "ci95_count_units": [
+      -0.3177083333333333,
+      -0.06764322916666701
+    ],
+    "paired_signs": {
+      "negative": 103,
+      "zero": 46,
+      "positive": 43
+    },
+    "block_signs": {
+      "negative": 15,
+      "positive": 7,
+      "zero": 2
+    }
+  },
+  "CONT|D40": {
+    "mean": -0.030598958333333332,
+    "ci95": [
+      -0.03125,
+      -0.029459635416666668
+    ],
+    "classification": "negative",
+    "mean_percentage_points": -3.059895833333333,
+    "ci95_percentage_points": [
+      -3.125,
+      -2.945963541666667
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": -0.9791666666666666,
+    "ci95_count_units": [
+      -1.0,
+      -0.9427083333333334
+    ],
+    "paired_signs": {
+      "negative": 190,
+      "zero": 1,
+      "positive": 1
+    },
+    "block_signs": {
+      "negative": 24
+    }
+  },
+  "PULSE_MINUS_STAY|U1": {
+    "mean": -0.00023651123046875,
+    "ci95": [
+      -0.0005315144856770834,
+      3.058115641276007e-05
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": -0.023651123046875,
+    "ci95_percentage_points": [
+      -0.053151448567708336,
+      0.003058115641276007
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "negative": 63,
+      "zero": 79,
+      "positive": 50
+    },
+    "block_signs": {
+      "negative": 15,
+      "positive": 9
+    }
+  },
+  "PULSE_MINUS_STAY|U_LATE": {
+    "mean": 5.171034071180478e-05,
+    "ci95": [
+      -0.00048624837500417024,
+      0.0006311758970602944
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": 0.005171034071180478,
+    "ci95_percentage_points": [
+      -0.048624837500417024,
+      0.06311758970602944
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 65,
+      "negative": 72,
+      "zero": 55
+    },
+    "block_signs": {
+      "positive": 13,
+      "negative": 11
+    }
+  },
+  "PULSE_MINUS_STAY|U40": {
+    "mean": 0.00037384033203125,
+    "ci95": [
+      -0.0024668375651041665,
+      0.0033552169799804642
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": 0.037384033203125,
+    "ci95_percentage_points": [
+      -0.24668375651041666,
+      0.33552169799804643
+    ],
+    "count_unit": "expected_matching_bits",
+    "mean_count_units": 0.3828125,
+    "ci95_count_units": [
+      -2.5260416666666665,
+      3.4357421874999954
+    ],
+    "paired_signs": {
+      "negative": 66,
+      "positive": 68,
+      "zero": 58
+    },
+    "block_signs": {
+      "negative": 12,
+      "positive": 12
+    }
+  },
+  "PULSE_MINUS_STAY|U_ALL": {
+    "mean": 4.450480143229282e-05,
+    "ci95": [
+      -0.00048278649648030605,
+      0.0006095647811889645
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": 0.004450480143229282,
+    "ci95_percentage_points": [
+      -0.04827864964803061,
+      0.06095647811889645
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 66,
+      "negative": 72,
+      "zero": 54
+    },
+    "block_signs": {
+      "positive": 13,
+      "negative": 11
+    }
+  },
+  "PULSE_MINUS_STAY|D1": {
+    "mean": -0.007242838541666667,
+    "ci95": [
+      -0.010416666666666666,
+      -0.003662109375
+    ],
+    "classification": "negative",
+    "mean_percentage_points": -0.7242838541666667,
+    "ci95_percentage_points": [
+      -1.0416666666666665,
+      -0.3662109375
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": -0.23177083333333334,
+    "ci95_count_units": [
+      -0.3333333333333333,
+      -0.1171875
+    ],
+    "paired_signs": {
+      "negative": 85,
+      "zero": 81,
+      "positive": 26
+    },
+    "block_signs": {
+      "negative": 17,
+      "zero": 3,
+      "positive": 4
+    }
+  },
+  "PULSE_MINUS_STAY|D40": {
+    "mean": -0.0234375,
+    "ci95": [
+      -0.04736531575520833,
+      0.0005737304687499778
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": -2.34375,
+    "ci95_percentage_points": [
+      -4.736531575520833,
+      0.05737304687499778
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": -0.75,
+    "ci95_count_units": [
+      -1.5156901041666666,
+      0.01835937499999929
+    ],
+    "paired_signs": {
+      "zero": 171,
+      "negative": 15,
+      "positive": 6
+    },
+    "block_signs": {
+      "negative": 11,
+      "zero": 8,
+      "positive": 5
+    }
+  },
+  "CONT_MINUS_STAY|U1": {
+    "mean": -0.00023651123046875,
+    "ci95": [
+      -0.0005315144856770834,
+      3.058115641276007e-05
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": -0.023651123046875,
+    "ci95_percentage_points": [
+      -0.053151448567708336,
+      0.003058115641276007
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "negative": 63,
+      "zero": 79,
+      "positive": 50
+    },
+    "block_signs": {
+      "negative": 15,
+      "positive": 9
+    }
+  },
+  "CONT_MINUS_STAY|U_LATE": {
+    "mean": 0.00023990207248263695,
+    "ci95": [
+      -0.00044885130010098747,
+      0.0009658161391559806
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": 0.023990207248263694,
+    "ci95_percentage_points": [
+      -0.044885130010098744,
+      0.09658161391559805
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 80,
+      "negative": 87,
+      "zero": 25
+    },
+    "block_signs": {
+      "positive": 15,
+      "negative": 9
+    }
+  },
+  "CONT_MINUS_STAY|U40": {
+    "mean": 0.00099945068359375,
+    "ci95": [
+      -0.0030417760213216146,
+      0.00537115732828776
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": 0.099945068359375,
+    "ci95_percentage_points": [
+      -0.30417760213216144,
+      0.537115732828776
+    ],
+    "count_unit": "expected_matching_bits",
+    "mean_count_units": 1.0234375,
+    "ci95_count_units": [
+      -3.1147786458333333,
+      5.500065104166667
+    ],
+    "paired_signs": {
+      "positive": 91,
+      "negative": 75,
+      "zero": 26
+    },
+    "block_signs": {
+      "positive": 14,
+      "negative": 10
+    }
+  },
+  "CONT_MINUS_STAY|U_ALL": {
+    "mean": 0.00022799173990885614,
+    "ci95": [
+      -0.0004440911610921176,
+      0.0009386142094929997
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": 0.022799173990885616,
+    "ci95_percentage_points": [
+      -0.044409116109211756,
+      0.09386142094929997
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "positive": 79,
+      "negative": 88,
+      "zero": 25
+    },
+    "block_signs": {
+      "positive": 14,
+      "negative": 10
+    }
+  },
+  "CONT_MINUS_STAY|D1": {
+    "mean": -0.007242838541666667,
+    "ci95": [
+      -0.010416666666666666,
+      -0.003662109375
+    ],
+    "classification": "negative",
+    "mean_percentage_points": -0.7242838541666667,
+    "ci95_percentage_points": [
+      -1.0416666666666665,
+      -0.3662109375
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": -0.23177083333333334,
+    "ci95_count_units": [
+      -0.3333333333333333,
+      -0.1171875
+    ],
+    "paired_signs": {
+      "negative": 85,
+      "zero": 81,
+      "positive": 26
+    },
+    "block_signs": {
+      "negative": 17,
+      "zero": 3,
+      "positive": 4
+    }
+  },
+  "CONT_MINUS_STAY|D40": {
+    "mean": -0.053385416666666664,
+    "ci95": [
+      -0.07300008138020833,
+      -0.03498738606770837
+    ],
+    "classification": "negative",
+    "mean_percentage_points": -5.338541666666666,
+    "ci95_percentage_points": [
+      -7.300008138020833,
+      -3.498738606770837
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": -1.7083333333333333,
+    "ci95_count_units": [
+      -2.3360026041666666,
+      -1.1195963541666678
+    ],
+    "paired_signs": {
+      "zero": 168,
+      "negative": 23,
+      "positive": 1
+    },
+    "block_signs": {
+      "negative": 18,
+      "zero": 6
+    }
+  },
+  "PULSE_MINUS_CONT|U1": {
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ],
+    "classification": "structural_zero",
+    "mean_percentage_points": 0.0,
+    "ci95_percentage_points": [
+      0.0,
+      0.0
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "zero": 192
+    },
+    "block_signs": {
+      "zero": 24
+    }
+  },
+  "PULSE_MINUS_CONT|U_LATE": {
+    "mean": -0.00018819173177083218,
+    "ci95": [
+      -0.0006135321071005193,
+      0.00023371867644480642
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": -0.018819173177083218,
+    "ci95_percentage_points": [
+      -0.061353210710051925,
+      0.023371867644480643
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "negative": 69,
+      "positive": 52,
+      "zero": 71
+    },
+    "block_signs": {
+      "negative": 13,
+      "positive": 11
+    }
+  },
+  "PULSE_MINUS_CONT|U40": {
+    "mean": -0.0006256103515625,
+    "ci95": [
+      -0.002581659952799479,
+      0.0012436548868815101
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": -0.06256103515625,
+    "ci95_percentage_points": [
+      -0.25816599527994794,
+      0.12436548868815102
+    ],
+    "count_unit": "expected_matching_bits",
+    "mean_count_units": -0.640625,
+    "ci95_count_units": [
+      -2.6436197916666666,
+      1.2735026041666664
+    ],
+    "paired_signs": {
+      "negative": 67,
+      "positive": 54,
+      "zero": 71
+    },
+    "block_signs": {
+      "negative": 12,
+      "positive": 12
+    }
+  },
+  "PULSE_MINUS_CONT|U_ALL": {
+    "mean": -0.00018348693847656332,
+    "ci95": [
+      -0.0005981938044230197,
+      0.00022787570953369042
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": -0.018348693847656333,
+    "ci95_percentage_points": [
+      -0.05981938044230197,
+      0.022787570953369043
+    ],
+    "count_unit": null,
+    "mean_count_units": null,
+    "ci95_count_units": null,
+    "paired_signs": {
+      "negative": 69,
+      "positive": 52,
+      "zero": 71
+    },
+    "block_signs": {
+      "negative": 13,
+      "positive": 11
+    }
+  },
+  "PULSE_MINUS_CONT|D1": {
+    "mean": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ],
+    "classification": "structural_zero",
+    "mean_percentage_points": 0.0,
+    "ci95_percentage_points": [
+      0.0,
+      0.0
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": 0.0,
+    "ci95_count_units": [
+      0.0,
+      0.0
+    ],
+    "paired_signs": {
+      "zero": 192
+    },
+    "block_signs": {
+      "zero": 24
+    }
+  },
+  "PULSE_MINUS_CONT|D40": {
+    "mean": 0.029947916666666668,
+    "ci95": [
+      0.0146484375,
+      0.04687906901041664
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 2.994791666666667,
+    "ci95_percentage_points": [
+      1.46484375,
+      4.687906901041664
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": 0.9583333333333334,
+    "ci95_count_units": [
+      0.46875,
+      1.5001302083333325
+    ],
+    "paired_signs": {
+      "zero": 179,
+      "positive": 12,
+      "negative": 1
+    },
+    "block_signs": {
+      "zero": 14,
+      "positive": 10
+    }
+  }
+}

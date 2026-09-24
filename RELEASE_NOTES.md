@@ -1,7 +1,9 @@
-# Research preprint v1.2.0
+# Research preprint v1.3.0
 
-Adds a prospectively fixed paired Hamming/four-bit-trap objective challenge (058) to the existing private-memory paper. The trap future-recurrence contribution is +23.74 [17.26, 30.23] percentage points and exceeds the separately specified one-expected-descendant benchmark. The direct trap-minus-Hamming comparison is +5.92 [-1.06, 13.13] and unresolved. Most introductions disappear; founder transmission and objective-specific population utility remain distinct.
+Adds the fixed one-update fresh-expression pulse study (059) to the existing private-memory paper. Its primary terminal population-accuracy contrast is unresolved: +0.037 [-0.247, +0.336] percentage points relative to unchanged historical retrieval. The interval also overlaps the separate one-expected-matching-bit benchmark. This is not evidence of equivalence or absence of effect.
 
-Includes the revised manuscript/supplement, 15 figures, all 15,167 saved-table estimates, scientific source through 058, seed provenance, compact fates/adverse outcomes and scoped audit records. Figures and arithmetic can be rebuilt without new population trajectories. Raw candidate trajectories and random tapes remain outside this compact release. No claim of a general ruggedness advantage, uniquely identified epistasis mechanism, biological result or independent software implementation is made.
+Restoring historical retrieval after the common first update improves terminal founder representation relative to continued fresh expression: +2.995 [1.465, 4.688] points. This is a secondary ancestry outcome, not demonstrated population benefit or superiority over unchanged historical retrieval. Negative first-update ancestry, frequent founder loss, two continuous-F survivors, unresolved comparisons and exact first-update coupling identities remain in the record. New transfer inputs reuse all 192 selected 057 preparations; no independent training cohort is added.
 
-This is a revision of the same paper, not a new paper. Earlier tags and DOI versions remain preserved. Manuscript/data: CC BY 4.0; original code: MIT. AI assistance is disclosed; no external peer review is claimed.
+Includes revised manuscript/supplement, 16 figures, all 15,203 saved-table estimates, scientific source through 059, seed provenance, compact time series/fates/adverse outcomes and scoped audits. Raw candidate trajectories and random tapes remain outside the compact release. No new simulations are needed for its saved-table and figure checks.
+
+This is a revision of the same paper. Earlier tags and DOI versions are preserved. Manuscript/data: CC BY 4.0; original code: MIT. AI assistance is disclosed; no external peer review is claimed.

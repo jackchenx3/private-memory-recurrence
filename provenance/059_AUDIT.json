@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "mean_interval_pairs": 36,
+  "maximum_absolute_discrepancy": 2.220446049250313e-16,
+  "independent_blocks": 24,
+  "bootstrap_rows": 2000,
+  "raw_block_selected_prospectively": 0,
+  "raw_checks": {
+    "recorded_scores": 206080,
+    "race_ordered_candidates": 204800,
+    "checked_nonparent_records": 153600,
+    "paths": 40,
+    "reversion_events": 16,
+    "first_update_pairs": 16
+  },
+  "producer_modules_imported": false,
+  "new_population_paths": 0,
+  "new_random_draws": 0,
+  "scope": "All saved-panel estimates, signs, classifications and benchmark; target recursion; preselected block objective, candidate/cache/donor/selection/founder reconstruction and label-only reversion.",
+  "input_hashes": {
+    "SOURCE_SHA256SUMS": "0afb0398b2a255167678e231a248576ee9517ed4645ac867c92de302ed0d8985",
+    "ESTIMATES.json": "1c5e4d37fa3cc93571bfc04d4f83cea16f9082ae063de01024650fea04b4e7d4",
+    "BLOCK_SUMMARIES.json": "c1169affaa7ca6fadfe63036c80aef19ca2942be8762fa6ef659d7e055bbe21f",
+    "BOOTSTRAP_INDICES.json": "313b30540d7fd7af37d8454f1b5c1762b8f988e16bca8b374d8fa1b5f2269a51"
+  }
+}

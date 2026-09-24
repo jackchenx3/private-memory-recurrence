@@ -1,38 +1,41 @@
 {
   "MANUSCRIPT": {
-    "pages": 27,
-    "links": 19,
-    "selected": [
+    "pages": 30,
+    "inspect_pages": [
       1,
       2,
-      22,
-      23,
-      24,
-      25,
-      26,
-      27
-    ]
+      29,
+      30
+    ],
+    "out_of_page_characters": [],
+    "sha256": "b4724ed19310fd50ccbce336812fa5840cbf8f21361cb8cd930526332bddfede"
   },
   "SUPPLEMENT": {
-    "pages": 8,
-    "links": 19,
-    "selected": [
+    "pages": 9,
+    "inspect_pages": [
       1,
       2,
       6,
       7,
-      8
-    ]
+      8,
+      9
+    ],
+    "out_of_page_characters": [],
+    "sha256": "d878148f1da9d477d4f67ca79b48299374c034b8e4208eeb86097b7fd471cb50"
   },
-  "new_code_files_syntax_checked": 29,
-  "contact_sheets": 4,
-  "out_of_page_characters": 0,
-  "all_pages_contain_text": true,
+  "figure_bindings": [
+    "PULSE_MINUS_STAY|U40",
+    "CONT_MINUS_STAY|U40",
+    "PULSE_MINUS_CONT|U40",
+    "PULSE_MINUS_STAY|D40",
+    "CONT_MINUS_STAY|D40",
+    "PULSE_MINUS_CONT|D40"
+  ],
   "status": "PASS",
   "visual_review": "PASS",
-  "visual_scope": "Changed publication pages and boundaries inspected as rendered contact sheets; new table/figures and corresponding draft pages already inspected. All35 pages pass text/bounds checks. No clipping, chart overlap or missing figure on inspected pages.",
+  "visual_scope": "All39 pages pass text/bounds checks. Rendered publication manuscript pages1,2,29,30 and supplement1,2,6,7,8,9 inspected directly. New scientific table/figure and study059 pages were inspected in accepted draft; their content is unchanged except the explicit published availability wording. No clipped text, broken table or figure overlap.",
   "pdf_hashes": {
-    "MANUSCRIPT": "10d6b6ecac32752cb810c06a08cdd75a4d728bf21563ae47420fbe81376eac43",
-    "SUPPLEMENT": "d4b7d9195e5e49581404f1dddeb898b1bdb57f529a14896290f8609e678d4c3f"
+    "MANUSCRIPT": "b4724ed19310fd50ccbce336812fa5840cbf8f21361cb8cd930526332bddfede",
+    "SUPPLEMENT": "d878148f1da9d477d4f67ca79b48299374c034b8e4208eeb86097b7fd471cb50"
   }
 }

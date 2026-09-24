@@ -1,0 +1,53 @@
+{
+  "STAY|placement0|t1": {
+    "polymorphic": 126,
+    "extinct": 66
+  },
+  "STAY|placement0|t40": {
+    "extinct": 183,
+    "polymorphic": 3,
+    "fixed": 6
+  },
+  "STAY|placement1|t1": {
+    "polymorphic": 126,
+    "extinct": 66
+  },
+  "STAY|placement1|t40": {
+    "extinct": 178,
+    "fixed": 11,
+    "polymorphic": 3
+  },
+  "PULSE0|placement0|t1": {
+    "extinct": 91,
+    "polymorphic": 101
+  },
+  "PULSE0|placement0|t40": {
+    "extinct": 185,
+    "polymorphic": 1,
+    "fixed": 6
+  },
+  "PULSE1|placement1|t1": {
+    "polymorphic": 95,
+    "extinct": 97
+  },
+  "PULSE1|placement1|t40": {
+    "extinct": 187,
+    "fixed": 5
+  },
+  "CONT0|placement0|t1": {
+    "extinct": 91,
+    "polymorphic": 101
+  },
+  "CONT0|placement0|t40": {
+    "extinct": 191,
+    "polymorphic": 1
+  },
+  "CONT1|placement1|t1": {
+    "polymorphic": 95,
+    "extinct": 97
+  },
+  "CONT1|placement1|t40": {
+    "extinct": 191,
+    "polymorphic": 1
+  }
+}

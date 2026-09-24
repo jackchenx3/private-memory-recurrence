@@ -1,0 +1,172 @@
+{
+  "0|PULSE_MINUS_STAY|U1": {
+    "negative": 47,
+    "zero": 112,
+    "positive": 33
+  },
+  "0|PULSE_MINUS_STAY|U_LATE": {
+    "positive": 47,
+    "negative": 49,
+    "zero": 96
+  },
+  "0|PULSE_MINUS_STAY|U40": {
+    "negative": 48,
+    "positive": 46,
+    "zero": 98
+  },
+  "0|PULSE_MINUS_STAY|U_ALL": {
+    "positive": 47,
+    "negative": 49,
+    "zero": 96
+  },
+  "0|PULSE_MINUS_STAY|D1": {
+    "negative": 61,
+    "zero": 112,
+    "positive": 19
+  },
+  "0|PULSE_MINUS_STAY|D40": {
+    "zero": 181,
+    "negative": 6,
+    "positive": 5
+  },
+  "0|CONT_MINUS_STAY|U1": {
+    "negative": 47,
+    "zero": 112,
+    "positive": 33
+  },
+  "0|CONT_MINUS_STAY|U_LATE": {
+    "positive": 64,
+    "negative": 63,
+    "zero": 65
+  },
+  "0|CONT_MINUS_STAY|U40": {
+    "negative": 57,
+    "zero": 66,
+    "positive": 69
+  },
+  "0|CONT_MINUS_STAY|U_ALL": {
+    "positive": 64,
+    "negative": 63,
+    "zero": 65
+  },
+  "0|CONT_MINUS_STAY|D1": {
+    "negative": 61,
+    "zero": 112,
+    "positive": 19
+  },
+  "0|CONT_MINUS_STAY|D40": {
+    "zero": 183,
+    "negative": 9
+  },
+  "0|PULSE_MINUS_CONT|U1": {
+    "zero": 192
+  },
+  "0|PULSE_MINUS_CONT|U_LATE": {
+    "zero": 118,
+    "positive": 35,
+    "negative": 39
+  },
+  "0|PULSE_MINUS_CONT|U40": {
+    "zero": 118,
+    "positive": 27,
+    "negative": 47
+  },
+  "0|PULSE_MINUS_CONT|U_ALL": {
+    "zero": 118,
+    "positive": 35,
+    "negative": 39
+  },
+  "0|PULSE_MINUS_CONT|D1": {
+    "zero": 192
+  },
+  "0|PULSE_MINUS_CONT|D40": {
+    "zero": 185,
+    "positive": 7
+  },
+  "1|PULSE_MINUS_STAY|U1": {
+    "zero": 124,
+    "negative": 38,
+    "positive": 30
+  },
+  "1|PULSE_MINUS_STAY|U_LATE": {
+    "zero": 107,
+    "positive": 39,
+    "negative": 46
+  },
+  "1|PULSE_MINUS_STAY|U40": {
+    "zero": 109,
+    "positive": 42,
+    "negative": 41
+  },
+  "1|PULSE_MINUS_STAY|U_ALL": {
+    "zero": 106,
+    "positive": 39,
+    "negative": 47
+  },
+  "1|PULSE_MINUS_STAY|D1": {
+    "zero": 130,
+    "negative": 51,
+    "positive": 11
+  },
+  "1|PULSE_MINUS_STAY|D40": {
+    "zero": 181,
+    "negative": 10,
+    "positive": 1
+  },
+  "1|CONT_MINUS_STAY|U1": {
+    "zero": 124,
+    "negative": 38,
+    "positive": 30
+  },
+  "1|CONT_MINUS_STAY|U_LATE": {
+    "positive": 58,
+    "negative": 61,
+    "zero": 73
+  },
+  "1|CONT_MINUS_STAY|U40": {
+    "positive": 55,
+    "zero": 77,
+    "negative": 60
+  },
+  "1|CONT_MINUS_STAY|U_ALL": {
+    "positive": 59,
+    "negative": 61,
+    "zero": 72
+  },
+  "1|CONT_MINUS_STAY|D1": {
+    "zero": 130,
+    "negative": 51,
+    "positive": 11
+  },
+  "1|CONT_MINUS_STAY|D40": {
+    "zero": 177,
+    "negative": 14,
+    "positive": 1
+  },
+  "1|PULSE_MINUS_CONT|U1": {
+    "zero": 192
+  },
+  "1|PULSE_MINUS_CONT|U_LATE": {
+    "negative": 38,
+    "zero": 118,
+    "positive": 36
+  },
+  "1|PULSE_MINUS_CONT|U40": {
+    "negative": 33,
+    "zero": 119,
+    "positive": 40
+  },
+  "1|PULSE_MINUS_CONT|U_ALL": {
+    "negative": 38,
+    "zero": 118,
+    "positive": 36
+  },
+  "1|PULSE_MINUS_CONT|D1": {
+    "zero": 192
+  },
+  "1|PULSE_MINUS_CONT|D40": {
+    "zero": 186,
+    "positive": 5,
+    "negative": 1
+  }
+}

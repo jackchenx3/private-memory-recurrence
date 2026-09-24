@@ -1,0 +1,12 @@
+{
+  "new_paths": 960,
+  "new_preparations": 0,
+  "reused_preparations": 192,
+  "updates": 38400,
+  "initial_evaluations": 30720,
+  "candidate_evaluations": 4915200,
+  "total_objective_calls": 4945920,
+  "state_measurements": 39360,
+  "extra_diagnostic_calls": 0,
+  "scientific_paths": 960
+}

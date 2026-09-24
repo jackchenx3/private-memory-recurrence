@@ -1,7 +1,7 @@
 {
-  "accepted_working_manuscript_sha256": "12ac2e9d0ce764556b7a50c96d9a13667a2fed0683e41bf8503f0ac22a60fc33",
-  "accepted_working_supplement_sha256": "5f4163c41bfc77b26af002dba697a3d96cbc8cd8efee8f55d63da55287703503",
-  "scientific_content": "Accepted058 draft retained; publication version/availability/links updated. General Hamming model sentence explicitly scoped to045-057 and HAM arm of058.",
+  "accepted_working_manuscript_sha256": "f3d622cc52e9aa2aa6a5703cc85ceedbda55e7577870352e9af21902638fd4a5",
+  "accepted_working_supplement_sha256": "5d277a29cacffd9e61235e1d85ffe5717f522fb07f5f45cdb189b8ecc40d74b7",
+  "scientific_content": "Accepted059 draft retained: unresolved population primary and benchmark; positive secondary pulse-minus-continuous founder effect; adverse results. Publication metadata/availability/links updated, and Hamming model sentence explicitly includes059.",
   "prior_publication_preserved": true,
   "new_population_paths": 0,
   "source_formats": "Native estimates retained with explicit normalized summary/JSON Lines projections. Larger text tables use lossless gzip.",

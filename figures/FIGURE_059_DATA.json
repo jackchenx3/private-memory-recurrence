@@ -1,0 +1,62 @@
+[
+  {
+    "study": "059",
+    "figure": "16_transient_pulse",
+    "key": "PULSE_MINUS_STAY|U40",
+    "mean_pp": 0.037384033203125,
+    "ci95_pp": [
+      -0.24668375651041666,
+      0.33552169799804643
+    ]
+  },
+  {
+    "study": "059",
+    "figure": "16_transient_pulse",
+    "key": "CONT_MINUS_STAY|U40",
+    "mean_pp": 0.099945068359375,
+    "ci95_pp": [
+      -0.30417760213216144,
+      0.537115732828776
+    ]
+  },
+  {
+    "study": "059",
+    "figure": "16_transient_pulse",
+    "key": "PULSE_MINUS_CONT|U40",
+    "mean_pp": -0.06256103515625,
+    "ci95_pp": [
+      -0.25816599527994794,
+      0.12436548868815102
+    ]
+  },
+  {
+    "study": "059",
+    "figure": "16_transient_pulse",
+    "key": "PULSE_MINUS_STAY|D40",
+    "mean_pp": -2.34375,
+    "ci95_pp": [
+      -4.736531575520833,
+      0.05737304687499778
+    ]
+  },
+  {
+    "study": "059",
+    "figure": "16_transient_pulse",
+    "key": "CONT_MINUS_STAY|D40",
+    "mean_pp": -5.338541666666666,
+    "ci95_pp": [
+      -7.300008138020833,
+      -3.498738606770837
+    ]
+  },
+  {
+    "study": "059",
+    "figure": "16_transient_pulse",
+    "key": "PULSE_MINUS_CONT|D40",
+    "mean_pp": 2.994791666666667,
+    "ci95_pp": [
+      1.46484375,
+      4.687906901041664
+    ]
+  }
+]

@@ -4324,5 +4324,453 @@
     "source_sha256": "0f65822fe7288440828598a8dd0eb110d0f83f3b87fd185c764d4e26a927b445",
     "published_sha256": "0f65822fe7288440828598a8dd0eb110d0f83f3b87fd185c764d4e26a927b445",
     "transformation": "identity"
+  },
+  {
+    "path": "results/059/ESTIMATES.json",
+    "source_id": "transient_pulse_v1/ESTIMATES.json",
+    "source_sha256": "1c5e4d37fa3cc93571bfc04d4f83cea16f9082ae063de01024650fea04b4e7d4",
+    "published_sha256": "1c5e4d37fa3cc93571bfc04d4f83cea16f9082ae063de01024650fea04b4e7d4",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/ESTIMATES.csv",
+    "source_id": "transient_pulse_v1/ESTIMATES.csv",
+    "source_sha256": "aa5cde740cc59df05a0a67ed68276ad88b3daf90c2e663b22e5933710f673227",
+    "published_sha256": "0c31c49d39029205acd7359dde4848eab5a80d5fe0d4ce894afcb630684bc021",
+    "transformation": "administrative-path substitution only"
+  },
+  {
+    "path": "results/059/BLOCK_SUMMARIES.json",
+    "source_id": "transient_pulse_v1/BLOCK_SUMMARIES.json",
+    "source_sha256": "c1169affaa7ca6fadfe63036c80aef19ca2942be8762fa6ef659d7e055bbe21f",
+    "published_sha256": "c1169affaa7ca6fadfe63036c80aef19ca2942be8762fa6ef659d7e055bbe21f",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/BOOTSTRAP_INDICES.json",
+    "source_id": "transient_pulse_v1/BOOTSTRAP_INDICES.json",
+    "source_sha256": "313b30540d7fd7af37d8454f1b5c1762b8f988e16bca8b374d8fa1b5f2269a51",
+    "published_sha256": "313b30540d7fd7af37d8454f1b5c1762b8f988e16bca8b374d8fa1b5f2269a51",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/FOUNDER_FATE_COUNTS.json",
+    "source_id": "transient_pulse_v1/FOUNDER_FATE_COUNTS.json",
+    "source_sha256": "7fb9879a27fc7d6d1baa2119a21d7be6abc48a777c747e902058b473ba300109",
+    "published_sha256": "7fb9879a27fc7d6d1baa2119a21d7be6abc48a777c747e902058b473ba300109",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/ASSESSMENT.json",
+    "source_id": "transient_pulse_v1/ASSESSMENT.json",
+    "source_sha256": "34faaaff5753de5eb296c81e149e94d49aecac75e82f3d9fcb3b3dec6e56f75a",
+    "published_sha256": "34faaaff5753de5eb296c81e149e94d49aecac75e82f3d9fcb3b3dec6e56f75a",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/BUDGET.json",
+    "source_id": "transient_pulse_v1/BUDGET.json",
+    "source_sha256": "abac3182c210a1adf30b9bca9295f06810125d825a93bdeec3b09458aa48a175",
+    "published_sha256": "abac3182c210a1adf30b9bca9295f06810125d825a93bdeec3b09458aa48a175",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/METRIC_CATALOG.json",
+    "source_id": "transient_pulse_v1/METRIC_CATALOG.json",
+    "source_sha256": "313cc6cd47bc9991847b67c177d7bf2d3e7b361a3621942336da61958e463605",
+    "published_sha256": "313cc6cd47bc9991847b67c177d7bf2d3e7b361a3621942336da61958e463605",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/ORIENTATION_SIGNS.json",
+    "source_id": "transient_pulse_v1/ORIENTATION_SIGNS.json",
+    "source_sha256": "5e500381b8ba560c9fe727cc7ca249b6de602ac5bcf020d33a543c350073858c",
+    "published_sha256": "5e500381b8ba560c9fe727cc7ca249b6de602ac5bcf020d33a543c350073858c",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/config.json",
+    "source_id": "transient_pulse_v1/config.json",
+    "source_sha256": "783fc13719d2c3fd5568348badc06889af24f50e1a65016ddb8664a3a1577dbb",
+    "published_sha256": "783fc13719d2c3fd5568348badc06889af24f50e1a65016ddb8664a3a1577dbb",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/SEED_ROSTER.json",
+    "source_id": "transient_pulse_v1/SEED_ROSTER.json",
+    "source_sha256": "fc34a7846ff7fb0cee0278ac27324868bcf0ad41aafc229296aebdd02fa5208a",
+    "published_sha256": "fc34a7846ff7fb0cee0278ac27324868bcf0ad41aafc229296aebdd02fa5208a",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/SEED_COLLISION_CHECK.json",
+    "source_id": "transient_pulse_v1/SEED_COLLISION_CHECK.json",
+    "source_sha256": "f2f44173dcc5a5f4f7e45e61b774ecc2b1cd270880a1f5720e5542dbd7a4c93a",
+    "published_sha256": "f2f44173dcc5a5f4f7e45e61b774ecc2b1cd270880a1f5720e5542dbd7a4c93a",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/SEEDS.json",
+    "source_id": "transient_pulse_v1/SEEDS.json",
+    "source_sha256": "fc34a7846ff7fb0cee0278ac27324868bcf0ad41aafc229296aebdd02fa5208a",
+    "published_sha256": "fc34a7846ff7fb0cee0278ac27324868bcf0ad41aafc229296aebdd02fa5208a",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/PREPARATION_TARGETS.json",
+    "source_id": "transient_pulse_v1/PREPARATION_TARGETS.json",
+    "source_sha256": "d28cf7cff13ca7575ba0aa4a56bf72345a3a57642e9ef718e4a1f762f049ff37",
+    "published_sha256": "d28cf7cff13ca7575ba0aa4a56bf72345a3a57642e9ef718e4a1f762f049ff37",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/TARGET_LAW_DRAWS.json",
+    "source_id": "transient_pulse_v1/TARGET_LAW_DRAWS.json",
+    "source_sha256": "3f353a4ff05e4ff97e097f8bb2f1d2a61a20b6fc2223ae6c1a115199e38079e1",
+    "published_sha256": "3f353a4ff05e4ff97e097f8bb2f1d2a61a20b6fc2223ae6c1a115199e38079e1",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/TARGET_TABLE.json",
+    "source_id": "transient_pulse_v1/TARGET_TABLE.json",
+    "source_sha256": "8047c37b16b30c8446c7fd0511202beea54ac3950f3fa04405bcd56c05f19d00",
+    "published_sha256": "8047c37b16b30c8446c7fd0511202beea54ac3950f3fa04405bcd56c05f19d00",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/SOURCE_REFERENCES.json",
+    "source_id": "transient_pulse_v1/SOURCE_REFERENCES.json",
+    "source_sha256": "9fca975e51bea0229c23fc8f31fdc3a2fc1f715ef41f99b6bbd5706261fb101a",
+    "published_sha256": "9fca975e51bea0229c23fc8f31fdc3a2fc1f715ef41f99b6bbd5706261fb101a",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/SOURCE_SELECTION_CHECK.json",
+    "source_id": "transient_pulse_v1/SOURCE_SELECTION_CHECK.json",
+    "source_sha256": "c47dd0e957a55088f8696449b947713ee126e2d37c3fb3f6da963faae445fcd9",
+    "published_sha256": "c47dd0e957a55088f8696449b947713ee126e2d37c3fb3f6da963faae445fcd9",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/SELECTED_STATES.json",
+    "source_id": "transient_pulse_v1/SELECTED_STATES.json",
+    "source_sha256": "f17f2cebe62f8b28598d8b284a8d43406712fbb1689b458cb5c45326d5ffaf4f",
+    "published_sha256": "f17f2cebe62f8b28598d8b284a8d43406712fbb1689b458cb5c45326d5ffaf4f",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/INPUT_FREEZE.json",
+    "source_id": "transient_pulse_v1/INPUT_FREEZE.json",
+    "source_sha256": "f21f623c5f22c2f4a96b8a5485f0748bf3686194181519299585f02041fb7634",
+    "published_sha256": "f21f623c5f22c2f4a96b8a5485f0748bf3686194181519299585f02041fb7634",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/INPUT_GENERATION.json",
+    "source_id": "transient_pulse_v1/INPUT_GENERATION.json",
+    "source_sha256": "4db80c8228a013fe577a3a562f7716a8d43da9c0c6978055707deee2c42a9aca",
+    "published_sha256": "4db80c8228a013fe577a3a562f7716a8d43da9c0c6978055707deee2c42a9aca",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/VALIDATION_CHECK.json",
+    "source_id": "transient_pulse_v1/VALIDATION_CHECK.json",
+    "source_sha256": "174cf5a772533626239d602d1e9bcbd658a3f470cd5bed54a495d0e52643115a",
+    "published_sha256": "174cf5a772533626239d602d1e9bcbd658a3f470cd5bed54a495d0e52643115a",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/INDEPENDENT_AUDIT.json",
+    "source_id": "transient_pulse_v1/INDEPENDENT_AUDIT.json",
+    "source_sha256": "156f64eef4f5a19ab68ad566ab1c41fb6f1ee4ed53be9d7e58c3b68a80aa6bf9",
+    "published_sha256": "156f64eef4f5a19ab68ad566ab1c41fb6f1ee4ed53be9d7e58c3b68a80aa6bf9",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/TIME_SERIES.jsonl.gz",
+    "source_id": "transient_pulse_v1/TIME_SERIES.jsonl.gz",
+    "source_sha256": "27ba715e561ef31d8a32b7f7e07ec328f9a766f72a98561c83f6cb1fe41b2ac3",
+    "published_sha256": "27ba715e561ef31d8a32b7f7e07ec328f9a766f72a98561c83f6cb1fe41b2ac3",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/PAIRED_METRICS.jsonl.gz",
+    "source_id": "transient_pulse_v1/PAIRED_METRICS.jsonl.gz",
+    "source_sha256": "f4f2d8d20bfaa861696d25b5dd3353ef6b7b8146f2e586b160b111aad76c8b4e",
+    "published_sha256": "f4f2d8d20bfaa861696d25b5dd3353ef6b7b8146f2e586b160b111aad76c8b4e",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/FOUNDER_FATES.jsonl",
+    "source_id": "transient_pulse_v1/FOUNDER_FATES.jsonl",
+    "source_sha256": "844a9ae46dc08467ebe888a86e32304423bc62eff95786b7d869e0483a526a75",
+    "published_sha256": "844a9ae46dc08467ebe888a86e32304423bc62eff95786b7d869e0483a526a75",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/EXPRESSION_FATES.jsonl",
+    "source_id": "transient_pulse_v1/EXPRESSION_FATES.jsonl",
+    "source_sha256": "0963d8f2cb577899b1578206eb3d16ec1784a88f7b64ed34359516431b7cf0c6",
+    "published_sha256": "0963d8f2cb577899b1578206eb3d16ec1784a88f7b64ed34359516431b7cf0c6",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/EXACT_TIES.jsonl",
+    "source_id": "transient_pulse_v1/EXACT_TIES.jsonl",
+    "source_sha256": "0bf5c68591f1ff28137ae20a3db5f5c74ce3e3aebad263f3c61108a6d6ccab7c",
+    "published_sha256": "0bf5c68591f1ff28137ae20a3db5f5c74ce3e3aebad263f3c61108a6d6ccab7c",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/DECLINES.jsonl.gz",
+    "source_id": "transient_pulse_v1/DECLINES.jsonl",
+    "source_sha256": "0beb2ab2fff6ca922264b8d77495d8743a19594ff5bebe4e2f14bf344709ef54",
+    "published_sha256": "132225d67201df9a90ec0e9b6554b3656a783fb253ab1c583fab4486081700a7",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/059/NEGATIVE_OUTCOMES.jsonl.gz",
+    "source_id": "transient_pulse_v1/NEGATIVE_OUTCOMES.jsonl",
+    "source_sha256": "f9ffc9f4d19c8e94f6d6f4eec19998d49eee50a83fffa16cc9f960235ef289ef",
+    "published_sha256": "1996359ca601dea351e0d365d366addbb09f336923b7e214ba87d83f499ef3d1",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/059/TRANSMISSION_ACCURACY_DISAGREEMENTS.jsonl.gz",
+    "source_id": "transient_pulse_v1/TRANSMISSION_ACCURACY_DISAGREEMENTS.jsonl",
+    "source_sha256": "36e0df3595077e287e3f2e93ad6d69be272133964dde38eaf3b1d61727b17784",
+    "published_sha256": "794bda5f39b10a8c1134bdb1663fae52d87c02f915677b6e45d9015a2408fa2a",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/059/PRIOR_SEED_INVENTORY.json.gz",
+    "source_id": "transient_pulse_v1/PRIOR_SEED_INVENTORY.json",
+    "source_sha256": "074357e5895a065f2ea272c082e89b9ce94dee32cc4f899280630661a7ad20e8",
+    "published_sha256": "2820c42272907fd736111edf418c822e3588e5e0435bfc2e4882d3efd088d122",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "code/059/accepted_analysis055.py",
+    "source_id": "transient_pulse_v1/accepted_analysis055.py",
+    "source_sha256": "1b3b8d293e3b2601cd23734c9ae53aa689ee01fdac90d57fd102ccc1e90739d9",
+    "published_sha256": "1b3b8d293e3b2601cd23734c9ae53aa689ee01fdac90d57fd102ccc1e90739d9",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/accepted_fresh_model.py",
+    "source_id": "transient_pulse_v1/accepted_fresh_model.py",
+    "source_sha256": "fa4f3782b5c1c3dec5c07cad23c28c326ccd454f103f8891ed6228d961201bc5",
+    "published_sha256": "fa4f3782b5c1c3dec5c07cad23c28c326ccd454f103f8891ed6228d961201bc5",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/accepted_inputs055.py",
+    "source_id": "transient_pulse_v1/accepted_inputs055.py",
+    "source_sha256": "8dc063172890dd480bcc75910a72c6a66fd179347e4c471dd94a6c47a4bd8a0f",
+    "published_sha256": "8dc063172890dd480bcc75910a72c6a66fd179347e4c471dd94a6c47a4bd8a0f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/accepted_model.py",
+    "source_id": "transient_pulse_v1/accepted_model.py",
+    "source_sha256": "a8f7facd6b2a29b3e72c92dc9c8ea46f843b146be2b6430afbd6416151d2ae2d",
+    "published_sha256": "a8f7facd6b2a29b3e72c92dc9c8ea46f843b146be2b6430afbd6416151d2ae2d",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/accepted_rare_model.py",
+    "source_id": "transient_pulse_v1/accepted_rare_model.py",
+    "source_sha256": "70c8c1a74c9b211b662d905d2a432b6aaf6bcc1a2c13a36adc70c7b64e174e87",
+    "published_sha256": "70c8c1a74c9b211b662d905d2a432b6aaf6bcc1a2c13a36adc70c7b64e174e87",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/accepted_resident_model.py",
+    "source_id": "transient_pulse_v1/accepted_resident_model.py",
+    "source_sha256": "c8da535c8dc37a7fb5e3e26dadeb2d60b7ccafde909567a6806259177109b5f4",
+    "published_sha256": "c8da535c8dc37a7fb5e3e26dadeb2d60b7ccafde909567a6806259177109b5f4",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/accepted_survival_model.py",
+    "source_id": "transient_pulse_v1/accepted_survival_model.py",
+    "source_sha256": "ebc2d015edd30be4423b933baa91bd3e63d192c23e044f16850fe70f8d2d64b8",
+    "published_sha256": "ebc2d015edd30be4423b933baa91bd3e63d192c23e044f16850fe70f8d2d64b8",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/accepted_transfer_model.py",
+    "source_id": "transient_pulse_v1/accepted_transfer_model.py",
+    "source_sha256": "6ab11c41dbc333f3fbe3fa4eb0c7b13bd46713a7c0d12fe4ab6bed7f2eeb3eaa",
+    "published_sha256": "6ab11c41dbc333f3fbe3fa4eb0c7b13bd46713a7c0d12fe4ab6bed7f2eeb3eaa",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/analysis.py",
+    "source_id": "transient_pulse_v1/analysis.py",
+    "source_sha256": "5b7411100250652ebb2f22a2c877d74e52adf33d1abad30f3e9d735fbc9da1c3",
+    "published_sha256": "5b7411100250652ebb2f22a2c877d74e52adf33d1abad30f3e9d735fbc9da1c3",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/audit_independent.py",
+    "source_id": "transient_pulse_v1/audit_independent.py",
+    "source_sha256": "95ea06d2e1e18cb0e173cd1a5ccd4e8bbc82c4c786539476580af0fa4ffd97aa",
+    "published_sha256": "95ea06d2e1e18cb0e173cd1a5ccd4e8bbc82c4c786539476580af0fa4ffd97aa",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/common.py",
+    "source_id": "transient_pulse_v1/common.py",
+    "source_sha256": "c9cd7c9b29afcf4a20215474def27d1ac04a732ddd355f10ebff9dccc2fa3cf2",
+    "published_sha256": "c9cd7c9b29afcf4a20215474def27d1ac04a732ddd355f10ebff9dccc2fa3cf2",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/freeze.py",
+    "source_id": "transient_pulse_v1/freeze.py",
+    "source_sha256": "1c8a2eeced337b1385f56e8cc6e546e9a1497137cfca81606f4843f2df6e8b60",
+    "published_sha256": "1c8a2eeced337b1385f56e8cc6e546e9a1497137cfca81606f4843f2df6e8b60",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/generators.py",
+    "source_id": "transient_pulse_v1/generators.py",
+    "source_sha256": "051c19105775cc9b922ca66c4419cd093cf5fee2557e61396abc9d0220661e05",
+    "published_sha256": "051c19105775cc9b922ca66c4419cd093cf5fee2557e61396abc9d0220661e05",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/io_utils.py",
+    "source_id": "transient_pulse_v1/io_utils.py",
+    "source_sha256": "963691d8e30786d3f30b6ddb5a6509ed2dc7c1f157643509e9d9d7209b2bf996",
+    "published_sha256": "963691d8e30786d3f30b6ddb5a6509ed2dc7c1f157643509e9d9d7209b2bf996",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/make_inputs.py",
+    "source_id": "transient_pulse_v1/make_inputs.py",
+    "source_sha256": "078b06c70de5a2c4d983f058b45c894053667692895c8c1694a27530d8232780",
+    "published_sha256": "078b06c70de5a2c4d983f058b45c894053667692895c8c1694a27530d8232780",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/model.py",
+    "source_id": "transient_pulse_v1/model.py",
+    "source_sha256": "1a605b690391fb19f8ca08aef1597ccc119e4b57207fc3902c1be1940f0ded6e",
+    "published_sha256": "1a605b690391fb19f8ca08aef1597ccc119e4b57207fc3902c1be1940f0ded6e",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/prepare_design.py",
+    "source_id": "transient_pulse_v1/prepare_design.py",
+    "source_sha256": "203f79a89c2e7fe1404f0896a13c1dffa8f1976cadcfb0dda2e72b015bb691f4",
+    "published_sha256": "203f79a89c2e7fe1404f0896a13c1dffa8f1976cadcfb0dda2e72b015bb691f4",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/raw_audit.py",
+    "source_id": "transient_pulse_v1/raw_audit.py",
+    "source_sha256": "b2a3da6ca4201f777e9b0e20aca5b109c9eb8af4954ed89a96559e9935cf11c6",
+    "published_sha256": "b2a3da6ca4201f777e9b0e20aca5b109c9eb8af4954ed89a96559e9935cf11c6",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/report.py",
+    "source_id": "transient_pulse_v1/report.py",
+    "source_sha256": "b6c1e6bd5b3f2709f63a9d06d7e3c576741d80cb652f267b161bd104bc147516",
+    "published_sha256": "b6c1e6bd5b3f2709f63a9d06d7e3c576741d80cb652f267b161bd104bc147516",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/resource_guard055.py",
+    "source_id": "transient_pulse_v1/resource_guard055.py",
+    "source_sha256": "0360941cd15adf77659c5f26b38721c107c76225e41a185e686b77dd8d1aaf0f",
+    "published_sha256": "0360941cd15adf77659c5f26b38721c107c76225e41a185e686b77dd8d1aaf0f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/runner.py",
+    "source_id": "transient_pulse_v1/runner.py",
+    "source_sha256": "f99cefc5309bea996df45b6ec9c46092faafdba0b303207f8e180604bdd01394",
+    "published_sha256": "f99cefc5309bea996df45b6ec9c46092faafdba0b303207f8e180604bdd01394",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/seed_design.py",
+    "source_id": "transient_pulse_v1/seed_design.py",
+    "source_sha256": "93fb9023cf1a29f67729f713dbcde25b7a11911f58f37c2dbb03da3ff886bd68",
+    "published_sha256": "93fb9023cf1a29f67729f713dbcde25b7a11911f58f37c2dbb03da3ff886bd68",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/test_focused.py",
+    "source_id": "transient_pulse_v1/test_focused.py",
+    "source_sha256": "7514032c5c013b2b5f5984024fe21fe40161b71944488196887f65f9df1639f8",
+    "published_sha256": "7514032c5c013b2b5f5984024fe21fe40161b71944488196887f65f9df1639f8",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/transfer.py",
+    "source_id": "transient_pulse_v1/transfer.py",
+    "source_sha256": "54361845c65b66378ee744c6a21ca9af3ed0209f272f4ba57a9a70483ef7201f",
+    "published_sha256": "54361845c65b66378ee744c6a21ca9af3ed0209f272f4ba57a9a70483ef7201f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/059/validate_analyze.py",
+    "source_id": "transient_pulse_v1/validate_analyze.py",
+    "source_sha256": "6df964ce2425693ddd28d96c2cb1fefed3d9c5fda64ee43b7a7140be39c70ce1",
+    "published_sha256": "6df964ce2425693ddd28d96c2cb1fefed3d9c5fda64ee43b7a7140be39c70ce1",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/summary.json",
+    "source_id": "transient_pulse_v1/ESTIMATES.json",
+    "source_sha256": "1c5e4d37fa3cc93571bfc04d4f83cea16f9082ae063de01024650fea04b4e7d4",
+    "published_sha256": "2e6af75a950da201cf393e21bdf3f1dfeea60d05175788b20f1de28bf64fa401",
+    "transformation": "Mean/ci95/classification projection; full native estimates retained."
+  },
+  {
+    "path": "results/059/BLOCK_SUMMARIES.jsonl",
+    "source_id": "transient_pulse_v1/BLOCK_SUMMARIES.json",
+    "source_sha256": "c1169affaa7ca6fadfe63036c80aef19ca2942be8762fa6ef659d7e055bbe21f",
+    "published_sha256": "5787833f1487a6f558aa5e41c2acbf9ac6cbbc518f7d84823bb51741d29e2046",
+    "transformation": "JSON array converted to JSON Lines; values unchanged."
+  },
+  {
+    "path": "provenance/059_AUDIT.json",
+    "source_id": "reviewer/059/SUPERVISOR_AUDIT.json",
+    "source_sha256": "547b29b6e889ed16c49c4c433b557cf0535c94e7acaeda1b55eaa0b46823bf0a",
+    "published_sha256": "547b29b6e889ed16c49c4c433b557cf0535c94e7acaeda1b55eaa0b46823bf0a",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/059/SUPERVISOR_AUDIT.json",
+    "source_id": "reviewer/059/SUPERVISOR_AUDIT.json",
+    "source_sha256": "547b29b6e889ed16c49c4c433b557cf0535c94e7acaeda1b55eaa0b46823bf0a",
+    "published_sha256": "547b29b6e889ed16c49c4c433b557cf0535c94e7acaeda1b55eaa0b46823bf0a",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/QUOTED_059_STATISTICS.json",
+    "source_id": "manuscript-revision/QUOTED_059_STATISTICS.json",
+    "source_sha256": "59b9e2e37d7a9f07868e7d400be86af3f94a4e2fcddb5a4e2b0b91e2cc459bba",
+    "published_sha256": "59b9e2e37d7a9f07868e7d400be86af3f94a4e2fcddb5a4e2b0b91e2cc459bba",
+    "transformation": "identity"
+  },
+  {
+    "path": "figures/16_transient_pulse.png",
+    "source_id": "manuscript-revision/figures/16_transient_pulse.png",
+    "source_sha256": "1bee4370a775c8b186a75c028c8fda3a55d72f1335b7e6b38f7f25e81d8d1427",
+    "published_sha256": "1bee4370a775c8b186a75c028c8fda3a55d72f1335b7e6b38f7f25e81d8d1427",
+    "transformation": "identity"
+  },
+  {
+    "path": "figures/16_transient_pulse.pdf",
+    "source_id": "manuscript-revision/figures/16_transient_pulse.pdf",
+    "source_sha256": "d6dcd07dd4025f9c01e85d647153511a26d491ac23ef1ea4952c2758df5fdcf4",
+    "published_sha256": "d6dcd07dd4025f9c01e85d647153511a26d491ac23ef1ea4952c2758df5fdcf4",
+    "transformation": "identity"
   }
 ]

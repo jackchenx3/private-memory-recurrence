@@ -1,6 +1,6 @@
 # Supporting information: private memory and environmental recurrence
 
-Jack Chen · Research preprint 1.2.0 · 24 September 2026
+Jack Chen · Research preprint 1.3.0 · 24 September 2026
 
 This document accompanies the [research manuscript](MANUSCRIPT.md). It identifies what each comparison measures, which populations are independently prepared, and what a reader can reproduce from this compact release. All outcomes are from an abstract bit-string population model.
 
@@ -30,6 +30,7 @@ The 055 experiment and its saved-record reconstruction were complete before manu
 | 056 | Cross preparation history with future ZERO/HALF recurrence at identical prepared states | 2,304 new off-diagonal transfers; 2,304 saved diagonal controls from 055; no new cohort |
 | 057 | Prospective new-cohort test of the crossed future-recurrence effect | 192 initial preparations, 768 policy preparations and 4,608 transfers; all stochastic inputs new; cohorts not pooled |
 | 058 | Paired Hamming/four-bit-trap objective challenge | 384 initial preparations, 768 HALF policy preparations and 4,608 transfers; new cohort, objectives share indexed inputs |
+| 059 | One-update fresh-expression pulse with label-only reversion | 960 new transfers on all 192 reused 057 HALF/H preparations; new inputs, terminal accuracy primary unresolved |
 
 The identifiers are archival study identifiers, not a count of independent experiments supporting every claim. A reused control can appear in several tables without becoming new evidence. All numerical grids are indexed in the [study catalog](../provenance/STUDIES.json). This revision also supplies the complete [056 estimates](../results/056/ESTIMATES.json) and [057 estimates](../results/057/ESTIMATES.json), their block aggregates and bootstrap rows.
 
@@ -96,7 +97,7 @@ The [local candidate calculation](../docs/analytical/cache-diversity/NOTE.md) an
 
 ## S9. Public reproduction and raw-data boundary
 
-From the version 1.2.0 repository root:
+From the version 1.3.0 repository root:
 
 ```bash
 python -m pip install -r requirements.txt
@@ -105,9 +106,9 @@ python scripts/reproduce_statistics.py
 python scripts/rebuild_figures.py
 ```
 
-The statistics check recomputes all 15,167 intervals from the included block aggregates and exact saved bootstrap indices. It also verifies every registered manuscript/figure statistic against its source summary. Figure generation uses those same summaries. Both write to `_rebuilt/` by default and neither runs a population experiment.
+The statistics check recomputes all 15,203 intervals from the included block aggregates and exact saved bootstrap indices. It also verifies every registered manuscript/figure statistic against its source summary. Figure generation uses those same summaries. Both write to `_rebuilt/` by default and neither runs a population experiment.
 
-Archived scientific modules in `code/045` through `code/058` preserve each study's operators and analysis. Site-specific Slurm and SSH launch scripts are omitted. Some archived modules require original input tapes, directory layouts or predecessor packages; they are provided for inspection, not advertised as a turnkey rerun interface. Do not infer successful raw-trajectory reproduction from a passing saved-table check.
+Archived scientific modules in `code/045` through `code/059` preserve each study's operators and analysis. Site-specific Slurm and SSH launch scripts are omitted. Some archived modules require original input tapes, directory layouts or predecessor packages; they are provided for inspection, not advertised as a turnkey rerun interface. Do not infer successful raw-trajectory reproduction from a passing saved-table check.
 
 The multi-gigabyte candidate-by-candidate paths, random tapes and complete execution logs remain in the project archive and are not included in this compact public package. The archived independent reconstruction receipts describe checks already performed against those files. The public source map retains original and exported hashes and labels administrative-path transformations. Public integrity manifests authenticate this release's files, not files that are absent from the release.
 
@@ -125,7 +126,7 @@ Each cohort has nine statistical groups and 18 metrics, for 162 pointwise interv
 
 The compact `results/056` and `results/057` directories preserve complete estimates and block summaries. They add 324 estimates to the 14,729 in the unchanged version 1.0 package. Fates, adverse effects and performance disagreements are included as compact tables, with large text tables losslessly compressed; the full raw execution archives remain separate. Both the producer's saved-record audit and the supervisor's separate arithmetic check preserve their actual scope. Raw block 0 was chosen before outcomes; it is a focused audit, not a second complete replay of every trajectory. No recorded-score recomputation creates a new scientific trajectory.
 
-The unified statistics command in S9 now checks 15,167 estimates: 14,729 from the original package, 324 from 056/057, and 114 from 058. Native 056/057 estimates retain sign counts and effect scales; `summary.json` projects mean, interval and classification into the earlier release schema, and `BLOCK_SUMMARIES.jsonl` is a format-only copy of the native JSON array. Both transformations are recorded in the export map. Figures 12 and 13 can also be rebuilt separately:
+The unified statistics command in S9 now checks 15,203 estimates: 14,729 from the original package, 324 from 056/057, 114 from 058 and 36 from 059. Native 056/057 estimates retain sign counts and effect scales; `summary.json` projects mean, interval and classification into the earlier release schema, and `BLOCK_SUMMARIES.jsonl` is a format-only copy of the native JSON array. Both transformations are recorded in the export map. Figures 12 and 13 can also be rebuilt separately:
 
 ```bash
 python scripts/rebuild_extension_figures.py
@@ -151,4 +152,26 @@ The compact release includes [all 058 estimates](../results/058/ESTIMATES.json),
 python scripts/check_058_statistics.py
 ```
 
-This command checks the 114 additions using included block summaries and resampling rows only; the unified script in S9 verifies all 15,167 estimates. Public 058 exports also include scientific operators, seed provenance, path metrics, fates, declines, negative records and founder/utility disagreements; larger text tables are losslessly compressed. Raw candidate trajectories and random tapes remain outside the compact release. The source map records every exported source and any administrative transformation. Rebuild figures 14 and 15 with `python scripts/rebuild_058_figures.py`, or use the top-level figure command for all 15. These scripts generate no scientific trajectories. [Version 1.2.0 DOI](https://doi.org/10.5281/zenodo.22933218); all earlier version records are preserved.
+This command checks the 114 additions using included block summaries and resampling rows only; the unified script in S9 verifies all 15,203 estimates. Public 058 exports also include scientific operators, seed provenance, path metrics, fates, declines, negative records and founder/utility disagreements; larger text tables are losslessly compressed. Raw candidate trajectories and random tapes remain outside the compact release. The source map records every exported source and any administrative transformation. Rebuild figures 14 and 15 with `python scripts/rebuild_058_figures.py`, or use the top-level figure command for all 16. These scripts generate no scientific trajectories. [Version 1.2.0 DOI](https://doi.org/10.5281/zenodo.22933218); all earlier version records are preserved.
+
+## S13. One-update pulse and persistent founder ancestry
+
+Study 059 uses every HALF-prepared all-H state from 057. All genotypes, caches and rebased founder records are authenticated before transfer. It generates 1,201 new seed IDs, disjoint from the recorded inventory through 058, and new HALF targets, candidate/survival arrays, physical founder placements and 2,000 bootstrap rows. No preparation, cohort pooling or outcome filtering is added. All five configurations in a replicate share indexed exogenous arrays. The first 40 fresh-mask rows in the accepted absolute-index convention are unused zero placeholders; consumed transfer rows are new. Future target recursion starts from each preparation's actual last two targets.
+
+PULSE permits F only during update 1, then changes every remaining F label to H. Genotype, founder ID, cache tuple and order stay fixed at reversion. CONT has the same first update but permits F thereafter. STAY uses H throughout and supplies both unchanged-founder controls from one trajectory. The reversion occurs even when the focal founder is already absent. Post-selection and post-reversion expression frequencies are separately recorded. Founder ancestry is not rebased or deleted at this boundary. The scheduled frequency jump is not a selection term.
+
+The catalog crosses three arm summaries and three paired contrasts with six endpoints: post-selection accuracy at update 1 (U1); mean accuracy over updates 2-40 (U_LATE); terminal accuracy (U40); mean accuracy over updates 1-40 (U_ALL); and focal founder changes from 1/32 at updates 1 and 40 (D1 and D40). Two physical placements are averaged before the eight replicates within each of 24 blocks. STAY population accuracy is counted once. The 36 intervals are approximate pointwise block-bootstrap intervals with shared resampling rows and linear percentiles. Pulse-minus-continuous U1 and D1 are structural zeros under the common first-update coupling; they are not empirical equivalence findings.
+
+The fixed primary PULSE_MINUS_STAY/U40 is unresolved. Its interval also overlaps the separate one-expected-matching-bit benchmark, 1/1024 accuracy. Every population-accuracy contrast other than the exact first-update pulse/continuous identity is unresolved. The positive pulse-minus-continuous D40 contrast is a secondary ancestry outcome, not a substitute primary. It does not imply superiority over unchanged H, since pulse-minus-STAY D40 is unresolved. The negative continuous-minus-STAY D40 effect and frequent founder loss remain. Two continuous-F founders remain polymorphic at update 40, one at each placement; these cases were retained. The two placements are paired treatments, not 384 independent trials.
+
+All 1,817 negative metric records, 1,822 exact ties, 537 ancestry/accuracy sign disagreements and 18,058 decline or negative-selection records are preserved. These overlapping record counts do not count independent discoveries. Complete compact time series, founder/expression fates and adverse records accompany the compact release. The underlying full candidate records remain in the authenticated execution package on HPC.
+
+Thirteen focused constructed-fixture tests passed before production. Job 53332539 completed once in 117 seconds with one CPU, 4 GiB requested memory and batch MaxRSS 228,536 KiB. There are 960 paths and 4,945,920 objective evaluations, with no extra diagnostic objective calls. The saved-output audit checks all 36 estimates and the prospectively selected 40 paths of raw block zero. The supervisor independently reconstructs 206,080 stored scores, 204,800 survival candidate orderings, 153,600 nonparent genotype/cache records, 16 scheduled reversion events and 16 first-update pair identities without importing producer modules. Maximum estimate/interval discrepancy is 2.220446049250313e-16. This is focused output verification, not external peer review or an independent full-model implementation.
+
+The additions include [all 059 estimates](../results/059/ESTIMATES.json), [block summaries](../results/059/BLOCK_SUMMARIES.json), [frozen bootstrap rows](../results/059/BOOTSTRAP_INDICES.json), [founder fate counts](../results/059/FOUNDER_FATE_COUNTS.json) and [the supervisor audit](../results/059/SUPERVISOR_AUDIT.json). From the repository root, the study-specific saved-table check is:
+
+```bash
+python scripts/check_059_statistics.py
+```
+
+The study-specific check covers 36 new estimates; the unified command in S9 verifies all 15,203 estimates. Public exports include the scientific source through 059 and document each administrative transformation. Rebuild figure 16 using `python scripts/rebuild_059_figure.py`, or use the top-level command for all 16 figures. Raw candidate trajectories and random tapes remain outside the compact release. [Version 1.3.0 DOI](https://doi.org/10.5281/zenodo.22939403); all earlier version records are preserved.

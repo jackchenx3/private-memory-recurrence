@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "paths": 960,
+  "paired_replicates": 192,
+  "blocks": 24,
+  "estimates": 36,
+  "structural_zeros": [
+    "PULSE_MINUS_CONT|U1",
+    "PULSE_MINUS_CONT|D1"
+  ],
+  "negative_records": 1817,
+  "exact_ties": 1822,
+  "transmission_accuracy_disagreements": 537,
+  "decline_records": 18058,
+  "new_objective_calls": 0,
+  "new_draws": 0,
+  "elapsed_seconds": 29.196033477783203,
+  "raw_audit": "Performed separately by audit_independent.py"
+}
