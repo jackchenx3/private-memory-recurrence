@@ -1,0 +1,12 @@
+{
+  "original_error": "TypeError: not enough arguments for format string",
+  "cause": "Literal percent sign in a Python percent-formatted report string",
+  "repair": "Escape that one literal percent sign in a separate report generator copy",
+  "original_file": "report.py",
+  "original_sha256": "ccb44326910aa24b99f1a1300d4124a625a05f13f7c80329b46958a5b97e30f9",
+  "corrected_file": "report_display_fix.py",
+  "corrected_sha256": "c1284932b6f6f0e72584be598d0e9c6ce7b8c3582874cf836594a7a783495721",
+  "replacements": 1,
+  "frozen_source_modified": false,
+  "scientific_code_or_outcomes_modified": false
+}

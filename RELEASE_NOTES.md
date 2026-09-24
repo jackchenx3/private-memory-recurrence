@@ -1,9 +1,9 @@
-# Research preprint v1.0.0
+# Research preprint v1.1.0
 
-This first public release integrates accepted studies 045–055 into one focused manuscript about environmental recurrence, private-memory use and strategy transmission in an abstract finite-budget population model.
+Adds the crossed preparation/future-recurrence comparison (056) and its prospectively specified independent cohort (057) to the existing private-memory manuscript. This is a revision of the same paper, not a second paper or independent software implementation.
 
-The release includes a 19-page manuscript, supporting information, eleven figures, archived scientific source, and complete saved block-level outcome grids. The statistics script reproduces 14,729 means and approximate pointwise intervals with no new population paths or random draws. Reused cohorts, negative and unresolved contrasts, frequent introduction loss, technical corrections and the distinction between transmission and population performance are retained.
+The fixed future-recurrence direction reproduces: +22.76 [17.12, 28.95] percentage points in the reused cohort and +16.20 [11.23, 21.02] in the new cohort, using separate pointwise 95% intervals. No cohort pooling or parameter search is added. Unresolved preparation interactions, sampled extinctions and the negative-founder/positive-population-accuracy combination are retained.
 
-The final study finds a partial-recurrence matched F-to-H founder-frequency effect of +21.18 percentage points (pointwise 95% interval 16.36–26.35), and an H-to-F effect of −2.79 points (−4.75 to −1.03). Both terminal population-accuracy effects remain unresolved. These are conditional computational findings, not measured biological effects or an equilibrium-invasion result.
+The package includes the revised manuscript and supplement, 13 figures, all 15,053 saved-table estimates, scientific source through 057, seed provenance, full compact fate/negative-outcome tables and scoped audit receipts. The reproducibility scripts generate no population paths. Raw candidate trajectories and random tapes remain outside the compact release.
 
-This is a compact evidence release, not a full raw-trajectory archive. Manuscript, figures and original data are CC BY 4.0; original code is MIT. The work has not undergone external peer review.
+Version 1.0.0 and its DOI remain preserved. Manuscript/data: CC BY 4.0. Original code: MIT. AI assistance is disclosed; this preprint has not undergone external peer review.

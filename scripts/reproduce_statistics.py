@@ -14,6 +14,12 @@ def main():
         directory=ROOT/'results'/study['study']
         rows=[json.loads(line) for line in (directory/'BLOCK_SUMMARIES.jsonl').read_text().splitlines()]
         expected=json.loads((directory/'summary.json').read_text())['values']
+        if (directory/'ESTIMATES.json').exists():
+            native=json.loads((directory/'ESTIMATES.json').read_text())
+            assert set(native)==set(expected)
+            for key,value in native.items():
+                assert expected[key]==dict(mean=value['mean'],ci95=value['ci95'],zero_classification=value['classification'])
+            assert rows==json.loads((directory/'BLOCK_SUMMARIES.json').read_text())
         indices=np.asarray(json.loads((directory/'BOOTSTRAP_INDICES.json').read_text()),dtype=int)
         assert indices.shape==(2000,24) and len(rows)==24
         assert sorted(row['block'] for row in rows)==list(range(24))
@@ -44,6 +50,12 @@ def main():
     for record in cited['fate_records']:
         values=json.loads((ROOT/'results'/record['study']/'TYPE_EVENT_COUNTS.json').read_text())
         assert record['counts']==values[record['key']],record
+    for record in cited.get('added_fate_records',[]):
+        values=json.loads((ROOT/'results'/record['study']/'FATE_COUNTS.json').read_text())
+        assert record['counts']==values[record['key']],record
+    for record in json.loads((ROOT/'results/QUOTED_056_057_STATISTICS.json').read_text()):
+        native=json.loads((ROOT/'results'/record['study']/'ESTIMATES.json').read_text())
+        assert record['value']==native[record['key']],record
     result=dict(status='PASS',studies=results,total_intervals=total,maximum_error=maximum,
                 statistic_records=len(cited['displayed_statistics']),
                 new_population_paths=0,new_random_draws=0,

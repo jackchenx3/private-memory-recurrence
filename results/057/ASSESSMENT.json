@@ -1,0 +1,61 @@
+{
+  "primary": "Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT|D40",
+  "estimate": {
+    "mean": 0.16202799479166666,
+    "ci95": [
+      0.1123046875,
+      0.21021118164062497
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 16.202799479166664,
+    "ci95_percentage_points": [
+      11.23046875,
+      21.021118164062496
+    ],
+    "expected_terminal_descendant_difference": 5.184895833333333,
+    "paired_signs": {
+      "zero": 115,
+      "positive": 64,
+      "negative": 13
+    },
+    "block_signs": {
+      "positive": 23,
+      "negative": 1
+    }
+  },
+  "prediction": "positive",
+  "supported": true,
+  "contradicted": false,
+  "interval_scope": "approximate pointwise",
+  "interaction_direction_not_predicted": true,
+  "prospective_within_model_replication": true,
+  "independent_replication": true,
+  "secondary": "Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_EFFECT|D40",
+  "secondary_estimate": {
+    "mean": 0.14754231770833334,
+    "ci95": [
+      0.103106689453125,
+      0.188885498046875
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 14.754231770833334,
+    "ci95_percentage_points": [
+      10.3106689453125,
+      18.8885498046875
+    ],
+    "expected_terminal_descendant_difference": 4.721354166666667,
+    "paired_signs": {
+      "negative": 15,
+      "zero": 109,
+      "positive": 68
+    },
+    "block_signs": {
+      "positive": 21,
+      "negative": 2,
+      "zero": 1
+    }
+  },
+  "secondary_expected_sign": "positive",
+  "secondary_supported": true,
+  "cohort_pooling": false
+}

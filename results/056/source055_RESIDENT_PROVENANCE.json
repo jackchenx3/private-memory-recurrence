@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "source_genotype_arrays": 192,
+  "new_preparation_paths": 1152,
+  "all_states_included": true,
+  "outcome_filtering": false,
+  "cache_preservation": "exact original cache tuples, times and positions",
+  "founder_rebase": "current slots0..31 with complete reverse map",
+  "transfer_paths_per_prepared_state": 3
+}

@@ -98,3 +98,10 @@ panel(axes[1,1],[('055','HALF|C0|'+k+'|'+m) for k in ['F_BG_EFFECT_POP','H_BG_EF
 save(fig,current)
 (OUT/'FIGURE_DATA.json').write_text(json.dumps(records,indent=2)+'\n')
 print(json.dumps(dict(figures=11,numerical_records=len(records),output_dir=str(OUT),new_simulations=0),indent=2))
+
+# Add accepted crossed-environment figures without running population paths.
+import subprocess,sys
+subprocess.run([sys.executable,str(ROOT/"scripts/rebuild_extension_figures.py"),"--output-dir",str(OUT)],check=True)
+records += json.loads((OUT/"EXTENSION_FIGURE_DATA.json").read_text())
+(OUT/"FIGURE_DATA.json").write_text(json.dumps(records,indent=2)+"\n")
+print(json.dumps(dict(figures=13,numerical_records=len(records),new_simulations=0)))

@@ -1,20 +1,18 @@
 {
   "status": "PASS",
-  "prepared_at_utc": "2026-09-23T00:39:47.933508+00:00",
-  "scope": "Public export through055; saved-table/figure/PDF/source/link checks only; no new scientific execution",
-  "original_scientific_code_files_compiled": 190,
-  "independent_study055_audit": "provenance/055_AUDIT.json",
+  "version": "1.1.0",
+  "prepared_at_utc": "2026-09-24T04:31:54.482182+00:00",
+  "scope": "Public export through057; saved-table/figure/PDF/source/link checks only; no new scientific execution",
+  "original_scientific_code_files_compiled": 242,
   "statistics": "provenance/STATISTICS_CHECK.json",
   "pdf_check": "provenance/PDF_TEXT_CHECK.json",
+  "total_estimates": 15053,
+  "new_estimates": 324,
+  "figures": 13,
+  "new_figures_rebuilt_pixel_identically": true,
   "new_simulations": 0,
   "original_records_edited": false,
   "content_data_license": "CC-BY-4.0",
   "original_code_license": "MIT",
-  "license_authorization": "User selected these terms on2026-09-22",
-  "raw_trajectory_archive_included": false,
-  "known_preparation_issues": [
-    "One relocated relative link repaired before release",
-    "PDF reference-list paragraph separation repaired; orphan trailing link page removed",
-    "Release scanner self-match corrected by using generic filesystem patterns; no credential or data leak detected"
-  ]
+  "raw_trajectory_archive_included": false
 }

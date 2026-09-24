@@ -108,5 +108,33 @@
     "source_manifest_sha256": "89a04d8d1cec81895ccc972bfcdef2eadd0b4fdc147c8ab8c45c93ff62779726",
     "delivery_manifest_sha256": "c10c5877221c6c8b2f950ba0bc9a93a3ea1ba1dfa48bd5d4f01dceef45d68377",
     "independent_review": "provenance/055_AUDIT.json"
+  },
+  {
+    "study": "056",
+    "source_package": "cross_environment_v1",
+    "summary": "results/056/summary.json",
+    "block_summaries": "results/056/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/056/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "a8833b5d192158dfd66470616c3fa808468246b1e579829ea8e0363f7324b826",
+    "delivery_manifest_sha256": "64ed00b140547e0b867d6c826baf16b8a5e844fcc0409dbc251d0730d3367479",
+    "independent_review": "provenance/056_AUDIT.json",
+    "new_cohort": false,
+    "dependence": "Reuses 052 genotype cohort, 055 preparation and 2304 diagonal paths",
+    "new_paths": 2304,
+    "reused_paths": 2304
+  },
+  {
+    "study": "057",
+    "source_package": "cross_environment_replication_v1",
+    "summary": "results/057/summary.json",
+    "block_summaries": "results/057/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/057/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "f3e82722812c49c4c5ba096b91a5f398cce75fa77ff03cc2afa4e8ce1445c67c",
+    "delivery_manifest_sha256": "406be53c487bce3160dce2f8d48099fb2787ecfe3a206d2e2e9f0ee44b0901ed",
+    "independent_review": "provenance/057_AUDIT.json",
+    "new_cohort": true,
+    "dependence": "Fully new cohort using unchanged 052/055/056 scientific operators; not an independent implementation",
+    "new_paths": 5568,
+    "reused_paths": 0
   }
 ]

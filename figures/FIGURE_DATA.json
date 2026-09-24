@@ -855,5 +855,245 @@
       -0.7904116312662761,
       0.11709213256835879
     ]
+  },
+  {
+    "figure": "12_crossed_founder_effects",
+    "study": "056",
+    "key": "Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_EFFECT|D40",
+    "mean_pp": 18.326822916666664,
+    "ci95_pp": [
+      12.702840169270836,
+      24.472045898437493
+    ]
+  },
+  {
+    "figure": "12_crossed_founder_effects",
+    "study": "056",
+    "key": "Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT|D40",
+    "mean_pp": 22.762044270833336,
+    "ci95_pp": [
+      17.1221923828125,
+      28.9471435546875
+    ]
+  },
+  {
+    "figure": "12_crossed_founder_effects",
+    "study": "056",
+    "key": "INTERACTION|F_BG_EFFECT|D40",
+    "mean_pp": 4.435221354166666,
+    "ci95_pp": [
+      -2.5,
+      11.466878255208332
+    ]
+  },
+  {
+    "figure": "12_crossed_founder_effects",
+    "study": "056",
+    "key": "INTERACTION|H_BG_EFFECT|D40",
+    "mean_pp": 5.17578125,
+    "ci95_pp": [
+      0.308837890625,
+      9.309895833333332
+    ]
+  },
+  {
+    "figure": "12_crossed_founder_effects",
+    "study": "057",
+    "key": "Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_EFFECT|D40",
+    "mean_pp": 14.754231770833334,
+    "ci95_pp": [
+      10.3106689453125,
+      18.8885498046875
+    ]
+  },
+  {
+    "figure": "12_crossed_founder_effects",
+    "study": "057",
+    "key": "Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT|D40",
+    "mean_pp": 16.202799479166664,
+    "ci95_pp": [
+      11.23046875,
+      21.021118164062496
+    ]
+  },
+  {
+    "figure": "12_crossed_founder_effects",
+    "study": "057",
+    "key": "INTERACTION|F_BG_EFFECT|D40",
+    "mean_pp": 1.4485677083333335,
+    "ci95_pp": [
+      -2.652994791666667,
+      5.559285481770828
+    ]
+  },
+  {
+    "figure": "12_crossed_founder_effects",
+    "study": "057",
+    "key": "INTERACTION|H_BG_EFFECT|D40",
+    "mean_pp": 0.20345052083333334,
+    "ci95_pp": [
+      -5.404052734375,
+      5.624389648437495
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "056",
+    "key": "P_HALF_Q_HALF|F_BG_EFFECT_POP|U",
+    "mean_pp": 0.303783416748047,
+    "ci95_pp": [
+      0.1623830795288094,
+      0.46005407969156875
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "056",
+    "key": "P_HALF_Q_HALF|H_BG_EFFECT_POP|U",
+    "mean_pp": -0.11141459147135407,
+    "ci95_pp": [
+      -0.20606851577758822,
+      -0.022652149200439113
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "056",
+    "key": "Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT_POP|U",
+    "mean_pp": 0.3115081787109375,
+    "ci95_pp": [
+      0.17039585113525446,
+      0.4607958793640136
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "056",
+    "key": "Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_EFFECT_POP|U",
+    "mean_pp": -0.15406926472981772,
+    "ci95_pp": [
+      -0.25950241088867193,
+      -0.05527973175048884
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "057",
+    "key": "P_HALF_Q_HALF|F_BG_EFFECT_POP|U",
+    "mean_pp": 0.13974507649739595,
+    "ci95_pp": [
+      0.07098499933878587,
+      0.21671867370605508
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "057",
+    "key": "P_HALF_Q_HALF|H_BG_EFFECT_POP|U",
+    "mean_pp": 0.032310485839843965,
+    "ci95_pp": [
+      -0.026249408721923155,
+      0.09553130467732751
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "057",
+    "key": "Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT_POP|U",
+    "mean_pp": 0.13175964355468736,
+    "ci95_pp": [
+      0.058974742889404005,
+      0.2121629714965817
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "057",
+    "key": "Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_EFFECT_POP|U",
+    "mean_pp": -0.016155242919921375,
+    "ci95_pp": [
+      -0.08343601226806589,
+      0.05637598037719702
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "056",
+    "key": "P_HALF_Q_HALF|F_BG_EFFECT_POP|U40",
+    "mean_pp": 0.32933553059895837,
+    "ci95_pp": [
+      -0.0798797607421875,
+      0.7749048868815103
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "056",
+    "key": "P_HALF_Q_HALF|H_BG_EFFECT_POP|U40",
+    "mean_pp": -0.34434000651041663,
+    "ci95_pp": [
+      -0.7904116312662761,
+      0.11709213256835879
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "056",
+    "key": "Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT_POP|U40",
+    "mean_pp": 0.4152933756510417,
+    "ci95_pp": [
+      0.0012715657552083335,
+      0.8215268452962234
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "056",
+    "key": "Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_EFFECT_POP|U40",
+    "mean_pp": -0.2471923828125,
+    "ci95_pp": [
+      -0.7588704427083333,
+      0.3138605753580727
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "057",
+    "key": "P_HALF_Q_HALF|F_BG_EFFECT_POP|U40",
+    "mean_pp": 0.656890869140625,
+    "ci95_pp": [
+      0.33416112263997394,
+      1.0066159566243487
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "057",
+    "key": "P_HALF_Q_HALF|H_BG_EFFECT_POP|U40",
+    "mean_pp": 0.31916300455729163,
+    "ci95_pp": [
+      0.07982254028320312,
+      0.562292734781901
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "057",
+    "key": "Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT_POP|U40",
+    "mean_pp": 0.7336934407552083,
+    "ci95_pp": [
+      0.3190803527832031,
+      1.1845906575520835
+    ]
+  },
+  {
+    "figure": "13_crossed_population_effects",
+    "study": "057",
+    "key": "Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_EFFECT_POP|U40",
+    "mean_pp": 0.006103515625,
+    "ci95_pp": [
+      -0.38962046305338544,
+      0.437939961751302
+    ]
   }
 ]

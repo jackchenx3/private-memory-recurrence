@@ -1,0 +1,10 @@
+{
+  "original_sha256": "9c133cd2245edd2480204e83068c20b2e577997935d903c0f4de21873919b9d7",
+  "fixed_copy_sha256": "f1085180ed9faba643e44e623dcaaa876c23d8e61f679e6d70f3fbbbcec24217",
+  "observed_error": "TypeError: not enough arguments for format string",
+  "change": "Escape one literal percent sign in the primary reporting sentence.",
+  "scientific_sources_changed": false,
+  "scientific_outputs_changed": false,
+  "new_paths": 0,
+  "frozen_original_preserved": true
+}

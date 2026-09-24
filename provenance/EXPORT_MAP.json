@@ -2889,5 +2889,908 @@
     "source_sha256": "07303edf91efa082f03a6ae7a99bf8537ae9a134cc2aa967f4bcb6dab1017703",
     "published_sha256": "07303edf91efa082f03a6ae7a99bf8537ae9a134cc2aa967f4bcb6dab1017703",
     "transformation": "identity"
+  },
+  {
+    "path": "results/056/ESTIMATES.json",
+    "source_id": "cross_environment_v1/ESTIMATES.json",
+    "source_sha256": "5aebeee1445c808baa223137aeb981e54e356450b54dbe5a0169bcc249d13175",
+    "published_sha256": "5aebeee1445c808baa223137aeb981e54e356450b54dbe5a0169bcc249d13175",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/ESTIMATES.csv",
+    "source_id": "cross_environment_v1/ESTIMATES.csv",
+    "source_sha256": "1cd4413285db87d720581a7f240f9ae72d6894aa4e0f43b8df96c0eb3c7b3b69",
+    "published_sha256": "0d8513e05e3ad0a568807a1af7824281bda646dd28cbc1a94a850f4b2988b39e",
+    "transformation": "administrative-path substitution only"
+  },
+  {
+    "path": "results/056/BLOCK_SUMMARIES.json",
+    "source_id": "cross_environment_v1/BLOCK_SUMMARIES.json",
+    "source_sha256": "58b85f46b3c979ec7ba96a8f1eca0bf9ccda8430ee23d361731370f8c7367821",
+    "published_sha256": "58b85f46b3c979ec7ba96a8f1eca0bf9ccda8430ee23d361731370f8c7367821",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/FATE_COUNTS.json",
+    "source_id": "cross_environment_v1/FATE_COUNTS.json",
+    "source_sha256": "9d187f24b4a9eba474dabe6790ddb988788ff5ee7fce83c69102575b20f4cb51",
+    "published_sha256": "9d187f24b4a9eba474dabe6790ddb988788ff5ee7fce83c69102575b20f4cb51",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/JOINT_ENDPOINT_COUNTS.json",
+    "source_id": "cross_environment_v1/JOINT_ENDPOINT_COUNTS.json",
+    "source_sha256": "1665c7423150810d699b8f6a3b980a3a72919a89884b2e4e359e75cfb075e35c",
+    "published_sha256": "1665c7423150810d699b8f6a3b980a3a72919a89884b2e4e359e75cfb075e35c",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/ASSESSMENT.json",
+    "source_id": "cross_environment_v1/ASSESSMENT.json",
+    "source_sha256": "bd547761dc5cc9d338ccb0b742dfa6eaf7b21f88cb65fa61563e05f5089374ab",
+    "published_sha256": "bd547761dc5cc9d338ccb0b742dfa6eaf7b21f88cb65fa61563e05f5089374ab",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/BUDGET.json",
+    "source_id": "cross_environment_v1/BUDGET.json",
+    "source_sha256": "7187afa5e63a09e33f2bb69046ca53f19609cccffd284ab4af2ef323202edf34",
+    "published_sha256": "7187afa5e63a09e33f2bb69046ca53f19609cccffd284ab4af2ef323202edf34",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/METRIC_CATALOG.json",
+    "source_id": "cross_environment_v1/METRIC_CATALOG.json",
+    "source_sha256": "2710baa7059f0bc4c6cb4e1e9ae23e2c59bd7a7eb642566985b8659d5693c35b",
+    "published_sha256": "2710baa7059f0bc4c6cb4e1e9ae23e2c59bd7a7eb642566985b8659d5693c35b",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/ORIENTATION_SIGNS.json",
+    "source_id": "cross_environment_v1/ORIENTATION_SIGNS.json",
+    "source_sha256": "f9a1959b259142f7c08c0ad2f9b03d91487135f05accfc4e52a35cf97474fa90",
+    "published_sha256": "f9a1959b259142f7c08c0ad2f9b03d91487135f05accfc4e52a35cf97474fa90",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/ORIENTATION_METRICS.jsonl",
+    "source_id": "cross_environment_v1/ORIENTATION_METRICS.jsonl",
+    "source_sha256": "cbe0651f02d0d4aad017e2f7870f8d98e7dcbaa32fc98f496c9b0e187207c861",
+    "published_sha256": "cbe0651f02d0d4aad017e2f7870f8d98e7dcbaa32fc98f496c9b0e187207c861",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/config.json",
+    "source_id": "cross_environment_v1/config.json",
+    "source_sha256": "50130bd75ba42ef85e546db7aea0a79d97598b882dd28e4d5b9264b106c1322b",
+    "published_sha256": "50130bd75ba42ef85e546db7aea0a79d97598b882dd28e4d5b9264b106c1322b",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/TARGET_TABLE.json",
+    "source_id": "cross_environment_v1/TARGET_TABLE.json",
+    "source_sha256": "76c4d2b682119166d98a53980edfaef59c7dc442e054361b6280fc877f640305",
+    "published_sha256": "76c4d2b682119166d98a53980edfaef59c7dc442e054361b6280fc877f640305",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/SOURCE_REFERENCES.json",
+    "source_id": "cross_environment_v1/SOURCE_REFERENCES.json",
+    "source_sha256": "a33c3b807db1d9214cf4dac49fe4482578a22c14473aa439dea2537a20702594",
+    "published_sha256": "a33c3b807db1d9214cf4dac49fe4482578a22c14473aa439dea2537a20702594",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/INPUT_FREEZE.json",
+    "source_id": "cross_environment_v1/INPUT_FREEZE.json",
+    "source_sha256": "099fe7a953b68d487a4679eaa16262ef9ffff66178914f62017343d759110bee",
+    "published_sha256": "099fe7a953b68d487a4679eaa16262ef9ffff66178914f62017343d759110bee",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/VALIDATION_CHECK.json",
+    "source_id": "cross_environment_v1/VALIDATION_CHECK.json",
+    "source_sha256": "3ad886b8cc751c7e853433fde4869d3c473d9b82eb435d5efefcf70513ec632e",
+    "published_sha256": "3ad886b8cc751c7e853433fde4869d3c473d9b82eb435d5efefcf70513ec632e",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/SUPERVISOR_AUDIT.json",
+    "source_id": "cross_environment_v1/SUPERVISOR_AUDIT.json",
+    "source_sha256": "9cc68dc4462fe41a6e6eb351c8f8d8467d91cbac406fdf579ee41e5ac1046090",
+    "published_sha256": "9cc68dc4462fe41a6e6eb351c8f8d8467d91cbac406fdf579ee41e5ac1046090",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/REPORT_FORMAT_REPAIR.json",
+    "source_id": "cross_environment_v1/REPORT_FORMAT_REPAIR.json",
+    "source_sha256": "120a210d89d85c712cf759d45e690aa34ddb27ab4f534a5c328fa04d8f2649ca",
+    "published_sha256": "120a210d89d85c712cf759d45e690aa34ddb27ab4f534a5c328fa04d8f2649ca",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/PATH_METRICS.jsonl.gz",
+    "source_id": "cross_environment_v1/PATH_METRICS.jsonl",
+    "source_sha256": "9dbd70944ff65380c66383e3b1930da67f20ed7f58d60905fa65be803b851d24",
+    "published_sha256": "f06930872a4dd9e400cd7aa05357281bf93b3f4d1bbac59d1b1d95cf9df2258b",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/056/PAIRED_METRICS.jsonl.gz",
+    "source_id": "cross_environment_v1/PAIRED_METRICS.jsonl",
+    "source_sha256": "2ea2419ffaf32d0a34b5a7240fe8598247029f73f78e7d4b1102ce0c8f0d39fb",
+    "published_sha256": "a706cfab65b3021627379ed017a34c9b45cecd16527983674295ce2b536bedec",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/056/FATES.jsonl.gz",
+    "source_id": "cross_environment_v1/FATES.jsonl",
+    "source_sha256": "50ef998edfb753152b9d949cd2fd09134cfcaa4064a411651d5c6f9f3bebc6bb",
+    "published_sha256": "386bf1f32fc3ad883e3d081daa1b8704dbdb0dd712b1416f50ab9e340f63d876",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/056/DECLINES.jsonl.gz",
+    "source_id": "cross_environment_v1/DECLINES.jsonl",
+    "source_sha256": "41932846222205abc57d43c55a3f2fc0b9c877bfd779994e02a6498f8fdca389",
+    "published_sha256": "9cd194fdfc736e6d2d0cba3ece7202b995be0ee09870f8e23b90e2c943c51b26",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/056/NEGATIVE_OUTCOMES.jsonl.gz",
+    "source_id": "cross_environment_v1/NEGATIVE_OUTCOMES.jsonl",
+    "source_sha256": "ab5bff01fed958cdce382d0413301dba076113ecca4e8f0a2d7aa1825600d9f4",
+    "published_sha256": "d46a9f66dc32febc9b98e37ad8ee1049040853c293d32aaaafaf6ad9e1a71ccf",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/056/TRANSMISSION_ACCURACY_DISAGREEMENTS.jsonl.gz",
+    "source_id": "cross_environment_v1/TRANSMISSION_ACCURACY_DISAGREEMENTS.jsonl",
+    "source_sha256": "8d5d2ba8b3ff44dc5e5de29f23e152930ed75584a6d8daea76df21dd0d002c87",
+    "published_sha256": "7bab21042320c28988f69c4ff8c31fdeaf6f94da035a17e9229899e9d748f5da",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "code/056/accepted_analysis055.py",
+    "source_id": "cross_environment_v1/accepted_analysis055.py",
+    "source_sha256": "1b3b8d293e3b2601cd23734c9ae53aa689ee01fdac90d57fd102ccc1e90739d9",
+    "published_sha256": "1b3b8d293e3b2601cd23734c9ae53aa689ee01fdac90d57fd102ccc1e90739d9",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/accepted_fresh_model.py",
+    "source_id": "cross_environment_v1/accepted_fresh_model.py",
+    "source_sha256": "fa4f3782b5c1c3dec5c07cad23c28c326ccd454f103f8891ed6228d961201bc5",
+    "published_sha256": "fa4f3782b5c1c3dec5c07cad23c28c326ccd454f103f8891ed6228d961201bc5",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/accepted_inputs055.py",
+    "source_id": "cross_environment_v1/accepted_inputs055.py",
+    "source_sha256": "8dc063172890dd480bcc75910a72c6a66fd179347e4c471dd94a6c47a4bd8a0f",
+    "published_sha256": "8dc063172890dd480bcc75910a72c6a66fd179347e4c471dd94a6c47a4bd8a0f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/accepted_model.py",
+    "source_id": "cross_environment_v1/accepted_model.py",
+    "source_sha256": "a8f7facd6b2a29b3e72c92dc9c8ea46f843b146be2b6430afbd6416151d2ae2d",
+    "published_sha256": "a8f7facd6b2a29b3e72c92dc9c8ea46f843b146be2b6430afbd6416151d2ae2d",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/accepted_rare_model.py",
+    "source_id": "cross_environment_v1/accepted_rare_model.py",
+    "source_sha256": "70c8c1a74c9b211b662d905d2a432b6aaf6bcc1a2c13a36adc70c7b64e174e87",
+    "published_sha256": "70c8c1a74c9b211b662d905d2a432b6aaf6bcc1a2c13a36adc70c7b64e174e87",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/accepted_resident_model.py",
+    "source_id": "cross_environment_v1/accepted_resident_model.py",
+    "source_sha256": "c8da535c8dc37a7fb5e3e26dadeb2d60b7ccafde909567a6806259177109b5f4",
+    "published_sha256": "c8da535c8dc37a7fb5e3e26dadeb2d60b7ccafde909567a6806259177109b5f4",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/accepted_survival_model.py",
+    "source_id": "cross_environment_v1/accepted_survival_model.py",
+    "source_sha256": "ebc2d015edd30be4423b933baa91bd3e63d192c23e044f16850fe70f8d2d64b8",
+    "published_sha256": "ebc2d015edd30be4423b933baa91bd3e63d192c23e044f16850fe70f8d2d64b8",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/accepted_transfer_model.py",
+    "source_id": "cross_environment_v1/accepted_transfer_model.py",
+    "source_sha256": "6ab11c41dbc333f3fbe3fa4eb0c7b13bd46713a7c0d12fe4ab6bed7f2eeb3eaa",
+    "published_sha256": "6ab11c41dbc333f3fbe3fa4eb0c7b13bd46713a7c0d12fe4ab6bed7f2eeb3eaa",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/analysis.py",
+    "source_id": "cross_environment_v1/analysis.py",
+    "source_sha256": "eaeddbc16975095e0cb74a2f84164d4fdbd77b0bda82d746337a939b3a60571e",
+    "published_sha256": "eaeddbc16975095e0cb74a2f84164d4fdbd77b0bda82d746337a939b3a60571e",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/common.py",
+    "source_id": "cross_environment_v1/common.py",
+    "source_sha256": "da596b73e96b53347c7e5395b0a3310bf29a1e4575de52ccc13572dbecd809b1",
+    "published_sha256": "da596b73e96b53347c7e5395b0a3310bf29a1e4575de52ccc13572dbecd809b1",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/freeze.py",
+    "source_id": "cross_environment_v1/freeze.py",
+    "source_sha256": "87a4018b83e4ed0044a62915adce89dec8b201932f7944d35ea45dc314d332be",
+    "published_sha256": "87a4018b83e4ed0044a62915adce89dec8b201932f7944d35ea45dc314d332be",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/generators.py",
+    "source_id": "cross_environment_v1/generators.py",
+    "source_sha256": "051c19105775cc9b922ca66c4419cd093cf5fee2557e61396abc9d0220661e05",
+    "published_sha256": "051c19105775cc9b922ca66c4419cd093cf5fee2557e61396abc9d0220661e05",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/io_utils.py",
+    "source_id": "cross_environment_v1/io_utils.py",
+    "source_sha256": "963691d8e30786d3f30b6ddb5a6509ed2dc7c1f157643509e9d9d7209b2bf996",
+    "published_sha256": "963691d8e30786d3f30b6ddb5a6509ed2dc7c1f157643509e9d9d7209b2bf996",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/lineages.py",
+    "source_id": "cross_environment_v1/lineages.py",
+    "source_sha256": "21573e0e66585a66cbe39794ee857708fcd5905ab8038d776677b670cfc9e972",
+    "published_sha256": "21573e0e66585a66cbe39794ee857708fcd5905ab8038d776677b670cfc9e972",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/model.py",
+    "source_id": "cross_environment_v1/model.py",
+    "source_sha256": "055d90b79b83fd92b51f8cab1086658d2bce313927071aa308112374ea7e6b7d",
+    "published_sha256": "055d90b79b83fd92b51f8cab1086658d2bce313927071aa308112374ea7e6b7d",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/prepare_inputs.py",
+    "source_id": "cross_environment_v1/prepare_inputs.py",
+    "source_sha256": "a056d975f8185010273363dbf06099ce662d311e5fdc1978a41367ff4ba1c54d",
+    "published_sha256": "a056d975f8185010273363dbf06099ce662d311e5fdc1978a41367ff4ba1c54d",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/report.py",
+    "source_id": "cross_environment_v1/report.py",
+    "source_sha256": "ccb44326910aa24b99f1a1300d4124a625a05f13f7c80329b46958a5b97e30f9",
+    "published_sha256": "ccb44326910aa24b99f1a1300d4124a625a05f13f7c80329b46958a5b97e30f9",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/resource_guard055.py",
+    "source_id": "cross_environment_v1/resource_guard055.py",
+    "source_sha256": "0360941cd15adf77659c5f26b38721c107c76225e41a185e686b77dd8d1aaf0f",
+    "published_sha256": "0360941cd15adf77659c5f26b38721c107c76225e41a185e686b77dd8d1aaf0f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/runner.py",
+    "source_id": "cross_environment_v1/runner.py",
+    "source_sha256": "bb3679676ee3288712b2c51f798c9c12c27ff94a390566a2e809eb2c0e1594e8",
+    "published_sha256": "bb3679676ee3288712b2c51f798c9c12c27ff94a390566a2e809eb2c0e1594e8",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/test_focused.py",
+    "source_id": "cross_environment_v1/test_focused.py",
+    "source_sha256": "87b42ae91ec1fa34804f511490a1ce9902b732d296daa9db921f77e56b6305e6",
+    "published_sha256": "87b42ae91ec1fa34804f511490a1ce9902b732d296daa9db921f77e56b6305e6",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/transfer.py",
+    "source_id": "cross_environment_v1/transfer.py",
+    "source_sha256": "261919840f89a02a7f1ff8048d616cb7ccc2249a9c273462443071cc326e7443",
+    "published_sha256": "261919840f89a02a7f1ff8048d616cb7ccc2249a9c273462443071cc326e7443",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/validate_analyze.py",
+    "source_id": "cross_environment_v1/validate_analyze.py",
+    "source_sha256": "99f128be9f91d3ea6f6912734344c32f341ccf09939c784648ec273f6e71786f",
+    "published_sha256": "99f128be9f91d3ea6f6912734344c32f341ccf09939c784648ec273f6e71786f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/056/report_display_fix.py",
+    "source_id": "cross_environment_v1/report_display_fix.py",
+    "source_sha256": "c1284932b6f6f0e72584be598d0e9c6ce7b8c3582874cf836594a7a783495721",
+    "published_sha256": "c1284932b6f6f0e72584be598d0e9c6ce7b8c3582874cf836594a7a783495721",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/BOOTSTRAP_INDICES.json",
+    "source_id": "cross_environment_v1/source055_BOOTSTRAP_INDICES.json",
+    "source_sha256": "8d135d1c46ea838f341f9d47a44f829d6ab2ae11711b5ff6b8f4133569d81efc",
+    "published_sha256": "8d135d1c46ea838f341f9d47a44f829d6ab2ae11711b5ff6b8f4133569d81efc",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/source055_BOOTSTRAP_INDICES.json",
+    "source_id": "cross_environment_v1/source055_BOOTSTRAP_INDICES.json",
+    "source_sha256": "8d135d1c46ea838f341f9d47a44f829d6ab2ae11711b5ff6b8f4133569d81efc",
+    "published_sha256": "8d135d1c46ea838f341f9d47a44f829d6ab2ae11711b5ff6b8f4133569d81efc",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/source055_INPUT_FREEZE.json",
+    "source_id": "cross_environment_v1/source055_INPUT_FREEZE.json",
+    "source_sha256": "d5b27196ed31e8454a611f14d853f6ae10d69680ede2bd992c058f1d59c37481",
+    "published_sha256": "d5b27196ed31e8454a611f14d853f6ae10d69680ede2bd992c058f1d59c37481",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/source055_RESIDENT_PROVENANCE.json",
+    "source_id": "cross_environment_v1/source055_RESIDENT_PROVENANCE.json",
+    "source_sha256": "ca53a043b52bff5b6fcdd8dc90795a1b52a9618d320a3d090e1000022de02b45",
+    "published_sha256": "ca53a043b52bff5b6fcdd8dc90795a1b52a9618d320a3d090e1000022de02b45",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/source055_TARGET_LAW_DRAWS.json",
+    "source_id": "cross_environment_v1/source055_TARGET_LAW_DRAWS.json",
+    "source_sha256": "467682b67d8a986e689e87986bee380b9144287b66c968e0696c03c7385b8ecf",
+    "published_sha256": "467682b67d8a986e689e87986bee380b9144287b66c968e0696c03c7385b8ecf",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/REUSED_055_SEED_ROSTER.json",
+    "source_id": "majority_policy_preparation_v1/SEED_ROSTER.json",
+    "source_sha256": "045e743a2e920368a94e60aebf195a6c3f684cead819e162ba502d067237ca6b",
+    "published_sha256": "045e743a2e920368a94e60aebf195a6c3f684cead819e162ba502d067237ca6b",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/056/summary.json",
+    "source_id": "cross_environment_v1/ESTIMATES.json",
+    "source_sha256": "5aebeee1445c808baa223137aeb981e54e356450b54dbe5a0169bcc249d13175",
+    "published_sha256": "16526ceb79c0997b9604b478eaa82491c4875b223572bfaf63cc6dfca55594ba",
+    "transformation": "Lossless mean/ci95 projection; classification renamed zero_classification; native full table retained."
+  },
+  {
+    "path": "results/056/BLOCK_SUMMARIES.jsonl",
+    "source_id": "cross_environment_v1/BLOCK_SUMMARIES.json",
+    "source_sha256": "58b85f46b3c979ec7ba96a8f1eca0bf9ccda8430ee23d361731370f8c7367821",
+    "published_sha256": "d3868d850eb6056f808998463b70ebdb8e32309a01f32599c2fc74835d7421ef",
+    "transformation": "JSON array serialized as JSON Lines; values unchanged."
+  },
+  {
+    "path": "provenance/056_AUDIT.json",
+    "source_id": "reviewer/056/SUPERVISOR_AUDIT.json",
+    "source_sha256": "9cc68dc4462fe41a6e6eb351c8f8d8467d91cbac406fdf579ee41e5ac1046090",
+    "published_sha256": "9cc68dc4462fe41a6e6eb351c8f8d8467d91cbac406fdf579ee41e5ac1046090",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/ESTIMATES.json",
+    "source_id": "cross_environment_replication_v1/ESTIMATES.json",
+    "source_sha256": "dba0ef55f0b4a9d4bfdcf20fbb9606e96108d65107781eb5d22c8d84d2ff1d13",
+    "published_sha256": "dba0ef55f0b4a9d4bfdcf20fbb9606e96108d65107781eb5d22c8d84d2ff1d13",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/ESTIMATES.csv",
+    "source_id": "cross_environment_replication_v1/ESTIMATES.csv",
+    "source_sha256": "39e7da8c05dd17625a86f0bd32a0382364fe7bd6af16424f567ef82fb5e84729",
+    "published_sha256": "488fec7686910833702f7c617d5d7e1077db90fb8a951691506758d907830f4d",
+    "transformation": "administrative-path substitution only"
+  },
+  {
+    "path": "results/057/BLOCK_SUMMARIES.json",
+    "source_id": "cross_environment_replication_v1/BLOCK_SUMMARIES.json",
+    "source_sha256": "2354dd800f1fdae243871cdcb14c3317802103608ad773dc82163f6b921b471f",
+    "published_sha256": "2354dd800f1fdae243871cdcb14c3317802103608ad773dc82163f6b921b471f",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/FATE_COUNTS.json",
+    "source_id": "cross_environment_replication_v1/FATE_COUNTS.json",
+    "source_sha256": "e411423ae0064c05bbc290b0e57485cc1dd20c739e9fb05e99c67b6490b9e7da",
+    "published_sha256": "e411423ae0064c05bbc290b0e57485cc1dd20c739e9fb05e99c67b6490b9e7da",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/JOINT_ENDPOINT_COUNTS.json",
+    "source_id": "cross_environment_replication_v1/JOINT_ENDPOINT_COUNTS.json",
+    "source_sha256": "82e6a2e975866f46bc7789734680154972b081767d7790f6c18ae9bc1ca8302d",
+    "published_sha256": "82e6a2e975866f46bc7789734680154972b081767d7790f6c18ae9bc1ca8302d",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/ASSESSMENT.json",
+    "source_id": "cross_environment_replication_v1/ASSESSMENT.json",
+    "source_sha256": "3dbb6a890a34f3cd50f19207bdfd40d48052f524ad45a4e98d4211eb9c031a2a",
+    "published_sha256": "3dbb6a890a34f3cd50f19207bdfd40d48052f524ad45a4e98d4211eb9c031a2a",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/BUDGET.json",
+    "source_id": "cross_environment_replication_v1/BUDGET.json",
+    "source_sha256": "919eff8520c7f9bbcd06ab9a07a0a4ac64f9a1a912d29dead907c690e28e1a2f",
+    "published_sha256": "919eff8520c7f9bbcd06ab9a07a0a4ac64f9a1a912d29dead907c690e28e1a2f",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/INITIAL_BUDGET.json",
+    "source_id": "cross_environment_replication_v1/INITIAL_BUDGET.json",
+    "source_sha256": "7be89b1295f8a292066f6a59f6ed8127ecd6a5dd37d6a4a11d712bc63b73fa80",
+    "published_sha256": "7be89b1295f8a292066f6a59f6ed8127ecd6a5dd37d6a4a11d712bc63b73fa80",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/POLICY_BUDGET.json",
+    "source_id": "cross_environment_replication_v1/POLICY_BUDGET.json",
+    "source_sha256": "27bb909ef5ce1246d3d3a450257f0eee94ac758fd2d0562bae77ffd923c505ea",
+    "published_sha256": "27bb909ef5ce1246d3d3a450257f0eee94ac758fd2d0562bae77ffd923c505ea",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/METRIC_CATALOG.json",
+    "source_id": "cross_environment_replication_v1/METRIC_CATALOG.json",
+    "source_sha256": "6f6570078e62d9387511f58e9a39025fc2516b9673b0659d2fba70c9f73e3b0e",
+    "published_sha256": "6f6570078e62d9387511f58e9a39025fc2516b9673b0659d2fba70c9f73e3b0e",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/ORIENTATION_SIGNS.json",
+    "source_id": "cross_environment_replication_v1/ORIENTATION_SIGNS.json",
+    "source_sha256": "6d91456530f44b65ef967c4db5fa09f4aa2286589ec0594b19a2189a3dfc3296",
+    "published_sha256": "6d91456530f44b65ef967c4db5fa09f4aa2286589ec0594b19a2189a3dfc3296",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/ORIENTATION_METRICS.jsonl",
+    "source_id": "cross_environment_replication_v1/ORIENTATION_METRICS.jsonl",
+    "source_sha256": "b6bc2299117f9212455c26ff5118ce5d07a57ba6d1bd0270ed88f2977c5571ae",
+    "published_sha256": "b6bc2299117f9212455c26ff5118ce5d07a57ba6d1bd0270ed88f2977c5571ae",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/config.json",
+    "source_id": "cross_environment_replication_v1/config.json",
+    "source_sha256": "feb2a2de9ec019af5a9f8faaa7a9b19458a4e371960420788cc483bd76582bac",
+    "published_sha256": "feb2a2de9ec019af5a9f8faaa7a9b19458a4e371960420788cc483bd76582bac",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/SEED_ROSTER.json",
+    "source_id": "cross_environment_replication_v1/SEED_ROSTER.json",
+    "source_sha256": "5cfe8c2256e64e1eccc12849f607262cfbb64c717c151face47307f90eb76f22",
+    "published_sha256": "5cfe8c2256e64e1eccc12849f607262cfbb64c717c151face47307f90eb76f22",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/SEED_COLLISION_CHECK.json",
+    "source_id": "cross_environment_replication_v1/SEED_COLLISION_CHECK.json",
+    "source_sha256": "fa2e03c02ce937ded66f8dd6b619c749d5220db06a166c370917ac7ff86f691f",
+    "published_sha256": "fa2e03c02ce937ded66f8dd6b619c749d5220db06a166c370917ac7ff86f691f",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/SEEDS.json",
+    "source_id": "cross_environment_replication_v1/SEEDS.json",
+    "source_sha256": "5cfe8c2256e64e1eccc12849f607262cfbb64c717c151face47307f90eb76f22",
+    "published_sha256": "5cfe8c2256e64e1eccc12849f607262cfbb64c717c151face47307f90eb76f22",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/INITIAL_TARGETS.json",
+    "source_id": "cross_environment_replication_v1/INITIAL_TARGETS.json",
+    "source_sha256": "593565c6543cb363e8a44d32304ed796fb305e15183c4512ea717013ec255ff1",
+    "published_sha256": "593565c6543cb363e8a44d32304ed796fb305e15183c4512ea717013ec255ff1",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/POLICY_TARGETS.json",
+    "source_id": "cross_environment_replication_v1/POLICY_TARGETS.json",
+    "source_sha256": "7baa3c8b7a377b9f40a94a78b428733839d4c469aaa70ef8d9f97699eb45059b",
+    "published_sha256": "7baa3c8b7a377b9f40a94a78b428733839d4c469aaa70ef8d9f97699eb45059b",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/POLICY_TARGET_DRAWS.json",
+    "source_id": "cross_environment_replication_v1/POLICY_TARGET_DRAWS.json",
+    "source_sha256": "7ec7be37765a437665cec13a9116eef98bc6669f7d67c67a11b69765685f03a0",
+    "published_sha256": "7ec7be37765a437665cec13a9116eef98bc6669f7d67c67a11b69765685f03a0",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/CONTINUATION_TARGET_DRAWS.json",
+    "source_id": "cross_environment_replication_v1/CONTINUATION_TARGET_DRAWS.json",
+    "source_sha256": "b9a0cba6969198a7fa43cb6f653ce598cf9ac499df21dbc359a3ec4b983fb995",
+    "published_sha256": "b9a0cba6969198a7fa43cb6f653ce598cf9ac499df21dbc359a3ec4b983fb995",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/TARGET_TABLE.json",
+    "source_id": "cross_environment_replication_v1/TARGET_TABLE.json",
+    "source_sha256": "6d2392d4a21e3f999f9e90ff5e3350b3dbcdaf1de47248493fe0dbd3f88dd70f",
+    "published_sha256": "6d2392d4a21e3f999f9e90ff5e3350b3dbcdaf1de47248493fe0dbd3f88dd70f",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/SOURCE_REFERENCES.json",
+    "source_id": "cross_environment_replication_v1/SOURCE_REFERENCES.json",
+    "source_sha256": "a3078647bd2c9ff32c79b6dc5f422c609ea0fa14396c678496696a9ca4143d4f",
+    "published_sha256": "a3078647bd2c9ff32c79b6dc5f422c609ea0fa14396c678496696a9ca4143d4f",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/INPUT_FREEZE.json",
+    "source_id": "cross_environment_replication_v1/INPUT_FREEZE.json",
+    "source_sha256": "eda34dcbf94784f6569ffbd9dc76ba1b5388aad0a88b5d04952106e294e9e1cc",
+    "published_sha256": "eda34dcbf94784f6569ffbd9dc76ba1b5388aad0a88b5d04952106e294e9e1cc",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/INITIAL_FREEZE.json",
+    "source_id": "cross_environment_replication_v1/INITIAL_FREEZE.json",
+    "source_sha256": "60f87f696b6a17d28eb5789cd3e0979df5c9197a7504711557cee19a66eda162",
+    "published_sha256": "60f87f696b6a17d28eb5789cd3e0979df5c9197a7504711557cee19a66eda162",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/RESIDENT_FREEZE.json",
+    "source_id": "cross_environment_replication_v1/RESIDENT_FREEZE.json",
+    "source_sha256": "7ffc06479d5363a5e545b6b8c07656c150fa81ff00eb43f5496fd9580c04df56",
+    "published_sha256": "7ffc06479d5363a5e545b6b8c07656c150fa81ff00eb43f5496fd9580c04df56",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/INPUT_GENERATION.json",
+    "source_id": "cross_environment_replication_v1/INPUT_GENERATION.json",
+    "source_sha256": "658bcf63c7d21929bc1c9de573787823c1a3b2ad793d7fc2cd397e9800796738",
+    "published_sha256": "658bcf63c7d21929bc1c9de573787823c1a3b2ad793d7fc2cd397e9800796738",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/INITIAL_OPERATOR_COMPATIBILITY.json",
+    "source_id": "cross_environment_replication_v1/INITIAL_OPERATOR_COMPATIBILITY.json",
+    "source_sha256": "6836bec980d65bdfbd7b9bf6196d484c6ecd44b0438a56b8abcbc2c5a7a796ea",
+    "published_sha256": "6836bec980d65bdfbd7b9bf6196d484c6ecd44b0438a56b8abcbc2c5a7a796ea",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/VALIDATION_CHECK.json",
+    "source_id": "cross_environment_replication_v1/VALIDATION_CHECK.json",
+    "source_sha256": "c6f7c71760f6b387a99d4633782891530a5093ff400997b4fbfa974e776b659a",
+    "published_sha256": "c6f7c71760f6b387a99d4633782891530a5093ff400997b4fbfa974e776b659a",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/INDEPENDENT_AUDIT.json",
+    "source_id": "cross_environment_replication_v1/INDEPENDENT_AUDIT.json",
+    "source_sha256": "9d17ab81eb486557409595bde305a2f65b76d2fafb1b2672041029ad5a81a967",
+    "published_sha256": "9d17ab81eb486557409595bde305a2f65b76d2fafb1b2672041029ad5a81a967",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/SUPERVISOR_AUDIT.json",
+    "source_id": "cross_environment_replication_v1/SUPERVISOR_AUDIT.json",
+    "source_sha256": "e54ff02149a6908f454387384227a34d6fc7b8b611085c95953ad3b30c6f2476",
+    "published_sha256": "e54ff02149a6908f454387384227a34d6fc7b8b611085c95953ad3b30c6f2476",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/REPORT_FORMAT_REPAIR.json",
+    "source_id": "cross_environment_replication_v1/REPORT_FORMAT_REPAIR.json",
+    "source_sha256": "af647d47e68634f36d6a44908621d68ab4772412e5ce32ca84131d44898d0c5b",
+    "published_sha256": "af647d47e68634f36d6a44908621d68ab4772412e5ce32ca84131d44898d0c5b",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/PATH_METRICS.jsonl.gz",
+    "source_id": "cross_environment_replication_v1/PATH_METRICS.jsonl",
+    "source_sha256": "b59289944821f526c630b484a77c2797be7715dfd50a5d61547769cdd59191b6",
+    "published_sha256": "d0937d5f75d3bebb682fb489503a05ef1a21de6c3af2cdafb3d4022d60ff3898",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/057/PAIRED_METRICS.jsonl.gz",
+    "source_id": "cross_environment_replication_v1/PAIRED_METRICS.jsonl",
+    "source_sha256": "952d7766fef83491e9094e2974c50eb2720ce3d40e352c02c5f1e3ab0544c97a",
+    "published_sha256": "c8927dce94d8e58e3fa137df83704e4977927e2062b751010350f55debf249c4",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/057/FATES.jsonl.gz",
+    "source_id": "cross_environment_replication_v1/FATES.jsonl",
+    "source_sha256": "b63cd825b522f4bfded64c0358a1e4cd65dbb15920f90f906af9199daf6ecb2e",
+    "published_sha256": "0eb3526e43e88d562202e842c1e39d44b102b3a22bdaa0291c55ece34be18be2",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/057/DECLINES.jsonl.gz",
+    "source_id": "cross_environment_replication_v1/DECLINES.jsonl",
+    "source_sha256": "0d84553992b28efff2e7f72da05de08ce94cef22139fc1e59eec809bd300c581",
+    "published_sha256": "2f937bde123cc86ded10da092013c2e2232f9f86b7bc52cb2a0eec215cd64c5e",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/057/NEGATIVE_OUTCOMES.jsonl.gz",
+    "source_id": "cross_environment_replication_v1/NEGATIVE_OUTCOMES.jsonl",
+    "source_sha256": "d0e2435e0fa6cb2ed28ca1d24317955dded8543dac58735f875ef4fcefc72bb6",
+    "published_sha256": "c0e7e520acbd87855430a61232e8d271864f0b477cac2fe2d939647e496c82b7",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/057/TRANSMISSION_ACCURACY_DISAGREEMENTS.jsonl.gz",
+    "source_id": "cross_environment_replication_v1/TRANSMISSION_ACCURACY_DISAGREEMENTS.jsonl",
+    "source_sha256": "bbb6e56bd200b66d58546e1ef41dae3d50b8cc913156d3f59344bcd404523fa1",
+    "published_sha256": "51697e970ae59e715e681761623fd32625a286e6f8fa824a4f1d7aff85ac7074",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/057/PRIOR_SEED_INVENTORY.json.gz",
+    "source_id": "cross_environment_replication_v1/PRIOR_SEED_INVENTORY.json",
+    "source_sha256": "5bb00d9735581fcc5709cddc1dc760b473902b814cba3fdb16996f689b49e315",
+    "published_sha256": "db76e50e7f9c9786eae20ad9fd8b00c43edab522ba8ee0263ab572b9a0bdef72",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "code/057/accepted_analysis055.py",
+    "source_id": "cross_environment_replication_v1/accepted_analysis055.py",
+    "source_sha256": "1b3b8d293e3b2601cd23734c9ae53aa689ee01fdac90d57fd102ccc1e90739d9",
+    "published_sha256": "1b3b8d293e3b2601cd23734c9ae53aa689ee01fdac90d57fd102ccc1e90739d9",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/accepted_fresh_model.py",
+    "source_id": "cross_environment_replication_v1/accepted_fresh_model.py",
+    "source_sha256": "fa4f3782b5c1c3dec5c07cad23c28c326ccd454f103f8891ed6228d961201bc5",
+    "published_sha256": "fa4f3782b5c1c3dec5c07cad23c28c326ccd454f103f8891ed6228d961201bc5",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/accepted_inputs055.py",
+    "source_id": "cross_environment_replication_v1/accepted_inputs055.py",
+    "source_sha256": "8dc063172890dd480bcc75910a72c6a66fd179347e4c471dd94a6c47a4bd8a0f",
+    "published_sha256": "8dc063172890dd480bcc75910a72c6a66fd179347e4c471dd94a6c47a4bd8a0f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/accepted_model.py",
+    "source_id": "cross_environment_replication_v1/accepted_model.py",
+    "source_sha256": "a8f7facd6b2a29b3e72c92dc9c8ea46f843b146be2b6430afbd6416151d2ae2d",
+    "published_sha256": "a8f7facd6b2a29b3e72c92dc9c8ea46f843b146be2b6430afbd6416151d2ae2d",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/accepted_rare_model.py",
+    "source_id": "cross_environment_replication_v1/accepted_rare_model.py",
+    "source_sha256": "70c8c1a74c9b211b662d905d2a432b6aaf6bcc1a2c13a36adc70c7b64e174e87",
+    "published_sha256": "70c8c1a74c9b211b662d905d2a432b6aaf6bcc1a2c13a36adc70c7b64e174e87",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/accepted_resident_model.py",
+    "source_id": "cross_environment_replication_v1/accepted_resident_model.py",
+    "source_sha256": "c8da535c8dc37a7fb5e3e26dadeb2d60b7ccafde909567a6806259177109b5f4",
+    "published_sha256": "c8da535c8dc37a7fb5e3e26dadeb2d60b7ccafde909567a6806259177109b5f4",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/accepted_survival_model.py",
+    "source_id": "cross_environment_replication_v1/accepted_survival_model.py",
+    "source_sha256": "ebc2d015edd30be4423b933baa91bd3e63d192c23e044f16850fe70f8d2d64b8",
+    "published_sha256": "ebc2d015edd30be4423b933baa91bd3e63d192c23e044f16850fe70f8d2d64b8",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/accepted_transfer_model.py",
+    "source_id": "cross_environment_replication_v1/accepted_transfer_model.py",
+    "source_sha256": "6ab11c41dbc333f3fbe3fa4eb0c7b13bd46713a7c0d12fe4ab6bed7f2eeb3eaa",
+    "published_sha256": "6ab11c41dbc333f3fbe3fa4eb0c7b13bd46713a7c0d12fe4ab6bed7f2eeb3eaa",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/accepted_validate056.py",
+    "source_id": "cross_environment_replication_v1/accepted_validate056.py",
+    "source_sha256": "99f128be9f91d3ea6f6912734344c32f341ccf09939c784648ec273f6e71786f",
+    "published_sha256": "99f128be9f91d3ea6f6912734344c32f341ccf09939c784648ec273f6e71786f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/analysis.py",
+    "source_id": "cross_environment_replication_v1/analysis.py",
+    "source_sha256": "eaeddbc16975095e0cb74a2f84164d4fdbd77b0bda82d746337a939b3a60571e",
+    "published_sha256": "eaeddbc16975095e0cb74a2f84164d4fdbd77b0bda82d746337a939b3a60571e",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/audit_independent.py",
+    "source_id": "cross_environment_replication_v1/audit_independent.py",
+    "source_sha256": "6f459c0df576402e0f3567cfcf1c6670b0b21f06acd64b797c64ae27a8ff495a",
+    "published_sha256": "6f459c0df576402e0f3567cfcf1c6670b0b21f06acd64b797c64ae27a8ff495a",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/common.py",
+    "source_id": "cross_environment_replication_v1/common.py",
+    "source_sha256": "287e21f688dc85be3f13632c29e795b4959a04f973f413871ce9e6258cd634d4",
+    "published_sha256": "287e21f688dc85be3f13632c29e795b4959a04f973f413871ce9e6258cd634d4",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/freeze.py",
+    "source_id": "cross_environment_replication_v1/freeze.py",
+    "source_sha256": "43370d249fa5984681a30ee85c381cdc8b641d1870153dbb3e056f57bf4b3b7e",
+    "published_sha256": "43370d249fa5984681a30ee85c381cdc8b641d1870153dbb3e056f57bf4b3b7e",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/generators.py",
+    "source_id": "cross_environment_replication_v1/generators.py",
+    "source_sha256": "051c19105775cc9b922ca66c4419cd093cf5fee2557e61396abc9d0220661e05",
+    "published_sha256": "051c19105775cc9b922ca66c4419cd093cf5fee2557e61396abc9d0220661e05",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/io_utils.py",
+    "source_id": "cross_environment_replication_v1/io_utils.py",
+    "source_sha256": "963691d8e30786d3f30b6ddb5a6509ed2dc7c1f157643509e9d9d7209b2bf996",
+    "published_sha256": "963691d8e30786d3f30b6ddb5a6509ed2dc7c1f157643509e9d9d7209b2bf996",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/lineages.py",
+    "source_id": "cross_environment_replication_v1/lineages.py",
+    "source_sha256": "21573e0e66585a66cbe39794ee857708fcd5905ab8038d776677b670cfc9e972",
+    "published_sha256": "21573e0e66585a66cbe39794ee857708fcd5905ab8038d776677b670cfc9e972",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/make_inputs.py",
+    "source_id": "cross_environment_replication_v1/make_inputs.py",
+    "source_sha256": "7b6c2389e705fd6dd1bb560e0b4f1f7feea2c87254db83f9b6236a7749a87b4b",
+    "published_sha256": "7b6c2389e705fd6dd1bb560e0b4f1f7feea2c87254db83f9b6236a7749a87b4b",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/model.py",
+    "source_id": "cross_environment_replication_v1/model.py",
+    "source_sha256": "055d90b79b83fd92b51f8cab1086658d2bce313927071aa308112374ea7e6b7d",
+    "published_sha256": "055d90b79b83fd92b51f8cab1086658d2bce313927071aa308112374ea7e6b7d",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/preparation_model.py",
+    "source_id": "cross_environment_replication_v1/preparation_model.py",
+    "source_sha256": "2a2b1a683f3720233d91413ef2e8d33ac85e4685f851b110dab4ebca719e7eaa",
+    "published_sha256": "2a2b1a683f3720233d91413ef2e8d33ac85e4685f851b110dab4ebca719e7eaa",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/prepare_initial.py",
+    "source_id": "cross_environment_replication_v1/prepare_initial.py",
+    "source_sha256": "c83a4a94e832efebd8cdce0efb77696812dac43b52a15ce67b9960e6a0df6188",
+    "published_sha256": "c83a4a94e832efebd8cdce0efb77696812dac43b52a15ce67b9960e6a0df6188",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/prepare_policy.py",
+    "source_id": "cross_environment_replication_v1/prepare_policy.py",
+    "source_sha256": "55b117fc09a2871ed08a3931033a66ea92ec7446bf0e51d03fe3c62d2ab4b528",
+    "published_sha256": "55b117fc09a2871ed08a3931033a66ea92ec7446bf0e51d03fe3c62d2ab4b528",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/report.py",
+    "source_id": "cross_environment_replication_v1/report.py",
+    "source_sha256": "9c133cd2245edd2480204e83068c20b2e577997935d903c0f4de21873919b9d7",
+    "published_sha256": "9c133cd2245edd2480204e83068c20b2e577997935d903c0f4de21873919b9d7",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/resource_guard055.py",
+    "source_id": "cross_environment_replication_v1/resource_guard055.py",
+    "source_sha256": "0360941cd15adf77659c5f26b38721c107c76225e41a185e686b77dd8d1aaf0f",
+    "published_sha256": "0360941cd15adf77659c5f26b38721c107c76225e41a185e686b77dd8d1aaf0f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/runner.py",
+    "source_id": "cross_environment_replication_v1/runner.py",
+    "source_sha256": "26ff243b2122e9a8212535bf9cc4324c5c7731b1985edeb895839a6b96c7b068",
+    "published_sha256": "26ff243b2122e9a8212535bf9cc4324c5c7731b1985edeb895839a6b96c7b068",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/seed_design.py",
+    "source_id": "cross_environment_replication_v1/seed_design.py",
+    "source_sha256": "01a76ab131ea9a30fb649d32c9cefecb8777f6658832259bcc83609594f7ff0e",
+    "published_sha256": "01a76ab131ea9a30fb649d32c9cefecb8777f6658832259bcc83609594f7ff0e",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/test_focused.py",
+    "source_id": "cross_environment_replication_v1/test_focused.py",
+    "source_sha256": "317ed50cb2ab214b07a53c1bf441f41254bf56c29e5b1a643b82890da70a24fb",
+    "published_sha256": "317ed50cb2ab214b07a53c1bf441f41254bf56c29e5b1a643b82890da70a24fb",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/transfer.py",
+    "source_id": "cross_environment_replication_v1/transfer.py",
+    "source_sha256": "f95c96ca81845c603a197950c21ea7731771ebda0d0ce9518b3c8214635e24df",
+    "published_sha256": "f95c96ca81845c603a197950c21ea7731771ebda0d0ce9518b3c8214635e24df",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/validate_analyze.py",
+    "source_id": "cross_environment_replication_v1/validate_analyze.py",
+    "source_sha256": "6896f7b51842d7dd2962f5d2d3c56e3c20e14e5251fc7f6f258dcc678b4cc9a8",
+    "published_sha256": "6896f7b51842d7dd2962f5d2d3c56e3c20e14e5251fc7f6f258dcc678b4cc9a8",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/057/report_display_fix.py",
+    "source_id": "cross_environment_replication_v1/report_display_fix.py",
+    "source_sha256": "f1085180ed9faba643e44e623dcaaa876c23d8e61f679e6d70f3fbbbcec24217",
+    "published_sha256": "f1085180ed9faba643e44e623dcaaa876c23d8e61f679e6d70f3fbbbcec24217",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/BOOTSTRAP_INDICES.json",
+    "source_id": "cross_environment_replication_v1/BOOTSTRAP_INDICES.json",
+    "source_sha256": "fde333007269042117c4bf3f26c5a1e418cda184f12b127d079437a2fb0a5e7e",
+    "published_sha256": "fde333007269042117c4bf3f26c5a1e418cda184f12b127d079437a2fb0a5e7e",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/057/summary.json",
+    "source_id": "cross_environment_replication_v1/ESTIMATES.json",
+    "source_sha256": "dba0ef55f0b4a9d4bfdcf20fbb9606e96108d65107781eb5d22c8d84d2ff1d13",
+    "published_sha256": "6ff1ee25964e4771e83ad81bedff1a2c7554ffe98d3f9cca5176733015fa9129",
+    "transformation": "Lossless mean/ci95 projection; classification renamed zero_classification; native full table retained."
+  },
+  {
+    "path": "results/057/BLOCK_SUMMARIES.jsonl",
+    "source_id": "cross_environment_replication_v1/BLOCK_SUMMARIES.json",
+    "source_sha256": "2354dd800f1fdae243871cdcb14c3317802103608ad773dc82163f6b921b471f",
+    "published_sha256": "56c9e19a4cf61e9b30c9d9d8a05f3351a41430cbd70c150376bebca1d20e461d",
+    "transformation": "JSON array serialized as JSON Lines; values unchanged."
+  },
+  {
+    "path": "provenance/057_AUDIT.json",
+    "source_id": "reviewer/057/SUPERVISOR_AUDIT.json",
+    "source_sha256": "e54ff02149a6908f454387384227a34d6fc7b8b611085c95953ad3b30c6f2476",
+    "published_sha256": "e54ff02149a6908f454387384227a34d6fc7b8b611085c95953ad3b30c6f2476",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/QUOTED_056_057_STATISTICS.json",
+    "source_id": "manuscript-revision/QUOTED_056_057_STATISTICS.json",
+    "source_sha256": "094715bcfe9ad5f05188e2b45f50eefb59755bf46eff0fba6f6e5e77fa6e58c6",
+    "published_sha256": "094715bcfe9ad5f05188e2b45f50eefb59755bf46eff0fba6f6e5e77fa6e58c6",
+    "transformation": "identity"
+  },
+  {
+    "path": "figures/12_crossed_founder_effects.png",
+    "source_id": "manuscript-revision/figures/12_crossed_founder_effects.png",
+    "source_sha256": "f68b14a5f16d4376cf17adfae1e3f1c2940347ae84472b054fa59470c314ca9b",
+    "published_sha256": "f68b14a5f16d4376cf17adfae1e3f1c2940347ae84472b054fa59470c314ca9b",
+    "transformation": "identity"
+  },
+  {
+    "path": "figures/13_crossed_population_effects.png",
+    "source_id": "manuscript-revision/figures/13_crossed_population_effects.png",
+    "source_sha256": "9109f16f4388f33f89758153b4708325ef85016c7608d7299dc7eae4be4091b9",
+    "published_sha256": "9109f16f4388f33f89758153b4708325ef85016c7608d7299dc7eae4be4091b9",
+    "transformation": "identity"
   }
 ]

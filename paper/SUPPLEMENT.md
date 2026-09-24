@@ -1,6 +1,6 @@
 # Supporting information: private memory and environmental recurrence
 
-Jack Chen · Version 1.0 · 22 September 2026
+Jack Chen · Research preprint 1.1.0 · 24 September 2026
 
 This document accompanies the [research manuscript](MANUSCRIPT.md). It identifies what each comparison measures, which populations are independently prepared, and what a reader can reproduce from this compact release. All outcomes are from an abstract bit-string population model.
 
@@ -27,8 +27,10 @@ The 055 experiment and its saved-record reconstruction were complete before manu
 | 053 | Historical versus fresh focal policy under each fixed competitor, at constant carrier density | 2,304 new HH/FF paths; 2,304 stored mixed controls from 052 |
 | 054 | Rare H among F, or rare F among H, with all individuals retrieving | 2,304 new paths; genotype arrays and exogenous inputs reused from 052 |
 | 055 | One policy substitution versus the same unchanged founder after resident-policy preparation | 1,152 new preparations and 3,456 new transfers; 192 source genotype arrays reused from 052 |
+| 056 | Cross preparation history with future ZERO/HALF recurrence at identical prepared states | 2,304 new off-diagonal transfers; 2,304 saved diagonal controls from 055; no new cohort |
+| 057 | Prospective new-cohort test of the crossed future-recurrence effect | 192 initial preparations, 768 policy preparations and 4,608 transfers; all stochastic inputs new; cohorts not pooled |
 
-The identifiers are archival study identifiers, not a count of independent experiments supporting every claim. A reused control can appear in several tables without becoming new evidence. Each study's full numerical grid is in [STUDIES.json](../provenance/STUDIES.json), which links its summaries, block aggregates and bootstrap rows.
+The identifiers are archival study identifiers, not a count of independent experiments supporting every claim. A reused control can appear in several tables without becoming new evidence. All numerical grids are indexed in the [study catalog](../provenance/STUDIES.json). This revision also supplies the complete [056 estimates](../results/056/ESTIMATES.json) and [057 estimates](../results/057/ESTIMATES.json), their block aggregates and bootstrap rows.
 
 ## S3. State, objective and candidate budget
 
@@ -93,7 +95,7 @@ The [local candidate calculation](../docs/analytical/cache-diversity/NOTE.md) an
 
 ## S9. Public reproduction and raw-data boundary
 
-From the repository root:
+From the version 1.1.0 repository root:
 
 ```bash
 python -m pip install -r requirements.txt
@@ -102,12 +104,30 @@ python scripts/reproduce_statistics.py
 python scripts/rebuild_figures.py
 ```
 
-The statistics check recomputes all 14,729 intervals from the included block aggregates and exact saved bootstrap indices. It also verifies every registered manuscript/figure statistic against its source summary. Figure generation uses those same summaries. Both write to `_rebuilt/` by default and neither runs a population experiment.
+The statistics check recomputes all 15,053 intervals from the included block aggregates and exact saved bootstrap indices. It also verifies every registered manuscript/figure statistic against its source summary. Figure generation uses those same summaries. Both write to `_rebuilt/` by default and neither runs a population experiment.
 
-Archived scientific modules in `code/045` through `code/055` preserve each study's operators and analysis. Site-specific Slurm and SSH launch scripts are omitted. Some archived modules require original input tapes, directory layouts or predecessor packages; they are provided for inspection, not advertised as a turnkey rerun interface. Do not infer successful raw-trajectory reproduction from a passing saved-table check.
+Archived scientific modules in `code/045` through `code/057` preserve each study's operators and analysis. Site-specific Slurm and SSH launch scripts are omitted. Some archived modules require original input tapes, directory layouts or predecessor packages; they are provided for inspection, not advertised as a turnkey rerun interface. Do not infer successful raw-trajectory reproduction from a passing saved-table check.
 
 The multi-gigabyte candidate-by-candidate paths, random tapes and complete execution logs remain in the project archive and are not included in this compact public package. The archived independent reconstruction receipts describe checks already performed against those files. The public source map retains original and exported hashes and labels administrative-path transformations. Public integrity manifests authenticate this release's files, not files that are absent from the release.
 
 ## S10. Research status
 
-This preprint synthesizes a bounded computational result. Internal agent review is distinct from external peer review, and correct computation is distinct from independent validation of a model. Practical effect size, applicability beyond this model, the origin and maintenance of memory storage, equilibrium invasion and general costly advantage remain open. The experiment schedules remained paused while the manuscript was prepared.
+This preprint synthesizes a bounded computational result. Internal agent review is distinct from external peer review, and correct computation is distinct from independent validation of a model. Practical effect size, applicability beyond this model, the origin and maintenance of memory storage, equilibrium invasion and general costly advantage remain open. Studies 056 and 057 were performed after research resumed; no additional population simulation is used to typeset this revision.
+
+## S11. Crossed environments and prospective replication
+
+Study 056 reuses 2,304 diagonal paths from 055 and generates 2,304 off-diagonal paths. Both preparation and future law have ZERO/HALF levels. Each future sequence recurses from its own preparation's last two targets. The primary is the HALF-minus-ZERO future effect on matched F-to-H D40, holding HALF preparation fixed. The secondary uses ZERO preparation. Preparation contrasts, interactions, reciprocal substitutions and collective accuracy remain separate.
+
+Study 057 applies the same design to a fully new cohort. The three stages comprise 192 initial genotype preparations (052 procedure), 768 policy preparations (055 procedure) and 4,608 transfers (056 procedure). Inputs use 3,193 new seed records; no genotype array, target sequence, stage tape, placement shuffle or bootstrap row is reused. All inputs precede the first trajectory, and every completed preparation is preserved before its dependent stage. No outcome filtering, replacement seed or sample expansion occurs. All 5,568 paths together use 28,686,336 scientific objective evaluations. Different stage families separate the initial, policy and continuation randomness, with the accepted common-random-number coupling retained within each stage.
+
+Each cohort has nine statistical groups and 18 metrics, for 162 pointwise intervals. Two founder placements are averaged inside each of eight replicates, then inside 24 blocks. Each cohort uses its own 2,000 stored whole-block bootstrap rows; no pooling or heterogeneity test is performed. The new-cohort result is prospective within the same model and implementation, not an independent implementation or a test in organisms.
+
+The compact `results/056` and `results/057` directories preserve complete estimates and block summaries. They add 324 estimates to the 14,729 in the unchanged version 1.0 package. Fates, adverse effects and performance disagreements are included as compact tables, with large text tables losslessly compressed; the full raw execution archives remain separate. Both the producer's saved-record audit and the supervisor's separate arithmetic check preserve their actual scope. Raw block 0 was chosen before outcomes; it is a focused audit, not a second complete replay of every trajectory. No recorded-score recomputation creates a new scientific trajectory.
+
+The unified statistics command in S9 checks all 15,053 estimates (14,729 earlier and 324 added). Native 056/057 estimates retain sign counts and effect scales; `summary.json` projects mean, interval and classification into the earlier release schema, and `BLOCK_SUMMARIES.jsonl` is a format-only copy of the native JSON array. Both transformations are recorded in the export map. Figures 12 and 13 can also be rebuilt separately:
+
+```bash
+python scripts/rebuild_extension_figures.py
+```
+
+The scripts use only included tables. They do not rerun population trajectories or constitute another independent cohort. [Version DOI](https://doi.org/10.5281/zenodo.22930084); earlier [version 1.0 DOI](https://doi.org/10.5281/zenodo.22907237) remains unchanged.

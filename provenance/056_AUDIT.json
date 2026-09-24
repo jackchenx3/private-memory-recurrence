@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "mean_interval_pairs": 162,
+  "maximum_absolute_discrepancy": 2.220446049250313e-16,
+  "paired_continuations": 192,
+  "independent_blocks": 24,
+  "bootstrap_rows": 2000,
+  "raw_block_selected_prospectively": 0,
+  "raw_paths_checked": 96,
+  "recorded_score_recomputations": 494592,
+  "new_population_paths": 0,
+  "new_random_draws": 0,
+  "producer_modules_imported": false,
+  "scope": "All reported paired statistical estimates reconstructed; recorded objective scores and endpoint mappings checked on preselected block 0. This is not a second full population replay.",
+  "input_hashes": {
+    "SOURCE_SHA256SUMS": "a8833b5d192158dfd66470616c3fa808468246b1e579829ea8e0363f7324b826",
+    "ESTIMATES.json": "5aebeee1445c808baa223137aeb981e54e356450b54dbe5a0169bcc249d13175",
+    "BLOCK_SUMMARIES.json": "58b85f46b3c979ec7ba96a8f1eca0bf9ccda8430ee23d361731370f8c7367821",
+    "source055_BOOTSTRAP_INDICES.json": "8d135d1c46ea838f341f9d47a44f829d6ab2ae11711b5ff6b8f4133569d81efc"
+  }
+}

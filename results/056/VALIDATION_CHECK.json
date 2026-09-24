@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "new_paths": 2304,
+  "reused_paths": 2304,
+  "source_prepared_states": 768,
+  "new_objective_calls": 0,
+  "new_draws": 0,
+  "intervals": 162,
+  "structural_zeros": 0,
+  "negative_paired_records": 9515,
+  "transmission_accuracy_disagreements": 5042,
+  "checks": {
+    "clock_checks": 11796480,
+    "nonexact_clocks": 0,
+    "max_ulp": 0,
+    "decline_or_negative_selection_records": 87436
+  },
+  "clock_tolerance_ulp": 2,
+  "survivor_indices_and_order_exact": true,
+  "elapsed_seconds": 327.4129445552826
+}

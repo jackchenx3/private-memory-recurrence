@@ -1,0 +1,69 @@
+{
+  "task_id": "ORG-CROSSENV-056",
+  "revision": 1,
+  "source_study": "ORG-POLICYPREP-055",
+  "preparation_regimes": [
+    "ZERO",
+    "HALF"
+  ],
+  "future_regimes": [
+    "ZERO",
+    "HALF"
+  ],
+  "new_cells": [
+    "P_ZERO_Q_HALF",
+    "P_HALF_Q_ZERO"
+  ],
+  "reused_cells": [
+    "P_ZERO_Q_ZERO",
+    "P_HALF_Q_HALF"
+  ],
+  "backgrounds": [
+    "F",
+    "H"
+  ],
+  "variants": [
+    "STAY",
+    "SWITCH0",
+    "SWITCH1"
+  ],
+  "blocks": 24,
+  "continuations_per_block": 8,
+  "population_size": 32,
+  "bits": 32,
+  "transfer_updates": 40,
+  "cost": 0,
+  "new_paths": 2304,
+  "reused_paths": 2304,
+  "new_preparations": 0,
+  "new_random_draws": 0,
+  "new_seeds": 0,
+  "new_objective_calls": 11870208,
+  "primary": "E(HALF,HALF)-E(HALF,ZERO)",
+  "primary_metric": "F_BG_EFFECT|D40",
+  "primary_expected_sign": "positive",
+  "statistical_groups": 9,
+  "estimands_per_group": 18,
+  "mean_interval_pairs": 162,
+  "bootstrap_rows": 2000,
+  "interval_scope": "paired whole-block, approximate pointwise 95 percent, linear percentiles",
+  "independent_cohort": false,
+  "resources": {
+    "cpus": 1,
+    "memory_GiB": 4,
+    "minutes": 15
+  },
+  "max_main_figures": 2,
+  "max_production_allocations": 1,
+  "routine_model_polling": false,
+  "next_scientific_variant_authorized_by_this_contract": false,
+  "source_directory": "../majority_policy_preparation_v1",
+  "unchanged_operators": true,
+  "new_candidate_evaluations": 11796480,
+  "new_initial_evaluations": 73728,
+  "new_states": 94464,
+  "source_prepared_states": 768,
+  "queries_per_path": 5152,
+  "controller_model_calls": 0,
+  "actual_credit_savings": null
+}

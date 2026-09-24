@@ -1,6 +1,6 @@
 """Check release hashes, source provenance, local links and plotted statistics."""
 from pathlib import Path
-import hashlib,json,re
+import gzip,hashlib,json,re
 ROOT=Path(__file__).resolve().parents[1]
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 
@@ -34,8 +34,8 @@ def main():
     files=[p for p in ROOT.rglob('*') if p.is_file() and not any(v in p.parts for v in ['.git','_rebuilt','__pycache__'])]
     leaks=[]
     for path in files:
-        if path.suffix in ['.md','.json','.jsonl','.py','.txt','.yml','.cff']:
-            text=path.read_text()
+        if path.suffix in ['.md','.json','.jsonl','.py','.txt','.yml','.cff','.csv','.gz']:
+            text=gzip.decompress(path.read_bytes()).decode() if path.suffix=='.gz' else path.read_text()
             if re.search(r'/Users/[A-Za-z0-9_.-]+/|/mnt/ccrsf-static/Analysis/[A-Za-z0-9_.-]+/|gh[pousr]_[A-Za-z0-9]{25,}|github_pat_[A-Za-z0-9_]{25,}|-----BEGIN (?:OPENSSH |RSA |EC )?PRIVATE KEY',text):
                 leaks.append(str(path.relative_to(ROOT)))
     assert not leaks,leaks

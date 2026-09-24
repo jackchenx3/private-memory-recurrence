@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "prospective_raw_audit_block": 0,
+  "inputs": {
+    "seed_records": 3193,
+    "all_stages_frozen_in_order": true,
+    "all_target_recursions_verified": true,
+    "total_scientific_paths": 5568,
+    "total_objective_calls": 28686336
+  },
+  "preparations": {
+    "initial_paths_raw_audited": 8,
+    "policy_paths_raw_audited": 32,
+    "policy_clock_checks": 163840,
+    "all_initial_states": 192,
+    "all_policy_states": 768,
+    "unfiltered": true
+  },
+  "statistics": {
+    "checked_mean_interval_pairs": 162,
+    "maximum_absolute_discrepancy": 2.220446049250313e-16,
+    "tolerance": 2e-13,
+    "arithmetic": "Time-series-derived endpoints, explicit factorial coefficients, bootstrap multiplicity weights, weighted linear percentiles",
+    "near_zero_classification_boundaries": [
+      "P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_SWITCH|D40"
+    ]
+  },
+  "new_objective_calls": 0,
+  "new_paths": 0,
+  "new_random_draws": 0
+}

@@ -1,0 +1,149 @@
+{
+  "P_ZERO_Q_HALF|F_STAY": {
+    "neither": 173,
+    "p0_only": 10,
+    "p1_only": 9
+  },
+  "P_ZERO_Q_HALF|F_SWITCH0": {
+    "F_only": 153,
+    "majority_fixed_multiple_founders": 73,
+    "majority_fixed_one_founder": 80,
+    "H_only": 37,
+    "both_policies": 2
+  },
+  "P_ZERO_Q_HALF|F_SWITCH1": {
+    "F_only": 150,
+    "majority_fixed_multiple_founders": 67,
+    "majority_fixed_one_founder": 83,
+    "H_only": 38,
+    "both_policies": 4
+  },
+  "P_ZERO_Q_HALF|H_STAY": {
+    "neither": 176,
+    "both_founders": 1,
+    "p1_only": 9,
+    "p0_only": 6
+  },
+  "P_ZERO_Q_HALF|H_SWITCH0": {
+    "H_only": 191,
+    "majority_fixed_multiple_founders": 31,
+    "majority_fixed_one_founder": 160,
+    "F_only": 1
+  },
+  "P_ZERO_Q_HALF|H_SWITCH1": {
+    "H_only": 192,
+    "majority_fixed_multiple_founders": 31,
+    "majority_fixed_one_founder": 161
+  },
+  "P_HALF_Q_ZERO|F_STAY": {
+    "neither": 171,
+    "p1_only": 11,
+    "p0_only": 10
+  },
+  "P_HALF_Q_ZERO|F_SWITCH0": {
+    "F_only": 190,
+    "majority_fixed_multiple_founders": 134,
+    "majority_fixed_one_founder": 56,
+    "both_policies": 2
+  },
+  "P_HALF_Q_ZERO|F_SWITCH1": {
+    "F_only": 189,
+    "majority_fixed_multiple_founders": 121,
+    "majority_fixed_one_founder": 68,
+    "both_policies": 1,
+    "H_only": 2
+  },
+  "P_HALF_Q_ZERO|H_STAY": {
+    "neither": 170,
+    "both_founders": 1,
+    "p0_only": 10,
+    "p1_only": 11
+  },
+  "P_HALF_Q_ZERO|H_SWITCH0": {
+    "H_only": 179,
+    "majority_fixed_multiple_founders": 71,
+    "majority_fixed_one_founder": 108,
+    "both_policies": 9,
+    "F_only": 4
+  },
+  "P_HALF_Q_ZERO|H_SWITCH1": {
+    "H_only": 170,
+    "majority_fixed_multiple_founders": 69,
+    "majority_fixed_one_founder": 101,
+    "both_policies": 17,
+    "F_only": 5
+  },
+  "P_ZERO_Q_ZERO|F_STAY": {
+    "neither": 171,
+    "p1_only": 12,
+    "p0_only": 9
+  },
+  "P_ZERO_Q_ZERO|F_SWITCH0": {
+    "F_only": 185,
+    "majority_fixed_multiple_founders": 124,
+    "majority_fixed_one_founder": 61,
+    "both_policies": 6,
+    "H_only": 1
+  },
+  "P_ZERO_Q_ZERO|F_SWITCH1": {
+    "F_only": 180,
+    "majority_fixed_multiple_founders": 110,
+    "majority_fixed_one_founder": 70,
+    "H_only": 3,
+    "both_policies": 9
+  },
+  "P_ZERO_Q_ZERO|H_STAY": {
+    "neither": 181,
+    "p0_only": 5,
+    "p1_only": 6
+  },
+  "P_ZERO_Q_ZERO|H_SWITCH0": {
+    "F_only": 9,
+    "majority_fixed_multiple_founders": 72,
+    "majority_fixed_one_founder": 107,
+    "H_only": 179,
+    "both_policies": 4
+  },
+  "P_ZERO_Q_ZERO|H_SWITCH1": {
+    "H_only": 170,
+    "majority_fixed_multiple_founders": 80,
+    "majority_fixed_one_founder": 90,
+    "F_only": 10,
+    "both_policies": 12
+  },
+  "P_HALF_Q_HALF|F_STAY": {
+    "neither": 174,
+    "p0_only": 6,
+    "p1_only": 12
+  },
+  "P_HALF_Q_HALF|F_SWITCH0": {
+    "F_only": 145,
+    "majority_fixed_multiple_founders": 67,
+    "majority_fixed_one_founder": 78,
+    "H_only": 45,
+    "both_policies": 2
+  },
+  "P_HALF_Q_HALF|F_SWITCH1": {
+    "F_only": 147,
+    "majority_fixed_multiple_founders": 78,
+    "majority_fixed_one_founder": 69,
+    "H_only": 44,
+    "both_policies": 1
+  },
+  "P_HALF_Q_HALF|H_STAY": {
+    "neither": 178,
+    "p1_only": 9,
+    "p0_only": 5
+  },
+  "P_HALF_Q_HALF|H_SWITCH0": {
+    "H_only": 192,
+    "majority_fixed_multiple_founders": 39,
+    "majority_fixed_one_founder": 153
+  },
+  "P_HALF_Q_HALF|H_SWITCH1": {
+    "H_only": 191,
+    "majority_fixed_multiple_founders": 33,
+    "majority_fixed_one_founder": 158,
+    "F_only": 1
+  }
+}

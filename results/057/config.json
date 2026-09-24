@@ -1,0 +1,58 @@
+{
+  "task_id": "ORG-CROSSREP-057",
+  "revision": 1,
+  "independent_cohort": true,
+  "source_operator_studies": [
+    "052",
+    "055",
+    "056"
+  ],
+  "blocks": 24,
+  "replicates_per_block": 8,
+  "population_size": 32,
+  "bits": 32,
+  "updates_per_stage": 40,
+  "cost": 0,
+  "initial_preparation_paths": 192,
+  "policy_preparation_paths": 768,
+  "transfer_paths": 4608,
+  "total_paths": 5568,
+  "total_objective_calls": 28686336,
+  "reused_paths": 0,
+  "preparation_regimes": [
+    "ZERO",
+    "HALF"
+  ],
+  "future_regimes": [
+    "ZERO",
+    "HALF"
+  ],
+  "primary": "Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT|D40",
+  "expected_sign": "positive",
+  "seed_namespace_prefix": "ORG-CROSSREP-057-r1",
+  "bootstrap_rows": 2000,
+  "estimates": 162,
+  "interval_scope": "approximate pointwise 95 percent",
+  "cohort_pooling": false,
+  "prospectively_selected_raw_audit_block": 0,
+  "resources": {
+    "cpus": 1,
+    "memory_GiB": 4,
+    "minutes": 30
+  },
+  "max_production_allocations": 1,
+  "task_sha256": "6a97a0d5904b6b800e604cbfa1718f3ae44c9692fab3b9ab3fc596ec07fb1e5f",
+  "next_deliverable": "Manuscript update with accepted 056 and 057",
+  "seed_records": 3193,
+  "source_cohort": "fully new057",
+  "stage_seed_families": "SEED_ROSTER.json",
+  "initial_selection": "Exact052SHAM_C0: accepted elitist survival; not replaced by probabilistic survival",
+  "policy_and_transfer_selection": "Exact055/056race:2**(-raw_mismatch),cost0",
+  "new_candidate_calls": 28508160,
+  "new_initial_calls": 178176,
+  "main_figures": 2,
+  "monitor_limit_bytes": 3758096384,
+  "allocation_timeout_seconds": 1770,
+  "controller_model_calls": 0,
+  "actual_credit_savings": null
+}

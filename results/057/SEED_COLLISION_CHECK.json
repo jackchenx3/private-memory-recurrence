@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "unique_new": 3193,
+  "prior_integers": 142990,
+  "collisions": 0,
+  "before_random_generation": true
+}

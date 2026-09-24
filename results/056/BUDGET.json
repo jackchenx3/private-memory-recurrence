@@ -1,0 +1,19 @@
+{
+  "new_paths": 2304,
+  "reused_paths": 2304,
+  "new_preparations": 0,
+  "new_draws": 0,
+  "new_seeds": 0,
+  "new_updates": 92160,
+  "candidate_evaluations": 11796480,
+  "initial_evaluations": 73728,
+  "total_objective_calls": 11870208,
+  "new_state_measurements": 94464,
+  "source_prepared_states_used": 768,
+  "nonparent_sources": {
+    "probe": 2949120,
+    "scout": 2949120,
+    "local_child": 2949120
+  },
+  "extra_diagnostic_calls": 0
+}

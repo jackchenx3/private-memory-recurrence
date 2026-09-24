@@ -1,0 +1,1406 @@
+{
+  "0|P_ZERO_Q_ZERO|F_BG_SWITCH|D40": {
+    "negative": 187,
+    "positive": 5
+  },
+  "0|P_ZERO_Q_ZERO|F_BG_STAY|D40": {
+    "negative": 186,
+    "positive": 6
+  },
+  "0|P_ZERO_Q_ZERO|F_BG_EFFECT|D40": {
+    "zero": 182,
+    "negative": 6,
+    "positive": 4
+  },
+  "0|P_ZERO_Q_ZERO|F_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_ZERO|F_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_ZERO|F_BG_EFFECT_POP|U": {
+    "zero": 71,
+    "negative": 62,
+    "positive": 59
+  },
+  "0|P_ZERO_Q_ZERO|F_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_ZERO|F_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_ZERO|F_BG_EFFECT_POP|U40": {
+    "zero": 73,
+    "negative": 59,
+    "positive": 60
+  },
+  "0|P_ZERO_Q_ZERO|H_BG_SWITCH|D40": {
+    "negative": 176,
+    "positive": 16
+  },
+  "0|P_ZERO_Q_ZERO|H_BG_STAY|D40": {
+    "negative": 181,
+    "positive": 11
+  },
+  "0|P_ZERO_Q_ZERO|H_BG_EFFECT|D40": {
+    "zero": 167,
+    "negative": 10,
+    "positive": 15
+  },
+  "0|P_ZERO_Q_ZERO|H_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_ZERO|H_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_ZERO|H_BG_EFFECT_POP|U": {
+    "negative": 52,
+    "zero": 78,
+    "positive": 62
+  },
+  "0|P_ZERO_Q_ZERO|H_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_ZERO|H_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_ZERO|H_BG_EFFECT_POP|U40": {
+    "positive": 56,
+    "zero": 79,
+    "negative": 57
+  },
+  "0|P_ZERO_Q_HALF|F_BG_SWITCH|D40": {
+    "negative": 155,
+    "positive": 37
+  },
+  "0|P_ZERO_Q_HALF|F_BG_STAY|D40": {
+    "negative": 182,
+    "positive": 10
+  },
+  "0|P_ZERO_Q_HALF|F_BG_EFFECT|D40": {
+    "zero": 149,
+    "positive": 36,
+    "negative": 7
+  },
+  "0|P_ZERO_Q_HALF|F_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_HALF|F_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_HALF|F_BG_EFFECT_POP|U": {
+    "positive": 78,
+    "zero": 62,
+    "negative": 52
+  },
+  "0|P_ZERO_Q_HALF|F_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_HALF|F_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_HALF|F_BG_EFFECT_POP|U40": {
+    "negative": 55,
+    "zero": 65,
+    "positive": 72
+  },
+  "0|P_ZERO_Q_HALF|H_BG_SWITCH|D40": {
+    "negative": 192
+  },
+  "0|P_ZERO_Q_HALF|H_BG_STAY|D40": {
+    "negative": 182,
+    "positive": 10
+  },
+  "0|P_ZERO_Q_HALF|H_BG_EFFECT|D40": {
+    "zero": 182,
+    "negative": 10
+  },
+  "0|P_ZERO_Q_HALF|H_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_HALF|H_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_HALF|H_BG_EFFECT_POP|U": {
+    "negative": 55,
+    "zero": 81,
+    "positive": 56
+  },
+  "0|P_ZERO_Q_HALF|H_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_HALF|H_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "0|P_ZERO_Q_HALF|H_BG_EFFECT_POP|U40": {
+    "positive": 61,
+    "zero": 82,
+    "negative": 49
+  },
+  "0|P_HALF_Q_ZERO|F_BG_SWITCH|D40": {
+    "negative": 189,
+    "positive": 3
+  },
+  "0|P_HALF_Q_ZERO|F_BG_STAY|D40": {
+    "negative": 183,
+    "positive": 9
+  },
+  "0|P_HALF_Q_ZERO|F_BG_EFFECT|D40": {
+    "zero": 181,
+    "negative": 8,
+    "positive": 3
+  },
+  "0|P_HALF_Q_ZERO|F_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_ZERO|F_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_ZERO|F_BG_EFFECT_POP|U": {
+    "positive": 59,
+    "zero": 75,
+    "negative": 58
+  },
+  "0|P_HALF_Q_ZERO|F_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_ZERO|F_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_ZERO|F_BG_EFFECT_POP|U40": {
+    "negative": 63,
+    "positive": 53,
+    "zero": 76
+  },
+  "0|P_HALF_Q_ZERO|H_BG_SWITCH|D40": {
+    "negative": 166,
+    "positive": 26
+  },
+  "0|P_HALF_Q_ZERO|H_BG_STAY|D40": {
+    "negative": 184,
+    "positive": 8
+  },
+  "0|P_HALF_Q_ZERO|H_BG_EFFECT|D40": {
+    "zero": 163,
+    "positive": 22,
+    "negative": 7
+  },
+  "0|P_HALF_Q_ZERO|H_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_ZERO|H_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_ZERO|H_BG_EFFECT_POP|U": {
+    "negative": 50,
+    "positive": 76,
+    "zero": 66
+  },
+  "0|P_HALF_Q_ZERO|H_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_ZERO|H_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_ZERO|H_BG_EFFECT_POP|U40": {
+    "negative": 55,
+    "zero": 67,
+    "positive": 70
+  },
+  "0|P_HALF_Q_HALF|F_BG_SWITCH|D40": {
+    "negative": 155,
+    "positive": 37
+  },
+  "0|P_HALF_Q_HALF|F_BG_STAY|D40": {
+    "negative": 185,
+    "positive": 7
+  },
+  "0|P_HALF_Q_HALF|F_BG_EFFECT|D40": {
+    "zero": 151,
+    "positive": 36,
+    "negative": 5
+  },
+  "0|P_HALF_Q_HALF|F_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_HALF|F_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_HALF|F_BG_EFFECT_POP|U": {
+    "negative": 65,
+    "positive": 67,
+    "zero": 60
+  },
+  "0|P_HALF_Q_HALF|F_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_HALF|F_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_HALF|F_BG_EFFECT_POP|U40": {
+    "positive": 74,
+    "negative": 56,
+    "zero": 62
+  },
+  "0|P_HALF_Q_HALF|H_BG_SWITCH|D40": {
+    "negative": 192
+  },
+  "0|P_HALF_Q_HALF|H_BG_STAY|D40": {
+    "negative": 185,
+    "positive": 7
+  },
+  "0|P_HALF_Q_HALF|H_BG_EFFECT|D40": {
+    "zero": 185,
+    "negative": 7
+  },
+  "0|P_HALF_Q_HALF|H_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_HALF|H_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_HALF|H_BG_EFFECT_POP|U": {
+    "zero": 77,
+    "positive": 56,
+    "negative": 59
+  },
+  "0|P_HALF_Q_HALF|H_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_HALF|H_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "0|P_HALF_Q_HALF|H_BG_EFFECT_POP|U40": {
+    "zero": 77,
+    "positive": 65,
+    "negative": 50
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_SWITCH|D40": {
+    "zero": 154,
+    "positive": 37,
+    "negative": 1
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_STAY|D40": {
+    "zero": 179,
+    "negative": 3,
+    "positive": 10
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_EFFECT|D40": {
+    "zero": 146,
+    "positive": 39,
+    "negative": 7
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_SWITCH|D40": {
+    "zero": 176,
+    "negative": 16
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_STAY|D40": {
+    "zero": 173,
+    "negative": 10,
+    "positive": 9
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_EFFECT|D40": {
+    "zero": 159,
+    "positive": 9,
+    "negative": 24
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_SWITCH_POP|U": {
+    "positive": 191,
+    "negative": 1
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_SWITCH_POP|U40": {
+    "negative": 62,
+    "positive": 130
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_STAY_POP|U": {
+    "positive": 188,
+    "negative": 4
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_STAY_POP|U40": {
+    "negative": 74,
+    "positive": 115,
+    "zero": 3
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_EFFECT_POP|U": {
+    "positive": 79,
+    "negative": 61,
+    "zero": 52
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_EFFECT_POP|U40": {
+    "negative": 62,
+    "positive": 77,
+    "zero": 53
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_SWITCH_POP|U40": {
+    "negative": 54,
+    "positive": 138
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_STAY_POP|U40": {
+    "negative": 56,
+    "positive": 135,
+    "zero": 1
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_EFFECT_POP|U": {
+    "positive": 65,
+    "negative": 70,
+    "zero": 57
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_EFFECT_POP|U40": {
+    "positive": 72,
+    "zero": 57,
+    "negative": 63
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_SWITCH|D40": {
+    "zero": 153,
+    "positive": 37,
+    "negative": 2
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_STAY|D40": {
+    "zero": 176,
+    "negative": 9,
+    "positive": 7
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT|D40": {
+    "zero": 144,
+    "positive": 41,
+    "negative": 7
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_SWITCH|D40": {
+    "zero": 166,
+    "negative": 26
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_STAY|D40": {
+    "zero": 177,
+    "positive": 7,
+    "negative": 8
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_EFFECT|D40": {
+    "zero": 157,
+    "negative": 28,
+    "positive": 7
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_SWITCH_POP|U": {
+    "positive": 188,
+    "negative": 4
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_SWITCH_POP|U40": {
+    "positive": 130,
+    "negative": 59,
+    "zero": 3
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_STAY_POP|U": {
+    "positive": 187,
+    "negative": 5
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_STAY_POP|U40": {
+    "negative": 71,
+    "zero": 1,
+    "positive": 120
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT_POP|U": {
+    "negative": 70,
+    "zero": 48,
+    "positive": 74
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT_POP|U40": {
+    "positive": 86,
+    "negative": 59,
+    "zero": 47
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_SWITCH_POP|U40": {
+    "positive": 149,
+    "negative": 42,
+    "zero": 1
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_STAY_POP|U40": {
+    "negative": 49,
+    "positive": 142,
+    "zero": 1
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_EFFECT_POP|U": {
+    "positive": 63,
+    "negative": 76,
+    "zero": 53
+  },
+  "0|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_EFFECT_POP|U40": {
+    "positive": 67,
+    "zero": 54,
+    "negative": 71
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_SWITCH|D40": {
+    "zero": 184,
+    "negative": 5,
+    "positive": 3
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_STAY|D40": {
+    "zero": 177,
+    "positive": 9,
+    "negative": 6
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_EFFECT|D40": {
+    "zero": 172,
+    "negative": 11,
+    "positive": 9
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_SWITCH|D40": {
+    "zero": 153,
+    "positive": 25,
+    "negative": 14
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_STAY|D40": {
+    "zero": 173,
+    "negative": 11,
+    "positive": 8
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_EFFECT|D40": {
+    "zero": 143,
+    "positive": 29,
+    "negative": 20
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_SWITCH_POP|U": {
+    "positive": 99,
+    "negative": 93
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_SWITCH_POP|U40": {
+    "negative": 100,
+    "positive": 89,
+    "zero": 3
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_STAY_POP|U": {
+    "positive": 93,
+    "negative": 98,
+    "zero": 1
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_STAY_POP|U40": {
+    "negative": 94,
+    "positive": 96,
+    "zero": 2
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_EFFECT_POP|U": {
+    "positive": 79,
+    "zero": 42,
+    "negative": 71
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_EFFECT_POP|U40": {
+    "negative": 80,
+    "positive": 68,
+    "zero": 44
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_SWITCH_POP|U": {
+    "positive": 96,
+    "negative": 95,
+    "zero": 1
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_SWITCH_POP|U40": {
+    "negative": 95,
+    "positive": 97
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_STAY_POP|U": {
+    "negative": 99,
+    "positive": 91,
+    "zero": 2
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_STAY_POP|U40": {
+    "positive": 92,
+    "negative": 100
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_EFFECT_POP|U": {
+    "positive": 90,
+    "zero": 27,
+    "negative": 75
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_EFFECT_POP|U40": {
+    "negative": 78,
+    "zero": 27,
+    "positive": 87
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_SWITCH|D40": {
+    "zero": 136,
+    "negative": 29,
+    "positive": 27
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_STAY|D40": {
+    "zero": 175,
+    "positive": 7,
+    "negative": 10
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_EFFECT|D40": {
+    "zero": 127,
+    "negative": 33,
+    "positive": 32
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_SWITCH|D40": {
+    "zero": 192
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_STAY|D40": {
+    "zero": 175,
+    "negative": 10,
+    "positive": 7
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_EFFECT|D40": {
+    "zero": 175,
+    "positive": 10,
+    "negative": 7
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_SWITCH_POP|U": {
+    "negative": 98,
+    "positive": 93,
+    "zero": 1
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_SWITCH_POP|U40": {
+    "positive": 94,
+    "zero": 5,
+    "negative": 93
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_STAY_POP|U": {
+    "positive": 98,
+    "negative": 94
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_STAY_POP|U40": {
+    "positive": 88,
+    "negative": 98,
+    "zero": 6
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_EFFECT_POP|U": {
+    "negative": 94,
+    "positive": 74,
+    "zero": 24
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_EFFECT_POP|U40": {
+    "positive": 86,
+    "negative": 79,
+    "zero": 27
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_SWITCH_POP|U": {
+    "positive": 102,
+    "negative": 88,
+    "zero": 2
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_SWITCH_POP|U40": {
+    "positive": 105,
+    "negative": 86,
+    "zero": 1
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_STAY_POP|U": {
+    "positive": 94,
+    "negative": 96,
+    "zero": 2
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_STAY_POP|U40": {
+    "positive": 91,
+    "negative": 99,
+    "zero": 2
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_EFFECT_POP|U": {
+    "positive": 80,
+    "zero": 40,
+    "negative": 72
+  },
+  "0|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_EFFECT_POP|U40": {
+    "negative": 75,
+    "zero": 42,
+    "positive": 75
+  },
+  "0|INTERACTION|F_BG_SWITCH|D40": {
+    "zero": 134,
+    "negative": 31,
+    "positive": 27
+  },
+  "0|INTERACTION|F_BG_STAY|D40": {
+    "zero": 165,
+    "negative": 17,
+    "positive": 10
+  },
+  "0|INTERACTION|F_BG_EFFECT|D40": {
+    "zero": 118,
+    "positive": 36,
+    "negative": 38
+  },
+  "0|INTERACTION|H_BG_SWITCH|D40": {
+    "zero": 153,
+    "negative": 25,
+    "positive": 14
+  },
+  "0|INTERACTION|H_BG_STAY|D40": {
+    "zero": 158,
+    "positive": 17,
+    "negative": 17
+  },
+  "0|INTERACTION|H_BG_EFFECT|D40": {
+    "zero": 132,
+    "negative": 33,
+    "positive": 27
+  },
+  "0|INTERACTION|F_BG_SWITCH_POP|U": {
+    "negative": 94,
+    "positive": 98
+  },
+  "0|INTERACTION|F_BG_SWITCH_POP|U40": {
+    "positive": 98,
+    "negative": 92,
+    "zero": 2
+  },
+  "0|INTERACTION|F_BG_STAY_POP|U": {
+    "negative": 90,
+    "positive": 102
+  },
+  "0|INTERACTION|F_BG_STAY_POP|U40": {
+    "positive": 86,
+    "negative": 101,
+    "zero": 5
+  },
+  "0|INTERACTION|F_BG_EFFECT_POP|U": {
+    "negative": 87,
+    "positive": 81,
+    "zero": 24
+  },
+  "0|INTERACTION|F_BG_EFFECT_POP|U40": {
+    "positive": 89,
+    "negative": 78,
+    "zero": 25
+  },
+  "0|INTERACTION|H_BG_SWITCH_POP|U": {
+    "positive": 99,
+    "negative": 93
+  },
+  "0|INTERACTION|H_BG_SWITCH_POP|U40": {
+    "positive": 104,
+    "negative": 87,
+    "zero": 1
+  },
+  "0|INTERACTION|H_BG_STAY_POP|U": {
+    "positive": 104,
+    "negative": 88
+  },
+  "0|INTERACTION|H_BG_STAY_POP|U40": {
+    "positive": 104,
+    "negative": 85,
+    "zero": 3
+  },
+  "0|INTERACTION|H_BG_EFFECT_POP|U": {
+    "negative": 82,
+    "positive": 89,
+    "zero": 21
+  },
+  "0|INTERACTION|H_BG_EFFECT_POP|U40": {
+    "positive": 85,
+    "negative": 83,
+    "zero": 24
+  },
+  "1|P_ZERO_Q_ZERO|F_BG_SWITCH|D40": {
+    "positive": 4,
+    "negative": 188
+  },
+  "1|P_ZERO_Q_ZERO|F_BG_STAY|D40": {
+    "negative": 182,
+    "positive": 10
+  },
+  "1|P_ZERO_Q_ZERO|F_BG_EFFECT|D40": {
+    "positive": 4,
+    "zero": 178,
+    "negative": 10
+  },
+  "1|P_ZERO_Q_ZERO|F_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_ZERO|F_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_ZERO|F_BG_EFFECT_POP|U": {
+    "positive": 56,
+    "zero": 84,
+    "negative": 52
+  },
+  "1|P_ZERO_Q_ZERO|F_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_ZERO|F_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_ZERO|F_BG_EFFECT_POP|U40": {
+    "negative": 56,
+    "zero": 87,
+    "positive": 49
+  },
+  "1|P_ZERO_Q_ZERO|H_BG_SWITCH|D40": {
+    "negative": 171,
+    "positive": 21
+  },
+  "1|P_ZERO_Q_ZERO|H_BG_STAY|D40": {
+    "negative": 184,
+    "positive": 8
+  },
+  "1|P_ZERO_Q_ZERO|H_BG_EFFECT|D40": {
+    "zero": 166,
+    "positive": 20,
+    "negative": 6
+  },
+  "1|P_ZERO_Q_ZERO|H_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_ZERO|H_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_ZERO|H_BG_EFFECT_POP|U": {
+    "zero": 67,
+    "negative": 63,
+    "positive": 62
+  },
+  "1|P_ZERO_Q_ZERO|H_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_ZERO|H_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_ZERO|H_BG_EFFECT_POP|U40": {
+    "zero": 70,
+    "negative": 65,
+    "positive": 57
+  },
+  "1|P_ZERO_Q_HALF|F_BG_SWITCH|D40": {
+    "negative": 159,
+    "positive": 33
+  },
+  "1|P_ZERO_Q_HALF|F_BG_STAY|D40": {
+    "negative": 186,
+    "zero": 1,
+    "positive": 5
+  },
+  "1|P_ZERO_Q_HALF|F_BG_EFFECT|D40": {
+    "zero": 155,
+    "negative": 5,
+    "positive": 32
+  },
+  "1|P_ZERO_Q_HALF|F_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_HALF|F_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_HALF|F_BG_EFFECT_POP|U": {
+    "zero": 77,
+    "positive": 71,
+    "negative": 44
+  },
+  "1|P_ZERO_Q_HALF|F_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_HALF|F_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_HALF|F_BG_EFFECT_POP|U40": {
+    "zero": 81,
+    "positive": 68,
+    "negative": 43
+  },
+  "1|P_ZERO_Q_HALF|H_BG_SWITCH|D40": {
+    "negative": 192
+  },
+  "1|P_ZERO_Q_HALF|H_BG_STAY|D40": {
+    "negative": 179,
+    "positive": 13
+  },
+  "1|P_ZERO_Q_HALF|H_BG_EFFECT|D40": {
+    "zero": 179,
+    "negative": 13
+  },
+  "1|P_ZERO_Q_HALF|H_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_HALF|H_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_HALF|H_BG_EFFECT_POP|U": {
+    "zero": 82,
+    "positive": 60,
+    "negative": 50
+  },
+  "1|P_ZERO_Q_HALF|H_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_HALF|H_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "1|P_ZERO_Q_HALF|H_BG_EFFECT_POP|U40": {
+    "zero": 83,
+    "negative": 49,
+    "positive": 60
+  },
+  "1|P_HALF_Q_ZERO|F_BG_SWITCH|D40": {
+    "positive": 6,
+    "negative": 186
+  },
+  "1|P_HALF_Q_ZERO|F_BG_STAY|D40": {
+    "negative": 184,
+    "positive": 8
+  },
+  "1|P_HALF_Q_ZERO|F_BG_EFFECT|D40": {
+    "positive": 6,
+    "zero": 178,
+    "negative": 8
+  },
+  "1|P_HALF_Q_ZERO|F_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_ZERO|F_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_ZERO|F_BG_EFFECT_POP|U": {
+    "positive": 64,
+    "negative": 56,
+    "zero": 72
+  },
+  "1|P_HALF_Q_ZERO|F_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_ZERO|F_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_ZERO|F_BG_EFFECT_POP|U40": {
+    "negative": 63,
+    "positive": 58,
+    "zero": 71
+  },
+  "1|P_HALF_Q_ZERO|H_BG_SWITCH|D40": {
+    "negative": 169,
+    "positive": 21,
+    "zero": 2
+  },
+  "1|P_HALF_Q_ZERO|H_BG_STAY|D40": {
+    "positive": 10,
+    "negative": 182
+  },
+  "1|P_HALF_Q_ZERO|H_BG_EFFECT|D40": {
+    "negative": 9,
+    "zero": 161,
+    "positive": 22
+  },
+  "1|P_HALF_Q_ZERO|H_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_ZERO|H_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_ZERO|H_BG_EFFECT_POP|U": {
+    "negative": 54,
+    "positive": 63,
+    "zero": 75
+  },
+  "1|P_HALF_Q_ZERO|H_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_ZERO|H_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_ZERO|H_BG_EFFECT_POP|U40": {
+    "negative": 47,
+    "positive": 67,
+    "zero": 78
+  },
+  "1|P_HALF_Q_HALF|F_BG_SWITCH|D40": {
+    "positive": 32,
+    "negative": 160
+  },
+  "1|P_HALF_Q_HALF|F_BG_STAY|D40": {
+    "negative": 185,
+    "positive": 7
+  },
+  "1|P_HALF_Q_HALF|F_BG_EFFECT|D40": {
+    "positive": 31,
+    "zero": 157,
+    "negative": 4
+  },
+  "1|P_HALF_Q_HALF|F_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_HALF|F_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_HALF|F_BG_EFFECT_POP|U": {
+    "negative": 53,
+    "positive": 83,
+    "zero": 56
+  },
+  "1|P_HALF_Q_HALF|F_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_HALF|F_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_HALF|F_BG_EFFECT_POP|U40": {
+    "negative": 57,
+    "positive": 77,
+    "zero": 58
+  },
+  "1|P_HALF_Q_HALF|H_BG_SWITCH|D40": {
+    "negative": 192
+  },
+  "1|P_HALF_Q_HALF|H_BG_STAY|D40": {
+    "negative": 186,
+    "positive": 6
+  },
+  "1|P_HALF_Q_HALF|H_BG_EFFECT|D40": {
+    "zero": 186,
+    "negative": 6
+  },
+  "1|P_HALF_Q_HALF|H_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_HALF|H_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_HALF|H_BG_EFFECT_POP|U": {
+    "zero": 86,
+    "positive": 57,
+    "negative": 49
+  },
+  "1|P_HALF_Q_HALF|H_BG_SWITCH_POP|U40": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_HALF|H_BG_STAY_POP|U40": {
+    "positive": 192
+  },
+  "1|P_HALF_Q_HALF|H_BG_EFFECT_POP|U40": {
+    "zero": 86,
+    "positive": 52,
+    "negative": 54
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_SWITCH|D40": {
+    "negative": 3,
+    "zero": 157,
+    "positive": 32
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_STAY|D40": {
+    "zero": 176,
+    "positive": 6,
+    "negative": 10
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_EFFECT|D40": {
+    "negative": 8,
+    "zero": 145,
+    "positive": 39
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_SWITCH|D40": {
+    "zero": 171,
+    "negative": 21
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_STAY|D40": {
+    "zero": 172,
+    "positive": 13,
+    "negative": 7
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_EFFECT|D40": {
+    "zero": 157,
+    "negative": 30,
+    "positive": 5
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_SWITCH_POP|U": {
+    "positive": 187,
+    "negative": 5
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_SWITCH_POP|U40": {
+    "negative": 75,
+    "positive": 112,
+    "zero": 5
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_STAY_POP|U": {
+    "positive": 188,
+    "negative": 4
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_STAY_POP|U40": {
+    "negative": 74,
+    "positive": 115,
+    "zero": 3
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_EFFECT_POP|U": {
+    "negative": 58,
+    "positive": 79,
+    "zero": 55
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|F_BG_EFFECT_POP|U40": {
+    "positive": 79,
+    "negative": 52,
+    "zero": 61
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_SWITCH_POP|U40": {
+    "negative": 43,
+    "positive": 146,
+    "zero": 3
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_STAY_POP|U40": {
+    "negative": 56,
+    "positive": 135,
+    "zero": 1
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_EFFECT_POP|U": {
+    "zero": 57,
+    "positive": 70,
+    "negative": 65
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_ZERO|H_BG_EFFECT_POP|U40": {
+    "zero": 59,
+    "positive": 76,
+    "negative": 57
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_SWITCH|D40": {
+    "zero": 157,
+    "positive": 31,
+    "negative": 4
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_STAY|D40": {
+    "zero": 178,
+    "positive": 7,
+    "negative": 7
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT|D40": {
+    "zero": 152,
+    "positive": 32,
+    "negative": 8
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_SWITCH|D40": {
+    "zero": 169,
+    "negative": 23
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_STAY|D40": {
+    "negative": 8,
+    "zero": 179,
+    "positive": 5
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_EFFECT|D40": {
+    "positive": 8,
+    "zero": 157,
+    "negative": 27
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_SWITCH_POP|U": {
+    "positive": 185,
+    "negative": 7
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_SWITCH_POP|U40": {
+    "positive": 129,
+    "negative": 62,
+    "zero": 1
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_STAY_POP|U": {
+    "positive": 187,
+    "negative": 5
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_STAY_POP|U40": {
+    "negative": 71,
+    "zero": 1,
+    "positive": 120
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT_POP|U": {
+    "negative": 70,
+    "positive": 77,
+    "zero": 45
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT_POP|U40": {
+    "positive": 84,
+    "negative": 62,
+    "zero": 46
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_SWITCH_POP|U": {
+    "positive": 192
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_SWITCH_POP|U40": {
+    "positive": 143,
+    "negative": 48,
+    "zero": 1
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_STAY_POP|U": {
+    "positive": 192
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_STAY_POP|U40": {
+    "negative": 49,
+    "positive": 142,
+    "zero": 1
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_EFFECT_POP|U": {
+    "positive": 72,
+    "negative": 59,
+    "zero": 61
+  },
+  "1|Q_HALF_MINUS_ZERO_AT_P_HALF|H_BG_EFFECT_POP|U40": {
+    "positive": 58,
+    "negative": 71,
+    "zero": 63
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_SWITCH|D40": {
+    "positive": 5,
+    "zero": 184,
+    "negative": 3
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_STAY|D40": {
+    "zero": 175,
+    "positive": 7,
+    "negative": 10
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_EFFECT|D40": {
+    "positive": 14,
+    "zero": 168,
+    "negative": 10
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_SWITCH|D40": {
+    "zero": 151,
+    "positive": 21,
+    "negative": 20
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_STAY|D40": {
+    "positive": 10,
+    "zero": 174,
+    "negative": 8
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_EFFECT|D40": {
+    "negative": 27,
+    "zero": 139,
+    "positive": 26
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_SWITCH_POP|U": {
+    "positive": 98,
+    "negative": 94
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_SWITCH_POP|U40": {
+    "negative": 90,
+    "positive": 94,
+    "zero": 8
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_STAY_POP|U": {
+    "positive": 93,
+    "negative": 98,
+    "zero": 1
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_STAY_POP|U40": {
+    "negative": 94,
+    "positive": 96,
+    "zero": 2
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_EFFECT_POP|U": {
+    "negative": 77,
+    "zero": 42,
+    "positive": 73
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|F_BG_EFFECT_POP|U40": {
+    "positive": 73,
+    "negative": 76,
+    "zero": 43
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_SWITCH_POP|U": {
+    "negative": 100,
+    "positive": 92
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_SWITCH_POP|U40": {
+    "negative": 91,
+    "positive": 98,
+    "zero": 3
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_STAY_POP|U": {
+    "negative": 99,
+    "positive": 91,
+    "zero": 2
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_STAY_POP|U40": {
+    "positive": 92,
+    "negative": 100
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_EFFECT_POP|U": {
+    "negative": 84,
+    "positive": 74,
+    "zero": 34
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_ZERO|H_BG_EFFECT_POP|U40": {
+    "negative": 65,
+    "positive": 91,
+    "zero": 36
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_SWITCH|D40": {
+    "positive": 26,
+    "zero": 140,
+    "negative": 26
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_STAY|D40": {
+    "zero": 179,
+    "negative": 6,
+    "positive": 7
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_EFFECT|D40": {
+    "positive": 29,
+    "zero": 133,
+    "negative": 30
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_SWITCH|D40": {
+    "zero": 192
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_STAY|D40": {
+    "zero": 173,
+    "negative": 13,
+    "positive": 6
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_EFFECT|D40": {
+    "zero": 173,
+    "positive": 13,
+    "negative": 6
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_SWITCH_POP|U": {
+    "positive": 95,
+    "negative": 96,
+    "zero": 1
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_SWITCH_POP|U40": {
+    "zero": 6,
+    "positive": 102,
+    "negative": 84
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_STAY_POP|U": {
+    "positive": 98,
+    "negative": 94
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_STAY_POP|U40": {
+    "positive": 88,
+    "negative": 98,
+    "zero": 6
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_EFFECT_POP|U": {
+    "negative": 83,
+    "positive": 75,
+    "zero": 34
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|F_BG_EFFECT_POP|U40": {
+    "negative": 80,
+    "positive": 73,
+    "zero": 39
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_SWITCH_POP|U": {
+    "positive": 92,
+    "negative": 98,
+    "zero": 2
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_SWITCH_POP|U40": {
+    "positive": 92,
+    "negative": 99,
+    "zero": 1
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_STAY_POP|U": {
+    "positive": 94,
+    "negative": 96,
+    "zero": 2
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_STAY_POP|U40": {
+    "positive": 91,
+    "negative": 99,
+    "zero": 2
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_EFFECT_POP|U": {
+    "zero": 44,
+    "positive": 73,
+    "negative": 75
+  },
+  "1|P_HALF_MINUS_ZERO_AT_Q_HALF|H_BG_EFFECT_POP|U40": {
+    "zero": 45,
+    "positive": 68,
+    "negative": 79
+  },
+  "1|INTERACTION|F_BG_SWITCH|D40": {
+    "positive": 27,
+    "zero": 137,
+    "negative": 28
+  },
+  "1|INTERACTION|F_BG_STAY|D40": {
+    "zero": 163,
+    "negative": 12,
+    "positive": 17
+  },
+  "1|INTERACTION|F_BG_EFFECT|D40": {
+    "positive": 32,
+    "zero": 123,
+    "negative": 37
+  },
+  "1|INTERACTION|H_BG_SWITCH|D40": {
+    "zero": 151,
+    "negative": 21,
+    "positive": 20
+  },
+  "1|INTERACTION|H_BG_STAY|D40": {
+    "negative": 21,
+    "zero": 159,
+    "positive": 12
+  },
+  "1|INTERACTION|H_BG_EFFECT|D40": {
+    "positive": 35,
+    "zero": 127,
+    "negative": 30
+  },
+  "1|INTERACTION|F_BG_SWITCH_POP|U": {
+    "positive": 99,
+    "negative": 93
+  },
+  "1|INTERACTION|F_BG_SWITCH_POP|U40": {
+    "positive": 94,
+    "negative": 95,
+    "zero": 3
+  },
+  "1|INTERACTION|F_BG_STAY_POP|U": {
+    "negative": 90,
+    "positive": 102
+  },
+  "1|INTERACTION|F_BG_STAY_POP|U40": {
+    "positive": 86,
+    "negative": 101,
+    "zero": 5
+  },
+  "1|INTERACTION|F_BG_EFFECT_POP|U": {
+    "positive": 82,
+    "negative": 83,
+    "zero": 27
+  },
+  "1|INTERACTION|F_BG_EFFECT_POP|U40": {
+    "negative": 81,
+    "positive": 78,
+    "zero": 33
+  },
+  "1|INTERACTION|H_BG_SWITCH_POP|U": {
+    "positive": 95,
+    "negative": 97
+  },
+  "1|INTERACTION|H_BG_SWITCH_POP|U40": {
+    "positive": 89,
+    "negative": 98,
+    "zero": 5
+  },
+  "1|INTERACTION|H_BG_STAY_POP|U": {
+    "positive": 104,
+    "negative": 88
+  },
+  "1|INTERACTION|H_BG_STAY_POP|U40": {
+    "positive": 104,
+    "negative": 85,
+    "zero": 3
+  },
+  "1|INTERACTION|H_BG_EFFECT_POP|U": {
+    "positive": 85,
+    "negative": 82,
+    "zero": 25
+  },
+  "1|INTERACTION|H_BG_EFFECT_POP|U40": {
+    "positive": 75,
+    "negative": 92,
+    "zero": 25
+  }
+}

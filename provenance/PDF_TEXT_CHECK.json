@@ -1,12 +1,10 @@
 {
   "status": "PASS",
-  "documents": [
-    "MANUSCRIPT.pdf",
-    "SUPPLEMENT.pdf"
-  ],
+  "manuscript_pages": 23,
+  "supplement_pages": 6,
   "all_pages_contain_text": true,
   "visual_review": "PASS",
-  "manuscript_pages": 19,
-  "supplement_pages": 5,
-  "visual_scope": "All24pages inspected as rendered overviews; corrected reference-list layout and re-inspected final page at higher resolution. No clipped labels, overlapping text, missing glyphs or blank trailing page."
+  "visual_scope": "All 29 final pages inspected as rendered contact sheets; no clipping, overlap, blank trailing page or missing figure. Final link-only rebuild has byte-identical raster pages to inspected renders.",
+  "out_of_page_characters": 0,
+  "pdf_links": 28
 }

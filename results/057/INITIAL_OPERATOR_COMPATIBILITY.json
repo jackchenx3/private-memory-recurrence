@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "exact052_dependencies": {
+    "accepted_model.py": "a8f7facd6b2a29b3e72c92dc9c8ea46f843b146be2b6430afbd6416151d2ae2d",
+    "accepted_rare_model.py": "70c8c1a74c9b211b662d905d2a432b6aaf6bcc1a2c13a36adc70c7b64e174e87",
+    "accepted_fresh_model.py": "fa4f3782b5c1c3dec5c07cad23c28c326ccd454f103f8891ed6228d961201bc5"
+  },
+  "preparation_dispatch": "preparation_model.py copied byte-identically from052",
+  "new_objective_calls": 0
+}

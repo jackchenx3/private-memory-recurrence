@@ -1,0 +1,32 @@
+{
+  "primary": "Q_HALF_MINUS_ZERO_AT_P_HALF|F_BG_EFFECT|D40",
+  "estimate": {
+    "mean": 0.22762044270833334,
+    "ci95": [
+      0.171221923828125,
+      0.289471435546875
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 22.762044270833336,
+    "ci95_percentage_points": [
+      17.1221923828125,
+      28.9471435546875
+    ],
+    "expected_terminal_descendant_difference": 7.283854166666667,
+    "paired_signs": {
+      "zero": 94,
+      "positive": 84,
+      "negative": 14
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "prediction": "positive",
+  "supported": true,
+  "contradicted": false,
+  "interval_scope": "approximate pointwise",
+  "interaction_direction_not_predicted": true,
+  "exploratory_selected_after055": true,
+  "independent_replication": false
+}

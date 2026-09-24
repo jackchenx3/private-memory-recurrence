@@ -1,0 +1,74 @@
+{
+  "operator_sources": {
+    "accepted_model.py": {
+      "source": "../cross_environment_v1/accepted_model.py",
+      "sha256": "a8f7facd6b2a29b3e72c92dc9c8ea46f843b146be2b6430afbd6416151d2ae2d"
+    },
+    "accepted_fresh_model.py": {
+      "source": "../cross_environment_v1/accepted_fresh_model.py",
+      "sha256": "fa4f3782b5c1c3dec5c07cad23c28c326ccd454f103f8891ed6228d961201bc5"
+    },
+    "accepted_rare_model.py": {
+      "source": "../cross_environment_v1/accepted_rare_model.py",
+      "sha256": "70c8c1a74c9b211b662d905d2a432b6aaf6bcc1a2c13a36adc70c7b64e174e87"
+    },
+    "accepted_resident_model.py": {
+      "source": "../cross_environment_v1/accepted_resident_model.py",
+      "sha256": "c8da535c8dc37a7fb5e3e26dadeb2d60b7ccafde909567a6806259177109b5f4"
+    },
+    "accepted_survival_model.py": {
+      "source": "../cross_environment_v1/accepted_survival_model.py",
+      "sha256": "ebc2d015edd30be4423b933baa91bd3e63d192c23e044f16850fe70f8d2d64b8"
+    },
+    "accepted_transfer_model.py": {
+      "source": "../cross_environment_v1/accepted_transfer_model.py",
+      "sha256": "6ab11c41dbc333f3fbe3fa4eb0c7b13bd46713a7c0d12fe4ab6bed7f2eeb3eaa"
+    },
+    "model.py": {
+      "source": "../cross_environment_v1/model.py",
+      "sha256": "055d90b79b83fd92b51f8cab1086658d2bce313927071aa308112374ea7e6b7d"
+    },
+    "lineages.py": {
+      "source": "../cross_environment_v1/lineages.py",
+      "sha256": "21573e0e66585a66cbe39794ee857708fcd5905ab8038d776677b670cfc9e972"
+    },
+    "generators.py": {
+      "source": "../cross_environment_v1/generators.py",
+      "sha256": "051c19105775cc9b922ca66c4419cd093cf5fee2557e61396abc9d0220661e05"
+    },
+    "io_utils.py": {
+      "source": "../cross_environment_v1/io_utils.py",
+      "sha256": "963691d8e30786d3f30b6ddb5a6509ed2dc7c1f157643509e9d9d7209b2bf996"
+    },
+    "accepted_analysis055.py": {
+      "source": "../cross_environment_v1/accepted_analysis055.py",
+      "sha256": "1b3b8d293e3b2601cd23734c9ae53aa689ee01fdac90d57fd102ccc1e90739d9"
+    },
+    "accepted_inputs055.py": {
+      "source": "../cross_environment_v1/accepted_inputs055.py",
+      "sha256": "8dc063172890dd480bcc75910a72c6a66fd179347e4c471dd94a6c47a4bd8a0f"
+    },
+    "resource_guard055.py": {
+      "source": "../cross_environment_v1/resource_guard055.py",
+      "sha256": "0360941cd15adf77659c5f26b38721c107c76225e41a185e686b77dd8d1aaf0f"
+    },
+    "analysis.py": {
+      "source": "../cross_environment_v1/analysis.py",
+      "sha256": "eaeddbc16975095e0cb74a2f84164d4fdbd77b0bda82d746337a939b3a60571e"
+    },
+    "preparation_model.py": {
+      "source": "../independent_prepared_competition_v1/preparation_model.py",
+      "sha256": "2a2b1a683f3720233d91413ef2e8d33ac85e4685f851b110dab4ebca719e7eaa"
+    },
+    "accepted_validate056.py": {
+      "source": "../cross_environment_v1/validate_analyze.py",
+      "sha256": "99f128be9f91d3ea6f6912734344c32f341ccf09939c784648ec273f6e71786f"
+    }
+  },
+  "accepted_delivery_manifests": {
+    "cross_environment_v1/DELIVERY_SHA256SUMS": "64ed00b140547e0b867d6c826baf16b8a5e844fcc0409dbc251d0730d3367479",
+    "independent_prepared_competition_v1/DELIVERY_SHA256SUMS": "fb86735764c1001b2516be9a1737c16b990bbfbcb7271a7a5f474fcbb70064b2",
+    "majority_policy_preparation_v1/DELIVERY_SHA256SUMS": "c10c5877221c6c8b2f950ba0bc9a93a3ea1ba1dfa48bd5d4f01dceef45d68377"
+  },
+  "old_cohort_inputs_used": false
+}

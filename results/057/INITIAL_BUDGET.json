@@ -1,0 +1,7 @@
+{
+  "paths": 192,
+  "total_objective_calls": 989184,
+  "candidate_calls": 983040,
+  "initial_calls": 6144,
+  "outcome_filtering": false
+}
