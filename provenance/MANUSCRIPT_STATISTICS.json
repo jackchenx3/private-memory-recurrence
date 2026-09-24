@@ -2492,11 +2492,179 @@
       },
       "scale": 100,
       "display": "+0.01 [-0.39, +0.44]"
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_HALF_MINUS_ZERO|F_BG_EFFECT|D40",
+      "value": {
+        "mean": 0.23738606770833334,
+        "ci95": [
+          0.17260538736979167,
+          0.3023295084635416
+        ],
+        "zero_classification": "positive"
+      },
+      "scale": 100,
+      "display": "+23.74 [+17.26, +30.23]"
+    },
+    {
+      "study": "058",
+      "key": "HAM|Q_HALF_MINUS_ZERO|F_BG_EFFECT|D40",
+      "value": {
+        "mean": 0.17822265625,
+        "ci95": [
+          0.124102783203125,
+          0.23665771484374998
+        ],
+        "zero_classification": "positive"
+      },
+      "scale": 100,
+      "display": "+17.82 [+12.41, +23.67]"
+    },
+    {
+      "study": "058",
+      "key": "TRAP4_MINUS_HAM|Q_HALF_MINUS_ZERO|F_BG_EFFECT|D40",
+      "value": {
+        "mean": 0.059163411458333336,
+        "ci95": [
+          -0.010585530598958334,
+          0.13134765625
+        ],
+        "zero_classification": "unresolved"
+      },
+      "scale": 100,
+      "display": "+5.92 [-1.06, +13.13]"
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_HALF|F_BG_EFFECT|D40",
+      "value": {
+        "mean": 0.21883138020833334,
+        "ci95": [
+          0.16479288736979167,
+          0.2762125651041666
+        ],
+        "zero_classification": "positive"
+      },
+      "scale": 100,
+      "display": "+21.88 [+16.48, +27.62]"
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_HALF|F_BG_SWITCH|D40",
+      "value": {
+        "mean": 0.215576171875,
+        "ci95": [
+          0.16568806966145833,
+          0.2674967447916667
+        ],
+        "zero_classification": "positive"
+      },
+      "scale": 100,
+      "display": "+21.56 [+16.57, +26.75]"
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_ZERO|F_BG_EFFECT|D40",
+      "value": {
+        "mean": -0.0185546875,
+        "ci95": [
+          -0.043865966796874996,
+          0.003745524088541656
+        ],
+        "zero_classification": "unresolved"
+      },
+      "scale": 100,
+      "display": "-1.86 [-4.39, +0.37]"
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_HALF|H_BG_EFFECT|D40",
+      "value": {
+        "mean": -0.039143880208333336,
+        "ci95": [
+          -0.05713094075520833,
+          -0.0234375
+        ],
+        "zero_classification": "negative"
+      },
+      "scale": 100,
+      "display": "-3.91 [-5.71, -2.34]"
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_ZERO|H_BG_EFFECT|D40",
+      "value": {
+        "mean": 0.031819661458333336,
+        "ci95": [
+          0.005204264322916667,
+          0.060221354166666664
+        ],
+        "zero_classification": "positive"
+      },
+      "scale": 100,
+      "display": "+3.18 [+0.52, +6.02]"
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_HALF|F_BG_EFFECT_POP|U",
+      "value": {
+        "mean": 0.0021061579386393247,
+        "ci95": [
+          0.0012488842010498077,
+          0.0029568640391031925
+        ],
+        "zero_classification": "positive"
+      },
+      "scale": 100,
+      "display": "+0.21 [+0.12, +0.30]"
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_HALF|F_BG_EFFECT_POP|U40",
+      "value": {
+        "mean": 0.005330403645833333,
+        "ci95": [
+          0.00023619333902994793,
+          0.010180664062499997
+        ],
+        "zero_classification": "positive"
+      },
+      "scale": 100,
+      "display": "+0.53 [+0.02, +1.02]"
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_HALF|H_BG_EFFECT_POP|U",
+      "value": {
+        "mean": 0.0003440856933593769,
+        "ci95": [
+          -0.00025616010030110516,
+          0.0009758313496907572
+        ],
+        "zero_classification": "unresolved"
+      },
+      "scale": 100,
+      "display": "+0.03 [-0.03, +0.10]"
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_HALF|H_BG_EFFECT_POP|U40",
+      "value": {
+        "mean": 0.00102996826171875,
+        "ci95": [
+          -0.0028290430704752604,
+          0.004881032307942704
+        ],
+        "zero_classification": "unresolved"
+      },
+      "scale": 100,
+      "display": "+0.10 [-0.28, +0.49]"
     }
   ],
   "fate_records": [
     {
-      "label": "Independent \u00b7 memory, cost 0",
+      "label": "Independent · memory, cost 0",
       "study": "046",
       "key": "RARE|RECUR|ACTIVE_C0",
       "counts": {
@@ -2511,7 +2679,7 @@
       }
     },
     {
-      "label": "Independent \u00b7 fresh, cost 0",
+      "label": "Independent · fresh, cost 0",
       "study": "046",
       "key": "RARE|RECUR|NOVEL_C0",
       "counts": {
@@ -2526,7 +2694,7 @@
       }
     },
     {
-      "label": "Independent \u00b7 memory, cost 1",
+      "label": "Independent · memory, cost 1",
       "study": "046",
       "key": "RARE|RECUR|ACTIVE_C1",
       "counts": {
@@ -2541,7 +2709,7 @@
       }
     },
     {
-      "label": "Prepared \u00b7 memory, cost 0",
+      "label": "Prepared · memory, cost 0",
       "study": "047",
       "key": "RESIDENT40|RECUR|ACTIVE_C0",
       "counts": {
@@ -2557,7 +2725,7 @@
       }
     },
     {
-      "label": "Prepared \u00b7 fresh, cost 0",
+      "label": "Prepared · fresh, cost 0",
       "study": "047",
       "key": "RESIDENT40|RECUR|NOVEL_C0",
       "counts": {
@@ -2569,7 +2737,7 @@
       }
     },
     {
-      "label": "Prepared \u00b7 memory, cost 1",
+      "label": "Prepared · memory, cost 1",
       "study": "047",
       "key": "RESIDENT40|RECUR|ACTIVE_C1",
       "counts": {
@@ -2584,7 +2752,7 @@
       }
     },
     {
-      "label": "Prepared \u00b7 distance control, cost 0",
+      "label": "Prepared · distance control, cost 0",
       "study": "048",
       "key": "RESIDENT40|RECUR|RADIUS_C0",
       "counts": {
@@ -2598,7 +2766,7 @@
       }
     },
     {
-      "label": "Intermittent \u00b7 ACTIVE_C0",
+      "label": "Intermittent · ACTIVE_C0",
       "study": "049",
       "key": "RESIDENT40|HALF|ACTIVE_C0",
       "counts": {
@@ -2614,7 +2782,7 @@
       }
     },
     {
-      "label": "Intermittent \u00b7 NOVEL_C0",
+      "label": "Intermittent · NOVEL_C0",
       "study": "049",
       "key": "RESIDENT40|HALF|NOVEL_C0",
       "counts": {
@@ -2629,7 +2797,7 @@
       }
     },
     {
-      "label": "Intermittent \u00b7 ACTIVE_C1",
+      "label": "Intermittent · ACTIVE_C1",
       "study": "049",
       "key": "RESIDENT40|HALF|ACTIVE_C1",
       "counts": {
@@ -2641,7 +2809,7 @@
       }
     },
     {
-      "label": "Probabilistic intermittent \u00b7 ACTIVE_C0",
+      "label": "Probabilistic intermittent · ACTIVE_C0",
       "study": "050",
       "key": "RACE32|HALF|ACTIVE_C0",
       "counts": {
@@ -2657,7 +2825,7 @@
       }
     },
     {
-      "label": "Probabilistic intermittent \u00b7 NOVEL_C0",
+      "label": "Probabilistic intermittent · NOVEL_C0",
       "study": "050",
       "key": "RACE32|HALF|NOVEL_C0",
       "counts": {
@@ -2673,7 +2841,7 @@
       }
     },
     {
-      "label": "Probabilistic intermittent \u00b7 ACTIVE_C1",
+      "label": "Probabilistic intermittent · ACTIVE_C1",
       "study": "050",
       "key": "RACE32|HALF|ACTIVE_C1",
       "counts": {
@@ -2685,7 +2853,7 @@
       }
     },
     {
-      "label": "Direct competition \u00b7 HALF|C0|MIX0|H",
+      "label": "Direct competition · HALF|C0|MIX0|H",
       "study": "051",
       "key": "HALF|C0|MIX0|H",
       "counts": {
@@ -2701,7 +2869,7 @@
       }
     },
     {
-      "label": "Direct competition \u00b7 HALF|C0|MIX1|H",
+      "label": "Direct competition · HALF|C0|MIX1|H",
       "study": "051",
       "key": "HALF|C0|MIX1|H",
       "counts": {
@@ -2717,7 +2885,7 @@
       }
     },
     {
-      "label": "Direct competition \u00b7 HALF|C0|MIX0|F",
+      "label": "Direct competition · HALF|C0|MIX0|F",
       "study": "051",
       "key": "HALF|C0|MIX0|F",
       "counts": {
@@ -2731,7 +2899,7 @@
       }
     },
     {
-      "label": "Direct competition \u00b7 HALF|C0|MIX1|F",
+      "label": "Direct competition · HALF|C0|MIX1|F",
       "study": "051",
       "key": "HALF|C0|MIX1|F",
       "counts": {
@@ -2747,7 +2915,7 @@
       }
     },
     {
-      "label": "Direct competition \u00b7 FULL|C1|MIX1|H",
+      "label": "Direct competition · FULL|C1|MIX1|H",
       "study": "051",
       "key": "FULL|C1|MIX1|H",
       "counts": {
@@ -2762,7 +2930,7 @@
       }
     },
     {
-      "label": "Direct competition \u00b7 FULL|C1|H1|H",
+      "label": "Direct competition · FULL|C1|H1|H",
       "study": "051",
       "key": "FULL|C1|H1|H",
       "counts": {
@@ -2777,7 +2945,7 @@
       }
     },
     {
-      "label": "Independent preparation \u00b7 HALF|C0|MIX0|H",
+      "label": "Independent preparation · HALF|C0|MIX0|H",
       "study": "052",
       "key": "HALF|C0|MIX0|H",
       "counts": {
@@ -2793,7 +2961,7 @@
       }
     },
     {
-      "label": "Independent preparation \u00b7 HALF|C0|MIX1|H",
+      "label": "Independent preparation · HALF|C0|MIX1|H",
       "study": "052",
       "key": "HALF|C0|MIX1|H",
       "counts": {
@@ -2809,7 +2977,7 @@
       }
     },
     {
-      "label": "Independent preparation \u00b7 HALF|C0|MIX0|F",
+      "label": "Independent preparation · HALF|C0|MIX0|F",
       "study": "052",
       "key": "HALF|C0|MIX0|F",
       "counts": {
@@ -2824,7 +2992,7 @@
       }
     },
     {
-      "label": "Independent preparation \u00b7 HALF|C0|MIX1|F",
+      "label": "Independent preparation · HALF|C0|MIX1|F",
       "study": "052",
       "key": "HALF|C0|MIX1|F",
       "counts": {
@@ -2838,7 +3006,7 @@
       }
     },
     {
-      "label": "Independent preparation \u00b7 HALF|C1|MIX0|H",
+      "label": "Independent preparation · HALF|C1|MIX0|H",
       "study": "052",
       "key": "HALF|C1|MIX0|H",
       "counts": {
@@ -2853,7 +3021,7 @@
       }
     },
     {
-      "label": "Independent preparation \u00b7 HALF|C1|H0|H",
+      "label": "Independent preparation · HALF|C1|H0|H",
       "study": "052",
       "key": "HALF|C1|H0|H",
       "counts": {
@@ -2868,7 +3036,7 @@
       }
     },
     {
-      "label": "Common competitor \u00b7 HALF|C0|HH|p0",
+      "label": "Common competitor · HALF|C0|HH|p0",
       "study": "053",
       "key": "HALF|C0|HH|p0",
       "counts": {
@@ -2884,7 +3052,7 @@
       }
     },
     {
-      "label": "Common competitor \u00b7 HALF|C0|HH|p1",
+      "label": "Common competitor · HALF|C0|HH|p1",
       "study": "053",
       "key": "HALF|C0|HH|p1",
       "counts": {
@@ -2900,7 +3068,7 @@
       }
     },
     {
-      "label": "Common competitor \u00b7 HALF|C0|FF|p0",
+      "label": "Common competitor · HALF|C0|FF|p0",
       "study": "053",
       "key": "HALF|C0|FF|p0",
       "counts": {
@@ -2916,7 +3084,7 @@
       }
     },
     {
-      "label": "Common competitor \u00b7 HALF|C0|FF|p1",
+      "label": "Common competitor · HALF|C0|FF|p1",
       "study": "053",
       "key": "HALF|C0|FF|p1",
       "counts": {
@@ -2932,7 +3100,7 @@
       }
     },
     {
-      "label": "Common competitor \u00b7 HALF|C1|HH|p0",
+      "label": "Common competitor · HALF|C1|HH|p0",
       "study": "053",
       "key": "HALF|C1|HH|p0",
       "counts": {
@@ -2947,7 +3115,7 @@
       }
     },
     {
-      "label": "Common competitor \u00b7 HALF|C1|MIX0|p0",
+      "label": "Common competitor · HALF|C1|MIX0|p0",
       "study": "053",
       "key": "HALF|C1|MIX0|p0",
       "counts": {
@@ -2962,7 +3130,7 @@
       }
     }
   ],
-  "scope": "Manuscript and supporting evidence through accepted study 057; saved-table verification; no new simulations",
+  "scope": "Manuscript and supporting evidence through accepted058; saved-table verification, no new simulations",
   "prior_manuscript_sha256": "8c00f006e27a079f13131efdf037c7d6880cd50c55701e3bea209deb9c70960a",
   "added_fate_records": [
     {
@@ -2999,6 +3167,64 @@
     {
       "study": "057",
       "key": "P_HALF_Q_HALF|H_SWITCH1|RARE",
+      "counts": {
+        "extinct": 192,
+        "above_initial": 0,
+        "below_initial": 192
+      }
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_HALF|F_SWITCH0|RARE",
+      "counts": {
+        "extinct": 141,
+        "above_initial": 51,
+        "below_initial": 141,
+        "fixed": 46,
+        "polymorphic": 5
+      }
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_HALF|F_SWITCH1|RARE",
+      "counts": {
+        "fixed": 41,
+        "above_initial": 49,
+        "below_initial": 143,
+        "extinct": 143,
+        "polymorphic": 8
+      }
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_HALF|H_SWITCH0|RARE",
+      "counts": {
+        "extinct": 192,
+        "above_initial": 0,
+        "below_initial": 192
+      }
+    },
+    {
+      "study": "058",
+      "key": "TRAP4|Q_HALF|H_SWITCH1|RARE",
+      "counts": {
+        "extinct": 192,
+        "above_initial": 0,
+        "below_initial": 192
+      }
+    },
+    {
+      "study": "058",
+      "key": "HAM|Q_HALF|H_SWITCH0|RARE",
+      "counts": {
+        "extinct": 192,
+        "above_initial": 0,
+        "below_initial": 192
+      }
+    },
+    {
+      "study": "058",
+      "key": "HAM|Q_HALF|H_SWITCH1|RARE",
       "counts": {
         "extinct": 192,
         "above_initial": 0,

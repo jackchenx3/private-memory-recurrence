@@ -1,0 +1,197 @@
+{
+  "primary": "TRAP4|Q_HALF_MINUS_ZERO|F_BG_EFFECT|D40",
+  "estimate": {
+    "mean": 0.23738606770833334,
+    "ci95": [
+      0.17260538736979167,
+      0.3023295084635416
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 23.738606770833336,
+    "ci95_percentage_points": [
+      17.260538736979168,
+      30.23295084635416
+    ],
+    "expected_terminal_descendant_difference": 7.596354166666667,
+    "ci95_expected_descendants": [
+      5.523372395833333,
+      9.674544270833332
+    ],
+    "paired_signs": {
+      "positive": 90,
+      "zero": 90,
+      "negative": 12
+    },
+    "block_signs": {
+      "positive": 22,
+      "negative": 2
+    }
+  },
+  "prediction": "positive",
+  "decisions": {
+    "direction": "supports_positive",
+    "benchmark": "supports_exceeding_one_expected_descendant",
+    "benchmark_fraction": 0.03125
+  },
+  "interval_scope": "approximate pointwise; no family-wide or conjunction coverage",
+  "interaction_direction_not_predicted": true,
+  "secondary_ham": {
+    "mean": 0.17822265625,
+    "ci95": [
+      0.124102783203125,
+      0.23665771484374998
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 17.822265625,
+    "ci95_percentage_points": [
+      12.4102783203125,
+      23.665771484374996
+    ],
+    "expected_terminal_descendant_difference": 5.703125,
+    "ci95_expected_descendants": [
+      3.9712890625,
+      7.573046874999999
+    ],
+    "paired_signs": {
+      "positive": 74,
+      "zero": 104,
+      "negative": 14
+    },
+    "block_signs": {
+      "positive": 21,
+      "negative": 2,
+      "zero": 1
+    }
+  },
+  "secondary_interaction": {
+    "mean": 0.059163411458333336,
+    "ci95": [
+      -0.010585530598958334,
+      0.13134765625
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": 5.916341145833334,
+    "ci95_percentage_points": [
+      -1.0585530598958333,
+      13.134765625
+    ],
+    "expected_terminal_descendant_difference": 1.8932291666666667,
+    "ci95_expected_descendants": [
+      -0.3387369791666667,
+      4.203125
+    ],
+    "paired_signs": {
+      "positive": 74,
+      "zero": 61,
+      "negative": 57
+    },
+    "block_signs": {
+      "negative": 11,
+      "positive": 13
+    }
+  },
+  "half_founder_effect": {
+    "mean": 0.21883138020833334,
+    "ci95": [
+      0.16479288736979167,
+      0.2762125651041666
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 21.883138020833336,
+    "ci95_percentage_points": [
+      16.479288736979168,
+      27.621256510416657
+    ],
+    "expected_terminal_descendant_difference": 7.002604166666667,
+    "ci95_expected_descendants": [
+      5.273372395833333,
+      8.83880208333333
+    ],
+    "paired_signs": {
+      "positive": 81,
+      "zero": 102,
+      "negative": 9
+    },
+    "block_signs": {
+      "positive": 23,
+      "negative": 1
+    }
+  },
+  "half_absolute_introduced_H_change": {
+    "mean": 0.215576171875,
+    "ci95": [
+      0.16568806966145833,
+      0.2674967447916667
+    ],
+    "classification": "positive",
+    "mean_percentage_points": 21.5576171875,
+    "ci95_percentage_points": [
+      16.568806966145832,
+      26.749674479166668
+    ],
+    "expected_terminal_descendant_difference": 6.8984375,
+    "ci95_expected_descendants": [
+      5.302018229166666,
+      8.559895833333334
+    ],
+    "paired_signs": {
+      "positive": 81,
+      "negative": 110,
+      "zero": 1
+    },
+    "block_signs": {
+      "positive": 24
+    }
+  },
+  "half_population_effects": {
+    "U": {
+      "mean": 0.0021061579386393247,
+      "ci95": [
+        0.0012488842010498077,
+        0.0029568640391031925
+      ],
+      "classification": "positive",
+      "mean_percentage_points": 0.21061579386393248,
+      "ci95_percentage_points": [
+        0.12488842010498077,
+        0.29568640391031925
+      ],
+      "expected_terminal_descendant_difference": null,
+      "ci95_expected_descendants": null,
+      "paired_signs": {
+        "positive": 115,
+        "negative": 61,
+        "zero": 16
+      },
+      "block_signs": {
+        "positive": 18,
+        "negative": 6
+      }
+    },
+    "U40": {
+      "mean": 0.005330403645833333,
+      "ci95": [
+        0.00023619333902994793,
+        0.010180664062499997
+      ],
+      "classification": "positive",
+      "mean_percentage_points": 0.5330403645833333,
+      "ci95_percentage_points": [
+        0.023619333902994793,
+        1.0180664062499998
+      ],
+      "expected_terminal_descendant_difference": null,
+      "ci95_expected_descendants": null,
+      "paired_signs": {
+        "negative": 67,
+        "positive": 109,
+        "zero": 16
+      },
+      "block_signs": {
+        "positive": 15,
+        "negative": 9
+      }
+    }
+  },
+  "cohort_pooling": false
+}

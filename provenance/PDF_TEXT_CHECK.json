@@ -1,10 +1,38 @@
 {
-  "status": "PASS",
-  "manuscript_pages": 23,
-  "supplement_pages": 6,
-  "all_pages_contain_text": true,
-  "visual_review": "PASS",
-  "visual_scope": "All 29 final pages inspected as rendered contact sheets; no clipping, overlap, blank trailing page or missing figure. Final link-only rebuild has byte-identical raster pages to inspected renders.",
+  "MANUSCRIPT": {
+    "pages": 27,
+    "links": 19,
+    "selected": [
+      1,
+      2,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ]
+  },
+  "SUPPLEMENT": {
+    "pages": 8,
+    "links": 19,
+    "selected": [
+      1,
+      2,
+      6,
+      7,
+      8
+    ]
+  },
+  "new_code_files_syntax_checked": 29,
+  "contact_sheets": 4,
   "out_of_page_characters": 0,
-  "pdf_links": 28
+  "all_pages_contain_text": true,
+  "status": "PASS",
+  "visual_review": "PASS",
+  "visual_scope": "Changed publication pages and boundaries inspected as rendered contact sheets; new table/figures and corresponding draft pages already inspected. All35 pages pass text/bounds checks. No clipping, chart overlap or missing figure on inspected pages.",
+  "pdf_hashes": {
+    "MANUSCRIPT": "10d6b6ecac32752cb810c06a08cdd75a4d728bf21563ae47420fbe81376eac43",
+    "SUPPLEMENT": "d4b7d9195e5e49581404f1dddeb898b1bdb57f529a14896290f8609e678d4c3f"
+  }
 }

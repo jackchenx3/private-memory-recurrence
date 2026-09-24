@@ -1,0 +1,25 @@
+{
+  "new_paths": 4608,
+  "reused_paths": 0,
+  "initial_preparation_paths": 384,
+  "policy_preparation_paths": 768,
+  "new_seed_records": 3193,
+  "new_updates": 184320,
+  "candidate_evaluations": 23592960,
+  "initial_evaluations": 147456,
+  "transfer_objective_calls": 23740416,
+  "total_scientific_paths": 5760,
+  "total_updates": 230400,
+  "total_candidate_evaluations": 29491200,
+  "total_initial_evaluations": 184320,
+  "total_state_measurements": 236160,
+  "total_objective_calls": 29675520,
+  "new_state_measurements": 188928,
+  "source_prepared_states_used": 768,
+  "nonparent_sources": {
+    "probe": 5898240,
+    "scout": 5898240,
+    "local_child": 5898240
+  },
+  "extra_diagnostic_calls": 0
+}

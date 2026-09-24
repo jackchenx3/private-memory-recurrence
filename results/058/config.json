@@ -1,0 +1,71 @@
+{
+  "task_id": "ORG-LANDSCAPE-058",
+  "revision": 1,
+  "objectives": [
+    "HAM",
+    "TRAP4"
+  ],
+  "blocks": 24,
+  "replicates_per_block": 8,
+  "population_size": 32,
+  "bits": 32,
+  "updates_per_stage": 40,
+  "preparation_regimes": [
+    "HALF"
+  ],
+  "future_regimes": [
+    "ZERO",
+    "HALF"
+  ],
+  "backgrounds": [
+    "F",
+    "H"
+  ],
+  "variants": [
+    "STAY",
+    "SWITCH0",
+    "SWITCH1"
+  ],
+  "cost": 0,
+  "initial_preparation_paths": 384,
+  "policy_preparation_paths": 768,
+  "transfer_paths": 4608,
+  "total_paths": 5760,
+  "total_objective_calls": 29675520,
+  "reused_paths": 0,
+  "primary": "TRAP4|Q_HALF_MINUS_ZERO|F_BG_EFFECT|D40",
+  "expected_sign": "positive",
+  "primary_resolution_fraction": 0.03125,
+  "primary_resolution_percentage_points": 3.125,
+  "primary_resolution_expected_descendants": 1,
+  "seed_namespace_prefix": "ORG-LANDSCAPE-058-r1",
+  "bootstrap_rows": 2000,
+  "estimates": 114,
+  "raw_audit_block": 0,
+  "raw_audit_paths": 240,
+  "cohort_pooling": false,
+  "paired_objective_inputs": true,
+  "independent_new_cohort": true,
+  "resources": {
+    "cpus": 1,
+    "memory_GiB": 4,
+    "minutes": 30
+  },
+  "max_production_allocations": 1,
+  "task_sha256": "281c9b9f8720c50a5dfeecc112a7b5bf76fa7cdff84689539e97135f08f29b72",
+  "decision_sha256": "fec1ea8dc034f7821dab5f14da0a121642bff7c6119164e33cd3be3898bf423b",
+  "objective_check_sha256": "8a54716f2d0fdddbd3433c920a44c447d99d64e19455f45a580ffe7a15d84b22",
+  "next_deliverable": "One bounded result and focused interpretation; no automatic next variant",
+  "seed_records": 3193,
+  "source_cohort": "fully new058 paired objectives",
+  "stage_seed_families": "SEED_ROSTER.json",
+  "initial_selection": "Exact052 SHAM_C0 elitist selection with explicit selected objective",
+  "policy_and_transfer_selection": "Exact055/056 race 2**(-selected_objective_raw_loss), cost0",
+  "new_candidate_calls": 29491200,
+  "new_initial_calls": 184320,
+  "main_figures": 2,
+  "monitor_limit_bytes": 3758096384,
+  "allocation_timeout_seconds": 1770,
+  "controller_model_calls": 0,
+  "actual_credit_savings": null
+}

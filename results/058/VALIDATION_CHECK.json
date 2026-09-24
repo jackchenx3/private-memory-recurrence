@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "new_paths": 4608,
+  "reused_paths": 0,
+  "source_prepared_states": 768,
+  "raw_audit_block": 0,
+  "raw_paths_audited": 0,
+  "raw_audit_deferred_to": "audit_independent.py",
+  "new_objective_calls": 0,
+  "new_draws": 0,
+  "intervals": 114,
+  "structural_zeros": 0,
+  "negative_paired_records": 5618,
+  "transmission_accuracy_disagreements": 3319,
+  "checks": {
+    "decline_or_negative_selection_records": 87482
+  },
+  "clock_tolerance_ulp": 2,
+  "survivor_indices_and_order_exact": null,
+  "elapsed_seconds": 231.6561403274536
+}

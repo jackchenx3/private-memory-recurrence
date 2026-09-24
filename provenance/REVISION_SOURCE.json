@@ -1,9 +1,9 @@
 {
-  "accepted_working_manuscript_sha256": "8c00f006e27a079f13131efdf037c7d6880cd50c55701e3bea209deb9c70960a",
-  "accepted_working_supplement_sha256": "2c4dcf5f1236d12ce576083627c7ab1908d890618230f9af9e8b544d3658b5b4",
-  "scientific_content": "Accepted 056/057 revision preserved; publication availability/version wording updated and one grammatical plural corrected.",
+  "accepted_working_manuscript_sha256": "12ac2e9d0ce764556b7a50c96d9a13667a2fed0683e41bf8503f0ac22a60fc33",
+  "accepted_working_supplement_sha256": "5f4163c41bfc77b26af002dba697a3d96cbc8cd8efee8f55d63da55287703503",
+  "scientific_content": "Accepted058 draft retained; publication version/availability/links updated. General Hamming model sentence explicitly scoped to045-057 and HAM arm of058.",
   "prior_publication_preserved": true,
   "new_population_paths": 0,
-  "source_formats": "Native 056/057 estimates and arrays are retained alongside explicit normalized summary/JSON Lines projections. Larger text tables use lossless gzip.",
+  "source_formats": "Native estimates retained with explicit normalized summary/JSON Lines projections. Larger text tables use lossless gzip.",
   "publication_date": "2026-09-24"
 }

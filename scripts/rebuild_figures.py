@@ -105,3 +105,9 @@ subprocess.run([sys.executable,str(ROOT/"scripts/rebuild_extension_figures.py"),
 records += json.loads((OUT/"EXTENSION_FIGURE_DATA.json").read_text())
 (OUT/"FIGURE_DATA.json").write_text(json.dumps(records,indent=2)+"\n")
 print(json.dumps(dict(figures=13,numerical_records=len(records),new_simulations=0)))
+
+# Add the fixed interacting-objective challenge, using saved estimates only.
+subprocess.run([sys.executable,str(ROOT/"scripts/rebuild_058_figures.py"),"--output-dir",str(OUT)],check=True)
+records += json.loads((OUT/"FIGURE_058_DATA.json").read_text())
+(OUT/"FIGURE_DATA.json").write_text(json.dumps(records,indent=2)+"\n")
+print(json.dumps(dict(figures=15,numerical_records=len(records),new_simulations=0)))

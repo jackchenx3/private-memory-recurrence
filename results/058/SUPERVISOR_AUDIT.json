@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "mean_interval_pairs": 114,
+  "maximum_absolute_discrepancy": 2.220446049250313e-16,
+  "independent_blocks": 24,
+  "bootstrap_rows": 2000,
+  "raw_block_selected_prospectively": 0,
+  "raw_checks": {
+    "scores": 1236480,
+    "initial_paths": 16,
+    "clocks": 1146880,
+    "policy_paths": 32,
+    "raw_paths": 192
+  },
+  "new_population_paths": 0,
+  "new_random_draws": 0,
+  "producer_modules_imported": false,
+  "scope": "All paired estimates and classifications; preselected block scores, survival ordering, stage linkage, founder rebase and endpoints. Producer independent audit additionally covers all donor/cache operators.",
+  "input_hashes": {
+    "SOURCE_SHA256SUMS": "d9fe374a76155de70c83bc6d038723920494b5dd32af9e27f406e50017e7b91b",
+    "ESTIMATES.json": "900a9452a5ae251620e5c937fdf1d887ed9f389b4a42b21cfe7ca1e6e631f665",
+    "BLOCK_SUMMARIES.json": "fdb61f5476a5f927e3fbdbff97e33fcd13c9537171287c1aebfeaff634e22238",
+    "BOOTSTRAP_INDICES.json": "4ee3d98af78649159d845bbd7984db0623f4b81a07976369aef21b486c70ccfb"
+  }
+}

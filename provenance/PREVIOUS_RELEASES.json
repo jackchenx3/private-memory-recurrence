@@ -1,0 +1,17 @@
+[
+  {
+    "version": "1.0.0",
+    "doi": "10.5281/zenodo.22907237",
+    "github_release": "https://github.com/jackchenx3/private-memory-recurrence/releases/tag/v1.0.0",
+    "scientific_commit": "b47197c3b38278129197d4536bb6636bd49e145d",
+    "metadata_commit": "1063ab54f1d9a83ebdbac858398d6af2e80cd830",
+    "preserved": true
+  },
+  {
+    "version": "1.1.0",
+    "doi": "10.5281/zenodo.22930084",
+    "github_release": "https://github.com/jackchenx3/private-memory-recurrence/releases/tag/v1.1.0",
+    "scientific_commit": "624f6acf30100e3e19e5ecd123bc0f0cdd3a301c",
+    "preserved": true
+  }
+]

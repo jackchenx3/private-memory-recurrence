@@ -56,6 +56,9 @@ def main():
     for record in json.loads((ROOT/'results/QUOTED_056_057_STATISTICS.json').read_text()):
         native=json.loads((ROOT/'results'/record['study']/'ESTIMATES.json').read_text())
         assert record['value']==native[record['key']],record
+    for record in json.loads((ROOT/'results/QUOTED_058_STATISTICS.json').read_text()):
+        native=json.loads((ROOT/'results/058/ESTIMATES.json').read_text())
+        assert record['value']==native[record['key']]
     result=dict(status='PASS',studies=results,total_intervals=total,maximum_error=maximum,
                 statistic_records=len(cited['displayed_statistics']),
                 new_population_paths=0,new_random_draws=0,

@@ -1,9 +1,7 @@
-# Research preprint v1.1.0
+# Research preprint v1.2.0
 
-Adds the crossed preparation/future-recurrence comparison (056) and its prospectively specified independent cohort (057) to the existing private-memory manuscript. This is a revision of the same paper, not a second paper or independent software implementation.
+Adds a prospectively fixed paired Hamming/four-bit-trap objective challenge (058) to the existing private-memory paper. The trap future-recurrence contribution is +23.74 [17.26, 30.23] percentage points and exceeds the separately specified one-expected-descendant benchmark. The direct trap-minus-Hamming comparison is +5.92 [-1.06, 13.13] and unresolved. Most introductions disappear; founder transmission and objective-specific population utility remain distinct.
 
-The fixed future-recurrence direction reproduces: +22.76 [17.12, 28.95] percentage points in the reused cohort and +16.20 [11.23, 21.02] in the new cohort, using separate pointwise 95% intervals. No cohort pooling or parameter search is added. Unresolved preparation interactions, sampled extinctions and the negative-founder/positive-population-accuracy combination are retained.
+Includes the revised manuscript/supplement, 15 figures, all 15,167 saved-table estimates, scientific source through 058, seed provenance, compact fates/adverse outcomes and scoped audit records. Figures and arithmetic can be rebuilt without new population trajectories. Raw candidate trajectories and random tapes remain outside this compact release. No claim of a general ruggedness advantage, uniquely identified epistasis mechanism, biological result or independent software implementation is made.
 
-The package includes the revised manuscript and supplement, 13 figures, all 15,053 saved-table estimates, scientific source through 057, seed provenance, full compact fate/negative-outcome tables and scoped audit receipts. The reproducibility scripts generate no population paths. Raw candidate trajectories and random tapes remain outside the compact release.
-
-Version 1.0.0 and its DOI remain preserved. Manuscript/data: CC BY 4.0. Original code: MIT. AI assistance is disclosed; this preprint has not undergone external peer review.
+This is a revision of the same paper, not a new paper. Earlier tags and DOI versions remain preserved. Manuscript/data: CC BY 4.0; original code: MIT. AI assistance is disclosed; no external peer review is claimed.

@@ -136,5 +136,19 @@
     "dependence": "Fully new cohort using unchanged 052/055/056 scientific operators; not an independent implementation",
     "new_paths": 5568,
     "reused_paths": 0
+  },
+  {
+    "study": "058",
+    "source_package": "landscape_interaction_v1",
+    "summary": "results/058/summary.json",
+    "block_summaries": "results/058/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/058/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "d9fe374a76155de70c83bc6d038723920494b5dd32af9e27f406e50017e7b91b",
+    "delivery_manifest_sha256": "5d6de2acdd606d1302448ff1d25dbf0295f5d3e1ff078b9c08194dd45c82ebae",
+    "independent_review": "provenance/058_AUDIT.json",
+    "new_cohort": true,
+    "dependence": "New cohort; HAM/TRAP4 share indexed exogenous inputs but have objective-specific prepared populations. No old paths or cohorts pooled.",
+    "new_paths": 5760,
+    "reused_paths": 0
   }
 ]

@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "inputs": {
+    "total_paths": 5760,
+    "total_objective_calls": 29675520,
+    "paired_inputs_exclude_objective": true,
+    "stage_freezes_in_order": true
+  },
+  "raw_block": 0,
+  "raw_checks": {
+    "scores": 1236480,
+    "clocks": 1146880,
+    "paths": 240,
+    "initial_paths": 16,
+    "policy_paths": 32,
+    "raw_paths": 192
+  },
+  "statistics": {
+    "checked_mean_interval_pairs": 114,
+    "maximum_absolute_discrepancy": 2.220446049250313e-16,
+    "tolerance": 2e-13,
+    "arithmetic": "Saved time series; explicit four-cell coefficients; bootstrap multiplicity weights; independent linear percentiles"
+  },
+  "preparation_declines": 21787,
+  "new_scientific_paths": 0,
+  "new_scientific_objective_calls": 0,
+  "recorded_score_reconstructions": 1236480,
+  "new_random_draws": 0
+}

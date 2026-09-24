@@ -3792,5 +3792,537 @@
     "source_sha256": "9109f16f4388f33f89758153b4708325ef85016c7608d7299dc7eae4be4091b9",
     "published_sha256": "9109f16f4388f33f89758153b4708325ef85016c7608d7299dc7eae4be4091b9",
     "transformation": "identity"
+  },
+  {
+    "path": "results/058/ESTIMATES.json",
+    "source_id": "landscape_interaction_v1/ESTIMATES.json",
+    "source_sha256": "900a9452a5ae251620e5c937fdf1d887ed9f389b4a42b21cfe7ca1e6e631f665",
+    "published_sha256": "900a9452a5ae251620e5c937fdf1d887ed9f389b4a42b21cfe7ca1e6e631f665",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/ESTIMATES.csv",
+    "source_id": "landscape_interaction_v1/ESTIMATES.csv",
+    "source_sha256": "df8b345621d63a8087e0e7332261c2034f9641e8e9a63b303aac2bbf6bb8ee79",
+    "published_sha256": "74f663ac6a2babef05853d46c5bd25bf40748fffb3b0f0ce53af1bbbfe3be992",
+    "transformation": "administrative-path substitution only"
+  },
+  {
+    "path": "results/058/BLOCK_SUMMARIES.json",
+    "source_id": "landscape_interaction_v1/BLOCK_SUMMARIES.json",
+    "source_sha256": "fdb61f5476a5f927e3fbdbff97e33fcd13c9537171287c1aebfeaff634e22238",
+    "published_sha256": "fdb61f5476a5f927e3fbdbff97e33fcd13c9537171287c1aebfeaff634e22238",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/BOOTSTRAP_INDICES.json",
+    "source_id": "landscape_interaction_v1/BOOTSTRAP_INDICES.json",
+    "source_sha256": "4ee3d98af78649159d845bbd7984db0623f4b81a07976369aef21b486c70ccfb",
+    "published_sha256": "4ee3d98af78649159d845bbd7984db0623f4b81a07976369aef21b486c70ccfb",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/FATE_COUNTS.json",
+    "source_id": "landscape_interaction_v1/FATE_COUNTS.json",
+    "source_sha256": "be130f99327d8f91be49934a7094f798f8de00be29761eb3a92756d13f31d2c4",
+    "published_sha256": "be130f99327d8f91be49934a7094f798f8de00be29761eb3a92756d13f31d2c4",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/JOINT_ENDPOINT_COUNTS.json",
+    "source_id": "landscape_interaction_v1/JOINT_ENDPOINT_COUNTS.json",
+    "source_sha256": "13ad3ff4217f96669205b0f42c63145d0179fd426b1e07df0b671c53eb546376",
+    "published_sha256": "13ad3ff4217f96669205b0f42c63145d0179fd426b1e07df0b671c53eb546376",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/ASSESSMENT.json",
+    "source_id": "landscape_interaction_v1/ASSESSMENT.json",
+    "source_sha256": "08113633ead550ab01ffe57e163fc82df0be3bf688b357c74795c9f6d5d62d91",
+    "published_sha256": "08113633ead550ab01ffe57e163fc82df0be3bf688b357c74795c9f6d5d62d91",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/BUDGET.json",
+    "source_id": "landscape_interaction_v1/BUDGET.json",
+    "source_sha256": "89827e8c643ec81165fd2f7431146530022873c13e62ab9a82d35c80f84a2a7c",
+    "published_sha256": "89827e8c643ec81165fd2f7431146530022873c13e62ab9a82d35c80f84a2a7c",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/INITIAL_BUDGET.json",
+    "source_id": "landscape_interaction_v1/INITIAL_BUDGET.json",
+    "source_sha256": "461129c4779d35d3e721182ecaad2276a2079da6ff3d172a4b4e156cb0b4e03b",
+    "published_sha256": "461129c4779d35d3e721182ecaad2276a2079da6ff3d172a4b4e156cb0b4e03b",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/POLICY_BUDGET.json",
+    "source_id": "landscape_interaction_v1/POLICY_BUDGET.json",
+    "source_sha256": "27bb909ef5ce1246d3d3a450257f0eee94ac758fd2d0562bae77ffd923c505ea",
+    "published_sha256": "27bb909ef5ce1246d3d3a450257f0eee94ac758fd2d0562bae77ffd923c505ea",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/METRIC_CATALOG.json",
+    "source_id": "landscape_interaction_v1/METRIC_CATALOG.json",
+    "source_sha256": "520615e864089ebffc24a0d7970c16d398f1edb568fe3089762424d253930d22",
+    "published_sha256": "520615e864089ebffc24a0d7970c16d398f1edb568fe3089762424d253930d22",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/ORIENTATION_SIGNS.json",
+    "source_id": "landscape_interaction_v1/ORIENTATION_SIGNS.json",
+    "source_sha256": "a3e4e66552cf66461c16cb31aff5de909063dbf3438f81caeb8da9177f21e352",
+    "published_sha256": "a3e4e66552cf66461c16cb31aff5de909063dbf3438f81caeb8da9177f21e352",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/ORIENTATION_METRICS.jsonl",
+    "source_id": "landscape_interaction_v1/ORIENTATION_METRICS.jsonl",
+    "source_sha256": "21a63d99a28c0c11df54663a732d4d76956934e641052ec33890fc5934e3456a",
+    "published_sha256": "21a63d99a28c0c11df54663a732d4d76956934e641052ec33890fc5934e3456a",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/config.json",
+    "source_id": "landscape_interaction_v1/config.json",
+    "source_sha256": "fe18c44d736ecb6194a44cc17179053ca1e5fcd42085298ee7bf2076580f60b5",
+    "published_sha256": "fe18c44d736ecb6194a44cc17179053ca1e5fcd42085298ee7bf2076580f60b5",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/SEED_ROSTER.json",
+    "source_id": "landscape_interaction_v1/SEED_ROSTER.json",
+    "source_sha256": "de0bfcd3a87baba7c9efb17cc6b9f2db4246f0b50830b7ac058fb3bb81c7fe5f",
+    "published_sha256": "de0bfcd3a87baba7c9efb17cc6b9f2db4246f0b50830b7ac058fb3bb81c7fe5f",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/SEED_COLLISION_CHECK.json",
+    "source_id": "landscape_interaction_v1/SEED_COLLISION_CHECK.json",
+    "source_sha256": "65f734f63071543a0001363d0dbc5ca87e314f76e4a86319196910b255dbf4dc",
+    "published_sha256": "65f734f63071543a0001363d0dbc5ca87e314f76e4a86319196910b255dbf4dc",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/SEEDS.json",
+    "source_id": "landscape_interaction_v1/SEEDS.json",
+    "source_sha256": "de0bfcd3a87baba7c9efb17cc6b9f2db4246f0b50830b7ac058fb3bb81c7fe5f",
+    "published_sha256": "de0bfcd3a87baba7c9efb17cc6b9f2db4246f0b50830b7ac058fb3bb81c7fe5f",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/INITIAL_TARGETS.json",
+    "source_id": "landscape_interaction_v1/INITIAL_TARGETS.json",
+    "source_sha256": "3a95328afbcc6df4d0061529578b3319bb3e0aad710ee03e4868bad7ca38fc9a",
+    "published_sha256": "3a95328afbcc6df4d0061529578b3319bb3e0aad710ee03e4868bad7ca38fc9a",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/POLICY_TARGETS.json",
+    "source_id": "landscape_interaction_v1/POLICY_TARGETS.json",
+    "source_sha256": "5940a865cb8093949fd96b4b0512767dda3f99fae7bbe2a3ff3d2f9864f67dfa",
+    "published_sha256": "5940a865cb8093949fd96b4b0512767dda3f99fae7bbe2a3ff3d2f9864f67dfa",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/POLICY_TARGET_DRAWS.json",
+    "source_id": "landscape_interaction_v1/POLICY_TARGET_DRAWS.json",
+    "source_sha256": "5f80554b4a5a00bfe23675ccded018448680f14b5c3d4e98a90e3df261461db7",
+    "published_sha256": "5f80554b4a5a00bfe23675ccded018448680f14b5c3d4e98a90e3df261461db7",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/CONTINUATION_TARGET_DRAWS.json",
+    "source_id": "landscape_interaction_v1/CONTINUATION_TARGET_DRAWS.json",
+    "source_sha256": "98be663b6452272f0e7ca5856ddf31b246c262f6d14ee3b2e30f3561e15df4ca",
+    "published_sha256": "98be663b6452272f0e7ca5856ddf31b246c262f6d14ee3b2e30f3561e15df4ca",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/TARGET_TABLE.json",
+    "source_id": "landscape_interaction_v1/TARGET_TABLE.json",
+    "source_sha256": "f8ea9b1391d655473cfd6fa8cc906b1f0ee765eb4d946b49a4c3ba790de19576",
+    "published_sha256": "f8ea9b1391d655473cfd6fa8cc906b1f0ee765eb4d946b49a4c3ba790de19576",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/SOURCE_REFERENCES.json",
+    "source_id": "landscape_interaction_v1/SOURCE_REFERENCES.json",
+    "source_sha256": "9e6eb6ce28e8a9a27e973f6fc89c0c6dca1f4db074be8eb15c56542b664b439e",
+    "published_sha256": "9e6eb6ce28e8a9a27e973f6fc89c0c6dca1f4db074be8eb15c56542b664b439e",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/INPUT_FREEZE.json",
+    "source_id": "landscape_interaction_v1/INPUT_FREEZE.json",
+    "source_sha256": "7cb14988412765f27d5b163b7238dc22b48e39f3f4d78e1d10b1108f90cd7d02",
+    "published_sha256": "7cb14988412765f27d5b163b7238dc22b48e39f3f4d78e1d10b1108f90cd7d02",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/INITIAL_FREEZE.json",
+    "source_id": "landscape_interaction_v1/INITIAL_FREEZE.json",
+    "source_sha256": "1c96e2beaaa685a60c375b41f6967374b1bbefca08d82683201489edf28ab094",
+    "published_sha256": "1c96e2beaaa685a60c375b41f6967374b1bbefca08d82683201489edf28ab094",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/RESIDENT_FREEZE.json",
+    "source_id": "landscape_interaction_v1/RESIDENT_FREEZE.json",
+    "source_sha256": "c7967a63ffc247a3b3ca38f549b75c2c3ade45eb8df873a52c3f60b4f2024509",
+    "published_sha256": "c7967a63ffc247a3b3ca38f549b75c2c3ade45eb8df873a52c3f60b4f2024509",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/INPUT_GENERATION.json",
+    "source_id": "landscape_interaction_v1/INPUT_GENERATION.json",
+    "source_sha256": "658bcf63c7d21929bc1c9de573787823c1a3b2ad793d7fc2cd397e9800796738",
+    "published_sha256": "658bcf63c7d21929bc1c9de573787823c1a3b2ad793d7fc2cd397e9800796738",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/VALIDATION_CHECK.json",
+    "source_id": "landscape_interaction_v1/VALIDATION_CHECK.json",
+    "source_sha256": "ab3b703cfcd1e7d148e51acea7b2f167e8d0d5bba39d865bc2c18b653b5b8719",
+    "published_sha256": "ab3b703cfcd1e7d148e51acea7b2f167e8d0d5bba39d865bc2c18b653b5b8719",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/INDEPENDENT_AUDIT.json",
+    "source_id": "landscape_interaction_v1/INDEPENDENT_AUDIT.json",
+    "source_sha256": "7c07a1464e6cd52f5d0395ac2850b9c4b58734d5847741eb705ad940fa35949f",
+    "published_sha256": "7c07a1464e6cd52f5d0395ac2850b9c4b58734d5847741eb705ad940fa35949f",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/PATH_METRICS.jsonl.gz",
+    "source_id": "landscape_interaction_v1/PATH_METRICS.jsonl",
+    "source_sha256": "e1f3a0b3adf0c9f0bfd07328013660d5832c1cfc5c6c2bf72f70ec3720212709",
+    "published_sha256": "185cf7905d769a90e658f7d182ef0a071cd4ff063e6bb7c1164ec92f76a74286",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/058/PAIRED_METRICS.jsonl.gz",
+    "source_id": "landscape_interaction_v1/PAIRED_METRICS.jsonl",
+    "source_sha256": "3b4b14f8cd1639d026167acffcac92cd9a0691dd3598d5236e3376d949ee5e50",
+    "published_sha256": "a738db13d45068250a6a8258c13ab836e9ea0eb4747cda13cc77adee7adb363f",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/058/FATES.jsonl.gz",
+    "source_id": "landscape_interaction_v1/FATES.jsonl",
+    "source_sha256": "65739bdd4539fd47431328166bef49a69584a63a1523337667681db6b6e2f692",
+    "published_sha256": "418bcea6b474f9f9d089efe9976be14483b9f9cb323b54ded25823c9d0c9d35d",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/058/DECLINES.jsonl.gz",
+    "source_id": "landscape_interaction_v1/DECLINES.jsonl",
+    "source_sha256": "eb57b839f84daaf1cc1a2c13cd55b157101dbae22ee520c2e58844a29abe5e30",
+    "published_sha256": "452f450c46ce2a7a1dcd395fec849271602c4c2f0f03823265c727dde070e718",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/058/PREPARATION_DECLINES.jsonl.gz",
+    "source_id": "landscape_interaction_v1/PREPARATION_DECLINES.jsonl",
+    "source_sha256": "1ae9efac25be8182656bbb059f032583e2d491ed2e2d76067d42c2a2fb1822fb",
+    "published_sha256": "661c7bffd0e6a91aca641306941d4444f5a677aaa2a724805a0f6fa435272594",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/058/NEGATIVE_OUTCOMES.jsonl.gz",
+    "source_id": "landscape_interaction_v1/NEGATIVE_OUTCOMES.jsonl",
+    "source_sha256": "28484cd704439799dca0e2da1e500a031ee0202148f8e0f397812e53524e71a6",
+    "published_sha256": "bfbac3eb76942d0f9e88eb6fe77c844131b70a174927147e712aa6cffada5763",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/058/TRANSMISSION_ACCURACY_DISAGREEMENTS.jsonl.gz",
+    "source_id": "landscape_interaction_v1/TRANSMISSION_ACCURACY_DISAGREEMENTS.jsonl",
+    "source_sha256": "b0db7459debe283ee89deab22a708dbc3e2611e9f5aba58c5077c6748ce3ed02",
+    "published_sha256": "16fb8527ddaa4c1a518aa29e2879150dca81b6e6ae20f2a6f9fada5ffc98dff2",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "results/058/PRIOR_SEED_INVENTORY.json.gz",
+    "source_id": "landscape_interaction_v1/PRIOR_SEED_INVENTORY.json",
+    "source_sha256": "53ada601cae526c5a4e945f5e3989a4a24d398b3302a27062bfdc3e414057379",
+    "published_sha256": "1b5db1dc6af9126e3128f88875a372a69986095f9cb7f148aa29b3605ddcaf0a",
+    "transformation": "lossless gzip (mtime=0); administrative-path substitution only"
+  },
+  {
+    "path": "code/058/accepted_analysis055.py",
+    "source_id": "landscape_interaction_v1/accepted_analysis055.py",
+    "source_sha256": "1b3b8d293e3b2601cd23734c9ae53aa689ee01fdac90d57fd102ccc1e90739d9",
+    "published_sha256": "1b3b8d293e3b2601cd23734c9ae53aa689ee01fdac90d57fd102ccc1e90739d9",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/accepted_fresh_model.py",
+    "source_id": "landscape_interaction_v1/accepted_fresh_model.py",
+    "source_sha256": "fa4f3782b5c1c3dec5c07cad23c28c326ccd454f103f8891ed6228d961201bc5",
+    "published_sha256": "fa4f3782b5c1c3dec5c07cad23c28c326ccd454f103f8891ed6228d961201bc5",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/accepted_inputs055.py",
+    "source_id": "landscape_interaction_v1/accepted_inputs055.py",
+    "source_sha256": "8dc063172890dd480bcc75910a72c6a66fd179347e4c471dd94a6c47a4bd8a0f",
+    "published_sha256": "8dc063172890dd480bcc75910a72c6a66fd179347e4c471dd94a6c47a4bd8a0f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/accepted_model.py",
+    "source_id": "landscape_interaction_v1/accepted_model.py",
+    "source_sha256": "a8f7facd6b2a29b3e72c92dc9c8ea46f843b146be2b6430afbd6416151d2ae2d",
+    "published_sha256": "a8f7facd6b2a29b3e72c92dc9c8ea46f843b146be2b6430afbd6416151d2ae2d",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/accepted_rare_model.py",
+    "source_id": "landscape_interaction_v1/accepted_rare_model.py",
+    "source_sha256": "70c8c1a74c9b211b662d905d2a432b6aaf6bcc1a2c13a36adc70c7b64e174e87",
+    "published_sha256": "70c8c1a74c9b211b662d905d2a432b6aaf6bcc1a2c13a36adc70c7b64e174e87",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/accepted_resident_model.py",
+    "source_id": "landscape_interaction_v1/accepted_resident_model.py",
+    "source_sha256": "c8da535c8dc37a7fb5e3e26dadeb2d60b7ccafde909567a6806259177109b5f4",
+    "published_sha256": "c8da535c8dc37a7fb5e3e26dadeb2d60b7ccafde909567a6806259177109b5f4",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/accepted_survival_model.py",
+    "source_id": "landscape_interaction_v1/accepted_survival_model.py",
+    "source_sha256": "ebc2d015edd30be4423b933baa91bd3e63d192c23e044f16850fe70f8d2d64b8",
+    "published_sha256": "ebc2d015edd30be4423b933baa91bd3e63d192c23e044f16850fe70f8d2d64b8",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/accepted_transfer_model.py",
+    "source_id": "landscape_interaction_v1/accepted_transfer_model.py",
+    "source_sha256": "6ab11c41dbc333f3fbe3fa4eb0c7b13bd46713a7c0d12fe4ab6bed7f2eeb3eaa",
+    "published_sha256": "6ab11c41dbc333f3fbe3fa4eb0c7b13bd46713a7c0d12fe4ab6bed7f2eeb3eaa",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/analysis.py",
+    "source_id": "landscape_interaction_v1/analysis.py",
+    "source_sha256": "98677404d1a6d2229dadbd40dfb8080a1690119f42fdcec0e40ef442c3845344",
+    "published_sha256": "98677404d1a6d2229dadbd40dfb8080a1690119f42fdcec0e40ef442c3845344",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/audit_independent.py",
+    "source_id": "landscape_interaction_v1/audit_independent.py",
+    "source_sha256": "0e3ad0161bbde69bdcdecf7e7de75d5536c48bde0542b1b083fe9677fd10093f",
+    "published_sha256": "0e3ad0161bbde69bdcdecf7e7de75d5536c48bde0542b1b083fe9677fd10093f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/common.py",
+    "source_id": "landscape_interaction_v1/common.py",
+    "source_sha256": "be8d49d38442335f40dfd6f8a231752dccc852c08783e7fb8f5d5b7db45a5d6a",
+    "published_sha256": "be8d49d38442335f40dfd6f8a231752dccc852c08783e7fb8f5d5b7db45a5d6a",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/freeze.py",
+    "source_id": "landscape_interaction_v1/freeze.py",
+    "source_sha256": "5e2cde5e40a3ff9a7c4753d8d980439e5edb9e391c31132e1220db9cddfd691d",
+    "published_sha256": "5e2cde5e40a3ff9a7c4753d8d980439e5edb9e391c31132e1220db9cddfd691d",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/generators.py",
+    "source_id": "landscape_interaction_v1/generators.py",
+    "source_sha256": "051c19105775cc9b922ca66c4419cd093cf5fee2557e61396abc9d0220661e05",
+    "published_sha256": "051c19105775cc9b922ca66c4419cd093cf5fee2557e61396abc9d0220661e05",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/io_utils.py",
+    "source_id": "landscape_interaction_v1/io_utils.py",
+    "source_sha256": "963691d8e30786d3f30b6ddb5a6509ed2dc7c1f157643509e9d9d7209b2bf996",
+    "published_sha256": "963691d8e30786d3f30b6ddb5a6509ed2dc7c1f157643509e9d9d7209b2bf996",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/lineages.py",
+    "source_id": "landscape_interaction_v1/lineages.py",
+    "source_sha256": "21573e0e66585a66cbe39794ee857708fcd5905ab8038d776677b670cfc9e972",
+    "published_sha256": "21573e0e66585a66cbe39794ee857708fcd5905ab8038d776677b670cfc9e972",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/make_inputs.py",
+    "source_id": "landscape_interaction_v1/make_inputs.py",
+    "source_sha256": "5e9a19ddc8e91c317f7d1b1e5e110228a6989b15ad6111543d0aca862816e4c5",
+    "published_sha256": "5e9a19ddc8e91c317f7d1b1e5e110228a6989b15ad6111543d0aca862816e4c5",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/model.py",
+    "source_id": "landscape_interaction_v1/model.py",
+    "source_sha256": "d7974489491d7cf404cb5e5a3997fc0d147bc74c8b0863a37cb7c95bfba71bbd",
+    "published_sha256": "d7974489491d7cf404cb5e5a3997fc0d147bc74c8b0863a37cb7c95bfba71bbd",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/objectives.py",
+    "source_id": "landscape_interaction_v1/objectives.py",
+    "source_sha256": "bf8261f522efb4e3b46e1dcc43ab376532fecb8a471db004e91b2b85d73447a5",
+    "published_sha256": "bf8261f522efb4e3b46e1dcc43ab376532fecb8a471db004e91b2b85d73447a5",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/preparation_model.py",
+    "source_id": "landscape_interaction_v1/preparation_model.py",
+    "source_sha256": "b7d8728f4207cec27c131e97dd7e4b7611baa2bdf55d15e71a96b40a0d3270a4",
+    "published_sha256": "b7d8728f4207cec27c131e97dd7e4b7611baa2bdf55d15e71a96b40a0d3270a4",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/prepare_initial.py",
+    "source_id": "landscape_interaction_v1/prepare_initial.py",
+    "source_sha256": "bae0e805d5c1e2f9fa6fcc9028d92d3121ed8c09db19a3068b565cea44ea13a9",
+    "published_sha256": "bae0e805d5c1e2f9fa6fcc9028d92d3121ed8c09db19a3068b565cea44ea13a9",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/prepare_policy.py",
+    "source_id": "landscape_interaction_v1/prepare_policy.py",
+    "source_sha256": "729e9e1158dab03386296cc717bef15f909550f41980409e5beef252a47a893c",
+    "published_sha256": "729e9e1158dab03386296cc717bef15f909550f41980409e5beef252a47a893c",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/raw_audit.py",
+    "source_id": "landscape_interaction_v1/raw_audit.py",
+    "source_sha256": "7e6e7cd1c9c848de25c053647df8d0e34770af8627b4778a999d24e65e6e2769",
+    "published_sha256": "7e6e7cd1c9c848de25c053647df8d0e34770af8627b4778a999d24e65e6e2769",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/report.py",
+    "source_id": "landscape_interaction_v1/report.py",
+    "source_sha256": "04897c7ac98a540524518bf942a3bcb30561b1a90785ca93803e75470c44bc1b",
+    "published_sha256": "04897c7ac98a540524518bf942a3bcb30561b1a90785ca93803e75470c44bc1b",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/resource_guard055.py",
+    "source_id": "landscape_interaction_v1/resource_guard055.py",
+    "source_sha256": "0360941cd15adf77659c5f26b38721c107c76225e41a185e686b77dd8d1aaf0f",
+    "published_sha256": "0360941cd15adf77659c5f26b38721c107c76225e41a185e686b77dd8d1aaf0f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/runner.py",
+    "source_id": "landscape_interaction_v1/runner.py",
+    "source_sha256": "2c46d0adaab01cf086fb6b852bc9701451ae5bcdadd7c704d8bcf88679b4b8b3",
+    "published_sha256": "2c46d0adaab01cf086fb6b852bc9701451ae5bcdadd7c704d8bcf88679b4b8b3",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/seed_design.py",
+    "source_id": "landscape_interaction_v1/seed_design.py",
+    "source_sha256": "31a5117615704f49738e6ba49cc1d78271d7f94241e3756814737c45109bfd3f",
+    "published_sha256": "31a5117615704f49738e6ba49cc1d78271d7f94241e3756814737c45109bfd3f",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/test_focused.py",
+    "source_id": "landscape_interaction_v1/test_focused.py",
+    "source_sha256": "7f9c9d84d3b8db183682993d4e38143dba995a53a9e763763856546b91ec193d",
+    "published_sha256": "7f9c9d84d3b8db183682993d4e38143dba995a53a9e763763856546b91ec193d",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/transfer.py",
+    "source_id": "landscape_interaction_v1/transfer.py",
+    "source_sha256": "ce9f43c81dd8d713a5ac930a9a8fe5d0c96027b74f8958704d6007889a5c7644",
+    "published_sha256": "ce9f43c81dd8d713a5ac930a9a8fe5d0c96027b74f8958704d6007889a5c7644",
+    "transformation": "identity"
+  },
+  {
+    "path": "code/058/validate_analyze.py",
+    "source_id": "landscape_interaction_v1/validate_analyze.py",
+    "source_sha256": "204018bd4de9dadd2e1addc33f3d464efa47dd3cc3f1f35835c4ce8e15a464ba",
+    "published_sha256": "204018bd4de9dadd2e1addc33f3d464efa47dd3cc3f1f35835c4ce8e15a464ba",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/summary.json",
+    "source_id": "landscape_interaction_v1/ESTIMATES.json",
+    "source_sha256": "900a9452a5ae251620e5c937fdf1d887ed9f389b4a42b21cfe7ca1e6e631f665",
+    "published_sha256": "d139069fd6049f553edc82379f8840ee3e42e1bdd857e7fab5b3000c88b1cc4d",
+    "transformation": "Mean/ci95/classification projection; full native estimates retained."
+  },
+  {
+    "path": "results/058/BLOCK_SUMMARIES.jsonl",
+    "source_id": "landscape_interaction_v1/BLOCK_SUMMARIES.json",
+    "source_sha256": "fdb61f5476a5f927e3fbdbff97e33fcd13c9537171287c1aebfeaff634e22238",
+    "published_sha256": "159f0035263b44ecd14256ba5aed8765b8691060cc0e48f636f97fba70881658",
+    "transformation": "JSON array converted to JSON Lines; values unchanged."
+  },
+  {
+    "path": "provenance/058_AUDIT.json",
+    "source_id": "reviewer/058/SUPERVISOR_AUDIT.json",
+    "source_sha256": "06770f24b20c5d388c7ecb6ce109b7a0368ddf5f145a886e4a0a93a584438815",
+    "published_sha256": "06770f24b20c5d388c7ecb6ce109b7a0368ddf5f145a886e4a0a93a584438815",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/058/SUPERVISOR_AUDIT.json",
+    "source_id": "reviewer/058/SUPERVISOR_AUDIT.json",
+    "source_sha256": "06770f24b20c5d388c7ecb6ce109b7a0368ddf5f145a886e4a0a93a584438815",
+    "published_sha256": "06770f24b20c5d388c7ecb6ce109b7a0368ddf5f145a886e4a0a93a584438815",
+    "transformation": "identity"
+  },
+  {
+    "path": "results/QUOTED_058_STATISTICS.json",
+    "source_id": "manuscript-revision/QUOTED_058_STATISTICS.json",
+    "source_sha256": "09ba4dc94beed1102b1d1b080f25e20c13fb1a9137862dafdc5e395dceec2ff0",
+    "published_sha256": "09ba4dc94beed1102b1d1b080f25e20c13fb1a9137862dafdc5e395dceec2ff0",
+    "transformation": "identity"
+  },
+  {
+    "path": "figures/14_interacting_objective_founders.png",
+    "source_id": "manuscript-revision/figures/14_interacting_objective_founders.png",
+    "source_sha256": "f8df9292303b1bacdfb9f4cf4114d1aa22192035087db71ff31b85d22170862c",
+    "published_sha256": "f8df9292303b1bacdfb9f4cf4114d1aa22192035087db71ff31b85d22170862c",
+    "transformation": "identity"
+  },
+  {
+    "path": "figures/14_interacting_objective_founders.pdf",
+    "source_id": "manuscript-revision/figures/14_interacting_objective_founders.pdf",
+    "source_sha256": "3a04f6061b66908f1ee004cd9473eac8a8a5ce1bef5f2d6c2d04f90cc554cad5",
+    "published_sha256": "3a04f6061b66908f1ee004cd9473eac8a8a5ce1bef5f2d6c2d04f90cc554cad5",
+    "transformation": "identity"
+  },
+  {
+    "path": "figures/15_interacting_objective_population.png",
+    "source_id": "manuscript-revision/figures/15_interacting_objective_population.png",
+    "source_sha256": "2ee2487f3d6aba9044aa46f94388ddff468b3194cab66412ea5c5400e30af6f2",
+    "published_sha256": "2ee2487f3d6aba9044aa46f94388ddff468b3194cab66412ea5c5400e30af6f2",
+    "transformation": "identity"
+  },
+  {
+    "path": "figures/15_interacting_objective_population.pdf",
+    "source_id": "manuscript-revision/figures/15_interacting_objective_population.pdf",
+    "source_sha256": "747c01789326512aecbb8884abde82e71c480862bf6b6a0f9279fda269b6d5bc",
+    "published_sha256": "747c01789326512aecbb8884abde82e71c480862bf6b6a0f9279fda269b6d5bc",
+    "transformation": "identity"
+  },
+  {
+    "path": "figures/FIGURE_058_DATA.json",
+    "source_id": "manuscript-revision/FIGURE_058_DATA.json",
+    "source_sha256": "0f65822fe7288440828598a8dd0eb110d0f83f3b87fd185c764d4e26a927b445",
+    "published_sha256": "0f65822fe7288440828598a8dd0eb110d0f83f3b87fd185c764d4e26a927b445",
+    "transformation": "identity"
   }
 ]

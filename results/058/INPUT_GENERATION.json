@@ -1,0 +1,36 @@
+{
+  "seed_records": 3193,
+  "target_pair_getrandbits32": 48,
+  "policy_innovations_getrandbits32": 912,
+  "policy_copy_getrandbits1": 912,
+  "continuation_innovations_getrandbits32": 960,
+  "continuation_copy_getrandbits1": 960,
+  "stage_draws": {
+    "initial": {
+      "local_randrange32": 7864320,
+      "scout_getrandbits32": 245760,
+      "tie_random": 983040,
+      "label_shuffle": 192
+    },
+    "policy": {
+      "local_randrange32": 7864320,
+      "scout_getrandbits32": 245760,
+      "tie_random": 983040,
+      "label_shuffle": 192,
+      "fresh_getrandbits32": 245760,
+      "survival_getrandbits52": 983040
+    },
+    "continuation": {
+      "local_randrange32": 7864320,
+      "scout_getrandbits32": 245760,
+      "tie_random": 983040,
+      "label_shuffle": 192,
+      "fresh_getrandbits32": 245760,
+      "survival_getrandbits52": 983040
+    }
+  },
+  "bootstrap_randrange24": 48000,
+  "initial_survival_or_fresh_draws": 0,
+  "old_inputs_used": false,
+  "underlying_PRNG_word_count": "Not claimed; API-level calls only."
+}
