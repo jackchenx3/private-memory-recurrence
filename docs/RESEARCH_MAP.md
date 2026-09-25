@@ -2,12 +2,12 @@
 
 Jack Chen · 25 September 2026 · Documentation added after private-memory v1.5.0
 
-These four preprints address related questions in different abstract models. Follow the version DOI for a fixed paper and its repository for supporting material. Private-memory versions1.0–1.5 belong to one work. The guide adds no experiment or peer review. [Machine-readable catalog](RESEARCH_CATALOG.json).
+These four preprints address related questions in different abstract models. Follow the version DOI for a fixed paper and its repository for supporting material. Private-memory versions1.0–1.5 belong to one work. State-paper versions1.0–1.1 also belong to one work. The guide adds no experiment or peer review. [Machine-readable catalog](RESEARCH_CATALOG.json).
 
 | Question | Model and measured outcome | Main finding and boundary |
 |---|---|---|
 | [Does access to more adjustable regulatory directions improve subsequent adaptation from the same starting state?](https://zenodo.org/records/22821444) | 16-trait developmental-network model; matched trained states and a fixed proposal budget. | More available directions improved the fixed primary and matched opening/freezing contrasts under the tested constraints. Tighter tested bounds attenuated some paired capacity contrasts. |
-| [How does current population state change the transfer value of an inherited variation orientation?](https://zenodo.org/records/22907602) | Two-dimensional finite-population model; organized versus quarter-turned variation with equal covariance eigenvalues. | Both centroid and centered population configuration changed later rule effects. Prospective state-based choices improved on centroid-only choices in fresh histories. The improvement was below the prespecified usefulness target; unconditional switching was already strong and subgroup harms remained. |
+| [How does current population state change the transfer value of an inherited variation orientation?](https://zenodo.org/records/22956936) | Two-dimensional finite-population model; organized versus quarter-turned variation with equal covariance eigenvalues. | Both centroid and centered population configuration changed later rule effects. Prospective state-based choices improved on centroid-only choices in fresh histories. The improvement was below the prespecified usefulness target; unconditional switching was already strong and subgroup harms remained. |
 | [When does retained history improve population search relative to current donors, new children or fresh scouts?](https://zenodo.org/records/22907634) | 32-bit, 32-individual changing-target model; a shared four-record cache and matched objective-query budget. | Memory value depended on the comparator and recurrence. A fixed hybrid benefited from historical rather than current donors with scouting held fixed. The independent cohort only partly reproduced the complete cumulative ranking-switch prediction. |
 | [When does using an available private memory increase founder representation, and does population accuracy change in the same way?](https://zenodo.org/records/22950710) | 32-bit, 32-individual finite-budget model; private one-record caches, inherited policy labels and founder identities. | Future recurrence increased the matched historical-use founder effect at fixed prepared states; a new cohort reproduced its direction. A fixed interacting objective retained a positive recurrence effect. Frequent founder loss and adverse population outcomes remain; founder representation is distinct from collective accuracy. |
 
@@ -25,13 +25,13 @@ Verified version: **v1**. [Version DOI](https://doi.org/10.5281/zenodo.22821444)
 
 ### 2. Population state changes the transfer value of organized variation in a finite-population model
 
-Verified version: **1.0.0**. [Version DOI](https://doi.org/10.5281/zenodo.22907602) · [All-version DOI](https://doi.org/10.5281/zenodo.22907601) · [Repository](https://github.com/jackchenx3/state-dependent-variation) · [GitHub release](https://github.com/jackchenx3/state-dependent-variation/releases/tag/v1.0.0).
+Verified version: **1.1.0**. [Version DOI](https://doi.org/10.5281/zenodo.22956936) · [All-version DOI](https://doi.org/10.5281/zenodo.22907601) · [Repository](https://github.com/jackchenx3/state-dependent-variation) · [GitHub release](https://github.com/jackchenx3/state-dependent-variation/releases/tag/v1.1.0).
 
-**Interpretation.** More detailed local calculations improved one-step calibration but worsened terminal calibration. Neither a unique mediator nor a generally optimal policy is identified.
+**Interpretation.** Initial mean/covariance-matched reshaping attenuated the structured interaction by 0.740782 percentage points; the large interaction persisted and isotropic/direct-regime contrasts remain unresolved.  More detailed local calculations improved one-step calibration but worsened terminal calibration. Neither a unique mediator nor a generally optimal policy is identified.
 
-**Replication and reuse.** The prospective policy comparison uses 48 freshly trained histories. Independent continuations from fixed checkpoints test conditional responses; they are not additional independently trained cohorts.
+**Replication and reuse.** Study064 reuses original002 histories and continuation inputs; matching holds only at the intervention instant.  The prospective policy comparison uses 48 freshly trained histories. Independent continuations from fixed checkpoints test conditional responses; they are not additional independently trained cohorts.
 
-**Reuse terms.** Manuscript, figures and data: CC-BY-4.0. Original code: MIT; third-party terms remain separate. [Code license](https://github.com/jackchenx3/state-dependent-variation/blob/v1.0.0/LICENSE-CODE).
+**Reuse terms.** Manuscript, figures and data: CC-BY-4.0. Original code: MIT; third-party terms remain separate. [Code license](https://github.com/jackchenx3/state-dependent-variation/blob/v1.1.0/LICENSE-CODE).
 
 ### 3. Retained memory and fresh exploration under a matched evaluation budget in a changing-target population model
 
@@ -45,7 +45,7 @@ Verified version: **1.0.0**. [Version DOI](https://doi.org/10.5281/zenodo.229076
 
 ### 4. Environmental recurrence changes the transmission advantage of private memory in a finite-budget population model
 
-Verified version: **1.4.0**. [Version DOI](https://doi.org/10.5281/zenodo.22950710) · [All-version DOI](https://doi.org/10.5281/zenodo.22907236) · [Repository](https://github.com/jackchenx3/private-memory-recurrence) · [GitHub release](https://github.com/jackchenx3/private-memory-recurrence/releases/tag/v1.5.0).
+Verified version: **1.5.0**. [Version DOI](https://doi.org/10.5281/zenodo.22950710) · [All-version DOI](https://doi.org/10.5281/zenodo.22907236) · [Repository](https://github.com/jackchenx3/private-memory-recurrence) · [GitHub release](https://github.com/jackchenx3/private-memory-recurrence/releases/tag/v1.5.0).
 
 **Interpretation.** The pulse population-accuracy primary and bounded-observation noise interaction remain unresolved. Noise lowered average true accuracy. No noise equivalence, equilibrium invasion, spontaneous memory origin or general costly advantage is established.
 

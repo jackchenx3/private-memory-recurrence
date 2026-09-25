@@ -51,29 +51,30 @@
         }
       ],
       "resource_type": "preprint",
-      "verified_version": "1.0.0",
+      "verified_version": "1.1.0",
       "version_label_source": "zenodo_metadata",
-      "version_doi": "10.5281/zenodo.22907602",
+      "version_doi": "10.5281/zenodo.22956936",
       "concept_doi": "10.5281/zenodo.22907601",
-      "record_url": "https://zenodo.org/records/22907602",
+      "record_url": "https://zenodo.org/records/22956936",
       "repository_url": "https://github.com/jackchenx3/state-dependent-variation",
-      "release_url": "https://github.com/jackchenx3/state-dependent-variation/releases/tag/v1.0.0",
+      "release_url": "https://github.com/jackchenx3/state-dependent-variation/releases/tag/v1.1.0",
       "deposit_license": "CC-BY-4.0",
       "original_code_license": "MIT",
       "license_note": "Manuscript, figures and data: CC-BY-4.0. Original code: MIT; third-party terms remain separate.",
       "model": "Two-dimensional finite-population model; organized versus quarter-turned variation with equal covariance eigenvalues",
       "question": "How does current population state change the transfer value of an inherited variation orientation?",
-      "principal_bounded_finding": "Both centroid and centered population configuration changed later rule effects. Prospective state-based choices improved on centroid-only choices in fresh histories.",
+      "principal_bounded_finding": "Both centroid and centered population configuration changed later rule effects. Prospective state-based choices improved on centroid-only choices in fresh histories. The fixed initial-moment-matched reshaping reduced the structured interaction magnitude by 0.740782 percentage points while the large interaction persisted.",
       "adverse_or_unresolved": [
         "The improvement was below the prespecified usefulness target; unconditional switching was already strong and subgroup harms remained.",
         "More detailed local calculations improved one-step calibration but worsened terminal calibration.",
-        "Neither a unique mediator nor a generally optimal policy is identified."
+        "Neither a unique mediator nor a generally optimal policy is identified.",
+        "The reshaping effect is small; isotropic and direct-regime contrasts remain unresolved. Initial matching does not persist dynamically and identifies no unique higher-moment mediator."
       ],
-      "reuse_and_replication_boundary": "The prospective policy comparison uses 48 freshly trained histories. Independent continuations from fixed checkpoints test conditional responses; they are not additional independently trained cohorts.",
+      "reuse_and_replication_boundary": "The prospective policy comparison uses 48 freshly trained histories. Independent continuations from fixed checkpoints test conditional responses; they are not additional independently trained cohorts. Study064 reuses original002 histories and continuation randomness; it is not independent training replication.",
       "sources": [
-        "https://zenodo.org/records/22907602",
-        "https://zenodo.org/api/records/22907602",
-        "https://github.com/jackchenx3/state-dependent-variation/blob/v1.0.0/LICENSE-CODE"
+        "https://zenodo.org/records/22956936",
+        "https://zenodo.org/api/records/22956936",
+        "https://github.com/jackchenx3/state-dependent-variation/blob/v1.1.0/LICENSE-CODE"
       ]
     },
     {
