@@ -1,10 +1,10 @@
-# Research preprint v1.4.0
+# Research preprint v1.5.0
 
-This revision integrates the fixed observation-error challenge (060) into the existing private-memory paper. The primary noise-by-recurrence founder interaction remains unresolved: +1.635742 [-2.604370, +5.655924] percentage points. Exact and noisy founder recurrence effects remain positive above one expected descendant. Noise reduces absolute mean true population accuracy in both arms under both future laws; terminal effects remain unresolved. Founder transmission and population utility remain separate outcomes.
+This revision adds a separate 256-state mathematical model with two ordered one-bit individuals, supplied private caches and ongoing symmetric policy switching at 1/16. The primary recurrence effect on stationary historical-policy frequency is +0.458222476 percentage points. Active-minus-neutral population accuracy is adverse under ZERO (−0.259357994 points) and positive under HALF (+0.702715312 points). These small effects have exact residual-based numerical certificates. They are not statistical confidence intervals, independent empirical replication, stationary evidence for the published 32-individual model, or evidence of spontaneous memory origin.
 
-The release retains the unresolved pulse primary, frequent founder loss, all adverse outcomes, one prespecified noise level and the reuse of exact-observation 057 preparations. It does not establish noise equivalence or independent training replication.
+The 15,284 statistical estimates through study 060 remain separately registered from the 14 certified mathematical quantities of 061. Includes 18 figures, four saved matrices and vectors, source, certificates and a saved-certificate checker that does not perform a stationary solve or repeat the raw audit. The unresolved 059/060 primaries, frequent founder loss and all earlier adverse outcomes remain. The four-work guide/catalog is retained and updated; a version is not a new paper.
 
-Includes 17 figures and 15,284 saved-table estimates through 060, compact evidence and scientific source, 207 registered manuscript statistics, and preserved audit/portability records. Manuscript/data: CC BY 4.0; original code: MIT. Not externally peer reviewed; AI assistance disclosed. Large raw trajectories and random tapes are excluded. No new scientific experiment was run for this publication.
+Manuscript/data: CC BY 4.0; original code: MIT. Not externally peer reviewed; AI assistance disclosed. No new scientific execution was run for publication.
 
-Version DOI: https://doi.org/10.5281/zenodo.22949032
-Previous v1.3.0 DOI and all prior tags remain unchanged: https://doi.org/10.5281/zenodo.22939403
+Version DOI: https://doi.org/10.5281/zenodo.22950710
+Previous v1.4.0 and all earlier versions remain unchanged: https://doi.org/10.5281/zenodo.22949032

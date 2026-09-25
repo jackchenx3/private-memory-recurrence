@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "tests": 12,
+  "failures": 0,
+  "errors": 0,
+  "elapsed_seconds": 1.345688819885254,
+  "production_matrices": 0,
+  "production_stationary_vectors": 0,
+  "prespecified_rows_checked": 32,
+  "independent_row_numerators": 8192,
+  "constructed_two_state_vectors": 101,
+  "simulation_paths": 0,
+  "random_draws": 0
+}

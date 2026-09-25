@@ -1,9 +1,9 @@
 {
-  "accepted_working_manuscript_sha256": "a706d4a5c60a371bff261c12d97aaaf4b14bbd41533cfdab0d33ab948d1e16a9",
-  "accepted_working_supplement_sha256": "51b16cef3149500e7484fc32650a903782a776e4f7108d1f17e888eb808de5f1",
-  "scientific_content": "Accepted060 draft retained: unresolved noise-by-recurrence founder primary and prior059 population primary; positive exact/noisy recurrence; adverse mean true accuracy; reused exact preparations and preserved harmless portability discrepancy. Publication metadata, availability and links updated only.",
+  "accepted_working_manuscript_sha256": "e768bcccbf7d9580574b7860ca840bdcfe6fcadaca6bbd1d9e6df0774756552e",
+  "accepted_working_supplement_sha256": "df90d9d9e496e58504d3aaa8417a56e8683296d5c3fa998c6b22e97987de70e4",
+  "scientific_content": "Accepted061 draft retained: small positive stationary H recurrence contrast in a separate supplied-memory model; adverse ZERO and positive HALF active-minus-neutral accuracy; prior059/060 unresolved primaries unchanged. Only publication metadata, availability, links and guide updated.",
   "prior_publication_preserved": true,
   "new_population_paths": 0,
-  "source_formats": "Native estimates retained with explicit normalized summary/JSON Lines projections. Larger text tables use lossless gzip.",
+  "new_stationary_solves": 0,
   "publication_date": "2026-09-25"
 }

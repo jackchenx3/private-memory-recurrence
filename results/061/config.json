@@ -1,0 +1,60 @@
+{
+  "task_id": "ORG-STATIONARY-061",
+  "revision": 1,
+  "task_sha256": "09ef33b340e2aa25228ab76b8d8cbd7d3fb6ace53c378f9b8e16c41c6873ee98",
+  "kernels": [
+    "ACTIVE_ZERO",
+    "ACTIVE_HALF",
+    "NEUTRAL_ZERO",
+    "NEUTRAL_HALF"
+  ],
+  "states": 256,
+  "population_size": 2,
+  "bits": 1,
+  "local_flip_probability": "1/4",
+  "policy_flip_probability": "1/16",
+  "recurrence": [
+    "0",
+    "1/2"
+  ],
+  "candidate_slots": 8,
+  "L": 1441440,
+  "D": 377864847360,
+  "branches_per_row": 28672,
+  "branches_per_kernel": 7340032,
+  "literal_branches_total": 29360128,
+  "transition_numerators": 262144,
+  "stationary_entries": 1024,
+  "decimal_precision": 80,
+  "rounding_grid_digits": 60,
+  "rounding": "ties_to_even",
+  "residual_criterion": "1/10^30",
+  "two_step_entry_lower_bound": "1/966367641600",
+  "alpha": "1/3774873600",
+  "outcomes": 14,
+  "primary": "ACTIVE_HALF_MINUS_ZERO|H",
+  "audit_rows": [
+    0,
+    36,
+    85,
+    113,
+    142,
+    170,
+    219,
+    255
+  ],
+  "audit_numerators": 8192,
+  "resources": {
+    "cpus": 1,
+    "memory_GiB": 4,
+    "minutes": 30,
+    "partition": "norm"
+  },
+  "timeout_seconds": 1770,
+  "max_production_allocations": 1,
+  "delivery_budget_bytes": 67108864,
+  "simulation_paths": 0,
+  "seeds": 0,
+  "bootstrap_rows": 0,
+  "main_figures": 1
+}

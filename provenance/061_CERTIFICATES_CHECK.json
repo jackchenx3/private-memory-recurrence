@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "kind": "certified_stationary_mathematics",
+  "certificates": 4,
+  "records": 14,
+  "quoted_records": 14,
+  "figure_records": 11,
+  "figure_numeric_bindings": 27,
+  "statistical_estimates_added": 0,
+  "raw_transition_rows_reconstructed": 0,
+  "stationary_solves": 0,
+  "population_paths": 0,
+  "scope": "Saved rational matrix/vector residual and outcome verification; original focused transition audit is retained, not repeated."
+}

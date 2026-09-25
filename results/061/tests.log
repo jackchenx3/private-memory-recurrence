@@ -1,0 +1,17 @@
+test14_catalog_rewards_contrasts_and_outward_enclosures (__main__.Tests) ... ok
+test32_rows_literal_independent_reconstruction (__main__.Tests) ... ok
+test_all_state_encodings (__main__.Tests) ... ok
+test_denominator_and_literal_counts (__main__.Tests) ... ok
+test_dependencies_and_python36_syntax (__main__.Tests) ... ok
+test_duplicate_slots_cache_and_donors (__main__.Tests) ... ok
+test_policy_flips_and_survivor_order (__main__.Tests) ... ok
+test_prespecified_row_symmetries (__main__.Tests) ... ok
+test_rounding_rejection_and_fixed_grid (__main__.Tests) ... ok
+test_sequential_selection_all_weight_patterns (__main__.Tests) ... ok
+test_small_chain_fixed_solver_and_certificate (__main__.Tests) ... ok
+test_targets_and_joint_weights (__main__.Tests) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 1.345s
+
+OK

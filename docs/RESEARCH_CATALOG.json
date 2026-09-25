@@ -119,29 +119,30 @@
         }
       ],
       "resource_type": "preprint",
-      "verified_version": "1.4.0",
+      "verified_version": "1.5.0",
       "version_label_source": "zenodo_metadata",
-      "version_doi": "10.5281/zenodo.22949032",
+      "version_doi": "10.5281/zenodo.22950710",
       "concept_doi": "10.5281/zenodo.22907236",
-      "record_url": "https://zenodo.org/records/22949032",
+      "record_url": "https://zenodo.org/records/22950710",
       "repository_url": "https://github.com/jackchenx3/private-memory-recurrence",
-      "release_url": "https://github.com/jackchenx3/private-memory-recurrence/releases/tag/v1.4.0",
+      "release_url": "https://github.com/jackchenx3/private-memory-recurrence/releases/tag/v1.5.0",
       "deposit_license": "CC-BY-4.0",
       "original_code_license": "MIT",
       "license_note": "Manuscript, figures and data: CC-BY-4.0. Original code: MIT; third-party terms remain separate.",
-      "model": "32-bit, 32-individual finite-budget model; private one-record caches, inherited policy labels and founder identities",
+      "model": "32-bit, 32-individual finite-budget model; private one-record caches, inherited policy labels and founder identities; separate 061 two-individual/one-bit stationary model with supplied storage and ongoing symmetric policy switching",
       "question": "When does using an available private memory increase founder representation, and does population accuracy change in the same way?",
-      "principal_bounded_finding": "Future recurrence increased the matched historical-use founder effect at fixed prepared states; a new cohort reproduced its direction. A fixed interacting objective retained a positive recurrence effect.",
+      "principal_bounded_finding": "Future recurrence increased the matched historical-use founder effect at fixed prepared states; a new cohort reproduced its direction. A fixed interacting objective retained a positive recurrence effect. The separate stationary model certifies a small +0.458222476-point recurrence effect on H frequency.",
       "adverse_or_unresolved": [
         "Frequent founder loss and adverse population outcomes remain; founder representation is distinct from collective accuracy.",
         "The pulse population-accuracy primary and bounded-observation noise interaction remain unresolved. Noise lowered average true accuracy.",
-        "No noise equivalence, equilibrium invasion, spontaneous memory origin or general costly advantage is established."
+        "No noise equivalence, equilibrium invasion, spontaneous memory origin or general costly advantage is established.",
+        "In the separate stationary model, active-minus-neutral accuracy is adverse under ZERO and positive under HALF; numerical enclosures are not confidence intervals or stationary evidence for the 32-individual model."
       ],
-      "reuse_and_replication_boundary": "Studies046,052 and057 contain separately identified independent-cohort tests. Studies059 and060 reuse057 preparations;058 has new paired objective-specific inputs. Releases1.0–1.4 are versions of one work, not separate replications.",
+      "reuse_and_replication_boundary": "Studies046,052 and057 contain separately identified independent-cohort tests. Studies059 and060 reuse057 preparations;058 has new paired objective-specific inputs. Releases1.0\u20131.5 are versions of one work, not separate replications. Study061 is a distinct mathematical model, not a new empirical replication.",
       "sources": [
-        "https://zenodo.org/records/22949032",
-        "https://zenodo.org/api/records/22949032",
-        "https://github.com/jackchenx3/private-memory-recurrence/blob/v1.4.0/LICENSE-CODE"
+        "https://zenodo.org/records/22950710",
+        "https://zenodo.org/api/records/22950710",
+        "https://github.com/jackchenx3/private-memory-recurrence/blob/v1.5.0/LICENSE-CODE"
       ]
     }
   ]

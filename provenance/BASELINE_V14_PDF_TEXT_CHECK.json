@@ -1,0 +1,42 @@
+{
+  "MANUSCRIPT": {
+    "pages": 32,
+    "inspect_pages": [
+      1,
+      2,
+      30,
+      31,
+      32
+    ],
+    "out_of_page_characters": [],
+    "sha256": "3a92eb9e61b7015c6e8bdafd0ade64707b1d3f3916a4aecad520b3d20f453290"
+  },
+  "SUPPLEMENT": {
+    "pages": 11,
+    "inspect_pages": [
+      1,
+      2,
+      6,
+      10,
+      11
+    ],
+    "out_of_page_characters": [],
+    "sha256": "9fe512753efe9de36b0ff97eb7d2024826eb524690b76eb57a1ef273f54017b3"
+  },
+  "figure_bindings": [
+    "EXACT_Q_HALF_MINUS_ZERO|EFFECT|D40",
+    "NOISY_Q_HALF_MINUS_ZERO|EFFECT|D40",
+    "NOISE_BY_RECURRENCE|EFFECT|D40",
+    "NOISY_MINUS_EXACT_AT_Q_ZERO|SWITCH_POP|U",
+    "NOISY_MINUS_EXACT_AT_Q_ZERO|STAY_POP|U",
+    "NOISY_MINUS_EXACT_AT_Q_HALF|SWITCH_POP|U",
+    "NOISY_MINUS_EXACT_AT_Q_HALF|STAY_POP|U"
+  ],
+  "status": "PASS",
+  "visual_review": "PASS",
+  "visual_scope": "All 43 pages pass text/bounds checks. Final publication manuscript pages 1,2,30,31,32 and supplement 1,2,6,10,11 inspected in four rendered contact sheets. Other changed scientific pages and figure17 were inspected in the completed accepted draft. No clipping, overlapping text or broken tables observed.",
+  "pdf_hashes": {
+    "MANUSCRIPT": "3a92eb9e61b7015c6e8bdafd0ade64707b1d3f3916a4aecad520b3d20f453290",
+    "SUPPLEMENT": "9fe512753efe9de36b0ff97eb7d2024826eb524690b76eb57a1ef273f54017b3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "completed_kernels": 4,
+  "stationary_solve_attempts": 4,
+  "accepted_vectors": 4,
+  "certified_vectors": 4,
+  "transition_numerators": 262144,
+  "stationary_entries": 1024,
+  "literal_branches": 29360128,
+  "simulation_paths": 0,
+  "random_draws": 0,
+  "bootstrap_rows": 0
+}

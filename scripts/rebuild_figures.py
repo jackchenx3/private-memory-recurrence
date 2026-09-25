@@ -123,3 +123,7 @@ subprocess.run([sys.executable,str(ROOT/'scripts/rebuild_060_figure.py'),'--outp
 records += json.loads((OUT/'FIGURE_060_DATA.json').read_text())
 (OUT/'FIGURE_DATA.json').write_text(json.dumps(records,indent=2)+'\n')
 print(json.dumps(dict(figures=17,numerical_records=len(records),new_simulations=0)))
+
+# Separate stationary mathematical records keep their own uncertainty schema.
+subprocess.run([sys.executable,str(ROOT/'scripts/rebuild_061_figure.py'),'--output-dir',str(OUT)],check=True)
+print(json.dumps(dict(figures=18,statistical_figure_records=len(records),mathematical_figure_records=11,new_simulations=0,new_stationary_solves=0)))

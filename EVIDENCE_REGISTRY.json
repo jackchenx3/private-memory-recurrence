@@ -1,0 +1,27 @@
+{
+  "scope": "Research preprint v1.5.0; statistical and certified mathematical quantities stay distinct",
+  "statistical_estimates": {
+    "count": 15284,
+    "studies": "045-060",
+    "check": "scripts/reproduce_statistics.py",
+    "receipt": "provenance/STATISTICS_CHECK.json",
+    "reuse": "provenance/REVISION_061_CHECK_REUSE.json",
+    "uncertainty": "Approximate pointwise block-bootstrap intervals"
+  },
+  "certified_mathematical_quantities": {
+    "count": 14,
+    "study": "061",
+    "check": "scripts/check_061_certificates.py",
+    "receipt": "provenance/061_CERTIFICATES_CHECK.json",
+    "registry": "provenance/MATHEMATICAL_STUDIES.json",
+    "uncertainty": "Exact residual-based numerical enclosures"
+  },
+  "figures": {
+    "count": 18,
+    "statistical_binding_registry": "figures/FIGURE_DATA.json",
+    "mathematical_binding_registry": "figures/FIGURE_061_DATA.json",
+    "new_mathematical_numeric_bindings": 27
+  },
+  "new_scientific_execution_for_draft": false,
+  "version": "1.5.0"
+}

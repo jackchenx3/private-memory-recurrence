@@ -5,8 +5,8 @@ title: "Private memory, environmental recurrence and strategy transmission: rese
 authors:
   - family-names: Chen
     given-names: Jack
-version: 1.4.0
-doi: "10.5281/zenodo.22949032"
+version: 1.5.0
+doi: "10.5281/zenodo.22950710"
 date-released: '2026-09-25'
 repository-code: "https://github.com/jackchenx3/private-memory-recurrence"
 license: MIT
@@ -17,7 +17,7 @@ preferred-citation:
     - family-names: Chen
       given-names: Jack
   year: 2026
-  doi: "10.5281/zenodo.22949032"
-  version: 1.4.0
-  url: "https://doi.org/10.5281/zenodo.22949032"
+  doi: "10.5281/zenodo.22950710"
+  version: 1.5.0
+  url: "https://doi.org/10.5281/zenodo.22950710"
   notes: "Research preprint; not externally peer reviewed. Manuscript and data are CC BY 4.0."

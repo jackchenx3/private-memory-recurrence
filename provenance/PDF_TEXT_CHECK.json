@@ -1,42 +1,36 @@
 {
   "MANUSCRIPT": {
-    "pages": 32,
+    "pages": 34,
     "inspect_pages": [
       1,
       2,
       30,
       31,
-      32
+      32,
+      33,
+      34
     ],
     "out_of_page_characters": [],
-    "sha256": "3a92eb9e61b7015c6e8bdafd0ade64707b1d3f3916a4aecad520b3d20f453290"
+    "sha256": "11fa916f1fb84af486077a51b809a3897b63f3a03226993d43c009a49197b9ec"
   },
   "SUPPLEMENT": {
-    "pages": 11,
+    "pages": 14,
     "inspect_pages": [
       1,
       2,
-      6,
-      10,
-      11
+      11,
+      12,
+      13,
+      14
     ],
     "out_of_page_characters": [],
-    "sha256": "9fe512753efe9de36b0ff97eb7d2024826eb524690b76eb57a1ef273f54017b3"
+    "sha256": "0e4aa8aeeb7609b3aeb763968bd0a3f598a2a0250b26a8adda1ce9e1a553d20a"
   },
-  "figure_bindings": [
-    "EXACT_Q_HALF_MINUS_ZERO|EFFECT|D40",
-    "NOISY_Q_HALF_MINUS_ZERO|EFFECT|D40",
-    "NOISE_BY_RECURRENCE|EFFECT|D40",
-    "NOISY_MINUS_EXACT_AT_Q_ZERO|SWITCH_POP|U",
-    "NOISY_MINUS_EXACT_AT_Q_ZERO|STAY_POP|U",
-    "NOISY_MINUS_EXACT_AT_Q_HALF|SWITCH_POP|U",
-    "NOISY_MINUS_EXACT_AT_Q_HALF|STAY_POP|U"
-  ],
   "status": "PASS",
   "visual_review": "PASS",
-  "visual_scope": "All 43 pages pass text/bounds checks. Final publication manuscript pages 1,2,30,31,32 and supplement 1,2,6,10,11 inspected in four rendered contact sheets. Other changed scientific pages and figure17 were inspected in the completed accepted draft. No clipping, overlapping text or broken tables observed.",
+  "visual_scope": "Supervisor inspected four rendered contact sheets: manuscript1,2,30-34; supplement1,2,11-14. All48pages pass text/bounds checks. Other scientific pages were visually verified in the accepted draft. No clipping, overlap or broken tables observed. Figure18 remains byte-identical to accepted draft.",
   "pdf_hashes": {
-    "MANUSCRIPT": "3a92eb9e61b7015c6e8bdafd0ade64707b1d3f3916a4aecad520b3d20f453290",
-    "SUPPLEMENT": "9fe512753efe9de36b0ff97eb7d2024826eb524690b76eb57a1ef273f54017b3"
+    "MANUSCRIPT": "11fa916f1fb84af486077a51b809a3897b63f3a03226993d43c009a49197b9ec",
+    "SUPPLEMENT": "0e4aa8aeeb7609b3aeb763968bd0a3f598a2a0250b26a8adda1ce9e1a553d20a"
   }
 }

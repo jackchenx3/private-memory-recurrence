@@ -1,0 +1,50 @@
+{
+  "ACTIVE_ZERO": {
+    "status": "PASS",
+    "normalization": "integer row sums exactly D",
+    "global_complement_entries": 65536,
+    "neutral_label_entries": 0,
+    "support": {
+      "strongly_connected_classes": 1,
+      "period": 1,
+      "positive_entries": 23808,
+      "positive_diagonal": 128
+    }
+  },
+  "ACTIVE_HALF": {
+    "status": "PASS",
+    "normalization": "integer row sums exactly D",
+    "global_complement_entries": 65536,
+    "neutral_label_entries": 0,
+    "support": {
+      "strongly_connected_classes": 1,
+      "period": 1,
+      "positive_entries": 23808,
+      "positive_diagonal": 128
+    }
+  },
+  "NEUTRAL_ZERO": {
+    "status": "PASS",
+    "normalization": "integer row sums exactly D",
+    "global_complement_entries": 65536,
+    "neutral_label_entries": 65536,
+    "support": {
+      "strongly_connected_classes": 1,
+      "period": 1,
+      "positive_entries": 23808,
+      "positive_diagonal": 128
+    }
+  },
+  "NEUTRAL_HALF": {
+    "status": "PASS",
+    "normalization": "integer row sums exactly D",
+    "global_complement_entries": 65536,
+    "neutral_label_entries": 65536,
+    "support": {
+      "strongly_connected_classes": 1,
+      "period": 1,
+      "positive_entries": 23808,
+      "positive_diagonal": 128
+    }
+  }
+}

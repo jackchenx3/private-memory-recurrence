@@ -1,0 +1,13 @@
+{
+  "task_id": "ORG-STATIONARY-061",
+  "revision": 1,
+  "freeze_unix": 1790303647.5559528,
+  "assignment_sha256": "09ef33b340e2aa25228ab76b8d8cbd7d3fb6ace53c378f9b8e16c41c6873ee98",
+  "state_index_sha256": "ae75882de3fdaa1c04b24b4091b6c1097f01f7207cc2d35dcade2de973f90be7",
+  "catalog_sha256": "9a88898cc6989fe47e30cedbe7ae19adaa5eb5f7370c29675643cf285360b7c3",
+  "production_matrices": 0,
+  "production_stationary_vectors": 0,
+  "allowed_audit_rows_checked": 32,
+  "simulation_paths": 0,
+  "random_draws": 0
+}

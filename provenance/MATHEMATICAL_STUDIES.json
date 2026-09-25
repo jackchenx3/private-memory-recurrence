@@ -1,0 +1,15 @@
+[
+  {
+    "study": "061",
+    "model": "two ordered one-bit individuals with supplied private memory and ongoing symmetric policy switching",
+    "new_stationary_kernels": 4,
+    "states_per_kernel": 256,
+    "records": 14,
+    "outcomes": "results/061/OUTCOMES.json",
+    "audit": "provenance/061_AUDIT.json",
+    "statistical_replicates": 0,
+    "interval_kind": "residual-based numerical enclosures",
+    "source_manifest_sha256": "3cc9771cf50df137af0a2e9913a237c6bd68fe3765504e7602721426dcd18f54",
+    "delivery_manifest_sha256": "b98bded6c8171b3ae672967ba10e7d01ecb0080542a74881f2d47e25aac956e1"
+  }
+]

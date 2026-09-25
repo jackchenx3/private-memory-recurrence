@@ -1,8 +1,8 @@
 # Supporting information: private memory and environmental recurrence
 
-Jack Chen · Research preprint v1.4.0 · 25 September 2026
+Jack Chen · Research preprint v1.5.0 · 25 September 2026
 
-This document accompanies the [research manuscript](MANUSCRIPT.md). It identifies what each comparison measures, which populations are independently prepared, and what a reader can reproduce from this compact release. All outcomes are from an abstract bit-string population model.
+This document accompanies the [research manuscript](MANUSCRIPT.md). It identifies what each comparison measures, which populations are independently prepared, and what a reader can reproduce from this compact release. Population outcomes come from the abstract 32-individual bit-string model. Section S15 separately defines a two-individual stationary mathematical model.
 
 ## S1. What the findings establish
 
@@ -32,6 +32,7 @@ The 055 experiment and its saved-record reconstruction were complete before manu
 | 058 | Paired Hamming/four-bit-trap objective challenge | 384 initial preparations, 768 HALF policy preparations and 4,608 transfers; new cohort, objectives share indexed inputs |
 | 059 | One-update fresh-expression pulse with label-only reversion | 960 new transfers on all 192 reused 057 HALF/H preparations; new inputs, terminal accuracy primary unresolved |
 | 060 | Bounded measurement error crossed with future recurrence | 2,304 new transfers on all 192 reused 057 HALF/F preparations; primary interaction unresolved; exact and noisy founder recurrence effects positive |
+| 061 | Separate stationary mathematical model with symmetric policy switching | Four exact 256-state kernels; 14 certified quantities; no sampled paths or independent population cohort |
 
 The identifiers are archival study identifiers, not a count of independent experiments supporting every claim. A reused control can appear in several tables without becoming new evidence. All numerical grids are indexed in the [study catalog](../provenance/STUDIES.json). This revision also supplies the complete [056 estimates](../results/056/ESTIMATES.json) and [057 estimates](../results/057/ESTIMATES.json), their block aggregates and bootstrap rows.
 
@@ -153,7 +154,7 @@ The compact release includes [all 058 estimates](../results/058/ESTIMATES.json),
 python scripts/check_058_statistics.py
 ```
 
-This command checks the 114 additions using included block summaries and resampling rows only; the unified script in S9 verifies all 15,284 estimates. Public 058 exports also include scientific operators, seed provenance, path metrics, fates, declines, negative records and founder/utility disagreements; larger text tables are losslessly compressed. Raw candidate trajectories and random tapes remain outside the compact release. The source map records every exported source and any administrative transformation. Rebuild figures 14 and 15 with `python scripts/rebuild_058_figures.py`, or use the top-level figure command for all 17. These scripts generate no scientific trajectories. [Version 1.2.0 DOI](https://doi.org/10.5281/zenodo.22933218); all earlier version records are preserved.
+This command checks the 114 additions using included block summaries and resampling rows only; the unified script in S9 verifies all 15,284 estimates. Public 058 exports also include scientific operators, seed provenance, path metrics, fates, declines, negative records and founder/utility disagreements; larger text tables are losslessly compressed. Raw candidate trajectories and random tapes remain outside the compact release. The source map records every exported source and any administrative transformation. Rebuild figures 14 and 15 with `python scripts/rebuild_058_figures.py`, or use the top-level figure command for all 18. These scripts generate no scientific trajectories. [Version 1.2.0 DOI](https://doi.org/10.5281/zenodo.22933218); all earlier version records are preserved.
 
 ## S13. One-update pulse and persistent founder ancestry
 
@@ -175,7 +176,7 @@ The additions include [all 059 estimates](../results/059/ESTIMATES.json), [block
 python scripts/check_059_statistics.py
 ```
 
-The study-specific check covers 36 new estimates; the unified command in S9 verifies all 15,284 estimates. Public exports include the scientific source through 059 and document each administrative transformation. Rebuild figure 16 using `python scripts/rebuild_059_figure.py`, or use the top-level command for all 17 figures. Raw candidate trajectories and random tapes remain outside the compact release. [Version 1.3.0 DOI](https://doi.org/10.5281/zenodo.22939403); all earlier version records are preserved.
+The study-specific check covers 36 new estimates; the unified command in S9 verifies all 15,284 estimates. Public exports include the scientific source through 059 and document each administrative transformation. Rebuild figure 16 using `python scripts/rebuild_059_figure.py`, or use the top-level command for all 18 figures. Raw candidate trajectories and random tapes remain outside the compact release. [Version 1.3.0 DOI](https://doi.org/10.5281/zenodo.22939403); all earlier version records are preserved.
 
 ## S14. Bounded measurement error in private-memory transfer
 
@@ -201,3 +202,63 @@ python scripts/rebuild_060_figure.py
 ```
 
 The study-specific command checks 81 additions. The unified command in S9 checks all 15,284 estimates through 060. Figure 17 binds seven saved mean/interval pairs; no scientific trajectory or random draw is generated by either command. [Version 1.4.0 DOI](https://doi.org/10.5281/zenodo.22949032); public v1.3.0 and all earlier versions remain preserved.
+
+## S15. A separate stationary model with supplied memory
+
+### Complete state and update order
+
+Each of two ordered individuals has genotype g, private cache c and policy h, all bits, with H=1 and F=0. The last two targets are a,b, where b is current. The complete post-update state has ID g0 + 2c0 + 4h0 + 8g1 + 16c1 + 32h1 + 64a + 128b, giving 256 states. There are no founder identities or timestamps in this model. The following order defines a different mathematical process from the 32-individual simulator.
+
+First draw target e. ZERO gives each bit probability 1/2. HALF copies a with probability 1/2 and otherwise draws a fair bit, so P(e=a)=3/4 and P(e!=a)=1/4. Independently draw fair fresh-probe and scout bits for both recipients, and independent local-flip bits with probability 1/4. All variables are drawn even when unused. Under active probes, H reads its own cache and F uses its fresh bit; under neutral probes every label uses a fresh bit. Each local child starts from the genotype with lowest mismatch to e among its recipient's parent, probe and scout, then applies its local flip. On the one-bit objective, tied minimum-score genotypes are identical.
+
+Eight candidate slots are ordered parent0, parent1, probe0, probe1, scout0, scout1, child0, child1. Duplicates are distinct slots. A retained parent keeps its (g,c,h); a nonparent has the proposed genotype, its recipient's old genotype as cache, and its recipient's policy. Donor/source labels are not inherited. All eight slots are charged, and no policy cost is imposed. Weight w is two for a match to e and one for a mismatch. For W equal to the sum of weights, ordered survivor slots j,k, j!=k, have probability w_j w_k/[W(W-w_j)]. This exact sequential sampling rule is defined directly, without a floating exponential-race identity. Each survivor then independently flips policy with probability 1/16; cache and genotype are unchanged. The final target pair is (b,e).
+
+The four kernels cross active/neutral probes and ZERO/HALF recurrence. No rate grid or population-size extension was run. With rows and columns ordered by state ID, P=A/D uses nonnegative integer A and D=377864847360. Let L be the least common multiple of W(W-w) for W=8,...,16 and w in {1,2}; L=1441440. Then D=4 x 16 x 16 x 256 x L. These factors cover the target, fair probe/scout, local-flip and policy-flip probabilities; the selection denominator divides L. Every row sums exactly to D. Literal expansion has 28,672 branches per row, or 29,360,128 across all four kernels; 262,144 transition numerators are stored.
+
+### Uniqueness and the residual certificate
+
+From any starting state, reach any desired final state in two updates by selecting scout0 then scout1 at both updates. Choose first-update scout genotypes to equal the desired final caches, second-update scout genotypes to equal the desired final genotypes, and the successive targets to equal the desired final target pair. First-update switches can set both policies to F; second-update switches set any desired policies. Because nonparent caches store recipient genotypes, this also gives the desired final caches.
+
+At each update the specified scout pair has probability 1/4, the specified target at least 1/4, the ordered scout selections at least 1/(16 x 15), and the specified policy pair at least 1/256. Other draws are unrestricted. Thus every entry of P squared is at least b0=(1/983040)^2=1/966367641600. All four finite chains are irreducible and aperiodic and have a unique stationary distribution pi. Uniform two-step minorization has alpha=256b0=1/3774873600. The computed support graphs each have one strongly connected class and period one, consistent with this argument.
+
+For each exact kernel, fixed 80-decimal-digit elimination with deterministic pivoting solves the stationary equations and normalization. Each component is rounded to a multiple of 10^-60, ties to even, giving nonnegative integers k_i. Negative components or a zero total would be rejected, not clipped. Let K=sum(k_i), p_i=k_i/K and R=sum_j |sum_i k_i A_ij - k_j D|. Arbitrary-precision integer arithmetic gives r=R/(KD)=||pP-p||_1 exactly. The fixed acceptance criterion is r<=10^-30. No precision increase or fallback solve follows a result's sign.
+
+Two-step minorization contracts total variation by at most 1-alpha. Moreover, ||pP^2-p||_1<=2r, because Markov multiplication cannot increase the L1 norm of a signed measure. Therefore ||p-pi||_1<=2r/alpha, and TV(p,pi)<=min(1,r/alpha)=E. For any reward in [0,1], the expectation error is at most E. Difference radii sum their component bounds; subtracting the exact one-half reference adds no error. Primitive enclosures are intersected with [0,1]. All four residuals are below 6.31 x 10^-59, and E is below 2.38 x 10^-49. These numerical bounds do not quantify uncertainty about assumptions or generalization.
+
+Neutral matrices are invariant under complementing both policy bits. Uniqueness then implies stationary mean H=1/2 exactly. All matrices also satisfy joint genotype/cache/target complementation. These symmetries were checked entry by entry, without forcing solver symmetry. Ordered survivor sampling does not assume exchangeability of the output slots.
+
+### Fixed outcomes, including adverse comparisons
+
+The H reward is (h0+h1)/2. Current population accuracy U is 1-[(g0 XOR b)+(g1 XOR b)]/2. The eight kernel means and six fixed contrasts below constitute all 14 outcomes. The sole primary is active HALF-minus-ZERO H. A positive lower numerical bound certifies a positive sign; a negative upper bound certifies a negative sign. A zero-containing enclosure would not certify a sign without a separate exact identity. There is no sampling uncertainty, statistical confidence interval, one-descendant benchmark or equilibrium-invasion interpretation here. Values below are rounded for display; exact centers and outward-rounded bounds are in the saved table.
+
+| Quantity | Value | Unit | Direction |
+|---|---:|---|---|
+| Active ZERO: H | 49.976079146 | percent | mean |
+| Active ZERO: U | 67.222586967 | percent | mean |
+| Active HALF: H | 50.434301623 | percent | mean |
+| Active HALF: U | 68.775118376 | percent | mean |
+| Neutral ZERO: H | 50.000000000 | percent | mean |
+| Neutral ZERO: U | 67.481944961 | percent | mean |
+| Neutral HALF: H | 50.000000000 | percent | mean |
+| Neutral HALF: U | 68.072403064 | percent | mean |
+| Active HALF - ZERO: H (primary) | 0.458222476 | points | positive |
+| Active ZERO H - one-half | -0.023920854 | points | negative |
+| Active HALF H - one-half | 0.434301623 | points | positive |
+| Active HALF - ZERO: U | 1.552531409 | points | positive |
+| Active - neutral ZERO: U | -0.259357994 | points | negative |
+| Active - neutral HALF: U | 0.702715312 | points | positive |
+
+The H-frequency effect is small: active ZERO is slightly below the neutral share, whereas active HALF is above it. Active accuracy is lower than neutral accuracy under ZERO and higher under HALF. These are separate outcomes; their co-occurrence does not establish causal mediation by H frequency. This minimal model supplies storage and policies, so it does not establish memory origin, biological rates, general costly advantage or practical optimizer usefulness. It also does not establish stationarity, equilibrium invasibility or evolutionary stability in the larger model. Studies 059 and 060 retain their unresolved primaries.
+
+### Verification and archived source
+
+Twelve preproduction constructed-fixture tests passed. One HPC job completed in 14 seconds with one CPU, 4 GiB requested memory and a 30-minute allocation limit. Four kernels and four stationary vectors were computed once; no sampled path, random seed, bootstrap or burn-in was used. The supervisor independently reconstructed the 32 prospectively selected rows (IDs 0,36,85,113,142,170,219,255 in each kernel), compared all 8,192 numerators, and checked all four residual certificates, all 1,024 rounded weights, support/symmetries and all 14 outcomes. It imported no producer implementation and did not solve stationarity again. All 136 delivery files match the local/HPC manifests. Verification is not external peer review or independent empirical replication.
+
+The compact addition contains the full exact matrices, saved vectors/certificates, all outcomes, state index, frozen specification, scientific source and accepted audit. Administrative path substitutions are recorded in the export map. The original scientific modules are archived for inspection; original orchestration/layout dependencies are not advertised as a turnkey rerun. Saved-certificate verification and figure rebuilding are portable and require no new scientific execution:
+
+```bash
+python scripts/check_061_certificates.py
+python scripts/rebuild_061_figure.py
+```
+
+The mathematical checker covers 14 certified records and their figure/quoted-value bindings. The unchanged population checker in S9 covers 15,284 statistical estimates through 060. These evidence counts remain separate in EVIDENCE_REGISTRY.json. [Version 1.5.0 DOI](https://doi.org/10.5281/zenodo.22950710); public version 1.4.0 and all earlier DOI versions remain unchanged.

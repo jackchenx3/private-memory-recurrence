@@ -21,6 +21,22 @@ def main():
         assert record['mean_pp']==q['mean']*100
         assert record['ci95_pp']==[v*100 for v in q['ci95']]
         checked+=1
+    registry=json.loads((ROOT/'EVIDENCE_REGISTRY.json').read_text())
+    assert registry['statistical_estimates']['count']==15284
+    assert registry['certified_mathematical_quantities']['count']==14 and registry['figures']['count']==18
+    for item in json.loads((ROOT/'provenance/RELEASE_061_CHECK_REUSE.json').read_text())['inputs']:
+        assert sha(ROOT/item['path'])==item['sha256'],item['path']
+    math_check=json.loads((ROOT/'provenance/061_CERTIFICATES_CHECK.json').read_text())
+    assert math_check['status']=='PASS' and math_check['records']==14 and math_check['stationary_solves']==0
+    math_fig=json.loads((ROOT/'figures/FIGURE_061_DATA.json').read_text())
+    assert len(math_fig['bindings'])==11 and math_fig['source_sha256']==sha(ROOT/math_fig['source'])
+    math_values=json.loads((ROOT/math_fig['source']).read_text());math_bindings=0
+    for item in math_fig['bindings']:
+        for kind in ('center','lower','upper'):
+            if kind in item:
+                assert item[kind]==math_values[item['key']][kind]
+                math_bindings+=1
+    assert math_bindings==27 and len(list((ROOT/'figures').glob('*.png')))==18
     broken=[];links=0
     for path in ROOT.rglob('*.md'):
         if any(p in path.parts for p in ['.git','_rebuilt']):continue
@@ -40,7 +56,7 @@ def main():
                 leaks.append(str(path.relative_to(ROOT)))
     assert not leaks,leaks
     print(json.dumps(dict(status='PASS',manifest_files=verified,source_records=len(source_map),
-                          figure_statistic_records=checked,local_links=links,
+                          figure_statistic_records=checked,statistical_estimates=15284,certified_mathematical_quantities=14,mathematical_figure_bindings=math_bindings,figures=18,local_links=links,
                           broken_links=0,detected_private_paths_or_secrets=0),indent=2))
 
 if __name__=='__main__':main()

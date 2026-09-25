@@ -1,0 +1,14 @@
+{
+  "figure": "figures/18_stationary_policy.png",
+  "figure_sha256": "5c9fde6e7d7900a75d749859d6bf766c2d6b98f70e796c4f9f6ee1a81bab0663",
+  "generator": "scripts/rebuild_061_figure.py",
+  "generator_sha256": "582e05f2d50a7de6e35a64b89d47c8ff3a7e0dd8b139f50162e4d829aa053339",
+  "outcomes": "results/061/OUTCOMES.json",
+  "outcomes_sha256": "e49dd39ffba5d85d36fba513b92a5bd32cb596b28e98564a8e5c5ce89d78882e",
+  "bindings": "figures/FIGURE_061_DATA.json",
+  "bindings_sha256": "f8e7442454806f3865535de14a8e94c76a0bb0b9e6ac3d83afdf9b637a2e433a",
+  "mathematical_records": 11,
+  "numeric_values": 27,
+  "completed_draft_rebuild_byte_identical": true,
+  "publication_copy_byte_identical": true
+}

@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "audit_rows": 32,
+  "audit_numerators": 8192,
+  "certificates": [
+    {
+      "kernel": "ACTIVE_ZERO",
+      "criterion_pass": true,
+      "R": "23223988556288"
+    },
+    {
+      "kernel": "ACTIVE_HALF",
+      "criterion_pass": true,
+      "R": "22567873988896"
+    },
+    {
+      "kernel": "NEUTRAL_ZERO",
+      "criterion_pass": true,
+      "R": "23480748797952"
+    },
+    {
+      "kernel": "NEUTRAL_HALF",
+      "criterion_pass": true,
+      "R": "23821017578880"
+    }
+  ],
+  "rejected_vectors": [],
+  "outcomes_checked": 14,
+  "stationary_solves": 0,
+  "new_kernel_rows": 32,
+  "method": "Standalone implementation; no producer kernel/solver/outcome imports"
+}

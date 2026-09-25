@@ -1,0 +1,21 @@
+{
+  "keys": [
+    "ACTIVE_ZERO|H",
+    "ACTIVE_ZERO|U",
+    "ACTIVE_HALF|H",
+    "ACTIVE_HALF|U",
+    "NEUTRAL_ZERO|H",
+    "NEUTRAL_ZERO|U",
+    "NEUTRAL_HALF|H",
+    "NEUTRAL_HALF|U",
+    "ACTIVE_HALF_MINUS_ZERO|H",
+    "ACTIVE_ZERO_MINUS_HALF_SHARE|H",
+    "ACTIVE_HALF_MINUS_HALF_SHARE|H",
+    "ACTIVE_HALF_MINUS_ZERO|U",
+    "ACTIVE_MINUS_NEUTRAL_ZERO|U",
+    "ACTIVE_MINUS_NEUTRAL_HALF|U"
+  ],
+  "primary": "ACTIVE_HALF_MINUS_ZERO|H",
+  "prediction": "positive",
+  "uncertainty": "numerical certification; no statistical intervals"
+}
