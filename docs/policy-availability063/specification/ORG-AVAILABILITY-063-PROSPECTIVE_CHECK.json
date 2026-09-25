@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "exact_checks": 144,
+  "fixture_chains": 8,
+  "higher_frequency_shorter_availability_example": true,
+  "study061_files_read": 0,
+  "new_production_values_seen": false,
+  "stationary_solves": 0,
+  "source_sha256": "e54e36fd882272ae09358b2a83c6b2a974cf6c22b59edac0acaa3154f633325b",
+  "checked_at_utc": "2026-09-25T06:43:36.510027+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "records": 13,
+  "exact_checks": 697,
+  "saved_absent_row_sums_checked": 256,
+  "elapsed_seconds": 0.075427029,
+  "producer_imports": 0,
+  "scientific_operator_imports": 0,
+  "new_transition_rows": 0,
+  "stationary_solves": 0,
+  "hitting_time_solves": 0,
+  "population_paths": 0,
+  "scope": "Separate integer-sum implementation of event probabilities,duration bounds,13records,256saved row sums and exact flux corrections;not external review or empirical replication."
+}

@@ -6,6 +6,8 @@ In the separate two-individual, one-bit model, the known small increase in stati
 
 This note accompanies the [v1.5.0 manuscript](../../paper/MANUSCRIPT.md) ([archived DOI](https://doi.org/10.5281/zenodo.22950710)). It is a main-branch addition, absent from that archived release. No manuscript, release tag or DOI version is changed.
 
+Related follow-up: [continuity of historical-policy availability (study 063)](../policy-availability063/README.md). Average H frequency and uninterrupted availability are different quantities; the separate note reports small duration effects, frequent total absence and the adverse ZERO comparison.
+
 ## Six fixed quantities
 
 | Quantity | Center (percentage points) | Certified sign |

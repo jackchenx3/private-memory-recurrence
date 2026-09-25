@@ -1,0 +1,18 @@
+{
+  "baseline_commit": "651c4289b1ac34efb30d1a81560e88cd74b1609f",
+  "files": {
+    "results/061/matrices/ACTIVE_ZERO.json.gz": "7d74b59e88214af8f9bdd995371aebf8a0be9673b9f9eb4f49a6f7b9abf1b344",
+    "results/061/vectors/ACTIVE_ZERO.json.gz": "4516701416b25c677e58e4717be5b67b7768de41e604e756f6bd0b9d25e83d4a",
+    "results/061/matrices/ACTIVE_HALF.json.gz": "c3d69172ab5c37bfe315da5ea51a18550905cfea43edec24e652298e1466b3b3",
+    "results/061/vectors/ACTIVE_HALF.json.gz": "50c30e4d1ca8910bd5f0db4e38fcabf66032e7242db86f2d44593055a4f8cd2d",
+    "results/061/matrices/NEUTRAL_ZERO.json.gz": "63294b071e0afa42dd5d8e37975289dfee28ef0bbd2e3859a126f8a7516f4460",
+    "results/061/vectors/NEUTRAL_ZERO.json.gz": "528d671f745971f08b55b8ebab51a6d2c8cec14bcc23cc2a9fa1452b642288c6",
+    "results/061/matrices/NEUTRAL_HALF.json.gz": "b22226a49281ee44ac5573a927a418852d3bf3653e1dea5f3d994ab7d4f75ecc",
+    "results/061/vectors/NEUTRAL_HALF.json.gz": "220c73c917d0fba8ee017fcb6fc9f801511d31208cd6cda820fc57638e6a4f9d",
+    "provenance/061_CERTIFICATES_CHECK.json": "ca43abee8ee0762e13a987a745429c8cb9f747248427952c3429b7362cb61107"
+  },
+  "task_sha256": "878dfc33373b9d8ca5734b86c3d81d75315650bc711323c685e20cdcf52f2103",
+  "prospective_fixture_sha256": "a32a7c5a64dfc00be2f2da6ba60e60ba07c3a1ea3592aa8b296250e54bf0b048",
+  "analysis_source_sha256": "3c776be7b068c2b3ada58a82c4ed7ebf13041c7f84349f12e47716a8121d8d6f",
+  "scientific_code_imported": false
+}

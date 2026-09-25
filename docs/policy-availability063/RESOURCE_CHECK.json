@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "bytes_before_this_receipt": 85033,
+  "limit_bytes": 8388608,
+  "analysis_and_audit_seconds": 0.266507897,
+  "limit_seconds": 120,
+  "new_simulation_or_solver_processes": 0,
+  "metadata_clarification": "Before publication, renamed the ambiguous new_scientific_processes field to new_simulation_or_solver_processes. The recorded analysis and audit were executed; no simulation or solver process was run. Scientific results and original execution/audit receipts are unchanged."
+}

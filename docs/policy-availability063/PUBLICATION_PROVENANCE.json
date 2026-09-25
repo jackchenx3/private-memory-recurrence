@@ -1,0 +1,33 @@
+{
+  "status": "SOURCE_AND_EVIDENCE_IDENTITIES_VERIFIED",
+  "date": "2026-09-25",
+  "main_baseline": "3687fa95e3a38491f4b4c37a749499cab9bb6699",
+  "scientific_baseline": "651c4289b1ac34efb30d1a81560e88cd74b1609f",
+  "copied_without_byte_changes": {
+    "ANALYSIS_RECEIPT.json": "fd35d13bdec8d4e7edb10cfbce31f0f4854d1efc46e0910316d2005398fee194",
+    "AUDIT.json": "bb0fe5a1b6a42ddbee5a7661410a8c15913deafae32fece1cbec4674f7f6f14a",
+    "EXECUTION.json": "0de25d420e5bbdd8aafbbda342a6f69bd8b2cfde3b892e78f5b60d62ce51398e",
+    "FLUX_CERTIFICATES.json": "ba667d95afe4b9bf20002fa17b98fb76d303d1044ef9a8d34ab0173b1c39f65c",
+    "OUTCOMES.json": "686e79f78e309c5dda5f675130e488482e34a714e0e67bf4bbbd1c8d1a0714cc",
+    "QUOTED_STATISTICS.json": "4fe6e860cf9e1023da30500d1c94f163b3c571e36efc7f324ff7106a468e7256",
+    "RESOURCE_CHECK.json": "f9c1710ce24b33a7ce86fc3af055f84228ee5f898c8d574b11985edddf4f525b",
+    "RESULTS_NOTE.md": "d9da70477aae5d6b6b17192d431d822ca79009492c3a0d2fe34af76d409413d5",
+    "SOURCE_BINDINGS.json": "e100a345bb4c1bf3ceca482e5d9398d0f23fcb85ae38fa207ec5754534cd29e3",
+    "source/availability063_analysis.py": "3c776be7b068c2b3ada58a82c4ed7ebf13041c7f84349f12e47716a8121d8d6f",
+    "source/availability063_audit.py": "0b7233afa12fe30abd3c10084fcb17ef28320452ea699ad2f94b171c474312d6",
+    "source/check_availability063_prospective.py": "e54e36fd882272ae09358b2a83c6b2a974cf6c22b59edac0acaa3154f633325b",
+    "specification/ORG-AVAILABILITY-063-PROSPECTIVE_CHECK.json": "a32a7c5a64dfc00be2f2da6ba60e60ba07c3a1ea3592aa8b296250e54bf0b048",
+    "specification/ORG-AVAILABILITY-063.md": "878dfc33373b9d8ca5734b86c3d81d75315650bc711323c685e20cdcf52f2103"
+  },
+  "accepted_exact_checks_reused": 697,
+  "scientific_checks_reexecuted_for_publication": false,
+  "derived_mathematical_quantities": 13,
+  "separate_062_quantities": 6,
+  "unchanged_release_counts": {
+    "statistical_estimates": 15284,
+    "mathematical_quantities": 14
+  },
+  "command_validation": "Inspected explicit arguments and paths, Python syntax, source/input identities and local links; no new end-to-end execution.",
+  "resource_field_clarification": "Before publication, renamed the ambiguous new_scientific_processes field to new_simulation_or_solver_processes. The recorded analysis and audit were executed; no simulation or solver process was run. Scientific results and original execution/audit receipts are unchanged.",
+  "workspace_specific_fixture_source": "Retained as executed provenance; not advertised as a portable command."
+}
