@@ -1,0 +1,148 @@
+{
+  "catalog_schema": "research-publications-index/1",
+  "created_date": "2026-09-25",
+  "description": "One record per public research work; verified version metadata plus a bounded editorial evidence guide. This custom JSON catalog does not claim a standard JSON-LD schema.",
+  "author": "Jack Chen",
+  "catalog_content_license": "CC-BY-4.0",
+  "number_of_works": 4,
+  "scope": "Four abstract computational preprints. Versions, endpoints, stored-output checks and reused cohorts are not additional independent papers or replications.",
+  "discoverability_limit": "Public readable text, stable identifiers and structured metadata help access; no guarantee of search indexing, citations or future AI training inclusion is made.",
+  "works": [
+    {
+      "work_id": "mutation-access",
+      "title": "Available regulatory mutation directions improve finite-budget adaptation from matched states in a developmental-network model",
+      "authors": [
+        {
+          "name": "Chen, Jack"
+        }
+      ],
+      "resource_type": "preprint",
+      "verified_version": "v1",
+      "version_label_source": "public_record_page",
+      "version_doi": "10.5281/zenodo.22821444",
+      "concept_doi": "10.5281/zenodo.22821443",
+      "record_url": "https://zenodo.org/records/22821444",
+      "repository_url": "https://github.com/jackchenx3/regulatory-mutation-options",
+      "release_url": null,
+      "deposit_license": "CC-BY-4.0",
+      "original_code_license": null,
+      "license_note": "Zenodo lists CC-BY-4.0 for its deposited manuscript. The linked GitHub RIGHTS_STATUS.md says no project license is granted; no software license or tagged GitHub release was found. This catalog does not extend the deposit license to repository code.",
+      "model": "16-trait developmental-network model; matched trained states and a fixed proposal budget",
+      "question": "Does access to more adjustable regulatory directions improve subsequent adaptation from the same starting state?",
+      "principal_bounded_finding": "More available directions improved the fixed primary and matched opening/freezing contrasts under the tested constraints.",
+      "adverse_or_unresolved": [
+        "Tighter tested bounds attenuated some paired capacity contrasts.",
+        "Target attainment remained rare in difficult cases; cost and historical retention did not improve uniformly.",
+        "The results do not establish spontaneous origin, maintenance by selection or a universal dimensionality advantage."
+      ],
+      "reuse_and_replication_boundary": "The record distinguishes an initial separate 48-unit cohort and a later 48-unit-per-family validation. Multiple endpoints and intervention contrasts are not independent replications.",
+      "sources": [
+        "https://zenodo.org/records/22821444",
+        "https://zenodo.org/api/records/22821444",
+        "https://github.com/jackchenx3/regulatory-mutation-options/blob/main/RIGHTS_STATUS.md"
+      ]
+    },
+    {
+      "work_id": "population-state",
+      "title": "Population state changes the transfer value of organized variation in a finite-population model",
+      "authors": [
+        {
+          "name": "Chen, Jack"
+        }
+      ],
+      "resource_type": "preprint",
+      "verified_version": "1.0.0",
+      "version_label_source": "zenodo_metadata",
+      "version_doi": "10.5281/zenodo.22907602",
+      "concept_doi": "10.5281/zenodo.22907601",
+      "record_url": "https://zenodo.org/records/22907602",
+      "repository_url": "https://github.com/jackchenx3/state-dependent-variation",
+      "release_url": "https://github.com/jackchenx3/state-dependent-variation/releases/tag/v1.0.0",
+      "deposit_license": "CC-BY-4.0",
+      "original_code_license": "MIT",
+      "license_note": "Manuscript, figures and data: CC-BY-4.0. Original code: MIT; third-party terms remain separate.",
+      "model": "Two-dimensional finite-population model; organized versus quarter-turned variation with equal covariance eigenvalues",
+      "question": "How does current population state change the transfer value of an inherited variation orientation?",
+      "principal_bounded_finding": "Both centroid and centered population configuration changed later rule effects. Prospective state-based choices improved on centroid-only choices in fresh histories.",
+      "adverse_or_unresolved": [
+        "The improvement was below the prespecified usefulness target; unconditional switching was already strong and subgroup harms remained.",
+        "More detailed local calculations improved one-step calibration but worsened terminal calibration.",
+        "Neither a unique mediator nor a generally optimal policy is identified."
+      ],
+      "reuse_and_replication_boundary": "The prospective policy comparison uses 48 freshly trained histories. Independent continuations from fixed checkpoints test conditional responses; they are not additional independently trained cohorts.",
+      "sources": [
+        "https://zenodo.org/records/22907602",
+        "https://zenodo.org/api/records/22907602",
+        "https://github.com/jackchenx3/state-dependent-variation/blob/v1.0.0/LICENSE-CODE"
+      ]
+    },
+    {
+      "work_id": "shared-memory-search",
+      "title": "Retained memory and fresh exploration under a matched evaluation budget in a changing-target population model",
+      "authors": [
+        {
+          "name": "Chen, Jack"
+        }
+      ],
+      "resource_type": "preprint",
+      "verified_version": "1.0.0",
+      "version_label_source": "zenodo_metadata",
+      "version_doi": "10.5281/zenodo.22907634",
+      "concept_doi": "10.5281/zenodo.22907633",
+      "record_url": "https://zenodo.org/records/22907634",
+      "repository_url": "https://github.com/jackchenx3/memory-and-fresh-search",
+      "release_url": "https://github.com/jackchenx3/memory-and-fresh-search/releases/tag/v1.0.0",
+      "deposit_license": "CC-BY-4.0",
+      "original_code_license": "MIT",
+      "license_note": "Manuscript, figures and data: CC-BY-4.0. Original code: MIT; third-party terms remain separate.",
+      "model": "32-bit, 32-individual changing-target model; a shared four-record cache and matched objective-query budget",
+      "question": "When does retained history improve population search relative to current donors, new children or fresh scouts?",
+      "principal_bounded_finding": "Memory value depended on the comparator and recurrence. A fixed hybrid benefited from historical rather than current donors with scouting held fixed.",
+      "adverse_or_unresolved": [
+        "The independent cohort only partly reproduced the complete cumulative ranking-switch prediction.",
+        "Memory lost to random scouts under independent targets; terminal comparisons and individual failures qualify average gains.",
+        "An imposed search policy does not demonstrate selection for memory or its spontaneous origin."
+      ],
+      "reuse_and_replication_boundary": "The second cohort supports the recurrence interaction and independent-target disadvantage but leaves recurrent cumulative superiority unresolved. Hybrid and retention comparisons reuse that already observed cohort.",
+      "sources": [
+        "https://zenodo.org/records/22907634",
+        "https://zenodo.org/api/records/22907634",
+        "https://github.com/jackchenx3/memory-and-fresh-search/blob/v1.0.0/LICENSE-CODE"
+      ]
+    },
+    {
+      "work_id": "private-memory-transmission",
+      "title": "Environmental recurrence changes the transmission advantage of private memory in a finite-budget population model",
+      "authors": [
+        {
+          "name": "Chen, Jack"
+        }
+      ],
+      "resource_type": "preprint",
+      "verified_version": "1.4.0",
+      "version_label_source": "zenodo_metadata",
+      "version_doi": "10.5281/zenodo.22949032",
+      "concept_doi": "10.5281/zenodo.22907236",
+      "record_url": "https://zenodo.org/records/22949032",
+      "repository_url": "https://github.com/jackchenx3/private-memory-recurrence",
+      "release_url": "https://github.com/jackchenx3/private-memory-recurrence/releases/tag/v1.4.0",
+      "deposit_license": "CC-BY-4.0",
+      "original_code_license": "MIT",
+      "license_note": "Manuscript, figures and data: CC-BY-4.0. Original code: MIT; third-party terms remain separate.",
+      "model": "32-bit, 32-individual finite-budget model; private one-record caches, inherited policy labels and founder identities",
+      "question": "When does using an available private memory increase founder representation, and does population accuracy change in the same way?",
+      "principal_bounded_finding": "Future recurrence increased the matched historical-use founder effect at fixed prepared states; a new cohort reproduced its direction. A fixed interacting objective retained a positive recurrence effect.",
+      "adverse_or_unresolved": [
+        "Frequent founder loss and adverse population outcomes remain; founder representation is distinct from collective accuracy.",
+        "The pulse population-accuracy primary and bounded-observation noise interaction remain unresolved. Noise lowered average true accuracy.",
+        "No noise equivalence, equilibrium invasion, spontaneous memory origin or general costly advantage is established."
+      ],
+      "reuse_and_replication_boundary": "Studies046,052 and057 contain separately identified independent-cohort tests. Studies059 and060 reuse057 preparations;058 has new paired objective-specific inputs. Releases1.0–1.4 are versions of one work, not separate replications.",
+      "sources": [
+        "https://zenodo.org/records/22949032",
+        "https://zenodo.org/api/records/22949032",
+        "https://github.com/jackchenx3/private-memory-recurrence/blob/v1.4.0/LICENSE-CODE"
+      ]
+    }
+  ]
+}

@@ -7,6 +7,8 @@ Jack Chen · Research preprint v1.4.0 · 25 September 2026
 
 [Read the manuscript](paper/MANUSCRIPT.md) · [Download the manuscript PDF](paper/MANUSCRIPT.pdf) · [Supporting information](paper/SUPPLEMENT.md) · [Study and data index](provenance/STUDIES.json)
 
+[Cross-paper research guide](docs/RESEARCH_MAP.md) · [Machine-readable catalog](docs/RESEARCH_CATALOG.json). Documentation added after v1.4.0; archived release files and DOI versions remain unchanged.
+
 Historical information can help a strategy gain representation without guaranteeing survival or better terminal population performance. This repository reports that distinction in an abstract model of 32 binary states, inherited strategy labels, private one-record caches and equal objective-evaluation budgets.
 
 The main results are:
