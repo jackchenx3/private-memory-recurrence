@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "files": 11,
+  "bytes_before_this_receipt": 78142,
+  "limit_bytes": 8388608,
+  "analysis_and_audit_seconds": 0.8710362079999999,
+  "new_simulation_or_stationary_solver_processes": 0
+}

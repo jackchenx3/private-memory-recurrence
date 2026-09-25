@@ -1,0 +1,15 @@
+{
+  "baseline_commit": "651c4289b1ac34efb30d1a81560e88cd74b1609f",
+  "files": {
+    "results/061/matrices/ACTIVE_ZERO.json.gz": "7d74b59e88214af8f9bdd995371aebf8a0be9673b9f9eb4f49a6f7b9abf1b344",
+    "results/061/vectors/ACTIVE_ZERO.json.gz": "4516701416b25c677e58e4717be5b67b7768de41e604e756f6bd0b9d25e83d4a",
+    "results/061/matrices/ACTIVE_HALF.json.gz": "c3d69172ab5c37bfe315da5ea51a18550905cfea43edec24e652298e1466b3b3",
+    "results/061/vectors/ACTIVE_HALF.json.gz": "50c30e4d1ca8910bd5f0db4e38fcabf66032e7242db86f2d44593055a4f8cd2d",
+    "results/061/OUTCOMES.json": "e49dd39ffba5d85d36fba513b92a5bd32cb596b28e98564a8e5c5ce89d78882e",
+    "provenance/061_CERTIFICATES_CHECK.json": "ca43abee8ee0762e13a987a745429c8cb9f747248427952c3429b7362cb61107"
+  },
+  "task_sha256": "4dab6fac94d6855db52cbe9b7c27f5d158031f19c8da420d580e74975ee0cb48",
+  "prospective_fixture_sha256": "c1bbccec2503873f44374786b5c51079569e7954389cded75babb19d6eec9f34",
+  "analysis_source_sha256": "44cf0359a6f660d86e63b92a9ba3ef5216993ae5aac5d76f26432e8c7ad6258c",
+  "scientific_code_imported": false
+}

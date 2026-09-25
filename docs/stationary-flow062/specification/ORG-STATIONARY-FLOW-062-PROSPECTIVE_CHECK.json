@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "fixture": "Two explicit two-state rational kernels; analytic stationary weights and nine fixed perturbed-weight pairs",
+  "exact_checks": 72,
+  "nonzero_residual_corrections": 6,
+  "study061_files_read": 0,
+  "production_transition_rows": 0,
+  "stationary_solves": 0,
+  "new_component_outcomes_seen": false
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "records": 6,
+  "state_term_rows": 256,
+  "exact_checks": 2619,
+  "elapsed_seconds": 0.10392070099999999,
+  "producer_imports": 0,
+  "scientific_operator_imports": 0,
+  "transition_rows_reconstructed": 0,
+  "stationary_solves": 0,
+  "scope": "Separately implemented integer-weighted direct sums, six centers/error radii, all derived state terms and exact identities; not an external reviewer or new empirical replication."
+}

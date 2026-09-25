@@ -1,0 +1,35 @@
+{
+  "status": "SOURCE_AND_EVIDENCE_IDENTITIES_VERIFIED",
+  "date": "2026-09-25",
+  "main_baseline": "42db96284f9d84d27cf04240a1ac5bfb48021f39",
+  "scientific_baseline": "651c4289b1ac34efb30d1a81560e88cd74b1609f",
+  "copied_without_byte_changes": {
+    "ANALYSIS_RECEIPT.json": "b8dff1d65af26feef2ed963d25342df529c85211b7b216fc820989a8fc54d5ae",
+    "AUDIT.json": "663daaced577c716c946513ae020fd28c02ae56f228dffc0d79947f9cab0e0e7",
+    "DECOMPOSITION.json": "9190b14ea334938ac783a3f0e7fdb52164beda969a2a250927e5ab4976d2872d",
+    "EXECUTION.json": "186dbe451acefceab7f79827329e224df624776bc2ca589bb73878a725e6b169",
+    "IDENTITIES.json": "087ec25055b304436c3cd7ba38691bab81a5f1199b4c917ce026e1a60182552c",
+    "RESOURCE_CHECK.json": "c49db2addf6bbd4908c6384442ee6080bb37f3821909ed51012a534f23d60158",
+    "RESULTS_NOTE.md": "bc11de285b2ff23fdb282fbd5cd598f4b44b130c81f0e14b4f370f721c015935",
+    "SOURCE_BINDINGS.json": "138734e281681fb01b39a959698ee25453aa8bc45b06aaf4572427e39684f7ab",
+    "STATE_TERMS.json.gz": "517d5d70997c9cc43e9f3b89ecee0691456a2840fe552ffbce9e5f9cf0d5001b",
+    "source/check_flow062_prospective.py": "e7b326e1e2b34c146fad119d1e98580d06925dafb571139d6b46f988fd8c69d2",
+    "source/flow062_analysis.py": "44cf0359a6f660d86e63b92a9ba3ef5216993ae5aac5d76f26432e8c7ad6258c",
+    "source/flow062_audit.py": "8de7b8f6148f5fd8c5fd2b69392686c7f746d18597e1ef013343a9d53178c667",
+    "specification/ORG-STATIONARY-FLOW-062-PROSPECTIVE_CHECK.json": "c1bbccec2503873f44374786b5c51079569e7954389cded75babb19d6eec9f34",
+    "specification/ORG-STATIONARY-FLOW-062.md": "4dab6fac94d6855db52cbe9b7c27f5d158031f19c8da420d580e74975ee0cb48"
+  },
+  "accepted_exact_checks_reused": 2619,
+  "checks_reexecuted_for_publication": false,
+  "new_transition_rows": 0,
+  "new_stationary_solves": 0,
+  "new_population_paths": 0,
+  "separate_derived_quantities": 6,
+  "unchanged_release_counts": {
+    "statistical_estimates": 15284,
+    "mathematical_quantities": 14
+  },
+  "new_commands_validation": "Source and argument inspection, Python syntax, input hashes and local links only; no repeat analysis or audit.",
+  "timestamp_note": "EXECUTION.started_at_utc was captured during final output writing, not at process start. Original receipt retained.",
+  "original_fixture_source": "Retained for provenance; its fixed workspace-relative output path is not a portable reproduction interface."
+}

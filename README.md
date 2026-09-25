@@ -30,6 +30,8 @@ These are model-specific computational findings. They do not show that memory or
 
 ![Recurrence under one interacting objective](figures/14_interacting_objective_founders.png)
 
+Post-v1.5.0 technical note: [where the stationary recurrence effect enters](docs/stationary-flow062/README.md). Six separately certified derived quantities distinguish target-law and state-occupancy contributions; this post hoc accounting does not change the archived paper or add an empirical replication.
+
 ## Verify the numerical release
 
 Post-v1.5.0 addition: [portable study-061 entry point](docs/PORTABLE_STATIONARY061.md), with a default constructed-fixture smoke mode and an explicit fixed-model regeneration command. The new wrapper has **not been tested end to end for full regeneration**; the archived scientific code and all tagged releases remain unchanged.

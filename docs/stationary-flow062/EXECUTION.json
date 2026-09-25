@@ -1,0 +1,15 @@
+{
+  "status": "COMPLETED_AUDIT_PENDING",
+  "started_at_utc": "2026-09-25T05:55:25.060914+00:00",
+  "elapsed_seconds": 0.767115507,
+  "records": 6,
+  "state_term_rows": 256,
+  "new_transition_rows": 0,
+  "stationary_solves": 0,
+  "population_paths": 0,
+  "random_draws": 0,
+  "primary": "RECURRENCE_DECOMPOSITION|DIRECT_TARGET_LAW",
+  "primary_sign": "positive",
+  "prospective_fixture_checks_reused": 72,
+  "sign_display_fixtures": 3
+}
