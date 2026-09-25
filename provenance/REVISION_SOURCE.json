@@ -1,9 +1,9 @@
 {
-  "accepted_working_manuscript_sha256": "f3d622cc52e9aa2aa6a5703cc85ceedbda55e7577870352e9af21902638fd4a5",
-  "accepted_working_supplement_sha256": "5d277a29cacffd9e61235e1d85ffe5717f522fb07f5f45cdb189b8ecc40d74b7",
-  "scientific_content": "Accepted059 draft retained: unresolved population primary and benchmark; positive secondary pulse-minus-continuous founder effect; adverse results. Publication metadata/availability/links updated, and Hamming model sentence explicitly includes059.",
+  "accepted_working_manuscript_sha256": "a706d4a5c60a371bff261c12d97aaaf4b14bbd41533cfdab0d33ab948d1e16a9",
+  "accepted_working_supplement_sha256": "51b16cef3149500e7484fc32650a903782a776e4f7108d1f17e888eb808de5f1",
+  "scientific_content": "Accepted060 draft retained: unresolved noise-by-recurrence founder primary and prior059 population primary; positive exact/noisy recurrence; adverse mean true accuracy; reused exact preparations and preserved harmless portability discrepancy. Publication metadata, availability and links updated only.",
   "prior_publication_preserved": true,
   "new_population_paths": 0,
   "source_formats": "Native estimates retained with explicit normalized summary/JSON Lines projections. Larger text tables use lossless gzip.",
-  "publication_date": "2026-09-24"
+  "publication_date": "2026-09-25"
 }

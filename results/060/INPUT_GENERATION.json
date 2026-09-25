@@ -1,0 +1,17 @@
+{
+  "seed_records": 1393,
+  "innovations_getrandbits32": 960,
+  "copy_getrandbits1": 960,
+  "local_randrange32": 7864320,
+  "scout_getrandbits32": 245760,
+  "tie_random": 983040,
+  "label_shuffle": 192,
+  "fresh_getrandbits32": 245760,
+  "survival_getrandbits52": 983040,
+  "bootstrap_randrange24": 48000,
+  "noise_random": 989184,
+  "old_transfer_inputs_used": false,
+  "preparation_draws": 0,
+  "unused_absolute_index_prefix": "constant zeros; not consumed",
+  "underlying_PRNG_word_count": "not claimed"
+}

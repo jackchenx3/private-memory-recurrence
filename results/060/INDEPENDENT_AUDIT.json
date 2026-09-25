@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "raw_audit_block": 0,
+  "raw_checks": {
+    "paths": 96,
+    "queries": 494592,
+    "race_keys": 491520,
+    "updates": 3840
+  },
+  "checked_estimates": 81,
+  "maximum_absolute_discrepancy": 2.220446049250313e-16,
+  "tolerance": 2e-13,
+  "recorded_query_reconstructions": 494592,
+  "new_scientific_calls": 0,
+  "new_paths": 0,
+  "new_random_draws": 0
+}

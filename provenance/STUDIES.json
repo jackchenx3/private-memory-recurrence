@@ -165,5 +165,20 @@
     "new_paths": 960,
     "reused_preparations": 192,
     "reused_paths": 0
+  },
+  {
+    "study": "060",
+    "source_package": "measurement_error_v1",
+    "summary": "results/060/summary.json",
+    "block_summaries": "results/060/BLOCK_SUMMARIES.jsonl",
+    "bootstrap": "results/060/BOOTSTRAP_INDICES.json",
+    "source_manifest_sha256": "7fbc7ee225361dd053f28ab8fe1d3f3971df0ace723a5fbc746784b9fc0b4135",
+    "delivery_manifest_sha256": "e86dce5b5b0d45c3214e251cffd9f52d09ae3b345108f24b38190c2eff2060df",
+    "independent_review": "provenance/060_AUDIT.json",
+    "new_cohort": false,
+    "dependence": "All192 HALF/F exact-observation preparations reused from057; new paired transfer inputs. Placements averaged; no cohort pooling.",
+    "new_paths": 2304,
+    "reused_preparations": 192,
+    "reused_paths": 0
   }
 ]

@@ -1,0 +1,19 @@
+{
+  "freeze_unix": 1790293183.1770647,
+  "files": {
+    "SELECTED_STATES.json": "1a67b67711f886d016c9926145dec0142057721bb5f655f6940f4435e2b51025",
+    "PREPARATION_TARGETS.json": "d28cf7cff13ca7575ba0aa4a56bf72345a3a57642e9ef718e4a1f762f049ff37",
+    "TARGET_TABLE.json": "ebf3a68468fca42db9fe709eae462e728af834dc6fec68eb0c7fe19b8aeb235f",
+    "TARGET_LAW_DRAWS.json": "9d3d800a4aa372bd25c5e41b535f29c27ed776f4b11889b43dcfa1e9285e13fd",
+    "streams.jsonl.gz": "40619facf18b311bcfa14c6b4c74047aa79f4dc34e3e2cbedeaa4b519fbc9093",
+    "fresh_probe_masks.jsonl.gz": "e317f9fbc2caadcabdbd812f7006d23ecfad18b939d9b67ea3b843bc3597b59a",
+    "survival_streams.jsonl.gz": "1d2666ea27fdf768ca6a05c7e4f0120ec15243c8d91da050b07e69768e3be515",
+    "noise_streams.jsonl.gz": "e797b87a3ede82d9b050e029d09aa46b588ddc65876b20343f4faa88f920d0b4",
+    "BOOTSTRAP_INDICES.json": "c35469ca5272faaaa4267f41b6a8e3945fa08ba7bfebcb68972b5e4ed804a34d",
+    "SEEDS.json": "d4a973fa3964f5c1e3953abc65c3d8fbe907f75bb3cca2a1a5da26969c1d8731",
+    "SEED_COLLISION_CHECK.json": "d6a8c2205368329986833c4a568e924f7452b0970506b463fbf0880cc815b4ea",
+    "INPUT_GENERATION.json": "3e99d89af30c9047d647d3978f3b671a0d885a08445a530cd7147951c001bbdb"
+  },
+  "manifest_sha256": "f24f2f3bfcd49d999c9fcd1771d4632f39ba486d6fcca058daf7015bdb82b8c6",
+  "source_manifest_sha256": "7fbc7ee225361dd053f28ab8fe1d3f3971df0ace723a5fbc746784b9fc0b4135"
+}

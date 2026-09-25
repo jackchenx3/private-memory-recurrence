@@ -1,0 +1,106 @@
+{
+  "primary": "NOISE_BY_RECURRENCE|EFFECT|D40",
+  "estimate": {
+    "mean": 0.016357421875,
+    "ci95": [
+      -0.026043701171875,
+      0.056559244791666664
+    ],
+    "classification": "unresolved",
+    "mean_percentage_points": 1.6357421875,
+    "ci95_percentage_points": [
+      -2.6043701171875,
+      5.655924479166666
+    ],
+    "count_unit": "expected_descendants",
+    "mean_count_units": 0.5234375,
+    "ci95_count_units": [
+      -0.8333984375,
+      1.8098958333333333
+    ],
+    "paired_signs": {
+      "positive": 56,
+      "zero": 84,
+      "negative": 52
+    },
+    "block_signs": {
+      "positive": 12,
+      "negative": 12
+    }
+  },
+  "decisions": {
+    "direction": "unresolved",
+    "minus_one_descendant": "above",
+    "plus_one_descendant": "overlaps",
+    "resolution_fraction": 0.03125,
+    "not_equivalence_test": true
+  },
+  "recurrence": {
+    "EXACT": {
+      "estimate": {
+        "mean": 0.19099934895833334,
+        "ci95": [
+          0.14217122395833334,
+          0.23901570638020833
+        ],
+        "classification": "positive",
+        "mean_percentage_points": 19.099934895833336,
+        "ci95_percentage_points": [
+          14.217122395833334,
+          23.901570638020832
+        ],
+        "count_unit": "expected_descendants",
+        "mean_count_units": 6.111979166666667,
+        "ci95_count_units": [
+          4.549479166666667,
+          7.648502604166667
+        ],
+        "paired_signs": {
+          "zero": 102,
+          "negative": 13,
+          "positive": 77
+        },
+        "block_signs": {
+          "positive": 23,
+          "negative": 1
+        }
+      },
+      "plus_one_descendant": "above_plus_one_descendant"
+    },
+    "NOISY": {
+      "estimate": {
+        "mean": 0.20735677083333334,
+        "ci95": [
+          0.155914306640625,
+          0.26245727539062497
+        ],
+        "classification": "positive",
+        "mean_percentage_points": 20.735677083333336,
+        "ci95_percentage_points": [
+          15.5914306640625,
+          26.245727539062496
+        ],
+        "count_unit": "expected_descendants",
+        "mean_count_units": 6.635416666666667,
+        "ci95_count_units": [
+          4.9892578125,
+          8.398632812499999
+        ],
+        "paired_signs": {
+          "positive": 83,
+          "zero": 100,
+          "negative": 9
+        },
+        "block_signs": {
+          "positive": 23,
+          "zero": 1
+        }
+      },
+      "plus_one_descendant": "above_plus_one_descendant"
+    }
+  },
+  "interval_scope": "exploratory approximate pointwise",
+  "reused_exact_preparations": true,
+  "independent_training_replication": false,
+  "cohort_pooling": false
+}

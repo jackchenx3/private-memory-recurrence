@@ -1,0 +1,414 @@
+[
+  {
+    "study": "060",
+    "key": "NOISE_BY_RECURRENCE|EFFECT|D40",
+    "value": {
+      "mean": 0.016357421875,
+      "ci95": [
+        -0.026043701171875,
+        0.056559244791666664
+      ],
+      "classification": "unresolved",
+      "mean_percentage_points": 1.6357421875,
+      "ci95_percentage_points": [
+        -2.6043701171875,
+        5.655924479166666
+      ],
+      "count_unit": "expected_descendants",
+      "mean_count_units": 0.5234375,
+      "ci95_count_units": [
+        -0.8333984375,
+        1.8098958333333333
+      ],
+      "paired_signs": {
+        "positive": 56,
+        "zero": 84,
+        "negative": 52
+      },
+      "block_signs": {
+        "positive": 12,
+        "negative": 12
+      }
+    }
+  },
+  {
+    "study": "060",
+    "key": "EXACT_Q_HALF_MINUS_ZERO|EFFECT|D40",
+    "value": {
+      "mean": 0.19099934895833334,
+      "ci95": [
+        0.14217122395833334,
+        0.23901570638020833
+      ],
+      "classification": "positive",
+      "mean_percentage_points": 19.099934895833336,
+      "ci95_percentage_points": [
+        14.217122395833334,
+        23.901570638020832
+      ],
+      "count_unit": "expected_descendants",
+      "mean_count_units": 6.111979166666667,
+      "ci95_count_units": [
+        4.549479166666667,
+        7.648502604166667
+      ],
+      "paired_signs": {
+        "zero": 102,
+        "negative": 13,
+        "positive": 77
+      },
+      "block_signs": {
+        "positive": 23,
+        "negative": 1
+      }
+    }
+  },
+  {
+    "study": "060",
+    "key": "NOISY_Q_HALF_MINUS_ZERO|EFFECT|D40",
+    "value": {
+      "mean": 0.20735677083333334,
+      "ci95": [
+        0.155914306640625,
+        0.26245727539062497
+      ],
+      "classification": "positive",
+      "mean_percentage_points": 20.735677083333336,
+      "ci95_percentage_points": [
+        15.5914306640625,
+        26.245727539062496
+      ],
+      "count_unit": "expected_descendants",
+      "mean_count_units": 6.635416666666667,
+      "ci95_count_units": [
+        4.9892578125,
+        8.398632812499999
+      ],
+      "paired_signs": {
+        "positive": 83,
+        "zero": 100,
+        "negative": 9
+      },
+      "block_signs": {
+        "positive": 23,
+        "zero": 1
+      }
+    }
+  },
+  {
+    "study": "060",
+    "key": "NOISY_MINUS_EXACT_AT_Q_ZERO|SWITCH_POP|U",
+    "value": {
+      "mean": -0.0012943903605143262,
+      "ci95": [
+        -0.0016691446304321308,
+        -0.0009224843978881843
+      ],
+      "classification": "negative",
+      "mean_percentage_points": -0.12943903605143262,
+      "ci95_percentage_points": [
+        -0.16691446304321308,
+        -0.09224843978881843
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": -1.32545572916667,
+      "ci95_count_units": [
+        -1.709204101562502,
+        -0.9446240234375007
+      ],
+      "paired_signs": {
+        "negative": 138,
+        "positive": 54
+      },
+      "block_signs": {
+        "negative": 21,
+        "positive": 3
+      }
+    }
+  },
+  {
+    "study": "060",
+    "key": "NOISY_MINUS_EXACT_AT_Q_ZERO|STAY_POP|U",
+    "value": {
+      "mean": -0.0016211191813151008,
+      "ci95": [
+        -0.0021297677357991532,
+        -0.0011136150360107372
+      ],
+      "classification": "negative",
+      "mean_percentage_points": -0.16211191813151007,
+      "ci95_percentage_points": [
+        -0.21297677357991532,
+        -0.11136150360107372
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": -1.6600260416666632,
+      "ci95_count_units": [
+        -2.180882161458333,
+        -1.140341796874995
+      ],
+      "paired_signs": {
+        "positive": 67,
+        "negative": 125
+      },
+      "block_signs": {
+        "negative": 22,
+        "positive": 2
+      }
+    }
+  },
+  {
+    "study": "060",
+    "key": "NOISY_MINUS_EXACT_AT_Q_HALF|SWITCH_POP|U",
+    "value": {
+      "mean": -0.00203355153401693,
+      "ci95": [
+        -0.002621445655822751,
+        -0.001444606781005858
+      ],
+      "classification": "negative",
+      "mean_percentage_points": -0.203355153401693,
+      "ci95_percentage_points": [
+        -0.2621445655822751,
+        -0.1444606781005858
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": -2.082356770833336,
+      "ci95_count_units": [
+        -2.684360351562497,
+        -1.4792773437499986
+      ],
+      "paired_signs": {
+        "positive": 70,
+        "negative": 122
+      },
+      "block_signs": {
+        "negative": 22,
+        "positive": 2
+      }
+    }
+  },
+  {
+    "study": "060",
+    "key": "NOISY_MINUS_EXACT_AT_Q_HALF|STAY_POP|U",
+    "value": {
+      "mean": -0.0027056376139322925,
+      "ci95": [
+        -0.003340056737263996,
+        -0.002043234507242845
+      ],
+      "classification": "negative",
+      "mean_percentage_points": -0.27056376139322924,
+      "ci95_percentage_points": [
+        -0.3340056737263996,
+        -0.2043234507242845
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": -2.7705729166666675,
+      "ci95_count_units": [
+        -3.420218098958332,
+        -2.0922721354166733
+      ],
+      "paired_signs": {
+        "positive": 50,
+        "negative": 142
+      },
+      "block_signs": {
+        "negative": 23,
+        "positive": 1
+      }
+    }
+  },
+  {
+    "study": "060",
+    "key": "EXACT_Q_HALF|EFFECT_POP|U",
+    "value": {
+      "mean": 0.001631482442220054,
+      "ci95": [
+        0.001008725166320796,
+        0.002337908744812017
+      ],
+      "classification": "positive",
+      "mean_percentage_points": 0.1631482442220054,
+      "ci95_percentage_points": [
+        0.10087251663207959,
+        0.23379087448120167
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": 1.6706380208333353,
+      "ci95_count_units": [
+        1.032934570312495,
+        2.3940185546875052
+      ],
+      "paired_signs": {
+        "negative": 69,
+        "positive": 108,
+        "zero": 15
+      },
+      "block_signs": {
+        "negative": 6,
+        "positive": 18
+      }
+    }
+  },
+  {
+    "study": "060",
+    "key": "NOISY_Q_HALF|EFFECT_POP|U",
+    "value": {
+      "mean": 0.0023035685221354167,
+      "ci95": [
+        0.0014067363739013654,
+        0.0032696835199991794
+      ],
+      "classification": "positive",
+      "mean_percentage_points": 0.23035685221354166,
+      "ci95_percentage_points": [
+        0.14067363739013655,
+        0.3269683519999179
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": 2.3588541666666667,
+      "ci95_count_units": [
+        1.4404980468749982,
+        3.3481559244791597
+      ],
+      "paired_signs": {
+        "negative": 58,
+        "positive": 119,
+        "zero": 15
+      },
+      "block_signs": {
+        "negative": 3,
+        "positive": 21
+      }
+    }
+  },
+  {
+    "study": "060",
+    "key": "EXACT_Q_HALF|EFFECT_POP|U40",
+    "value": {
+      "mean": 0.0021260579427083335,
+      "ci95": [
+        -0.0014038721720377604,
+        0.005491256713867184
+      ],
+      "classification": "unresolved",
+      "mean_percentage_points": 0.21260579427083334,
+      "ci95_percentage_points": [
+        -0.14038721720377603,
+        0.5491256713867184
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": 2.1770833333333335,
+      "ci95_count_units": [
+        -1.4375651041666666,
+        5.6230468749999964
+      ],
+      "paired_signs": {
+        "negative": 81,
+        "positive": 94,
+        "zero": 17
+      },
+      "block_signs": {
+        "negative": 9,
+        "positive": 15
+      }
+    }
+  },
+  {
+    "study": "060",
+    "key": "NOISY_Q_HALF|EFFECT_POP|U40",
+    "value": {
+      "mean": 0.0019048055013020833,
+      "ci95": [
+        -0.0014784495035807292,
+        0.005269559224446613
+      ],
+      "classification": "unresolved",
+      "mean_percentage_points": 0.19048055013020831,
+      "ci95_percentage_points": [
+        -0.1478449503580729,
+        0.5269559224446613
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": 1.9505208333333333,
+      "ci95_count_units": [
+        -1.5139322916666667,
+        5.396028645833332
+      ],
+      "paired_signs": {
+        "negative": 86,
+        "positive": 90,
+        "zero": 16
+      },
+      "block_signs": {
+        "negative": 12,
+        "positive": 12
+      }
+    }
+  },
+  {
+    "study": "060",
+    "key": "NOISE_BY_RECURRENCE|EFFECT_POP|U",
+    "value": {
+      "mean": 0.0003453572591145878,
+      "ci95": [
+        -0.00037548065185545924,
+        0.001106804211934414
+      ],
+      "classification": "unresolved",
+      "mean_percentage_points": 0.03453572591145878,
+      "ci95_percentage_points": [
+        -0.037548065185545924,
+        0.11068042119344142
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": 0.35364583333333793,
+      "ci95_count_units": [
+        -0.38449218749999026,
+        1.13336751302084
+      ],
+      "paired_signs": {
+        "positive": 94,
+        "negative": 88,
+        "zero": 10
+      },
+      "block_signs": {
+        "negative": 15,
+        "positive": 9
+      }
+    }
+  },
+  {
+    "study": "060",
+    "key": "NOISE_BY_RECURRENCE|EFFECT_POP|U40",
+    "value": {
+      "mean": -0.0029627482096354165,
+      "ci95": [
+        -0.006770070393880208,
+        0.001009941101074217
+      ],
+      "classification": "unresolved",
+      "mean_percentage_points": -0.29627482096354163,
+      "ci95_percentage_points": [
+        -0.6770070393880209,
+        0.10099411010742171
+      ],
+      "count_unit": "expected_matching_bits",
+      "mean_count_units": -3.0338541666666665,
+      "ci95_count_units": [
+        -6.932552083333333,
+        1.0341796874999982
+      ],
+      "paired_signs": {
+        "positive": 78,
+        "negative": 102,
+        "zero": 12
+      },
+      "block_signs": {
+        "positive": 7,
+        "negative": 17
+      }
+    }
+  }
+]

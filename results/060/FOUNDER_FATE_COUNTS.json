@@ -1,0 +1,79 @@
+{
+  "EXACT_Q_ZERO|STAY|placement0": {
+    "extinct": 185,
+    "polymorphic": 6,
+    "fixed": 1
+  },
+  "EXACT_Q_ZERO|STAY|placement1": {
+    "extinct": 185,
+    "polymorphic": 5,
+    "fixed": 2
+  },
+  "EXACT_Q_ZERO|SWITCH0|placement0": {
+    "extinct": 186,
+    "fixed": 2,
+    "polymorphic": 4
+  },
+  "EXACT_Q_ZERO|SWITCH1|placement1": {
+    "extinct": 188,
+    "polymorphic": 4
+  },
+  "EXACT_Q_HALF|STAY|placement0": {
+    "extinct": 183,
+    "polymorphic": 5,
+    "fixed": 4
+  },
+  "EXACT_Q_HALF|STAY|placement1": {
+    "extinct": 183,
+    "polymorphic": 7,
+    "fixed": 2
+  },
+  "EXACT_Q_HALF|SWITCH0|placement0": {
+    "extinct": 144,
+    "fixed": 39,
+    "polymorphic": 9
+  },
+  "EXACT_Q_HALF|SWITCH1|placement1": {
+    "extinct": 155,
+    "fixed": 34,
+    "polymorphic": 3
+  },
+  "NOISY_Q_ZERO|STAY|placement0": {
+    "extinct": 186,
+    "fixed": 1,
+    "polymorphic": 5
+  },
+  "NOISY_Q_ZERO|STAY|placement1": {
+    "polymorphic": 7,
+    "extinct": 183,
+    "fixed": 2
+  },
+  "NOISY_Q_ZERO|SWITCH0|placement0": {
+    "extinct": 186,
+    "fixed": 5,
+    "polymorphic": 1
+  },
+  "NOISY_Q_ZERO|SWITCH1|placement1": {
+    "extinct": 189,
+    "fixed": 2,
+    "polymorphic": 1
+  },
+  "NOISY_Q_HALF|STAY|placement0": {
+    "extinct": 183,
+    "polymorphic": 9
+  },
+  "NOISY_Q_HALF|STAY|placement1": {
+    "extinct": 185,
+    "polymorphic": 7
+  },
+  "NOISY_Q_HALF|SWITCH0|placement0": {
+    "fixed": 39,
+    "extinct": 143,
+    "polymorphic": 10
+  },
+  "NOISY_Q_HALF|SWITCH1|placement1": {
+    "extinct": 148,
+    "fixed": 36,
+    "polymorphic": 8
+  }
+}

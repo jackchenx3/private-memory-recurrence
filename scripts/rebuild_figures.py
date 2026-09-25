@@ -117,3 +117,9 @@ subprocess.run([sys.executable,str(ROOT/"scripts/rebuild_059_figure.py"),"--outp
 records += json.loads((OUT/"FIGURE_059_DATA.json").read_text())
 (OUT/"FIGURE_DATA.json").write_text(json.dumps(records,indent=2)+"\n")
 print(json.dumps(dict(figures=16,numerical_records=len(records),new_simulations=0)))
+
+# Add the measurement-interface challenge using saved estimates only.
+subprocess.run([sys.executable,str(ROOT/'scripts/rebuild_060_figure.py'),'--output-dir',str(OUT)],check=True)
+records += json.loads((OUT/'FIGURE_060_DATA.json').read_text())
+(OUT/'FIGURE_DATA.json').write_text(json.dumps(records,indent=2)+'\n')
+print(json.dumps(dict(figures=17,numerical_records=len(records),new_simulations=0)))

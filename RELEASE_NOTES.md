@@ -1,9 +1,10 @@
-# Research preprint v1.3.0
+# Research preprint v1.4.0
 
-Adds the fixed one-update fresh-expression pulse study (059) to the existing private-memory paper. Its primary terminal population-accuracy contrast is unresolved: +0.037 [-0.247, +0.336] percentage points relative to unchanged historical retrieval. The interval also overlaps the separate one-expected-matching-bit benchmark. This is not evidence of equivalence or absence of effect.
+This revision integrates the fixed observation-error challenge (060) into the existing private-memory paper. The primary noise-by-recurrence founder interaction remains unresolved: +1.635742 [-2.604370, +5.655924] percentage points. Exact and noisy founder recurrence effects remain positive above one expected descendant. Noise reduces absolute mean true population accuracy in both arms under both future laws; terminal effects remain unresolved. Founder transmission and population utility remain separate outcomes.
 
-Restoring historical retrieval after the common first update improves terminal founder representation relative to continued fresh expression: +2.995 [1.465, 4.688] points. This is a secondary ancestry outcome, not demonstrated population benefit or superiority over unchanged historical retrieval. Negative first-update ancestry, frequent founder loss, two continuous-F survivors, unresolved comparisons and exact first-update coupling identities remain in the record. New transfer inputs reuse all 192 selected 057 preparations; no independent training cohort is added.
+The release retains the unresolved pulse primary, frequent founder loss, all adverse outcomes, one prespecified noise level and the reuse of exact-observation 057 preparations. It does not establish noise equivalence or independent training replication.
 
-Includes revised manuscript/supplement, 16 figures, all 15,203 saved-table estimates, scientific source through 059, seed provenance, compact time series/fates/adverse outcomes and scoped audits. Raw candidate trajectories and random tapes remain outside the compact release. No new simulations are needed for its saved-table and figure checks.
+Includes 17 figures and 15,284 saved-table estimates through 060, compact evidence and scientific source, 207 registered manuscript statistics, and preserved audit/portability records. Manuscript/data: CC BY 4.0; original code: MIT. Not externally peer reviewed; AI assistance disclosed. Large raw trajectories and random tapes are excluded. No new scientific experiment was run for this publication.
 
-This is a revision of the same paper. Earlier tags and DOI versions are preserved. Manuscript/data: CC BY 4.0; original code: MIT. AI assistance is disclosed; no external peer review is claimed.
+Version DOI: https://doi.org/10.5281/zenodo.22949032
+Previous v1.3.0 DOI and all prior tags remain unchanged: https://doi.org/10.5281/zenodo.22939403

@@ -1,0 +1,15 @@
+{
+  "figure": "figures/17_measurement_error.png",
+  "figure_sha256": "13d844fb2ceaebf938898d12c7f522524c352da4ec5df35cc046213d9460c41d",
+  "generator": "scripts/rebuild_060_figure.py",
+  "generator_sha256": "4a9e4938accc6cf5bb8b505cd61b6244227490a5b7c7f2b176e0fd3a98a3aacb",
+  "estimates": "results/060/ESTIMATES.json",
+  "estimates_sha256": "16679407a8574699d16902d6f9837dbc739a027c36bc526262bd6e30f7993558",
+  "bindings": "figures/FIGURE_060_DATA.json",
+  "bindings_sha256": "44b1e3a73e96984cfe5b2ed4fe0c3fbb0357c0a6b578e704dc2a504595ffe247",
+  "saved_mean_interval_pairs": 7,
+  "numeric_values": 21,
+  "completed_draft_rebuild_byte_identical": true,
+  "publication_copy_byte_identical": true,
+  "new_scientific_paths": 0
+}

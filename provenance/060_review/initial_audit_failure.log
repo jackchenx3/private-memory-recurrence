@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "PRIVATE_WORKSPACE/review-the-scientific-conclusions-in-mnt/work/audit_observation060.py", line 86, in <module>
+    keys=[-math.log(u)*(2.0**v) for u,v in zip(us,obs)];assert keys==step['race_keys'];chosen=sorted(range(128),key=lambda j:(keys[j],ties[j],j))[:32];assert chosen==step['selected_indices'];after=[pool[j] for j in chosen];assert after==step['selected_records']==rec['populations'][g+1]
+AssertionError

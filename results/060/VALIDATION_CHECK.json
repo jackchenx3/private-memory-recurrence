@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "paths": 2304,
+  "paired_replicates": 192,
+  "blocks": 24,
+  "estimates": 81,
+  "structural_zeros": [],
+  "negative_records": 4710,
+  "exact_ties": 2858,
+  "transmission_accuracy_disagreements": 2389,
+  "decline_records": 43396,
+  "new_objective_calls": 0,
+  "new_draws": 0,
+  "elapsed_seconds": 102.14591264724731,
+  "raw_audit": "Separate prospectively fixed96-path audit"
+}

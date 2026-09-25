@@ -1,0 +1,52 @@
+{
+  "task_id": "ORG-OBSERVATION-060",
+  "revision": 1,
+  "source": "057 exact-observation HALF/F states",
+  "new_preparations": 0,
+  "reused_preparations": 192,
+  "blocks": 24,
+  "replicates_per_block": 8,
+  "population_size": 32,
+  "bits": 32,
+  "cost": 0,
+  "updates": 40,
+  "interfaces": [
+    "EXACT",
+    "NOISY"
+  ],
+  "laws": [
+    "ZERO",
+    "HALF"
+  ],
+  "configurations": [
+    "STAY",
+    "SWITCH0",
+    "SWITCH1"
+  ],
+  "new_paths": 2304,
+  "new_objective_calls": 11870208,
+  "initial_queries": 73728,
+  "candidate_queries": 11796480,
+  "new_noise_uniforms": 989184,
+  "seed_records": 1393,
+  "bootstrap_rows": 2000,
+  "estimates": 81,
+  "primary": "NOISE_BY_RECURRENCE|EFFECT|D40",
+  "resolution_fraction": 0.03125,
+  "resources": {
+    "cpus": 1,
+    "memory_GiB": 4,
+    "minutes": 15,
+    "partition": "norm"
+  },
+  "timeout_seconds": 870,
+  "guard_bytes": 3758096384,
+  "max_production_allocations": 1,
+  "absolute_start": 40,
+  "unused_fresh_prefix": "40 constant-zero rows; never consumed",
+  "observation_error": "EXACT:0;NOISY:2u-1, no clipping",
+  "survival": "-log(open_uniform)*2.0**observed_score; order(key,tie,index)",
+  "cohort_pooling": false,
+  "independent_training_replication": false,
+  "main_figures": 2
+}

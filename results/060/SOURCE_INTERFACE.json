@@ -1,0 +1,25 @@
+{
+  "created_at_utc": "2026-09-24T23:05:37.374368+00:00",
+  "source": "PRIVATE_WORKSPACE/you-are-responsible-for-implementing-the/outputs/cross_environment_replication_v1",
+  "files": {
+    "RESIDENT_STATES.jsonl.gz": "df3e9529314c9fa43aad84ed5aed49a7ce945694939c64aa3c4ecf167023df47",
+    "accepted_transfer_model.py": "6ab11c41dbc333f3fbe3fa4eb0c7b13bd46713a7c0d12fe4ab6bed7f2eeb3eaa",
+    "accepted_model.py": "a8f7facd6b2a29b3e72c92dc9c8ea46f843b146be2b6430afbd6416151d2ae2d",
+    "accepted_survival_model.py": "ebc2d015edd30be4423b933baa91bd3e63d192c23e044f16850fe70f8d2d64b8",
+    "model.py": "055d90b79b83fd92b51f8cab1086658d2bce313927071aa308112374ea7e6b7d",
+    "analysis.py": "eaeddbc16975095e0cb74a2f84164d4fdbd77b0bda82d746337a939b3a60571e",
+    "generators.py": "051c19105775cc9b922ca66c4419cd093cf5fee2557e61396abc9d0220661e05",
+    "accepted_inputs055.py": "8dc063172890dd480bcc75910a72c6a66fd179347e4c471dd94a6c47a4bd8a0f"
+  },
+  "observations": {
+    "query_order": "32parents,32probes,32scouts,32children",
+    "donor_scores": "one returned scalar per query",
+    "cache": "genotype/update/slot only; no stored scores",
+    "survival_change": "integer-only bit shift replaced in new adapter by2.0**observed_score; accepted originals preserved",
+    "true_performance": "already queried true losses only",
+    "states": "all192 HALF/F prepared states",
+    "scope": "transfer measurement error only; exact historical preparation reused"
+  },
+  "changes_to_design_proposal": "The needed real-score survival adapter is explicit; no new scientific arm. Proposed counts confirmed.81fixed estimates.",
+  "no_production_outcomes_generated": true
+}

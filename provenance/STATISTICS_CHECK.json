@@ -75,11 +75,16 @@
       "study": "059",
       "intervals": 36,
       "maximum_error": 2.220446049250313e-16
+    },
+    {
+      "study": "060",
+      "intervals": 81,
+      "maximum_error": 2.220446049250313e-16
     }
   ],
-  "total_intervals": 15203,
+  "total_intervals": 15284,
   "maximum_error": 2.220446049250313e-16,
-  "statistic_records": 194,
+  "statistic_records": 207,
   "new_population_paths": 0,
   "new_random_draws": 0,
   "scope": "Recomputation from published block aggregates and frozen bootstrap rows. This does not reconstruct raw trajectories or constitute independent scientific replication."

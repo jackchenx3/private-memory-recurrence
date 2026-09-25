@@ -1,0 +1,13 @@
+{
+  "new_paths": 2304,
+  "new_preparations": 0,
+  "reused_preparations": 192,
+  "updates": 92160,
+  "initial_evaluations": 73728,
+  "candidate_evaluations": 11796480,
+  "total_objective_calls": 11870208,
+  "state_measurements": 94464,
+  "extra_diagnostic_calls": 0,
+  "scientific_paths": 2304,
+  "unique_noise_uniform_indices": 989184
+}

@@ -1,0 +1,20 @@
+{
+  "recorded_at_utc": "2026-09-24T23:48:13.369141+00:00",
+  "kind": "reviewer arithmetic portability correction",
+  "initial_script_sha256": "51cee56a1f460f197ceba6f0db2bd847d53dd1db7c9b3d08d397d53a1942ab04",
+  "updated_script_sha256": "41d54c24fde82ac4fcde868b507096df7461a125668ff6601d44531dee2c1011",
+  "observed_first_difference": {
+    "computed": 1659.469863570123,
+    "stored": 1659.4698635701232,
+    "relative": 1.3701585092607142e-16,
+    "selected_order_identical": true
+  },
+  "correction": "Record maximum ULP differences in race keys, allow at most4ULP per key across local/HPC math, require exact sorted survivor indices and every subsequent state; true score/query checks unchanged. No scientific output edited or rerun.",
+  "pending_full_audit": false,
+  "full_audit_status": "PASS",
+  "maximum_observed_ulp_difference": 2,
+  "different_race_keys": 486,
+  "race_candidates_audited": 491520,
+  "selected_orders_and_populations": "Exactly identical in all96 audited paths",
+  "all81_estimates_max_discrepancy": 0
+}

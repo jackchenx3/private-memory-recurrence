@@ -1,0 +1,60 @@
+{
+  "task_id": "ORG-OBSERVATION-060",
+  "status": "PASS",
+  "checked_at_utc": "2026-09-24T23:48:27.123054+00:00",
+  "producer_imports": false,
+  "scientific_trajectories_rerun": 0,
+  "estimates_recomputed": 81,
+  "paired_metric_records": 15552,
+  "maximum_estimate_discrepancy": 0,
+  "raw_block": 0,
+  "counts": {
+    "queries": 494592,
+    "donor_choices": 122880,
+    "race_candidates": 491520,
+    "updates": 3840,
+    "paths": 96
+  },
+  "retained_declines_in_audited_block": 1812,
+  "race_key_numerics": {
+    "different_keys": 486,
+    "maximum_ulp_difference": 2.0,
+    "maximum_relative_difference": 3.0005524204396755e-16,
+    "allowed_ulp_bound": 4,
+    "all_selected_orders_exactly_identical": true,
+    "note": "Initial bitwise equality failed between HPC and local math results. Small numerical differences are recorded; survivor choices and all subsequent states must still be identical."
+  },
+  "primary": {
+    "mean": 0.016357421875,
+    "ci95": [
+      -0.026043701171875,
+      0.056559244791666664
+    ]
+  },
+  "recurrence": {
+    "EXACT": {
+      "mean": 0.19099934895833334,
+      "ci95": [
+        0.14217122395833334,
+        0.23901570638020833
+      ]
+    },
+    "NOISY": {
+      "mean": 0.20735677083333334,
+      "ci95": [
+        0.155914306640625,
+        0.26245727539062497
+      ]
+    }
+  },
+  "script_sha256": "41d54c24fde82ac4fcde868b507096df7461a125668ff6601d44531dee2c1011",
+  "source_manifest_sha256": "7fbc7ee225361dd053f28ab8fe1d3f3971df0ace723a5fbc746784b9fc0b4135",
+  "result_manifest_sha256": "c574a49eca5a114acaa72b80ab3b4c78995305ace7e5fe5292dd26b08317f6a6",
+  "files_bound": {
+    "ESTIMATES.json": "16679407a8574699d16902d6f9837dbc739a027c36bc526262bd6e30f7993558",
+    "TIME_SERIES.jsonl.gz": "6048d0694375284665c0b62ba50016e0a4b5fc08e82de094dcb2af13d25b017c",
+    "PAIRED_METRICS.jsonl.gz": "4a87f2d5f9f71d6a1f407fd08e3ed1752e04c769b817a06d8383ecec80f368ac",
+    "BOOTSTRAP_INDICES.json": "c35469ca5272faaaa4267f41b6a8e3945fa08ba7bfebcb68972b5e4ed804a34d",
+    "raw/block00.jsonl.gz": "120397add93ef7257103a41714d3763f971db246595003ad9949b97ebd56e9bd"
+  }
+}

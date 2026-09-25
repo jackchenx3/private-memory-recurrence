@@ -1,0 +1,12 @@
+{
+  "accepted_delivery_manifests": {
+    "cross_environment_replication_v1/DELIVERY_SHA256SUMS": "406be53c487bce3160dce2f8d48099fb2787ecfe3a206d2e2e9f0ee44b0901ed"
+  },
+  "prepared_source_sha256": "df3e9529314c9fa43aad84ed5aed49a7ce945694939c64aa3c4ecf167023df47",
+  "selected_states_sha256": "1a67b67711f886d016c9926145dec0142057721bb5f655f6940f4435e2b51025",
+  "source_target_file": "cross_environment_replication_v1/POLICY_TARGETS.json",
+  "source_target_sha256": "7baa3c8b7a377b9f40a94a78b428733839d4c469aaa70ef8d9f97699eb45059b",
+  "selected_target_sha256": "d28cf7cff13ca7575ba0aa4a56bf72345a3a57642e9ef718e4a1f762f049ff37",
+  "selection_predicate": "geometry HALF and background F; retain all192",
+  "source_index_base": 0
+}

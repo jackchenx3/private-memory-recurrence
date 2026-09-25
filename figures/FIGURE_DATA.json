@@ -123,7 +123,7 @@
     "figure": "03_endpoint_fates",
     "endpoint_fates": [
       {
-        "label": "Independent · memory, cost 0",
+        "label": "Independent \u00b7 memory, cost 0",
         "study": "046",
         "key": "RARE|RECUR|ACTIVE_C0",
         "counts": {
@@ -138,7 +138,7 @@
         }
       },
       {
-        "label": "Independent · fresh, cost 0",
+        "label": "Independent \u00b7 fresh, cost 0",
         "study": "046",
         "key": "RARE|RECUR|NOVEL_C0",
         "counts": {
@@ -153,7 +153,7 @@
         }
       },
       {
-        "label": "Independent · memory, cost 1",
+        "label": "Independent \u00b7 memory, cost 1",
         "study": "046",
         "key": "RARE|RECUR|ACTIVE_C1",
         "counts": {
@@ -168,7 +168,7 @@
         }
       },
       {
-        "label": "Prepared · memory, cost 0",
+        "label": "Prepared \u00b7 memory, cost 0",
         "study": "047",
         "key": "RESIDENT40|RECUR|ACTIVE_C0",
         "counts": {
@@ -184,7 +184,7 @@
         }
       },
       {
-        "label": "Prepared · fresh, cost 0",
+        "label": "Prepared \u00b7 fresh, cost 0",
         "study": "047",
         "key": "RESIDENT40|RECUR|NOVEL_C0",
         "counts": {
@@ -196,7 +196,7 @@
         }
       },
       {
-        "label": "Prepared · memory, cost 1",
+        "label": "Prepared \u00b7 memory, cost 1",
         "study": "047",
         "key": "RESIDENT40|RECUR|ACTIVE_C1",
         "counts": {
@@ -211,7 +211,7 @@
         }
       },
       {
-        "label": "Prepared · distance control, cost 0",
+        "label": "Prepared \u00b7 distance control, cost 0",
         "study": "048",
         "key": "RESIDENT40|RECUR|RADIUS_C0",
         "counts": {
@@ -1614,6 +1614,76 @@
     "ci95_pp": [
       1.46484375,
       4.687906901041664
+    ]
+  },
+  {
+    "study": "060",
+    "figure": "17_measurement_error",
+    "key": "EXACT_Q_HALF_MINUS_ZERO|EFFECT|D40",
+    "mean_pp": 19.099934895833336,
+    "ci95_pp": [
+      14.217122395833334,
+      23.901570638020832
+    ]
+  },
+  {
+    "study": "060",
+    "figure": "17_measurement_error",
+    "key": "NOISY_Q_HALF_MINUS_ZERO|EFFECT|D40",
+    "mean_pp": 20.735677083333336,
+    "ci95_pp": [
+      15.5914306640625,
+      26.245727539062496
+    ]
+  },
+  {
+    "study": "060",
+    "figure": "17_measurement_error",
+    "key": "NOISE_BY_RECURRENCE|EFFECT|D40",
+    "mean_pp": 1.6357421875,
+    "ci95_pp": [
+      -2.6043701171875,
+      5.655924479166666
+    ]
+  },
+  {
+    "study": "060",
+    "figure": "17_measurement_error",
+    "key": "NOISY_MINUS_EXACT_AT_Q_ZERO|SWITCH_POP|U",
+    "mean_pp": -0.12943903605143262,
+    "ci95_pp": [
+      -0.16691446304321308,
+      -0.09224843978881843
+    ]
+  },
+  {
+    "study": "060",
+    "figure": "17_measurement_error",
+    "key": "NOISY_MINUS_EXACT_AT_Q_ZERO|STAY_POP|U",
+    "mean_pp": -0.16211191813151007,
+    "ci95_pp": [
+      -0.21297677357991532,
+      -0.11136150360107372
+    ]
+  },
+  {
+    "study": "060",
+    "figure": "17_measurement_error",
+    "key": "NOISY_MINUS_EXACT_AT_Q_HALF|SWITCH_POP|U",
+    "mean_pp": -0.203355153401693,
+    "ci95_pp": [
+      -0.2621445655822751,
+      -0.1444606781005858
+    ]
+  },
+  {
+    "study": "060",
+    "figure": "17_measurement_error",
+    "key": "NOISY_MINUS_EXACT_AT_Q_HALF|STAY_POP|U",
+    "mean_pp": -0.27056376139322924,
+    "ci95_pp": [
+      -0.3340056737263996,
+      -0.2043234507242845
     ]
   }
 ]

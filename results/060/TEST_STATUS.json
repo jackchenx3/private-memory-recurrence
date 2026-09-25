@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "tests": 11,
+  "failures": 0,
+  "errors": 0,
+  "elapsed_seconds": 2.28373122215271,
+  "fixture_accounting": {
+    "constructed_paths": 5,
+    "trajectory_calls": 25760,
+    "isolated_query_calls": 323
+  },
+  "scientific_paths": 0,
+  "production_seed_draws": 0
+}
