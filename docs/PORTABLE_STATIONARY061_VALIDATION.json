@@ -1,0 +1,28 @@
+{
+  "status": "PASS_WITH_BOUNDED_SCOPE",
+  "date": "2026-09-25",
+  "baseline_version": "1.5.0",
+  "baseline_commit": "651c4289b1ac34efb30d1a81560e88cd74b1609f",
+  "python": "Python 3.9.6",
+  "interface_tests": 10,
+  "commands": [
+    "python -B tools/test_stationary061.py",
+    "python -B tools/stationary061.py --mode verify-saved --output <new-directory>"
+  ],
+  "validation_environment": "Isolated local copy of the public package with the additive tool; not the original HPC working directory.",
+  "constructed_fixture": "Two-state matrix [[3,1],[2,2]] with denominator4, analytic stationary probability2/3; encoding, rejection, timeout, write-budget and filesystem fixtures.",
+  "saved_certified_records_checked": 14,
+  "production_rows_regenerated": 0,
+  "production_stationary_solves": 0,
+  "full_regeneration_end_to_end_tested": false,
+  "old_scientific_files_modified": 0,
+  "limitations": [
+    "Full regeneration mode is provided but not executed end to end through this wrapper.",
+    "Timeout handling was tested with a simulated unresponsive worker, not a30-minute production run.",
+    "No OS-specific memory limit or performance guarantee is supplied.",
+    "Saved-output checks and portability tests are not empirical replication."
+  ],
+  "wrapper_sha256": "4aef1e80402a6eae113b3d419c17959ec807f508a476fdd350cd398390523a97",
+  "test_source_sha256": "583b4c632f4b393d89a57f0cb4cfef60f10841fe7d023bfd8d7e75ccd70027dc",
+  "source_bindings_sha256": "6551ebbb1e842619033f8878cbe4e7816dbb6cd4ad90b7d6b9605ac8e9b2b26d"
+}

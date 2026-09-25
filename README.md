@@ -32,6 +32,8 @@ These are model-specific computational findings. They do not show that memory or
 
 ## Verify the numerical release
 
+Post-v1.5.0 addition: [portable study-061 entry point](docs/PORTABLE_STATIONARY061.md), with a default constructed-fixture smoke mode and an explicit fixed-model regeneration command. The new wrapper has **not been tested end to end for full regeneration**; the archived scientific code and all tagged releases remain unchanged.
+
 ```bash
 python -m pip install -r requirements.txt
 python scripts/verify_release.py

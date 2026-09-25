@@ -1,0 +1,21 @@
+{
+  "baseline_version": "1.5.0",
+  "baseline_commit": "651c4289b1ac34efb30d1a81560e88cd74b1609f",
+  "files": {
+    "code/061/common.py": "ae80e23a0086d5c16b2a6e71b97407244f3a9c7e6aca5cd5d4d9a32fb5f9b0f5",
+    "code/061/freeze.py": "c5fe4eb38c95af06208c6fda8ab38eae7d8ae5d7c2ddb15ea85bafdf3c48fd7d",
+    "code/061/io_utils.py": "963691d8e30786d3f30b6ddb5a6509ed2dc7c1f157643509e9d9d7209b2bf996",
+    "code/061/kernel.py": "fe5c6d4a2e07f1d5e3315f14ad6d7b635f01b4dbc4b6b534b6d92f9ba1263ae8",
+    "code/061/numerics.py": "c60a62c24a3dee01ec897a53739f9e5b4e872644f8ca8b360bbb3346197d1395",
+    "code/061/outcomes.py": "b86726d44f503eb70a8096bcb5ebdda230222f9a86c15dd0a39754716a3e40b3",
+    "code/061/prepare_design.py": "e88ab4b667c4a2fd1ef63163734498d6c30113e8998090156c0ac472da4d9344",
+    "code/061/production.py": "742bf51710cd5a10e221e311cefa6f6cae7e6f15c445f71f3194cef9b94b473b",
+    "code/061/reference_check.py": "2f6c85e3aca834665804371f95c70d7be7e1bcbfac10bf85a5063ef366473f56",
+    "code/061/report.py": "e2538f856c025fe981a117da1ec6dfb768e91c9cd206c9113720a3d92c6d70f4",
+    "code/061/resource_guard055.py": "0360941cd15adf77659c5f26b38721c107c76225e41a185e686b77dd8d1aaf0f",
+    "code/061/runner.py": "ebe25b927f1751b47c8d56553f141c8e8f3b6928dc7ad7054c6eb94bdc485926",
+    "code/061/test_focused.py": "d78904751b7f3f2c0d96f9d050d2869f9157ae883d17f3f33d92c574c5c04b36",
+    "scripts/check_061_certificates.py": "a25fa96ac1c2fa0bafc7a0d0f6e604bcec6edff31aabbbb4ab579d1c04dd307f",
+    "scripts/stationary061_audit_core.py": "22de113a2b2b15a08468d763ab9ac9c238bc1061e72c50d864facdf18dd81981"
+  }
+}
